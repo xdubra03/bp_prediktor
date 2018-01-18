@@ -1,0 +1,748 @@
+>gi|489175346|ref|WP_003084872.1| MULTISPECIES: cytochrome c551 [Pseudomonas] >gi|15595715|ref|NP_249209.1| cytochrome C-551 [Pseudomonas aeruginosa PAO1] >gi|115227|sp|P00099.2|CY551_PSEAE RecName: Full=Cytochrome c-551; AltName: Full=Cytochrome C8; AltName: Full=Cytochrome c551; Flags: Precursor >gi|9946383|gb|AAG03907.1|AE004488_11 cytochrome c-551 precursor [Pseudomonas aeruginosa PAO1] >gi|45307|emb|CAA35703.1| unnamed protein product [Pseudomonas aeruginosa] >gi|45318|emb|CAA35958.1| cytochrome c-551 [Pseudomonas aeruginosa] >gi|42821592|dbj|BAD11780.1| nirM [Burkholderia cepacia] >gi|115589465|gb|ABJ15480.1| cytochrome c-551 precursor [Pseudomonas aeruginosa UCBPP-PA14] >gi|126196989|gb|EAZ61052.1| cytochrome c-551 precursor [Pseudomonas aeruginosa 2192] >gi|218769482|emb|CAW25242.1| cytochrome c-551 precursor [Pseudomonas aeruginosa LESB58] >gi|310884145|gb|EFQ42739.1| cytochrome c-551 precursor [Pseudomonas aeruginosa 39016] >gi|346059507|dbj|GAA19390.1| cytochrome c-551 precursor [Pseudomonas aeruginosa NCMG1179] >gi|347302892|gb|AEO73006.1| cytochrome c-551 precursor [Pseudomonas aeruginosa M18] >gi|348037129|dbj|BAK92489.1| cytochrome c-551 precursor [Pseudomonas aeruginosa NCGM2.S1] >gi|354828227|gb|EHF12352.1| cytochrome c-551 [Pseudomonas sp. 2_1_26] >gi|375045244|gb|EHS37830.1| cytochrome c-551 precursor [Pseudomonas aeruginosa MPAO1/P1] >gi|375050411|gb|EHS42893.1| cytochrome c-551 precursor [Pseudomonas aeruginosa MPAO1/P2] >gi|384397660|gb|EIE44071.1| cytochrome c-551 precursor [Pseudomonas aeruginosa PADK2_CF510] >gi|392317434|gb|AFM62814.1| cytochrome c-551 precursor [Pseudomonas aeruginosa DK2] >gi|404348864|gb|EJZ75201.1| cytochrome c-551 [Pseudomonas aeruginosa PAO579] >gi|404526957|gb|EKA37141.1| cytochrome c-551 precursor [Pseudomonas aeruginosa ATCC 14886] >gi|404537876|gb|EKA47439.1| cytochrome c-551 precursor [Pseudomonas aeruginosa CI27] >gi|404548483|gb|EKA57434.1| cytochrome c-551 precursor [Pseudomonas aeruginosa E2] >gi|404550450|gb|EKA59197.1| cytochrome c-551 precursor [Pseudomonas aeruginosa ATCC 25324] >gi|451757487|emb|CCQ85614.1| Cytochrome c551 NirM [Pseudomonas aeruginosa 18A] >gi|453045897|gb|EME93615.1| cytochrome c-551 [Pseudomonas aeruginosa PA21_ST175] >gi|476647653|gb|EMZ54002.1| cytochrome c-551 [Pseudomonas sp. P179] >gi|476648173|gb|EMZ54518.1| cytochrome c-551 [Pseudomonas aeruginosa str. Stone 130] >gi|477556111|gb|ENH89630.1| cytochrome c-551 [Pseudomonas aeruginosa PA45] >gi|500727197|gb|EOQ77066.1| cytochrome c-551 [Pseudomonas aeruginosa VRFPA02] >gi|508131237|gb|EOT08125.1| cytochrome c-551 [Pseudomonas aeruginosa MSH-10] >gi|508133607|gb|EOT10490.1| cytochrome c-551 [Pseudomonas aeruginosa PA14] >gi|508146958|gb|EOT23775.1| cytochrome c-551 [Pseudomonas aeruginosa PAK] >gi|514246082|gb|AGO38463.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa RP73] >gi|532137291|gb|EQL44612.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa VRFPA03] >gi|534388773|gb|EQM90136.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa WC55] >gi|537448466|gb|ERF05982.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa HB13] >gi|543878251|gb|AGV67410.1| cytochrome c-551 [Pseudomonas aeruginosa c7447m] >gi|543881580|gb|AGV59581.1| cytochrome c-551 [Pseudomonas aeruginosa PAO581] >gi|552175330|gb|ERU36825.1| cytochrome c-551 [Pseudomonas aeruginosa CF77] >gi|552175995|gb|ERU37144.1| cytochrome c-551 [Pseudomonas aeruginosa C52] >gi|552180391|gb|ERU40186.1| cytochrome c-551 [Pseudomonas aeruginosa CF614] >gi|552190038|gb|ERU50907.1| cytochrome c-551 [Pseudomonas aeruginosa C51] >gi|552199605|gb|ERU60375.1| cytochrome c-551 [Pseudomonas aeruginosa C41] >gi|552200687|gb|ERU61454.1| cytochrome c-551 [Pseudomonas aeruginosa C40] >gi|552208846|gb|ERU69429.1| cytochrome c-551 [Pseudomonas aeruginosa C48] >gi|552223657|gb|ERU83971.1| cytochrome c-551 [Pseudomonas aeruginosa M9A.1] >gi|552227273|gb|ERU86881.1| cytochrome c-551 [Pseudomonas aeruginosa C23] >gi|552228514|gb|ERU88746.1| cytochrome c-551 [Pseudomonas aeruginosa C20] >gi|552232257|gb|ERU92396.1| cytochrome c-551 [Pseudomonas aeruginosa M8A.1] >gi|552244611|gb|ERV05790.1| cytochrome c-551 [Pseudomonas aeruginosa BL19] >gi|552245279|gb|ERV05155.1| cytochrome c-551 [Pseudomonas aeruginosa BL18] >gi|552260980|gb|ERV21257.1| cytochrome c-551 [Pseudomonas aeruginosa BL17] >gi|552265332|gb|ERV25546.1| cytochrome c-551 [Pseudomonas aeruginosa BL16] >gi|552265997|gb|ERV26210.1| cytochrome c-551 [Pseudomonas aeruginosa BL15] >gi|552266271|gb|ERV26483.1| cytochrome c-551 [Pseudomonas aeruginosa BL14] >gi|552287433|gb|ERV47403.1| cytochrome c-551 [Pseudomonas aeruginosa BL10] >gi|552297244|gb|ERV57077.1| cytochrome c-551 [Pseudomonas aeruginosa BL11] >gi|552299751|gb|ERV59551.1| cytochrome c-551 [Pseudomonas aeruginosa BL09] >gi|552307677|gb|ERV67380.1| cytochrome c-551 [Pseudomonas aeruginosa BL08] >gi|552309098|gb|ERV68791.1| cytochrome c-551 [Pseudomonas aeruginosa BL07] >gi|552319040|gb|ERV78619.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA027] >gi|552320517|gb|ERV80017.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA028] >gi|552337879|gb|ERV96973.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA024] >gi|552344187|gb|ERW03250.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA025] >gi|552353660|gb|ERW12586.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA021] >gi|552354701|gb|ERW13604.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA023] >gi|552356979|gb|ERW15854.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA022] >gi|552370440|gb|ERW29250.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA019] >gi|552380805|gb|ERW39422.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA020] >gi|552381795|gb|ERW40406.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA017] >gi|552388857|gb|ERW47430.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA018] >gi|552391928|gb|ERW50484.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA014] >gi|552410161|gb|ERW68483.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA011] >gi|552410978|gb|ERW69294.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA012] >gi|552416611|gb|ERW74841.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA013] >gi|552423830|gb|ERW81960.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA006] >gi|552429019|gb|ERW87104.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA004] >gi|552432018|gb|ERW90024.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA005] >gi|552435498|gb|ERW93463.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA003] >gi|552440382|gb|ERW98305.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA002] >gi|552459326|gb|ERX17008.1| cytochrome c-551 [Pseudomonas aeruginosa S35004] >gi|552473235|gb|ERX30772.1| cytochrome c-551 [Pseudomonas aeruginosa 6077] >gi|552487889|gb|ERX45114.1| cytochrome c-551 [Pseudomonas aeruginosa U2504] >gi|552491249|gb|ERX48389.1| cytochrome c-551 [Pseudomonas aeruginosa CF18] >gi|552494981|gb|ERX52092.1| cytochrome c-551 [Pseudomonas aeruginosa UDL] >gi|552496275|gb|ERX53369.1| cytochrome c-551 [Pseudomonas aeruginosa X24509] >gi|552507561|gb|ERX64534.1| cytochrome c-551 [Pseudomonas aeruginosa MSH3] >gi|552510562|gb|ERX67503.1| cytochrome c-551 [Pseudomonas aeruginosa 62] >gi|552512390|gb|ERX69302.1| cytochrome c-551 [Pseudomonas aeruginosa E2] >gi|552571488|gb|ERX88264.1| cytochrome c-551 [Pseudomonas aeruginosa M8A.4] >gi|552582411|gb|ERX99106.1| cytochrome c-551 [Pseudomonas aeruginosa BL24] >gi|552586125|gb|ERY02811.1| cytochrome c-551 [Pseudomonas aeruginosa BL23] >gi|552590613|gb|ERY07269.1| cytochrome c-551 [Pseudomonas aeruginosa BL22] >gi|552614591|gb|ERY31112.1| cytochrome c-551 [Pseudomonas aeruginosa BL20] >gi|552617147|gb|ERY33654.1| cytochrome c-551 [Pseudomonas aeruginosa BL12] >gi|552621249|gb|ERY37735.1| cytochrome c-551 [Pseudomonas aeruginosa BL13] >gi|552623558|gb|ERY40016.1| cytochrome c-551 [Pseudomonas aeruginosa BL05] >gi|552630895|gb|ERY45428.1| cytochrome c-551 [Pseudomonas aeruginosa BL06] >gi|552642811|gb|ERY57314.1| cytochrome c-551 [Pseudomonas aeruginosa BL02] >gi|552650864|gb|ERY65331.1| cytochrome c-551 [Pseudomonas aeruginosa BL03] >gi|552659088|gb|ERY72802.1| cytochrome c-551 [Pseudomonas aeruginosa BL01] >gi|552660349|gb|ERY74050.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA016] >gi|552667418|gb|ERY81075.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA015] >gi|552672862|gb|ERY86481.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA010] >gi|552678240|gb|ERY91839.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA008] >gi|552688144|gb|ERZ01687.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA007] >gi|552702275|gb|ERZ15735.1| cytochrome c-551 [Pseudomonas aeruginosa CF5] >gi|552702906|gb|ERZ16365.1| cytochrome c-551 [Pseudomonas aeruginosa JJ692] >gi|552717208|gb|ERZ30625.1| cytochrome c-551 [Pseudomonas aeruginosa CF27] >gi|552718426|gb|ERZ31837.1| cytochrome c-551 [Pseudomonas aeruginosa MSH10] >gi|552719862|gb|ERZ33271.1| cytochrome c-551 [Pseudomonas aeruginosa CF127] >gi|553886325|gb|AGY63019.1| cytochrome c-551 [Pseudomonas aeruginosa PAO1-VE2] >gi|553899226|gb|AGY72758.1| cytochrome c-551 [Pseudomonas aeruginosa PAO1-VE13] >gi|557218578|gb|ESQ66433.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa HB15] >gi|557707920|gb|AHA19947.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa PA1] >gi|557713720|gb|AHA25746.1| Cytochrome c551 NirM [Pseudomonas aeruginosa PA1R] >gi|560116780|emb|CDH74898.1| Cytochrome c-551 [Pseudomonas aeruginosa MH27] >gi|563280230|gb|ESZ84860.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa DHS29] >gi|563409354|gb|AHB53776.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa MTB-1] >gi|564837046|gb|ETD48708.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa VRFPA08] >gi|564886063|gb|ETD87541.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa VRFPA06] >gi|566561678|gb|AHC63199.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa LES431] >gi|567363714|gb|AHC74659.1| Cytochrome c551 NirM [Pseudomonas aeruginosa SCV20265] >gi|571155926|emb|CDH68848.1| Cytochrome c-551 [Pseudomonas aeruginosa MH38] >gi|574000725|gb|ETU77579.1| cytochrome c-551 [Pseudomonas aeruginosa Z61] >gi|574007834|gb|ETU84642.1| cytochrome c-551 [Pseudomonas aeruginosa PS42] >gi|574014903|gb|ETU91683.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA048] >gi|574020961|gb|ETU97708.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA047] >gi|574026895|gb|ETV03624.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA045] >gi|574043587|gb|ETV20249.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA044] >gi|574045443|gb|ETV22096.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA042] >gi|574053883|gb|ETV30503.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA041] >gi|574063261|gb|ETV39838.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA039] >gi|574068713|gb|ETV45278.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA040] >gi|574079936|gb|ETV56409.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA038] >gi|574083110|gb|ETV59574.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA037] >gi|576903020|gb|AHH47510.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa YL84] >gi|582067684|gb|EVT84098.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa VRFPA09] >gi|584586276|gb|EWH25622.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa SG17M] >gi|589308899|gb|AHK81440.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa LESlike5] >gi|589314855|gb|AHK87395.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa LESlike7] >gi|589320728|gb|AHK93267.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa LES400] >gi|589326746|gb|AHK99284.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa LESB65] >gi|589332697|gb|AHL05235.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa LESlike1] >gi|589338626|gb|AHL11163.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa LESlike4] >gi|602740768|gb|EYU01526.1| Cytochrome c551 NirM [Pseudomonas aeruginosa PA99] >gi|602745019|gb|EYU05594.1| Cytochrome c551 NirM [Pseudomonas aeruginosa PA103] >gi|610413825|gb|AHW69016.1| cytochrome C-551 precursor [Pseudomonas aeruginosa PA96] >gi|611772624|gb|EZN49999.1| cytochrome c-551 [Pseudomonas aeruginosa BWH036] >gi|611774181|gb|EZN51549.1| cytochrome c-551 [Pseudomonas aeruginosa BWH035] >gi|611774995|gb|EZN52359.1| cytochrome c-551 [Pseudomonas aeruginosa BWH033] >gi|611788170|gb|EZN65375.1| cytochrome c-551 [Pseudomonas aeruginosa BWH032] >gi|611793747|gb|EZN70889.1| cytochrome c-551 [Pseudomonas aeruginosa BWH031] >gi|611800313|gb|EZN77420.1| cytochrome c-551 [Pseudomonas aeruginosa BWH030] >gi|611815636|gb|EZN92529.1| cytochrome c-551 [Pseudomonas aeruginosa 3580] >gi|611816008|gb|EZN92900.1| cytochrome c-551 [Pseudomonas aeruginosa 3581] >gi|611826306|gb|EZO03027.1| cytochrome c-551 [Pseudomonas aeruginosa 3579] >gi|611833525|gb|EZO10175.1| cytochrome c-551 [Pseudomonas aeruginosa 3577] >gi|611835268|gb|EZO11889.1| cytochrome c-551 [Pseudomonas aeruginosa 3578] >gi|611849883|gb|EZO26271.1| cytochrome c-551 [Pseudomonas aeruginosa 3575] >gi|611852921|gb|EZO29275.1| cytochrome c-551 [Pseudomonas aeruginosa PAO1-GFP] >gi|611859564|gb|EZO35874.1| cytochrome c-551 [Pseudomonas aeruginosa 3574] >gi|611866264|gb|EZO42543.1| cytochrome c-551 [Pseudomonas aeruginosa BWH060] >gi|611869376|gb|EZO45640.1| cytochrome c-551 [Pseudomonas aeruginosa PS75] >gi|611873396|gb|EZO49653.1| cytochrome c-551 [Pseudomonas aeruginosa 3573] >gi|611885536|gb|EZO61738.1| cytochrome c-551 [Pseudomonas aeruginosa BWH059] >gi|611886439|gb|EZO62639.1| cytochrome c-551 [Pseudomonas aeruginosa BWH058] >gi|611890491|gb|EZO66684.1| cytochrome c-551 [Pseudomonas aeruginosa BWH057] >gi|611898888|gb|EZO75042.1| cytochrome c-551 [Pseudomonas aeruginosa BWH055] >gi|611900260|gb|EZO76404.1| cytochrome c-551 [Pseudomonas aeruginosa BWH056] >gi|611914701|gb|EZO90771.1| cytochrome c-551 [Pseudomonas aeruginosa BWH053] >gi|611934728|gb|EZP10711.1| cytochrome c-551 [Pseudomonas aeruginosa BWH051] >gi|611943185|gb|EZP19144.1| cytochrome c-551 [Pseudomonas aeruginosa BWH049] >gi|618770955|gb|KAJ08163.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa M10] >gi|618771536|gb|KAJ08713.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa IGB83] >gi|618772509|gb|KAJ09641.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa ID4365] >gi|618782918|gb|KAJ19469.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa 148] >gi|619445626|gb|KAJ88156.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa PAK] >gi|619867313|dbj|GAJ54291.1| cytochrome c551 NirM [Pseudomonas aeruginosa RB] >gi|653191821|gb|KEA12961.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa C1913C] >gi|653197585|gb|KEA18666.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa C2159M] >gi|653212655|gb|KEA31798.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa C0324C] >gi|656992879|gb|KEF89544.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|658110944|gb|KEI25662.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|660505154|gb|AID71763.1| cytochrome c-551 [Pseudomonas aeruginosa PAO1H2O] >gi|660537601|gb|AID86921.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa VRFPA04] >gi|667997669|gb|KFB17183.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa PGPR2] >gi|670351859|dbj|BAP19663.1| cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|674744645|gb|KFL11606.1| cytochrome c-551 [Pseudomonas aeruginosa] >gi|675292913|emb|CDO85294.1| cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|685837922|dbj|BAP48532.1| cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|687283203|gb|KGD88479.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. YS-1p] >gi|698162004|emb|CDM49566.1| cytochrome c-551 precursor [Pseudomonas aeruginosa WS394] >gi|725801348|gb|KHE55662.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|725811769|gb|KHE65928.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|727034565|emb|CEI78706.1| Cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|734482166|emb|CEI00180.1| Cytochrome c-551 [Pseudomonas aeruginosa] >gi|745841584|gb|AJD61828.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|747648645|emb|CDM43573.1| cytochrome c-551 precursor [Pseudomonas aeruginosa WS136] >gi|751376776|gb|AJF52604.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|761590461|dbj|BAQ37290.1| cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|763860982|gb|KJC20464.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|763864118|gb|KJC23569.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|768690135|gb|KJJ19602.1| cytochrome C-551 [Pseudomonas sp. HMSC05H02] >gi|777183625|emb|CKG77644.1| cytochrome c-551 [Pseudomonas aeruginosa] >gi|814544932|dbj|BAR65450.1| cytochrome c-551 [Pseudomonas aeruginosa] >gi|815969044|gb|AKE67203.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|816093601|gb|KKJ41040.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa MRSN 317] >gi|816103638|gb|KKJ50999.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa MRSN 321] >gi|817624709|gb|AKF96936.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|823575167|gb|KLI81131.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|831202181|emb|CFU76849.1| cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|856787668|gb|KMN05927.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|861671420|gb|AKO84704.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa DSM 50071] >gi|872060203|emb|CRR25578.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872063150|emb|CRO88493.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872074005|emb|CRN54621.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872076771|emb|CRP29222.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872081214|emb|CRR99225.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872088400|emb|CRP62656.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872096659|emb|CRO92626.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872100957|emb|CRR09031.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872109359|emb|CRN73055.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872120054|emb|CRN57696.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872121552|emb|CRP06249.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872131030|emb|CRO49319.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872140297|emb|CRN14564.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872144426|emb|CRO86560.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872149529|emb|CRP73120.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872157040|emb|CRP21088.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872161579|emb|CRO32998.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872167609|emb|CRQ67216.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872174368|emb|CRX21260.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872181925|emb|CRP18150.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872189036|emb|CRN87876.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872195410|emb|CRS10624.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872203874|emb|CRO85526.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872208381|emb|CRO66871.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872214946|emb|CRO79609.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872227246|emb|CRN74196.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872228201|emb|CRR10732.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872234962|emb|CRQ71446.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872244371|emb|CRO95379.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872249687|emb|CRO55285.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872257369|emb|CRR95180.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872263545|emb|CRS01596.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872270402|emb|CRX13851.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872275951|emb|CRQ96581.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872286569|emb|CRN32527.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872291183|emb|CRR45464.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872299160|emb|CRO67559.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872302324|emb|CRP28139.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872314840|emb|CRP51532.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872317365|emb|CRP32840.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872323271|emb|CRS07885.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872329798|emb|CRX19666.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872337726|emb|CRP62110.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872344658|emb|CRP91345.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872352088|emb|CRS00607.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872362205|emb|CRN60781.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872363660|emb|CRX19927.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872371795|emb|CRP55678.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872380523|emb|CRO76770.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872390703|emb|CRN37371.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872392881|emb|CRS63392.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872400990|emb|CRQ10552.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872409085|emb|CRX34270.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872421113|emb|CRN67364.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872422066|emb|CRX22641.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872431341|emb|CRQ19465.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872442658|emb|CRR47473.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872446743|emb|CRQ29742.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872453382|emb|CRR35179.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872462415|emb|CRP89766.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872474355|emb|CRQ33637.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872477296|emb|CRS14281.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872483310|emb|CRP95120.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872493644|emb|CRX07419.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872510089|emb|CRQ35942.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872514465|emb|CRR83993.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872521856|emb|CRQ37266.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872536546|emb|CRN14191.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872542311|emb|CRW93874.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872546063|emb|CRQ26354.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872557914|emb|CRP45097.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872563747|emb|CRQ21034.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872575377|emb|CRR00138.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872580019|emb|CRS24850.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872592341|emb|CRW99774.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872599491|emb|CRP57913.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872604853|emb|CRP98843.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872613618|emb|CRQ92991.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872622950|emb|CRR83067.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872631074|emb|CRR94541.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872640416|emb|CRQ28561.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872643944|emb|CRR97794.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872653619|emb|CRQ57399.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872660997|emb|CRX29953.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|872675907|emb|CRO57289.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|872683519|emb|CRR12922.1| Cytochrome c551 [Pseudomonas aeruginosa] >gi|881084388|gb|AKQ17980.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|926451837|emb|CTQ35465.1| cytochrome C-551 [Pseudomonas aeruginosa] >gi|927993799|gb|ALE46366.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|929390619|gb|KPE33086.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|929394420|gb|KPE36781.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|929396987|gb|KPE39277.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|929403800|gb|KPE45887.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|942270156|gb|KQC54241.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|942276694|gb|KQC60752.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|942279498|gb|KQC63553.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|942285904|gb|KQC69868.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|942290349|gb|KQC74279.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|943835030|gb|KQJ66549.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|943858919|gb|KQJ75101.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|943865125|gb|KQJ81186.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|944135927|gb|KQK62417.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|944139983|gb|KQK66441.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|946706672|emb|CRZ28112.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa DK1] >gi|953143302|gb|KRU64967.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953152447|gb|KRU73712.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953159047|gb|KRU80134.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953160158|gb|KRU81202.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953176326|gb|KRU96672.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953186937|gb|KRV06811.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953187224|gb|KRV07091.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953193155|gb|KRV12753.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953195255|gb|KRV14785.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953205665|gb|KRV24953.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953209593|gb|KRV28769.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953216120|gb|KRV35117.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953220420|gb|KRV39280.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|954631712|gb|ALP56857.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955728188|gb|KSB94086.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955728790|gb|KSB94684.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955740581|gb|KSC06303.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955745358|gb|KSC11033.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955749984|gb|KSC15539.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955756572|gb|KSC22068.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955760772|gb|KSC26238.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955770422|gb|KSC35765.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955771934|gb|KSC37242.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955789005|gb|KSC54095.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955789663|gb|KSC54720.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955797758|gb|KSC62702.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955808474|gb|KSC73274.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955809213|gb|KSC73991.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955817907|gb|KSC82543.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955831757|gb|KSC96191.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955833530|gb|KSC97935.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955855660|gb|KSD19763.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955865273|gb|KSD29319.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955886940|gb|KSD50634.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955887650|gb|KSD51328.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955890480|gb|KSD54115.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955903470|gb|KSD66909.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955910414|gb|KSD73727.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955925037|gb|KSD88055.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955926312|gb|KSD89310.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955935302|gb|KSD98149.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955939902|gb|KSE02646.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955949460|gb|KSE11986.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955959391|gb|KSE21679.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955966424|gb|KSE28517.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955968578|gb|KSE30606.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955978175|gb|KSE39994.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955987524|gb|KSE49203.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955992552|gb|KSE54117.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955994288|gb|KSE55796.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956003622|gb|KSE64995.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956011758|gb|KSE72990.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956015443|gb|KSE76631.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956031515|gb|KSE92459.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956035370|gb|KSE96237.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956047438|gb|KSF08177.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956049264|gb|KSF09973.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956052721|gb|KSF13346.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956065776|gb|KSF26215.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956068616|gb|KSF28981.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956071176|gb|KSF31481.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956084947|gb|KSF45076.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956095077|gb|KSF55062.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956100218|gb|KSF60167.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956100980|gb|KSF60912.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956114739|gb|KSF74464.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956128093|gb|KSF87582.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956132604|gb|KSF92027.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956136617|gb|KSF95976.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956143664|gb|KSG02947.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956157856|gb|KSG16937.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956160773|gb|KSG19758.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956161112|gb|KSG20096.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956172370|gb|KSG31167.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956172886|gb|KSG31682.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956184720|gb|KSG43317.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956193762|gb|KSG52161.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956202321|gb|KSG60582.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956205075|gb|KSG63275.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956214346|gb|KSG72396.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956224860|gb|KSG82694.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956229461|gb|KSG87193.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956240000|gb|KSG97503.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956245775|gb|KSH03118.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956256630|gb|KSH13806.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956262042|gb|KSH19163.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956264069|gb|KSH21165.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956268629|gb|KSH25649.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956275165|gb|KSH32032.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956287500|gb|KSH44104.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956289459|gb|KSH46019.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956303052|gb|KSH59359.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956306178|gb|KSH62392.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956310767|gb|KSH66900.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956319092|gb|KSH75104.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956329805|gb|KSH85631.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956331408|gb|KSH87185.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956332282|gb|KSH88031.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956350885|gb|KSI06276.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956351981|gb|KSI07356.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956352622|gb|KSI07982.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956366531|gb|KSI21734.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956372299|gb|KSI27360.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956377229|gb|KSI32241.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956382110|gb|KSI37082.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956391107|gb|KSI45894.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956393259|gb|KSI47981.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956393628|gb|KSI48341.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956410492|gb|KSI64895.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956412502|gb|KSI66866.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956412824|gb|KSI67187.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956425347|gb|KSI79498.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956431625|gb|KSI85638.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956435685|gb|KSI89655.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956445445|gb|KSI99261.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956453186|gb|KSJ06882.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956458437|gb|KSJ12070.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956472019|gb|KSJ25451.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956481301|gb|KSJ34589.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956485087|gb|KSJ38334.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956495380|gb|KSJ48417.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956503791|gb|KSJ56660.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956509710|gb|KSJ62500.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956510617|gb|KSJ63399.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956525352|gb|KSJ77839.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956529058|gb|KSJ81503.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956530906|gb|KSJ83337.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956533052|gb|KSJ85461.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956542463|gb|KSJ94734.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956551219|gb|KSK03328.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956560751|gb|KSK12707.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956561075|gb|KSK13027.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956568583|gb|KSK20344.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956570273|gb|KSK22005.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956576425|gb|KSK28049.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956587659|gb|KSK39139.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956590552|gb|KSK41988.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956597294|gb|KSK48628.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956599001|gb|KSK50322.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956607975|gb|KSK59172.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956622541|gb|KSK73543.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956625471|gb|KSK76431.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956628853|gb|KSK79768.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956637200|gb|KSK88022.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956640135|gb|KSK90903.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956642320|gb|KSK93032.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956662388|gb|KSL12741.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956671885|gb|KSL22010.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956673029|gb|KSL23139.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956679137|gb|KSL29118.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956684335|gb|KSL34260.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956685987|gb|KSL35893.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956697271|gb|KSL46981.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956704504|gb|KSL54054.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956710649|gb|KSL60105.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956726472|gb|KSL75653.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956731310|gb|KSL80380.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956732010|gb|KSL81078.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956744953|gb|KSL93785.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956747286|gb|KSL96074.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956755151|gb|KSM03819.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956764888|gb|KSM13323.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956775032|gb|KSM23341.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956781157|gb|KSM29322.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956784546|gb|KSM32650.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956800292|gb|KSM48064.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956803195|gb|KSM50913.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956809280|gb|KSM56906.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956817085|gb|KSM64483.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956822062|gb|KSM69345.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956834849|gb|KSM81866.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956843128|gb|KSM89955.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956847730|gb|KSM94486.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956852361|gb|KSM99022.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956862403|gb|KSN08886.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956870220|gb|KSN16599.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956877043|gb|KSN23289.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956877437|gb|KSN23682.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956886519|gb|KSN32563.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956892483|gb|KSN38401.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956899557|gb|KSN45335.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956910024|gb|KSN55625.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956912267|gb|KSN57819.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956913423|gb|KSN58966.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956927543|gb|KSN72708.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956934140|gb|KSN79222.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956944115|gb|KSN89043.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956948567|gb|KSN93441.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956963394|gb|KSO08052.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956966505|gb|KSO11072.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956966897|gb|KSO11463.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956981566|gb|KSO25687.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956983917|gb|KSO27994.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956995195|gb|KSO39041.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957004366|gb|KSO48055.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957012796|gb|KSO56350.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957031628|gb|KSO74736.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957036176|gb|KSO79174.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957036949|gb|KSO79896.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957041046|gb|KSO83619.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957048641|gb|KSO90894.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957056382|gb|KSO98446.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957063433|gb|KSP05294.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957073052|gb|KSP14614.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957080624|gb|KSP21995.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957093471|gb|KSP34432.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957094291|gb|KSP35244.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957100108|gb|KSP40657.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957114011|gb|KSP54313.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957128448|gb|KSP68511.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957130898|gb|KSP70896.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957146475|gb|KSP86131.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957163049|gb|KSQ02446.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957174128|gb|KSQ13397.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957189996|gb|KSQ29042.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957190482|gb|KSQ29505.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957192891|gb|KSQ31884.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957207273|gb|KSQ46047.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957208908|gb|KSQ47648.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957209192|gb|KSQ47930.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957222353|gb|KSQ60850.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957231706|gb|KSQ70015.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957241905|gb|KSQ80039.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957246181|gb|KSQ84260.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957249761|gb|KSQ87787.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957256367|gb|KSQ94310.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957274065|gb|KSR11710.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957280785|gb|KSR18364.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957281210|gb|KSR18787.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957288654|gb|KSR26103.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957295567|gb|KSR32866.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957298649|gb|KSR35866.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957315660|gb|KSR52519.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957318588|gb|KSR55392.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957335980|gb|KSR72559.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957342129|gb|KSR78593.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957351288|gb|KSR87602.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957355921|gb|KSR92137.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957358165|gb|KSR94336.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957373368|gb|KSS09252.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957387782|gb|KSS23527.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957390545|gb|KSS26249.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957401407|gb|KSS36919.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957407701|gb|KSS43112.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957411389|gb|KSS46762.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957413496|gb|KSS48849.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957432909|gb|KSS67894.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957434293|gb|KSS69259.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957435419|gb|KSS70372.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957448290|gb|KSS82926.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957459943|gb|KSS94398.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957460779|gb|KSS95170.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957469475|gb|KST03618.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957471761|gb|KST05861.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957475718|gb|KST09743.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|961425108|gb|ALS13747.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|966553069|gb|KTF54301.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|967382716|gb|KTK54164.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|967418801|gb|KTK89910.1| cytochrome C biogenesis protein CcsA [Pseudomonas putida] >gi|968570242|gb|ALT73130.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa AES-1R] >gi|970334360|gb|ALU47960.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|970755534|gb|KUG34565.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|971503737|gb|ALV80946.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|972152787|gb|KUI78925.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|972154403|gb|KUI80496.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa 0C2E] >gi|974251647|gb|ALY35584.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974260027|gb|ALY43963.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974266192|gb|ALY50127.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974276970|gb|ALY59065.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974285735|gb|ALY66120.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974294102|gb|ALY72745.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974304273|gb|ALY86831.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974315170|gb|ALY78893.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974322459|gb|ALY90543.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974330375|gb|ALY96290.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974338209|gb|ALZ02458.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974343286|gb|ALZ07240.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974351960|gb|ALZ15913.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974359191|gb|ALZ23143.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974364059|gb|ALZ28010.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|975043667|gb|ALZ89271.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|982189698|gb|AMA34942.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa DHS01] >gi|982574511|gb|KWR98341.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|984356167|gb|ALZ30018.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|984361759|gb|ALZ35609.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|985017668|gb|KWX27816.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|985018400|gb|KWX28535.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|985025559|gb|KWX35592.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|985285384|gb|KWZ70992.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987512224|gb|KXC38058.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987522739|gb|KXC48460.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987526138|gb|KXC51837.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987528494|gb|KXC54164.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987542196|gb|KXC67638.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987543655|gb|KXC69072.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987551936|gb|KXC77248.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987560364|gb|KXC85605.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987563073|gb|KXC88281.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987573738|gb|KXC98836.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987578878|gb|KXD03928.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987589085|gb|KXD14069.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987592572|gb|KXD17535.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987620816|gb|KXD45300.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987632660|gb|KXD56992.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987632885|gb|KXD57215.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987636886|gb|KXD61170.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987659888|gb|KXD83508.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987661694|gb|KXD85284.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987665678|gb|KXD89120.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987667098|gb|KXD90521.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987672195|gb|KXD95565.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987675767|gb|KXD99113.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987678889|gb|KXE02206.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987687960|gb|KXE11205.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987690865|gb|KXE14097.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987696887|gb|KXE20056.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987706002|gb|KXE29098.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987712353|gb|KXE35358.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987717540|gb|KXE40481.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987720080|gb|KXE42992.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987726897|gb|KXE49734.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987744921|gb|KXE67560.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987767110|gb|KXE89561.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987771705|gb|KXE94099.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987775871|gb|KXE98230.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987786357|gb|KXF08607.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987791129|gb|KXF13345.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987791522|gb|KXF13730.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987803264|gb|KXF25329.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987804527|gb|KXF26584.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987805030|gb|KXF27085.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987811404|gb|KXF33405.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987818085|gb|KXF40023.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|992145071|gb|KXG16149.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|1012068850|gb|KYO86818.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|1012074729|gb|KYO92522.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|1012079763|gb|KYO96853.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|1013826194|gb|KYQ67251.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|1013864686|gb|AMT98925.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|1016896617|gb|AMX89054.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|1017128779|gb|KZE17346.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|1019526939|emb|SAJ30202.1| Cytochrome c551 [Enterobacter cloacae] >gi|1020682110|gb|KZM04624.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|1020686400|gb|KZM08536.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|1020693725|gb|KZM15112.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|1033866883|gb|ANI07267.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa SJTD-1] >gi|1042038637|gb|ANP60531.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|1042168471|gb|OBY19752.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|1042697252|gb|OBY47582.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa]
+MKPYALLSLLATGTLLAQGAWAEDPEVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGP
+IPMPPNAVSDDEAQTLAKWVLSQK
+>gi|157835639|pdb|2PAC|A Chain A, Solution Structure Of Fe(ii) Cytochrome C551 From Pseudomonas Aeruginosa As Determined By Two-dimensional 1h Nmr >gi|157836756|pdb|351C|A Chain A, Structure Of Cytochrome C551 From P. Aeruginosa Refined At 1.6 Angstroms Resolution And Comparison Of The Two Redox Forms >gi|157836913|pdb|451C|A Chain A, Structure Of Cytochrome C551 From P. Aeruginosa Refined At 1.6 Angstroms Resolution And Comparison Of The Two Redox Forms >gi|810515352|pdb|3X39|A Chain A, Domain-swapped Dimer Of Pseudomonas Aeruginosa Cytochrome C551 >gi|810515353|pdb|3X39|B Chain B, Domain-swapped Dimer Of Pseudomonas Aeruginosa Cytochrome C551 >gi|229160|prf||630481A cytochrome c551
+EDPEVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGPIPMPPNAVSDDEAQTLAKWVLS
+QK
+>gi|489220687|ref|WP_003129143.1| MULTISPECIES: cytochrome c551 [Pseudomonas] >gi|404541801|gb|EKA51148.1| cytochrome c-551 precursor [Pseudomonas aeruginosa ATCC 700888] >gi|477548807|gb|AGI79448.1| cytochrome c-551 [Pseudomonas aeruginosa B136-33] >gi|552230755|gb|ERU90965.1| cytochrome c-551 [Pseudomonas aeruginosa M8A.2] >gi|552312918|gb|ERV72596.1| cytochrome c-551 [Pseudomonas aeruginosa BL04] >gi|552325986|gb|ERV85432.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA026] >gi|552460404|gb|ERX18085.1| cytochrome c-551 [Pseudomonas aeruginosa X13273] >gi|552466930|gb|ERX24516.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA001] >gi|552471833|gb|ERX29305.1| cytochrome c-551 [Pseudomonas aeruginosa 19660] >gi|552572925|gb|ERX89679.1| cytochrome c-551 [Pseudomonas aeruginosa M8A.3] >gi|552576660|gb|ERX93386.1| cytochrome c-551 [Pseudomonas aeruginosa BL25] >gi|552605531|gb|ERY22114.1| cytochrome c-551 [Pseudomonas aeruginosa BL21] >gi|552689861|gb|ERZ03391.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA009] >gi|552705701|gb|ERZ19153.1| cytochrome c-551 [Pseudomonas aeruginosa S54485] >gi|557560699|gb|ESR70539.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa VRFPA05] >gi|564843484|gb|ETD54874.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa VRFPA07] >gi|574003241|gb|ETU80085.1| cytochrome c-551 [Pseudomonas aeruginosa PS50] >gi|574021545|gb|ETU98291.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA046] >gi|574047718|gb|ETV24355.1| cytochrome c-551 [Pseudomonas aeruginosa BWHPSA043] >gi|611804555|gb|EZN81587.1| cytochrome c-551 [Pseudomonas aeruginosa BWH029] >gi|611845677|gb|EZO22131.1| cytochrome c-551 [Pseudomonas aeruginosa 3576] >gi|611913917|gb|EZO89989.1| cytochrome c-551 [Pseudomonas aeruginosa BWH054] >gi|611918674|gb|EZO94729.1| cytochrome c-551 [Pseudomonas aeruginosa BWH052] >gi|611937957|gb|EZP13929.1| cytochrome c-551 [Pseudomonas aeruginosa BWH050] >gi|647090165|gb|KDR49337.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|653193720|gb|KEA15055.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa C2773C] >gi|653260035|gb|KEA40583.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|725658169|gb|KHE35554.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|861345956|gb|KMQ54262.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953145960|gb|KRU67467.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|953179453|gb|KRU99648.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955831487|gb|KSC95922.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955850345|gb|KSD14542.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955867162|gb|KSD31182.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955877345|gb|KSD41230.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955952528|gb|KSE14993.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956009540|gb|KSE70800.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956053632|gb|KSF14239.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956088441|gb|KSF48512.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956210446|gb|KSG68549.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956296634|gb|KSH53083.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956452256|gb|KSJ05969.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956479149|gb|KSJ32459.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956716286|gb|KSL65609.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956768264|gb|KSM16642.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956792318|gb|KSM40249.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956831124|gb|KSM78227.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956927858|gb|KSN73021.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956956846|gb|KSO01603.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956994814|gb|KSO38680.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957027375|gb|KSO70595.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957069256|gb|KSP10889.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957106540|gb|KSP46987.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957125525|gb|KSP65632.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957158007|gb|KSP97455.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957167743|gb|KSQ07084.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957176661|gb|KSQ15857.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957236441|gb|KSQ74633.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957295391|gb|KSR32692.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957327929|gb|KSR64614.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957341121|gb|KSR77593.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957373853|gb|KSS09735.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957387378|gb|KSS23124.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|972166572|gb|KUI91512.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|974268022|gb|ALY51956.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987488871|gb|KXC15071.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987491883|gb|KXC18012.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987497761|gb|KXC23805.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987511988|gb|KXC37823.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987513913|gb|KXC39723.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987579240|gb|KXD04289.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987740088|gb|KXE62781.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987740679|gb|KXE63364.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987749766|gb|KXE72367.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987753576|gb|KXE76145.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|1012060977|gb|KYO79220.1| Cytochrome c-551 precursor [Pseudomonas aeruginosa] >gi|1022530856|gb|ANA70887.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa]
+MKPYALLSLLAAGTLLAQGAWAEDPEVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGP
+IPMPPNAVSDDEAQTLAKWVLSQK
+>gi|1000934699|ref|WP_061181242.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|985033661|gb|KWX43606.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|985036795|gb|KWX46691.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa]
+MKPYALLSLLATGTLLAQGAWAEDPEVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGTEAELAQRIKNGSQGVWGP
+IPMPPNAVSDDEAQTLAKWVLSQK
+>gi|950494554|ref|WP_057385909.1| cytochrome c biogenesis protein CcsA [Pseudomonas aeruginosa]
+MKPYALLSLLAAGTLLAQGAWAEDPEVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGP
+IPLPPNAVSDDEAQTLAKWVLSQK
+>gi|1001054090|ref|WP_061194249.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987598507|gb|KXD23406.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987606700|gb|KXD31507.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987609037|gb|KXD33806.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|987622994|gb|KXD47439.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa]
+MKPYALLSLLATGTLLAQGAWAEDPEVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQVGAEAELAQRIKNGSQGVWGP
+IPMPPNAVSDDEAQTLAKWVLSQK
+>gi|730380486|ref|WP_034001688.1| cytochrome c biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|943819299|gb|KQJ56691.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa]
+MKPYALLSLLATGTLLAQGAWAEDPEVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEVELAQRIKNGSQGVWGP
+IPMPPNAVSDDEAQTLAKWVLSQK
+>gi|763181459|ref|WP_044060712.1| cytochrome c551 [Pseudomonas aeruginosa]
+MKPYALLSLLATGTLLAQGAWAEDPEVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGP
+IPMPPNAVSDNEAQTLAKWVLSQK
+>gi|489210014|ref|WP_003118863.1| cytochrome c biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|403250141|gb|EJY63600.1| cytochrome c-551 precursor [Pseudomonas aeruginosa CIG1]
+MKPYALLSLLATGTLLAQGAWAEDPEVLFKNTGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGP
+IPMPPNAVSDDEAQTLAKWVLSQK
+>gi|49074798|gb|AAT49429.1| PA0518 [synthetic construct]
+MKPYALLSLLATGTLLAQGAWAEDPKVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGP
+IPMPPNAVSDDEAQTLAKWVLSQKG
+>gi|835861005|ref|WP_047688615.1| cytochrome c biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|686660527|gb|KGB89093.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa]
+MKPYALLSLLATGTLLAQGAWAEDPEVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGP
+IPMSPNAVSDDEAQTLAKWVLSQK
+>gi|950485720|ref|WP_057380240.1| cytochrome c biogenesis protein CcsA [Pseudomonas aeruginosa]
+MKPYALLSLLATGTLLAQGAWAEDPEELFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGP
+IPMPPNAVSDDEAQTLAKWVLSQK
+>gi|501021416|ref|WP_012074083.1| cytochrome c biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|150961970|gb|ABR83995.1| cytochrome c-551 precursor [Pseudomonas aeruginosa PA7] >gi|671389708|gb|KFF36597.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa VRFPA01] >gi|943834761|gb|KQJ66285.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955783874|gb|KSC49048.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955822873|gb|KSC87420.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955854208|gb|KSD18327.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956119369|gb|KSF79006.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956189471|gb|KSG47936.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|956662747|gb|KSL13098.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa]
+MKPYALLSLLATGTLLAQGAWAEAPEVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGP
+IPMPPNAVSDDEAQTLAKWVLSQK
+>gi|730720981|ref|WP_034080871.1| cytochrome c biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|928536346|gb|KPD28611.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|940649795|gb|KQB31189.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|955903668|gb|KSD67106.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957148903|gb|KSP88512.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa] >gi|957304406|gb|KSR41542.1| cytochrome C biogenesis protein CcsA [Pseudomonas aeruginosa]
+MKPYALLSLLAAGTLLAQGAWAEAPEVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGP
+IPMPPNAVSDDEAQTLAKWVLSQK
+>gi|90109235|pdb|2EXV|A Chain A, Crystal Structure Of The F7a Mutant Of The Cytochrome C551 From Pseudomonas Aeruginosa >gi|90109236|pdb|2EXV|C Chain C, Crystal Structure Of The F7a Mutant Of The Cytochrome C551 From Pseudomonas Aeruginosa
+EDPEVLAKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGPIPMPPNAVSDDEAQTLAKWVLS
+QK
+>gi|159162224|pdb|1DVV|A Chain A, Solution Structure Of The Quintuple Mutant Of Cytochrome C- 551 From Pseudomonas Aeruginosa
+EDPEVLAKNKGCMACHAIDTKMVGPAYKDVAAKYAGQAGAEAYLAQRIKNGSQGVWGPIPMPPNAVSDDEAQTLAKWILS
+QK
+>gi|575871499|emb|CDI88678.1| cytochrome c-551 [Pseudomonas aeruginosa PA38182]
+MLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGPIPMPPNAVSDDEAQTLAKWVLSQK
+>gi|757686014|ref|WP_042916533.1| cytochrome c biogenesis protein CcsA [Pseudomonas aeruginosa]
+MKPYALLSLLATGTLLAQGAWAEDPEVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGP
+IPMPPNAVSDDEAQTLA
+>gi|739175191|ref|WP_037039266.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. BAY1663] >gi|588311870|gb|EXF45730.1| cytochrome c-551 [Pseudomonas sp. BAY1663]
+MKKIVIALLAGSGLLALQPALAADGESLFKSKACAACHAIDTKLVGPAYKDVAAKYAGQADAVELLSGHIKNGSQGVWGP
+IPMPPNAVTDEEAKILAEWVLSHK
+>gi|759579538|ref|WP_043298443.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. HMP271] >gi|695876013|gb|KGK82038.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. HMP271]
+MKKIVISMLALGGALALQPALAQDGESLFKSKACAACHSIDAKLVGPAYKEVAAKYAGQADAATMLAGKIKNGSQGTWGP
+IPMPPNAVTDEEAKILAEWVLSQK
+>gi|751637851|ref|WP_041105521.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas stutzeri group] >gi|747150993|gb|AJE15359.1| cytochrome C biogenesis protein CcsA [Pseudomonas balearica DSM 6083] >gi|751085353|gb|KIL05520.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri] >gi|1001120282|gb|KXO71144.1| cytochrome C biogenesis protein CcsA [Pseudomonas balearica] >gi|1001121841|gb|KXO72690.1| cytochrome C biogenesis protein CcsA [Pseudomonas balearica]
+MKKTVISLLALGGALALQPALAQDGESLYKSKACVACHAIDSKLVGPAYKEVAAKYAGQDGAVEMLAGKIKNGSQGVWGP
+VPMPPNAVTEEEAKILAEWVLSHK
+>gi|489381047|ref|WP_003287734.1| cytochrome c biogenesis protein CcsA [Pseudomonas stutzeri] >gi|387969394|gb|EIK53676.1| cytochrome c-551 [Pseudomonas stutzeri TS44]
+MKKIVISLFALGGALALQPALAQDGEALFKSKGCAACHSIDAKLVGPSYKEVAAKYAGQADAATMLAGKIKNGSQGTWGP
+IPMPPNGVTEEEAKILAEWVLSQK
+>gi|495844237|ref|WP_008568816.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. Chol1] >gi|409119179|gb|EKM95565.1| cytochrome c-551 [Pseudomonas sp. Chol1]
+MKKIVISMLALGGALALQPALAQDGESLFKSKACAACHSIDAKLVGPSYKEVAAKYAGQADAATMLAGKIKNGTQGTWGP
+IPMPPNAVTDEEAKILAEWVLSQK
+>gi|829073094|ref|WP_047306342.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens]
+MKKILVPLFALSGALMLQPAIAQDGEALFKSKPCAACHSIDAKMVGPAFKEVAAKYAGQEGAADLLAGHIKNGSQGVWGP
+IPMPPNAVTEEEAKILAEWVLSQK
+>gi|504664434|ref|WP_014851536.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|395807318|gb|AFN76723.1| cytochrome c-551 [Pseudomonas stutzeri DSM 10701] >gi|953681800|gb|KRW67826.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. TTU2014-066ASC] >gi|953682893|gb|KRW68897.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. TTU2014-096BSC]
+MKKILVPLFALSGALMLQPAIAQDGEALFKSKPCAACHSIDAKLVGPAFKEVAAKYAGQEGAADLLAGHIKNGSQGVWGP
+IPMPPNAVTEEEAKILAEWVLSQK
+>gi|1053186577|ref|WP_065982967.1| cytochrome C biogenesis protein CcsA [Pseudomonas xanthomarina] >gi|1052221648|gb|OCX24668.1| cytochrome C biogenesis protein CcsA [Pseudomonas xanthomarina]
+MKKILVPLFALSGALMLQPAIAQDGEALFKSKPCAACHSIDSKLVGPAFKEVAAKYAGQEGAADLLAGHIKNGSQGVWGP
+IPMPPNAVTEEEAKILAEWVLSHK
+>gi|764129681|ref|WP_044315379.1| cytochrome c biogenesis protein CcsA [Pseudomonas stutzeri] >gi|763441618|gb|KIZ35317.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri]
+MKKILIPMLALGGALTLQPALAQDGEALFKSKPCAACHSIDAKLVGPAFKEVAAKYAGQDGAADLLAGHIKNGSQGVWGP
+IPMPPNAVTEEEAKTLAEWVLSLK
+>gi|1001805508|ref|WP_061337350.1| cytochrome C biogenesis protein CcsA [Pseudomonas balearica] >gi|1001120160|gb|KXO71024.1| cytochrome C biogenesis protein CcsA [Pseudomonas balearica]
+MKKVLLPMLALGGALALQPALAQDGEALFKSKPCAACHSIDAKLVGPAFKEVAAKYAGQDGAADTLALHIKNGSQGVWGP
+IPMPPNPVTEEEAKTLAEWVLSHK
+>gi|751640043|ref|WP_041107691.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas stutzeri group] >gi|747152261|gb|AJE16627.1| cytochrome C biogenesis protein CcsA [Pseudomonas balearica DSM 6083] >gi|751083589|gb|KIL03759.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri] >gi|1001117113|gb|KXO68009.1| cytochrome C biogenesis protein CcsA [Pseudomonas balearica]
+MKKVLLPMLALGGALALQPALAQDGEALFKSKPCAACHSIDAKIVGPAFKEVAAKYAGQDGAADTLALHIKNGSQGVWGP
+IPMPPNPVTEEEAKTLAEWVLSHK
+>gi|653576198|ref|WP_027589866.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|733452629|gb|KHL67935.1| cytochrome C biogenesis protein CcsA [Pseudomonas flexibilis] >gi|735692869|gb|KHO66429.1| cytochrome C biogenesis protein CcsA [Pseudomonas flexibilis]
+MKKVLLPMLALGAAMSLQPALAADGEALFKSKPCAACHNADMKMVGPALKDIAAKYAGVAGAADTLALHIKNGSQGVWGP
+IPMPPNAVSDAEAKTLAEWVLSLKK
+>gi|557815636|ref|WP_023446221.1| cytochrome c biogenesis protein CcsA [Pseudomonas chloritidismutans] >gi|557364129|gb|ESQ98238.1| cytochrome C biogenesis protein CcsA [Pseudomonas chloritidismutans AW-1]
+MKKILIPMLALGGALTLQPALAQDGEALFKSKPCAACHSIDAKLVGPSFKDVAAKYDGQEGAADLLAGHIKNGSQGVWGP
+IPMPPNAVTEEEAKILAEWVLSQK
+>gi|489392192|ref|WP_003298729.1| cytochrome c551 [Pseudomonas stutzeri] >gi|452009387|gb|EME01610.1| cytochrome c-551 [Pseudomonas stutzeri NF13]
+MKKILIPMLALGGALTLQPALAQDGEALFKSKPCAACHSIDAKLVGPAFKEVAAKYAGQDGAADLLAGHIKNGSQGVWGP
+IPMPPNAVTEEEAKILAEWVLSHK
+>gi|757693712|ref|WP_042923944.1| cytochrome c biogenesis protein CcsA [Pseudomonas chloritidismutans] >gi|780910326|gb|KJS78028.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. BICA1-14]
+MKKILIPMLALGGALTLQPALAQDGEALFKSKPCAACHSIDAKLVGPAFKEVAAKYAGQDGAADLLAGHIKNGSQGVWGP
+IPMPPNPVTEEEAKILAEWVLSQK
+>gi|505088656|ref|WP_015275758.1| cytochrome c551/c552 [Pseudomonas stutzeri] >gi|431824295|gb|AGA85412.1| cytochrome c551/c552 [Pseudomonas stutzeri RCH2] >gi|1053075760|gb|OCX92849.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. CO183]
+MKKILIPMLALGGALTLQPALAQDGEALFKSKPCAACHSVDTKMVGPALKEVAAKNAGVEGAADTLAQHIKNGSQGVWGP
+IPMPPNPVTEEEAKTLAEWVLSLK
+>gi|780831353|gb|KJS34003.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. BRH_c35]
+MKKILIPMLALGGALTLQPALAQDGEALFKSKPCAACHSIDAKLVGPAFKEVAAKYAGQDGAADLLAGHIKNGSQGVWGP
+IPMPPNPVTEEEAKTLAEWVLSLK
+>gi|739175934|ref|WP_037039948.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. BAY1663] >gi|588311550|gb|EXF45416.1| cytochrome c-551 [Pseudomonas sp. BAY1663] >gi|1053078829|gb|OCX95837.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. K35]
+MKKVLLPLLALGGALALQPAFAQDGEALFKSKPCAACHSIDAKLVGPAFKEVAAKYAGQDGAADLLAGHIKNGSQGVWGP
+IPMPPNPVTEEEAKILAEWVLSQK
+>gi|751307748|ref|WP_041016043.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas stutzeri group] >gi|703403607|emb|CEG55187.1| Cytochrome c-551 [Pseudomonas xanthomarina] >gi|816235999|gb|KKJ94565.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri] >gi|1024413429|gb|KZX57329.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri]
+MKKILLPLLALGGALALQPAFAQDGEALFKSKPCAACHSIDAKLVGPAFKEVAAKYAGQDGAADLLAGHIKNGSQGVWGP
+IPMPPNPVTEEEAKILAEWVLSQK
+>gi|739159556|ref|WP_037023746.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. 20_BN] >gi|685079355|emb|CDZ94485.1| cytochrome c-551 [Pseudomonas sp. 20_BN]
+MKKILIPLLAMGGALVLQPAVAQDGEALFKSKPCAACHSLDAKLVGPALKEVAAKYAGQDGAADLLAGHIKNGSQGVWGP
+IPMPPNAVTEEEAKTLAEWVLSLK
+>gi|740871684|ref|WP_038656932.1| cytochrome c biogenesis protein CcsA [Pseudomonas stutzeri] >gi|627772371|gb|AHY41594.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri]
+MKKILLPLLALGGALTLQPALAQDGEALFKSKPCAACHSVDTKMVGPALKEVAAKNAGVEGAADTLAQHIKNGSQGVWGP
+IPMPPNPVTEEEAKTLAEWVLSLK
+>gi|504632071|ref|WP_014819173.1| cytochrome c biogenesis protein CcsA [Pseudomonas stutzeri] >gi|390982019|gb|AFM32012.1| cytochrome c-551 [Pseudomonas stutzeri CCUG 29243]
+MKKILLPLLALGGALTLQPALAQDGEALFKSKPCAACHSIDAKLVGPAFKEVAAKYAGQDGAADLLAGHIKNGSQGVWGP
+IPMPPNPVTEEEAKTLAEWVLSLK
+>gi|882841254|emb|CJL48743.1| Cytochrome c551 [Streptococcus pneumoniae]
+MKKILLPLLALGGALALQPALAQDGEALFKSKPCAACHSIDAKLVGPAFKEVAAKYAGQDGAADLLAGHIKNGSQGVWGP
+IPMPPNPVTEEEAKILAEWILSQK
+>gi|503749904|ref|WP_013983980.1| cytochrome c biogenesis protein CcsA [Pseudomonas stutzeri] >gi|338802952|gb|AEJ06784.1| Investigation Of The Solution Conformation [Pseudomonas stutzeri]
+MKKILLPLLALGGALALQPAFAQDGEALFKSKPCAACHSIDAKLVGPAFKEVAAKYAGQDGAADLLAGHIKNGSQGVWGP
+IPMPPNPVTEEEAKILAEWILSQK
+>gi|157830666|pdb|1COR|A Chain A, Investigation Of The Solution Conformation Of Cytochrome C- 551 From Pseudomonas Stutzeri
+XDGEALFKSKPCAACHSIDAKLVGPAFKEVAAKYAGQDGAADLLAGHIKNGSQGVWGPIPMPPNPVTEEEAKILAEWILS
+QK
+>gi|1033177419|ref|WP_064481536.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri] >gi|1029175612|gb|ANF25896.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri]
+MKKVLIPLLALGGAMVLQPAVAQDGEALFKSKPCAACHSIDAKMVGPALKEVAAKYAGQEGAADLLAGRIKNGTQGNWGP
+IPMPPNPVTEEEAKTLAEWVLSLK
+>gi|754698358|ref|WP_042074913.1| cytochrome c biogenesis protein CcsA [Aeromonas sanarellii]
+MKKSVLSLLVLGSVFGLQPAMAQDGEALFRSKPCVGCHMVDSKLVGPAFTDVAAKYAGQKDAATLLAGRIKNGTQGTWGA
+VPMPANAVTEDEAKTLAEWVLSQKK
+>gi|806804657|ref|WP_046164070.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. 10B238] >gi|769332985|gb|KJJ61472.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. 10B238]
+MKKVLIPLLALGGAMVLQPAVAQDGEALFKSKPCAACHSMDAKMVGPALKEVAAKYAGQEGAADLLAGRIKNGTQGNWGP
+IPMPPNPVTEEEAKTLAEWVLSLK
+>gi|552529881|ref|WP_022994685.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Alcanivorax] >gi|550690370|gb|ERS14294.1| cytochrome C biogenesis protein CcsA [Alcanivorax sp. PN-3] >gi|940512725|emb|CUR47896.1| Cytochrome c551/c552 [Alcanivorax dieselolei]
+MKVIAFSLAALAAASLSPGLALAADAETLYQAKACVACHKIDGPMVGPSYQDVAKKYAGQDGAAATLAKHIQEGSQGVWG
+AIPMPPNAVTDEEAKTLAEWILQQK
+>gi|1016939482|ref|WP_063141221.1| cytochrome C biogenesis protein CcsA [Alcanivorax sp. KX64203] >gi|1015607705|gb|KYZ85594.1| cytochrome C biogenesis protein CcsA [Alcanivorax sp. KX64203]
+MKVIAFSLAALAAASLSPGLALAADAETLYQAKACVACHKIDGPMVGPSYQDVAKKYAGQDGAAATLAKHIQEGSQGIWG
+AIPMPPNAVTDEEAKTLAEWILQQK
+>gi|504809487|ref|WP_014996589.1| cytochrome c biogenesis protein CcsA [Alcanivorax dieselolei] >gi|407255431|gb|AFT72538.1| Cytochrome c-551 [Alcanivorax dieselolei B5]
+MKVIAFSLAALAAASLSPGLALAADAETLYQAKACVACHKIDGPMVGPSYQDVANKYAGQDGAAATLAKHIQEGSQGIWG
+AIPMPPNAVTDEEAKTLAEWILQQK
+>gi|489386726|ref|WP_003293337.1| cytochrome c551 [Pseudomonas stutzeri] >gi|582951050|gb|EWC39376.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri KOS6]
+MKKIFIPLLALGGALALQPAMAQDGEALFKSKPCAACHSLDAKMVGPALKEVAAKYAGQDGAAELLAGHIKNGTQGNWGP
+IPMPPNPVTDEEAKTLAEWVLSLK
+>gi|518170190|ref|WP_019340398.1| cytochrome c biogenesis protein CcsA [Pseudomonas stutzeri]
+MKKILIPLLALGGAMVLQPAMAQDGEALFKSKPCAACHSIDAKMVGPALKEVAAKYAGQEGAADLLAGHIKNGTQGNWGP
+IPMPPNPVTEEEAKTLAEWVLSLK
+>gi|748236947|ref|WP_039800755.1| hypothetical protein [Azotobacter chroococcum] >gi|747125465|gb|AJE19606.1| Cytochrome C biogenesis protein CcsA [Azotobacter chroococcum NCIMB 8003]
+MKKILIPLLAFGGALALQPALAEDGDALYKTKGCTVCHAVDSKLVGPSYKDVAAKYAGQADAVDVLAAKIKNGGSGNWGQ
+IPMPPNAVTEEEAKALAKWVLEQK
+>gi|779995811|ref|WP_045430072.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. MT-1] >gi|699968612|dbj|BAP81074.1| cytochrome c-551 [Pseudomonas sp. MT-1] >gi|1013290499|dbj|BAU69702.1| cytochrome c-551 [Pseudomonas sp. MT-1]
+MKKVLIPLLALGGAMVLQPAVAQDGEALFKSKPCAACHSIDAKMVGPALKEVAAKYAGQEGAADLLAGHIKNGTQGNWGP
+IPMPPNPVTEEEAKTLAEWVLSLK
+>gi|500263668|ref|WP_011914552.1| cytochrome c biogenesis protein CcsA [Pseudomonas stutzeri] >gi|71841655|gb|AAZ43109.1| NirM [Pseudomonas stutzeri A1501] >gi|145572051|gb|ABP81157.1| cytochrome c-551 precursor [Pseudomonas stutzeri A1501] >gi|327482176|gb|AEA85486.1| cytochrome c-551 precursor [Pseudomonas stutzeri DSM 4166] >gi|516323829|gb|EPL64566.1| cytochrome c-551 [Pseudomonas stutzeri B1SMN1] >gi|848257630|gb|AKN28539.1| cytochrome c-551 precursor [Pseudomonas stutzeri] >gi|923366217|gb|KOR09162.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri] >gi|1001197673|gb|KXO84987.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri] >gi|1052502149|gb|OCX58388.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri]
+MKKILIPMLALGGALALQPALAQDGEALFKSKPCAACHSIDAKLVGPAFKEVAAKYDGQDGAADLLAGHIKNGSQGVWGP
+IPMPPNPVTEEEAKILAEWVLSHK
+>gi|497907760|ref|WP_010221916.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|641462543|gb|KDN99091.1| cytochrome c-551 [Pseudomonas sp. P482]
+MKNTLLSLCTLAAALSLQTALADDGLALFQSKSCVACHAVDAKLVGPALKDVAAKNAGVSGAADTLASHIKNGTQGNWGP
+IPMPANAVSDDEAKQLANWVLSLK
+>gi|489373173|ref|WP_003279940.1| cytochrome c551 [Pseudomonas stutzeri] >gi|2507571|sp|P00101.2|CY551_PSEST RecName: Full=Cytochrome c-551; AltName: Full=Cytochrome C8; AltName: Full=Cytochrome c551; Flags: Precursor >gi|45842|emb|CAA40153.1| pseudomonas cytochrome c-551 precursor [Pseudomonas stutzeri] >gi|379063246|gb|EHY75989.1| cytochrome c-551 [Pseudomonas stutzeri ATCC 14405 = CCUG 16156]
+MKKILIPMLALGGALAMQPALAQDGEALFKSKPCAACHSVDTKMVGPALKEVAAKNAGVEGAADTLALHIKNGSQGVWGP
+IPMPPNPVTEEEAKILAEWVLSLK
+>gi|157830549|pdb|1CCH|A Chain A, The Solution Conformation Of Cytochrome C-551 From P.Stutzeri Zobell Determined By Nmr+
+QDGEALFKSKPCAACHSVDTKMVGPALKEVAAKNAGVEGAADTLALHIKNGSQGVWGPIPMPPNPVTEEEAKILAEWVLS
+LK
+>gi|149242129|pdb|2I8F|A Chain A, Solution Conformation Of The H47a Mutant Of Pseudomonas Stutzeri Zobell Ferrocytochrome C-551
+QDGEALFKSKPCAACHSVDTKMVGPALKEVAAKNAGVEGAADTLALAIKNGSQGVWGPIPMPPNPVTEEEAKILAEWVLS
+LK
+>gi|953980644|ref|WP_058065570.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. TTU2014-105ASC] >gi|953679804|gb|KRW65868.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. TTU2014-105ASC]
+MKKILIPMLALGGALAMQPALAQDGEALFKSKPCAACHSVDTKMVGPALKEVAAKNAGVEGAADTLALHIKNGSQGTWGP
+IPMPPNPVTEEEAKILAEWVLSLK
+>gi|742865818|ref|WP_038995568.1| cytochrome c biogenesis protein CcsA [Pseudomonas putida]
+MKNTLLSLCTLATALSLQTALADDGLALFQSKSCVACHAVDAKLVGPALKEVAAKNAGVSGAAQTLASHIKNGTQGNWGP
+IPMPANALSDDEAKQLANWVLSLK
+>gi|742822845|ref|WP_038982742.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|856769314|gb|KMM87786.1| cytochrome C biogenesis protein CcsA [Pseudomonas lini] >gi|910868277|gb|KNH44063.1| cytochrome C biogenesis protein CcsA [Pseudomonas lini]
+MKNILFSLFALTAALSVQPAMAAEDGPALFKSKPCAACHSIDTKLVGPALKDVAAKNAGVAGAVDTLASHIKNGTQGNWG
+PMPMPANPVTDEEAKTLATWVLSLK
+>gi|938317293|ref|WP_054621519.1| hypothetical protein [Rhodocyclaceae bacterium Paddy-1]
+MKAILSLLAVAGLLSAGVAQADEALAKSKGCLACHAVDKKLVGPSYKDVAKKYAGDKTAEAKLVEKVKKGGSGVWGPVPM
+PPNAAVSDDDLHKLVKWILSQK
+>gi|544787439|ref|WP_021209866.1| cytochrome c biogenesis protein CcsA [Pseudomonas stutzeri] >gi|533218558|gb|EQM73605.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri MF28]
+MKKVLIPLLALGGAMVLQPAMAQDGEALFKSKPCAACHSIDTKVVGPAFKEVAAKYAGQEGAADLLAGHIKNGTVGAWGQ
+IPMPPNPVTEEEAKTLAEWVLSLK
+>gi|517849674|ref|WP_019019882.1| hypothetical protein [Halomonas lutea]
+MKKSFVSILMLGSALAMSSTAFAVDAETLFKSKACAACHAIDTKMVGPAYSDVADKYAGQGDAATILVDSVLNGSKGKWG
+PIPMPPNAAVTEEEAKTLAEWILEQ
+>gi|928910710|ref|WP_053935904.1| hypothetical protein [Amantichitinum ursilacus] >gi|928394736|gb|KPC55176.1| Cytochrome c-551 precursor [Amantichitinum ursilacus]
+MNSRYLALLLLAGLAAPALAADPEALAQSKNCLACHAVDHKVVGPAYKDVAAKYKGRKDAVAYLVGRVRNGSSGDWGPVP
+MPANAVTDDEAKQLVTWVLSRK
+>gi|13787056|pdb|1FI3|A Chain A, Solution Structure Of The M61h Mutant Of Pseudomonas Stutzeri Substrain Zobell Ferrocytochrome C-551
+QDGEALFKSKPCAACHSVDTKMVGPALKEVAAKNAGVEGAADTLALHIKNGSQGVWGPIPHPPNPVTEEEAKILAEWVLS
+LK
+>gi|752534678|ref|WP_041206196.1| cytochrome c biogenesis protein CcsA [Aeromonas media] >gi|615553006|gb|AHX62051.1| cytochrome c-551 precursor [Aeromonas media WS]
+MKRNVFSLLVLGAAVCLQPAMATDGETLFKSKPCVGCHMVDAKLVGPSFKEVAAKYDGQADAATLLAGRIKNGTQGTWGA
+VPMPANAVTEEEAKTLAEWVLSHKK
+>gi|1028889151|ref|WP_064054493.1| cytochrome C biogenesis protein CcsA [Pseudomonas marginalis] >gi|1028579087|gb|OAJ47347.1| cytochrome C biogenesis protein CcsA [Pseudomonas marginalis]
+MKNILLALLAAAAALSLQPVLAQDGPALFKSKPCAACHAIDSKLVGPALKDVAAKNAGVKDAAATLASHIKNGTQGNWGP
+IPMPPNPVTDDEAKVLADWVLSLK
+>gi|756833860|ref|WP_042650504.1| cytochrome c biogenesis protein CcsA [Aeromonas media]
+MKRNVFSLLVLGAVVCLQPAMATDGETLFKSKPCVGCHMVDAKLVGPSFKEVAAKYDGQADAATLLAGRIKNGTQGTWGA
+VPMPANAVTEEEAKTLAEWVLSHKK
+>gi|949592560|ref|WP_057024120.1| cytochrome c biogenesis protein CcsA [Pseudomonas synxantha] >gi|949190518|gb|KRP51804.1| cytochrome C biogenesis protein CcsA [Pseudomonas synxantha]
+MKNTLLSLFALAAWLIVQPAMAQDALELFKSKPCAACHAIDTKMVGPALKDVAARSAGTAGAVDTLASHIKNGTQGNWGP
+IPMPANPVTEEEAKTLATWVLTLK
+>gi|1021328146|ref|WP_063340230.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens] >gi|1021245067|gb|KZN21017.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens]
+MKNTLFSLFALTAALSVQPAMAQDGQELFKSKPCAACHSIDTKLVGPALKDVAAKNAGVAGAVDTLASHIKNGTQGNWGP
+MPMPANPVTDEEAKTLATWVLSLK
+>gi|495350308|ref|WP_008075034.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. GM79] >gi|398232930|gb|EJN18879.1| cytochrome c551/c552 [Pseudomonas sp. GM79]
+MKNTLFSLFALTAALSVQPALAQDGQELFKSKPCAACHSIDTKLVGPALKDVAAKNAGVAGAVDTLASHIKNGTQGNWGP
+MPMPANPVTDEEAKTLATWVLSLK
+>gi|643472205|ref|WP_025214358.1| cytochrome c biogenesis protein CcsA [Pseudomonas brassicacearum] >gi|591393867|gb|AHL34760.1| cytochrome C biogenesis protein CcsA [Pseudomonas brassicacearum] >gi|955699962|gb|ALQ02899.1| Cytochrome c551/c552 [Pseudomonas brassicacearum]
+MKRILVPLLALSAALTLQSAQAVDGEALFKSKTCVACHMVDAKMVGPGYKEVAAKYAGQADASATLVKSIKEGSTGKWGP
+IAMPANQVTDEEAKTLADWILTLK
+>gi|881009962|ref|WP_048730731.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. KG01] >gi|873531692|gb|KMT52712.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. KG01]
+MKNILLALLACTAAVSLQPALAQDGPTLFKSKPCAACHAIDSKVVGPALKDVAAKNAGVKDAATTLAGRIKNGTQGNWGP
+IPMPPNQVTDDEAKVLAEWVLTLK
+>gi|920183299|ref|WP_052964437.1| cytochrome c biogenesis protein CcsA [Pseudomonas syringae] >gi|910851282|gb|KNH28427.1| cytochrome C biogenesis protein CcsA [Pseudomonas syringae]
+MKNILFSLFALTAALSVQPAMAQDGQELFKSKPCAACHSIDTKLVGPALKDVAAKNAGVAGAVDTLASHIKNGTQGNWGP
+MPMPANPVTDEEAKTLATWVLSLK
+>gi|636674586|gb|AIA15358.1| Cytochrome c [uncultured bacterium]
+MLNEPGAGRFKPALLSEETLMKSMFISLLALGAALTLQTAQAVDGETLFKSKTCVACHMVDAKMVGPGYKEVAAKYAGQA
+DASATLVKSIKEGSTGKWGPIAMPANQVTDEEAKTLADWILTLK
+>gi|937509649|ref|WP_054596849.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens] >gi|937312741|gb|ALI03604.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens]
+MKNTLISLIVLAGALSLQPVMAQDAPELFKSKPCAACHAIDTKLVGPALKEVATKNAGVAGAADTLANHIKNGTQGNWGP
+IPMPANPVTDEEAQTLSTWVLSLK
+>gi|1057215307|ref|WP_068588466.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. BIOMIG1BDMA]
+MKNTLLSLFVLSAALNLQTALADDGLALFQSKSCVACHSVDSKLVGPALKEVAAKNAGVAGAAQTLAGHIKNGTQGNWGP
+IPMPANAVSEEEAAQLAKWVLSLK
+>gi|802167170|ref|WP_046046016.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens] >gi|799201778|gb|KJZ46628.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens]
+MKSILVPLLALGAALTLQSAQALDGEALFKSKACVGCHMIDAKMVGPGYKEVAAKYAGQADASATLVKSIKEGSTGKWGP
+IAMPANQVTDEEAKTLADWILTLK
+>gi|949580596|ref|WP_057012317.1| cytochrome c biogenesis protein CcsA [Pseudomonas libanensis] >gi|949184464|gb|KRP45793.1| cytochrome C biogenesis protein CcsA [Pseudomonas libanensis]
+MKNTLLSLFALAAWLNVQPAMAQDALELFKSKPCAACHAIDTKMVGPALKDVAARSAGVAGAVDTLASHIKNGTQGNWGP
+IPMPANPVTEEEAKTLATWVLTLK
+>gi|966390634|ref|WP_058437398.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. ABAC61] >gi|962134629|gb|KTC33594.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. ABAC61]
+MKNTLLSLVVLGAALNLQTALADDGLALFQSKSCVACHSVDNKLVGPALKDVAAKNAGVADAAQTLAGHIKNGTQGNWGP
+IPMPANAVSDEEAAQLAKWVLSLK
+>gi|518478880|ref|WP_019649087.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|1034266922|gb|ANI59935.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. GR 6-02]
+MKNTLLSLFALTAALSVQPVVAQDAQELFKSKPCAACHSIDTKLVGPALKDVAAKNAGVPEAVDTLANHIKNGTQGNWGP
+IPMPANPVTDDEAKTLATWVLSLK
+>gi|771508853|ref|WP_045163600.1| cytochrome c biogenesis protein CcsA [Pseudomonas stutzeri] >gi|768545309|gb|KJH80156.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri]
+MKKVLVPLLALGGAMLFQPAMAQDGEALFKSKPCAACHSIDAKMVGPALKEVAAKYAGQDGAADLLAGHIKNGTVGAWGQ
+IPMPPNPVTEEEAKTLAEWVLSLK
+>gi|966376712|ref|WP_058423923.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens] >gi|962051998|gb|KTB66765.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens]
+MKNILLALLATAAALSLQPALAQDGPALFKSKPCAACHAVDSKLVGPALKDVAAKNAGVKDAATTLASHIKNGTQGNWGP
+IPMPPNPVTDDEAKVLAEWVLTLK
+>gi|517849972|ref|WP_019020180.1| hypothetical protein [Halomonas lutea]
+MKKLLIPLLALGDTLAASSALAIDGETLYKTKVCAACHAIDTKMVGPAYTDVAEKYAGQDDAVATQMDSIMNGSQGKWGP
+IPMSPNAVTEEEAKILAEWILQQE
+>gi|758894042|ref|WP_043050646.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens] >gi|757247006|gb|KIR20178.1| Cytochrome c-551 precursor [Pseudomonas fluorescens]
+MKNTLLSLFALAAWLSVQPAMAQDALALFKSKPCAACHAIDTKMVGPALKDVAARSADVAGAVDTLASHIKNGTQGNWGP
+IPMPANPVTEEEAKTLATWVLTLK
+>gi|662764112|ref|WP_030130709.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. QTF5]
+MKNILFSLFALTAALSVQPAMAQDGQELFKSKPCAACHSIDTKLVGPALKDVAAKNAGVPGAVDTLASHIKNGTQGNWGP
+MPMPANPVTDEEAKTLATWVLSLK
+>gi|654787311|ref|WP_028241322.1| hypothetical protein [Pseudomonas azotifigens]
+MKTMLVSLLALGGALVLQPAFAQSGEELYKSKACAACHAIDKKLVGPAYTEVAAKYADRADAVDYLAGHIKNGSQGVWGQ
+IPMPPNNVTEEEAKTLAEWVMTHK
+>gi|489380707|ref|WP_003287397.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|387970043|gb|EIK54323.1| cytochrome c-551 [Pseudomonas stutzeri TS44] >gi|409121286|gb|EKM97424.1| cytochrome c-551 [Pseudomonas sp. Chol1] >gi|695878214|gb|KGK84298.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. HMP271]
+MKKVLLPLLALGGALALQPALAQDGEALFKSKPCAACHSVDAKLVGPALKEVAAKNAGVDGAVDTLAASIKNGSQGKWGP
+IPMPPNAVTEEEAKALATWVLSLK
+>gi|657048391|ref|WP_029291248.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens]
+MKNILLALAALGAALSLSTALAEDGAALFKSKPCAACHTIDSKMVGPALKEVAAKNAGVKDADKTLAGHIKNGTQGNWGP
+IPMPPNQVTDAEALTLAQWVLSLK
+>gi|115228|sp|P00100.1|CY551_PSEFC RecName: Full=Cytochrome c-551; AltName: Full=Cytochrome C8; AltName: Full=Cytochrome c551
+EDGAALFKSKPCAACHTIDSKMVGPALKEVAAKNAGVKDADKTLAGHIKNGTQGNWGPIPMPPNQVTDAEALTLAQWVLS
+LK
+>gi|517757574|ref|WP_018927782.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas]
+MKNTLLSLFALTAALSVQPVVAQDAQELFKSKPCAACHSIDTKLVGPALKDVAAKNAGVPEAVDTLANHIKNGTHGNWGP
+IPMPANPVTDDEAKTLATWVLSLK
+>gi|495318926|ref|WP_008043673.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. GM67] >gi|398193336|gb|EJM80443.1| cytochrome c551/c552 [Pseudomonas sp. GM67]
+MKNTLLSLFALTAALSVQPAMAQDALELFKSKPCAACHSIDTKLVGPALKDVAAKNAGVAGAADTLASHIKNGTQGNWGP
+MPMPANPVTDEEAKILATWVLTLK
+>gi|495309665|ref|WP_008034413.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. GM60] >gi|398188218|gb|EJM75529.1| cytochrome c551/c552 [Pseudomonas sp. GM60]
+MKNTLLSLFALTAALSVQPAMAQDALELFKSKPCAACHSIDTKLVGPALKDVAAKNAGVAGAADTLASHIKNGTQGNWGP
+MPMPANPVTDEEAKMLATWVLTLK
+>gi|917718934|ref|WP_052233268.1| MULTISPECIES: cytochrome c' [Massilia] >gi|914250244|gb|KNZ68143.1| cytochrome C' [Massilia sp. WF1] >gi|941930218|gb|ALK98657.1| cytochrome C' [Massilia sp. WG5]
+MKRSLMMLMAVSALVSTSAFAQADLAKAKNCMACHAIGTKLVGPAYKDVAAKYAGQKGAEDKLVQKVMKGGSGVWGPVPM
+PANPQVSEAEARTLVKWVLSQK
+>gi|802109469|ref|WP_046028102.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens] >gi|799194592|gb|KJZ39559.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens]
+MKNTLLSLFALTAALSVQPAMAQDALELFKSKPCAACHSIDAKIVGPALKDVAAKNAGVAGAVDTLASHIKNGTQGNWGP
+MPMPANPVTDEEAKTLATWVLSLK
+>gi|568200633|ref|WP_024074997.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. TKP] >gi|566063170|gb|AHC35271.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. TKP]
+MKNTLLALLACTAAIGLQPALAQDGHDLFNSKPCVGCHTIDSKLVGPALKDVAAKNAGVKDAAATLASHIKNGTQGNWGP
+IPMPPNQVTDDEAKVLADWVLTLK
+>gi|643469361|ref|WP_025213703.1| cytochrome c biogenesis protein CcsA [Pseudomonas brassicacearum] >gi|591393238|gb|AHL34131.1| cytochrome C biogenesis protein CcsA [Pseudomonas brassicacearum]
+MKSIFIPLLALGAALTVQAAHAVDGEALFKSKPCVGCHMVDARMVGPGYKEVAAKYAGQADASATLTKSIKEGSTGKWGP
+IAMPANQVTDEEAKTLADWILTLK
+>gi|696521328|ref|WP_033056622.1| cytochrome c biogenesis protein CcsA [Pseudomonas mandelii] >gi|633679454|gb|KDD69019.1| cytochrome C biogenesis protein CcsA [Pseudomonas mandelii PD30]
+MKSILVPLLALGAALTLQSAQAVDGEALFKSKPCVGCHMVDARMVGPGYKEVAAKYAGQADASATLVKSIKEGSTGKWGP
+IAMPANQVTDEEAKTLADWILTLK
+>gi|696285566|ref|WP_032861294.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|567641745|gb|ETK17179.1| cytochrome c551/c552 [Pseudomonas sp. FH4] >gi|1048620473|emb|CRM43920.1| Cytochrome c551 [Pseudomonas sp. 25 R 14]
+MKNILLALIALGSALSLSSAIADDGAALFKSKPCAACHTIDSKMVGPALKEVAAKNAGVKDADKTLADHIKNGTQGNWGP
+IPMPPNQVTDAQALTLAQWVLSLK
+>gi|499605723|ref|WP_011286457.1| cytochrome c' [Dechloromonas aromatica] >gi|71845952|gb|AAZ45448.1| Cytochrome c, class I [Dechloromonas aromatica RCB]
+MMKKLCLAAAILFAANLGDAFAADEEALAKSKNCLSCHAVDKKLVGPAYKDVAAKYKGDKGAVDKLAAKVKAGGKGVWGE
+IPMPPNNITDDEAKRLVGWVLSRK
+>gi|648490880|ref|WP_026182631.1| cytochrome c [Leeia oryzae]
+MKKLTLMLAICAGIGMTAAHAADPQQLAKDKNCLSCHGVDNKILGPAYKMVAAKYKGKAGMEAQLADKIRKGGAGVWGPI
+PMPANNVTEEEAKTLAHWILSL
+>gi|115224|sp|P00104.1|CY551_AZOVI RecName: Full=Cytochrome c-551; AltName: Full=Cytochrome c551 >gi|229469|prf||732191A cytochrome c551
+ETGEELYKTKGCTVCHAIDSKLVGPSFKEVTAKYAGQAGIADTLAAKIKAGGSGNWGQIPMPPNPVSEAEAKTLAEWVLT
+HK
+>gi|502027535|ref|WP_012698731.1| cytochrome c biogenesis protein CcsA [Azotobacter vinelandii] >gi|226717132|gb|ACO76303.1| Cytochrome c-551 [Azotobacter vinelandii DJ] >gi|482532592|gb|AGK15719.1| Cytochrome c-551 [Azotobacter vinelandii CA] >gi|482535893|gb|AGK19019.1| Cytochrome c-551 [Azotobacter vinelandii CA6]
+MKKMLIPLLACGAALVLQSALAETGEELYKTKGCTVCHAIDSKLVGPSFKEVTAKYAGQAGIADTLAAKIKAGGSGNWGQ
+IPMPPNPVSEAEAKTLAEWVLTHK
+>gi|551341487|ref|WP_022960899.1| cytochrome c biogenesis protein CcsA [Pseudomonas pelagia]
+MRRLLLPLMTFGAMLAAPVALADGEALFNSKPCVACHAVDNKLVGPSLKEVAAKYDGEEGAVATVAGHIKNGISGLWGPI
+PMPANQVTDDEATQLAEWVLSLK
+>gi|1012140617|gb|KYP11307.1| cytochrome C biogenesis protein CcsA [Limnobacter sp. CACIAM 66H1]
+MKQMGVLAIAATMVALPLSASADEALAKSKACLACHQVQKKVVGPAFKDVAAKYKGQAGAEAMLAGKIKNGSKGVWGPVP
+MPAQNVTEEEAKKLAAWVLTL
+>gi|516348878|ref|WP_017738911.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. CBZ-4]
+MKNMLLALLASTAFIGLQPALAEDGPALFKSKPCAACHSIDSKVVGPSLKEVAARNAAVKDAATTLASHIKNGTQGNWGP
+IPMPPNPVTDDEAKTLATWILTLK
+>gi|503028697|ref|WP_013263673.1| cytochrome c' [gamma proteobacterium HdN1] >gi|301799046|emb|CBL47289.1| Cytochrome c, monohaem [gamma proteobacterium HdN1]
+MKKLVLLATAASLLGAVSMANAADPAALAQSKNCLACHSIDKKVMGPAYKDVAAKFKDDKNAEATLIAAVKNGSSGVWGP
+IPMPPNNVTDEEAKILVDWILSQK
+>gi|1036111142|ref|WP_064678131.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. A3(2016)] >gi|1035883647|gb|ANJ56621.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. A3(2016)]
+MKNTLFSLFALTAALSVQPAMAADDGPALFKSKPCAACHTIDTKLVGPALKDVAAKNAGVAGAADTLASHIKNGTSGNWG
+PMPMPANPVTDEEAKILATWVLTLK
+>gi|746560992|ref|WP_039591176.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|733394956|gb|KHK64802.1| cytochrome C biogenesis protein CcsA [Pseudomonas frederiksbergensis] >gi|768550758|gb|KJH85533.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens]
+MKPILIALALTAAYSLPAMAQDGPTLFKSKPCAACHSIDTKVVGPALKEVAAKNAGVAGAEALLAKHIKEGTQGNWGPMP
+MPANPVTEEEAKILAAWVLTLK
+>gi|11344611|gb|AAG34382.1|AF197466_5 cytochrome c-551 [Pseudomonas fluorescens]
+MKPILIALALTAAYSLPALAQDGPTLFKSKPCAACHSIDTKVVGPALKEVAAKNAGVAGAEAVLAKHIKEGTQGNWGPMP
+MPANPVTEEEAKILAAWVLTLK
+>gi|802108610|ref|WP_046027259.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens] >gi|799194961|gb|KJZ39922.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens]
+MKSILVPLLALGAALTLQSAQAVDGEALFKSKPCVGCHMIDAKMVGPGYKEVAAKYAGQPDASATLIKSIKEGSTGKWGP
+IAMPANQVTDEEAKTLADWILTLK
+>gi|499608337|ref|WP_011289071.1| cytochrome c' [Dechloromonas aromatica] >gi|71848579|gb|AAZ48075.1| Cytochrome c, class I [Dechloromonas aromatica RCB]
+MRMMILAIGASLLAAGTAQASPELAKAKNCMTCHAIDKKIVGPAYKDIASKRAAEKGAEATLVGKIKNGSKDEWGMVPMP
+PNNVTDAEAATLAKWVLSQK
+>gi|653594303|ref|WP_027607198.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. LAMO17WK12:I2]
+MKNMLLALLASAAALSLQPVLAQDGPGLFNSKPCVGCHTIDSKLVGPALKDVAAKNAGVKDAATTLASHIKNGSQGNWGP
+VPMPPNQVTDDEAKVLADWVLTLK
+>gi|662775059|ref|WP_030137677.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens]
+MKPILIALALTAAYSLPALADDGPTLFKSKPCAACHSIDTKVVGPALKDVAAKNAGVAGAQDVLAKHIKEGTQGNWGPMP
+MPANPVTEEEAKTLAAWVLTLK
+>gi|520794854|ref|WP_020292667.1| MULTISPECIES: cytochrome c-551 precursor [Pseudomonas] >gi|515432182|gb|EPJ80242.1| cytochrome c-551 precursor [Pseudomonas sp. CFII64] >gi|670193819|gb|KFE56310.1| cytochrome C biogenesis protein CcsA [Pseudomonas syringae]
+MKNTLLSLFVMTAALSAQPAMAQDALELFKSKPCAACHSIDTKLVGPALKEVAAKNAGVAGAVDTLASHIKNGTQGNWGP
+MPMPANPVTDEEAKILAAWVLTLK
+>gi|1051684026|ref|WP_065924632.1| MULTISPECIES: cytochrome C biogenesis protein CcsA [Pseudomonas] >gi|1048641122|emb|CRM07772.1| Cytochrome c551 [Pseudomonas sp. 8 R 14] >gi|1050813822|gb|OCW19219.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. S3E12]
+MKNILLALLASAAALSLQPVLAQDGPGLFNSKPCVGCHMIDSKLVGPALKDVAAKNAGVKDAATTLASHIKNGSQGNWGP
+VPMPPNQVTDDEAKVLADWVLTLK
+>gi|757702550|ref|WP_042932083.1| cytochrome c biogenesis protein CcsA [Pseudomonas mandelii]
+MKNTLFSLFALTAALSVQPAMAQDALELFKSKPCAACHSIDTKIVGPALKDVAAKNAGVPGAVDTLASHIKNGTQGNWGP
+MPMPANPVTEEEAKTLATWVLTLK
+>gi|149825042|gb|EDM84254.1| Cytochrome c, class I [Limnobacter sp. MED105]
+MIKQMGVLAIAATMVALPLSASADEALAKSKACLACHQVQKKVVGPAFKDVAAKYKGQAGAEAMLAGKIKNGTKGVWGPV
+PMPAQNVTEEEAKKLAAWVLAL
+>gi|635284792|gb|AHZ67537.1| Cytochrome c-551 [Pseudomonas mandelii JR-1]
+MQGNTMKNTLFSLFALTAALSVQPAMAQDALELFKSKPCAACHSIDTKIVGPALKDVAAKNAGVPGAVDTLASHIKNGTQ
+GNWGPMPMPANPVTEEEAKTLATWVLTLK
+>gi|750208314|ref|WP_040512388.1| cytochrome c biogenesis protein CcsA [Limnobacter sp. MED105]
+MKQMGVLAIAATMVALPLSASADEALAKSKACLACHQVQKKVVGPAFKDVAAKYKGQAGAEAMLAGKIKNGTKGVWGPVP
+MPAQNVTEEEAKKLAAWVLAL
+>gi|643638167|ref|WP_025240503.1| cytochrome c biogenesis protein CcsA [Pseudomonas stutzeri] >gi|594026326|gb|AHL74329.1| cytochrome C biogenesis protein CcsA [Pseudomonas stutzeri]
+MKKVLVPLLALGGAMLFQPAMAQDGEALFKSKPCAACHSVDAKLVGPALKEVAAKYAGQDGAADLLAGHIKNGHVGTWGQ
+IPMPPNPVTEEEAKALAEWVLSLK
+>gi|950568461|ref|WP_057436867.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens] >gi|1026754783|gb|OAE17392.1| cytochrome C biogenesis protein CcsA [Pseudomonas brenneri]
+MKNILLALATLGAALSLSTAMADDGAALFKSKPCAACHTIDSKMVGPALKEVAAKNAGVKDADKTLASHIKNGTQGNWGP
+IPMPANPVTDAEALTLAQWVLSLK
+>gi|425716928|gb|EKU79895.1| hypothetical protein HMPREF9710_04713 [Massilia timonae CCUG 45783]
+MKKTMILAASLAAAAAIPSAHASADLAKAKACMACHTVASKLVGPSYKDVAAKYAKDAGAEARLALKIQKGSSGTWGPIP
+MPANPQVSDAEAKTLAKWILAQK
+>gi|517442641|ref|WP_018613488.1| cytochrome c-551 precursor [Pseudomonas sp. CFII68] >gi|515429071|gb|EPJ77641.1| cytochrome c-551 precursor [Pseudomonas sp. CFII68]
+MKPILIALALTAAYSLPALAQDGPTLFKSKPCAACHAIDTKVVGPALKEVAAKNAGVAGAQDLLAKHIKEGTQGNWGPMP
+MPANPVTDEEAKILAAWVLTLK
+>gi|499608312|ref|WP_011289046.1| cytochrome c' [Dechloromonas aromatica] >gi|71848554|gb|AAZ48050.1| Cytochrome c, class I [Dechloromonas aromatica RCB]
+MKAVHIAMMFAVGLGVSGQVFADEALAKAKNCMSCHAVDKKLVGPAYKDVAAKYKGDAGAVDKLAAKVKAGGKGVWGEIP
+MPPNNVTPDEAKKLVTWVLSQK
+>gi|734913920|ref|WP_034138475.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens]
+MKNMLLALLACSAAFSLHPALAQDGQALFNSKPCVGCHTLDSKLVGPAMKEVAAKNTGVKDAAATLASHIKNGTQGNWGP
+IPMPPNQVTDEEAKVLADWVLSLK
+>gi|916598118|ref|WP_051205209.1| cytochrome c' [Massilia timonae]
+MILAASLAAAAAIPSAHASADLAKAKACMACHTVASKLVGPSYKDVAAKYAKDAGAEARLALKIQKGSSGTWGPIPMPAN
+PQVSDAEAKTLAKWILAQK
+>gi|1051749066|ref|WP_065948127.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. 1 R 17] >gi|1048644498|emb|SAM34204.1| Cytochrome c551 [Pseudomonas sp. 1 R 17]
+MKNILLALLASAAALSLQPVLAQDGPGLFNSKPCVGCHMIDSKLVGPALKDVAAKNAGVKDAATTLASHIKNGTQGNWGP
+VPMPPNQVTDDEAKVLADWVLTLK
+>gi|734847651|ref|WP_034098486.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas]
+MKNMLLALLACSAAFSLQPALAQDGQALFNSKPCVGCHTLDSKLVGPAMKEVAAKNTGVKDAAATLASHIKNGTQGNWGP
+IPMPPNQVTDEEAKVLADWVLSLK
+>gi|950257079|ref|WP_057293596.1| cytochrome c' [Noviherbaspirillum sp. Root189] >gi|946115623|gb|KRB67861.1| cytochrome C' [Noviherbaspirillum sp. Root189]
+MKRFLIFSMLLTGLISTSAFANADLAKSKNCMGCHAIDKKLVGPGFKEVAEKYKGQKDAEAKLVQKIIKGGGGVWGSIPM
+PPNAVTEKEAQELVKWVLSQK
+>gi|551347555|ref|WP_022966961.1| cytochrome c biogenesis protein CcsA [Pseudomonas caeni]
+MKKILIPMFALGAAFAMQPALATDGETLFKSKPCVACHTVDSKMVGPSLKEVAAKNADVEGAVDTLALHIKEGSAGVWGP
+IPMPANAVTEEEAKILAEWVLSLK
+>gi|516460513|ref|WP_017849351.1| cytochrome c biogenesis protein CcsA [Pseudomonas veronii]
+MKNTLFALLTCAAAFSLQPAFAQDGLALFSSKPCVGCHMVDSKLVGPALKDVAAKNAGVKDAAVTLASHIKNGTQGNWGP
+VPMPPNMVTEDEAKVLAEWVLTLK
+>gi|655956228|ref|WP_028999049.1| hypothetical protein [Azohydromonas australica]
+MKFLLPVIVAAAAAVSTPAFANLELAQKKNCLACHAVDKKLVGPAYKDVAAKYAGDKTAEAKLAEKIIKGGAGVWGPVPM
+PANPQVSADEAKVLAKWVLSQK
+>gi|495922997|ref|WP_008647576.1| cytochrome c551 [Cupriavidus sp. HMR-1] >gi|429499514|gb|EKZ97933.1| cytochrome c-551 [Cupriavidus sp. HMR-1]
+MHTSTVIAAVALAAALPVTAFASQELATSKNCMACHSVDKKLVGPAYKDIAAKYKGDKAAAAQLSQSILKGSSGKWGPIP
+MPPNQVSEAEANTLAKWVLSL
+>gi|737915745|ref|WP_035881136.1| cytochrome c [Cupriavidus metallidurans]
+MHPSTVIAAVALAAALPVTALASQELATSKNCMACHSVDKKLVGPAYKDIAAKYKGDKAAAAQLSQSILKGSSGKWGPIP
+MPPNQVSEAEANTLAKWVLSL
+>gi|499605339|ref|WP_011286073.1| cytochrome c' [Dechloromonas aromatica] >gi|71845567|gb|AAZ45063.1| Cytochrome c, class I [Dechloromonas aromatica RCB]
+MKAVYVAMIAAGVVMAGQAQADEALAKAKNCMSCHAIDKKLVGPAYKDVAAKYKGDAKAPAMLAAKVKAGGKGTWGQIPM
+PPNNVTEDEAKKLVAWVLSQK
+>gi|489266779|ref|WP_003174577.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens] >gi|311284225|gb|EFQ62805.1| Cytochrome c-551 [Pseudomonas fluorescens WH6]
+MKNILLALLACAAALGLQPALAQDGLALFNSKPCAACHTLDGKLVGPALKDVAAKNAGVKDAATTLASHIKNGTQGNWGP
+IPMPPNPVTDDEAKVLADWVLTLK
+>gi|499836921|ref|WP_011517655.1| MULTISPECIES: cytochrome c' [Cupriavidus] >gi|93355954|gb|ABF10043.1| Cytochrome c-551 precursor (Cytochrome c551) (Cytochrome C8) [Cupriavidus metallidurans CH34] >gi|982552790|gb|KWR76997.1| cytochrome C [Cupriavidus sp. SHE] >gi|984758751|gb|KWW35711.1| Cytochrome c-551 [Cupriavidus metallidurans]
+MHPSTVIAAVALAAALPVTAFASQELATSKNCMACHSVDKKLVGPAYKDIAAKYKGDKAAAAQLSQSILKGSSGKWGPIP
+MPPNQVSEAEANTLAKWVLSL
+>gi|115230|sp|P00103.1|CY551_PSEDE RecName: Full=Cytochrome c-551; AltName: Full=Cytochrome C8; AltName: Full=Cytochrome c551 >gi|65550|pir||CCPS5D cytochrome c551 - Pseudomonas sp >gi|229470|prf||732191B cytochrome c551
+STGEELFKAKACVACHSVDKKLVGPAFHDVAAKYGAQGDGVAHITNSIKTGSKGNWGPIPMPPNAVSPEEAKTLAEWIVT
+LK
+>gi|966778945|ref|WP_058546347.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens]
+MKPILIALALTAASSLPALAQDGPTLFKSKPCAACHSIDTKVVGPALKDVAAKNAGVAGAQDLLAKHIKEGTQGNWGPMP
+MPANPVTEEEAKILAAWVLTLK
+>gi|505292564|ref|WP_015479666.1| cytochrome c551 [Pseudomonas denitrificans] >gi|472252108|gb|AGI26822.1| cytochrome c-551 [Pseudomonas denitrificans ATCC 13867]
+MNKALVALLFGGLLVPTTAVMASTGEELFKAKACVACHSVDKKLVGPAFHDVAAKYGAQGDGVAHITNSIKTGSKGNWGP
+IPMPPNAVSPEEAKTLAEWIVTLK
+>gi|827466349|ref|WP_047225832.1| cytochrome c biogenesis protein CcsA [Pseudomonas brassicacearum]
+MKPILLALTLSAAFSLQPALAQDGPTLFKSKPCGACHSIDTKLVGPALKEVAAKNAGVAGAQELLAKHIKEGTQGNWGPM
+PMPANPVTDEEAKILAAWVLTLK
+>gi|640006399|ref|WP_024779136.1| cytochrome c biogenesis protein CcsA [Pseudomonas corrugata]
+MRPILIALALTAVSSMQPALAEDGPTLFKSKPCSACHSIDTKVVGPAFKDVAAKNANVPGAQEMLAKHIKEGTQGNWGPM
+PMPANPVTEEEAKILAAWVLSLK
+>gi|1021298700|ref|WP_063320835.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens] >gi|1020383304|gb|AMZ70204.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens]
+MKPILIALALTAAYSLPALAQDGPTLFKSKPCAACHSIDTKVVGPALKDVAAKNAGVAGAQDLLAKHIKEGTQGNWGPMP
+MPANPVTEEEAKILAAWVLTLK
+>gi|941479919|ref|WP_055136832.1| cytochrome c biogenesis protein CcsA [Pseudomonas corrugata]
+MRPILIALALTVVSSMQPALAEDGPTLFKSKPCSACHSIDTKVVGPAFKDVAAKNANVPGAQEMLAKHIKEGTQGNWGPM
+PMPANPVTEEEAKILAAWVLSLK
+>gi|814583863|ref|WP_046383072.1| cytochrome c biogenesis protein CcsA [Pseudomonas veronii] >gi|949218607|gb|KRP79618.1| cytochrome C biogenesis protein CcsA [Pseudomonas veronii]
+MKNTLLALLTCAAAFSLQPAFAQDGLALFSSKPCVGCHMVDSKLVGPALKDVAAKNAGVKDAAVTLASHIKNGTQGNWGP
+VPMPPNMVTEDEAKVLAEWVLTLK
+>gi|498250429|ref|WP_010564585.1| cytochrome c biogenesis protein CcsA [Pseudomonas extremaustralis] >gi|610831795|gb|EZI28330.1| cytochrome C biogenesis protein CcsA [Pseudomonas extremaustralis 14-3 substr. 14-3b]
+MKNMLLALLACSATLALQPALAQDGAALFNSKPCVGCHTLDSKLVGPALKDVAAKNAGVKDAATTLASHIKNGTQGNWGP
+TPMPPNQVTEDEAKVLAEWVLTLKR
+>gi|950216137|ref|WP_057260574.1| cytochrome c' [Duganella sp. Root1480D1] >gi|945890106|gb|KQZ43497.1| cytochrome C' [Duganella sp. Root1480D1]
+MKRSLLVGFLVTAAFSSQAAFANADLAKAKNCMACHAIATKLVGPAYKDVAAKYAGQKDAEAKLVQKVMKGGSGVWGAVP
+MPANPQVSEAEAKTLVKWVLSQK
+>gi|738214061|ref|WP_036169716.1| cytochrome c' [Massilia sp. 9096]
+MKRSLMLLTAVSALASTGAFAQDASALAKSKNCLACHSVQTKLVGPAYKDVAAKYAGQKGIEDKLVQKVMKGSVGAWGQV
+PMPANPQVSEAEAHTLVKWVLAQK
+>gi|502728291|ref|WP_012963275.1| cytochrome c [Hydrogenobacter thermophilus] >gi|288787346|dbj|BAI69093.1| cytochrome c [Hydrogenobacter thermophilus TK-6] >gi|308751545|gb|ADO45028.1| cytochrome c class I [Hydrogenobacter thermophilus TK-6]
+MKKVLLSGVLSIALLASCQKKAEETAPAEQPAQQPAQEQPTQPSQPAGEQKQPSGEQKPAEQKPAEQKSQGPAKDMTALA
+QQKGCFACHDINAKKVGPAYKDVAKKFAGQPGAVDELAKRIKNGGVGTWGQVPMPPQNVTDEEAKELAQWILSLK
+>gi|1055137359|ref|WP_066884671.1| cytochrome C biogenesis protein CcsA [Dechloromonas denitrificans] >gi|985872275|gb|KXB29307.1| cytochrome C biogenesis protein CcsA [Dechloromonas denitrificans]
+MKKAIHLVMMLAIGFGVSGKVMADEALAKAKNCMACHAVDKKLVGPAYKDVAAKYKGDAGAVDKLAAKVKAGGKGAWGEI
+PMPPNNVTPDEAKKLVTWILSQK
+>gi|835916943|ref|WP_047702838.1| cytochrome c biogenesis protein CcsA [Pseudomonas mediterranea] >gi|713115412|gb|KGU82993.1| cytochrome C biogenesis protein CcsA [Pseudomonas mediterranea CFBP 5447]
+MKPILIALALTALSSLQPALAEDGPTLFKSKPCAACHAIDTKVVGPALKDVAAKNASVPGAQEVLAKHIKEGTQGNWGPM
+PMPANPVTEEEAKVLAAWVLSLK
+>gi|827471056|ref|WP_047230539.1| cytochrome c biogenesis protein CcsA [Pseudomonas brassicacearum]
+MQKKLMSLLIFGALLNLPSAQAADGEALFKSKPCVGCHMIEARLVGPSYKEIAAKYAGQADASATLVKSIKEGSSGKWGA
+APMPANQVTDEEAKTLADWILTLK
+>gi|515908313|ref|WP_017338896.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens] >gi|913663312|gb|AKV08862.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens NCIMB 11764]
+MKNTLFSLFALTAALSMQPAMAQDALELFKSKPCAACHSIDAKIVGPALKDVAAKNAGVPGAVDTLASHIKNGTQGNWGP
+MPMPANPVTEEEAKTLATWVLTLK
+>gi|639420284|ref|WP_024616179.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens]
+MKPILIALALTAAYSLPALAQDGPTLFKSKPCAACHAIDTKVVGPALKEVAAKNAGVAGAQDLLAKHIKEGTQGNWGPMP
+MPANPVTEEEAKILAAWVLTLK
+>gi|654453225|ref|WP_027923663.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|953259414|emb|CRL52227.1| Cytochrome c-551 precursor [Pseudomonas sp. URMO17WK12:I11]
+MKNTLFSLFALTAALSVQPVMAQDALELFKSKPCAACHSIDTKIVGPALKDVAAKNAGVPGAVDTLASHIKNGTQGNWGP
+MPMPANPVTEEEAKILATWVLTLK
+>gi|503458218|ref|WP_013692879.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|327377014|gb|AEA68364.1| Cytochrome c-551 [Pseudomonas brassicacearum subsp. brassicacearum NFM421] >gi|945586555|gb|KQW41495.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. Root401]
+MKKKLMHLFILGTLLNLQPAQAVDGEALFKSKPCVGCHMIEARLVGPSYKEIAAKYAGQADASATLVKSIKEGSSGKWGA
+APMPANQVTDEEAKTLADWILTLK
+>gi|947158747|ref|WP_055931820.1| MULTISPECIES: cytochrome c' [Duganella] >gi|945499157|gb|KQV54607.1| cytochrome C' [Duganella sp. Root336D2] >gi|946143601|gb|KRB95646.1| cytochrome C' [Duganella sp. Root198D2]
+MKRSLLVGFLVTAAFSSQAAFANADLAKAKNCMACHAVATKLVGPAYKDVAAKYAGQKDAEAKLVQKVMKGGSGVWGAVP
+MPANPQVSEAEAKTLVKWVLSQK
+>gi|1051411289|ref|WP_065878744.1| MULTISPECIES: cytochrome C biogenesis protein CcsA [Pseudomonas] >gi|1048546057|emb|CRM48228.1| Cytochrome c551 [Pseudomonas sp. 31 E 5] >gi|1048550182|emb|CRM82759.1| Cytochrome c551 [Pseudomonas sp. 31 E 6]
+MKNRLLALLVSAAALSLQPALAQDGLALFNSKPCAACHSVDSKRVGPALKDVAQKNAGVKDAVTTLASHIKNGTQGNWGP
+IPMPPNPVTDDEAKVLAEWILSLK
+>gi|497300668|ref|WP_009614885.1| MULTISPECIES: cytochrome c551 [Pseudomonas] >gi|568071444|gb|ETM64307.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. M1] >gi|664810717|gb|KES23646.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. AAC] >gi|953588837|gb|KRV76630.1| cytochrome C biogenesis protein CcsA [Pseudomonas citronellolis] >gi|953689374|gb|KRW75318.1| cytochrome C biogenesis protein CcsA [Pseudomonas citronellolis] >gi|960443441|gb|KSW24810.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. ADP] >gi|982556649|gb|KWR80856.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. PI1] >gi|1004374711|gb|AMO73768.1| Cytochrome c-551 [Pseudomonas citronellolis] >gi|1033872293|gb|ANI12676.1| cytochrome C biogenesis protein CcsA [Pseudomonas citronellolis] >gi|1038989649|gb|OBP08490.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. EGD-AKN5]
+MNKAMAVLLAAGLLAQAPAFASSAEDLFKAKACVACHTLDKKLVGPAFHDVAKKYGDQSDGVAHVMHSIRKGSQGVWGAM
+PMPPNAVSEDEAKTLAEWIVTLK
+>gi|752846982|ref|WP_041475993.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens]
+MKKKLMHLFIFGTLLNLQPAQAVDGEALFKSKPCVGCHMIEARLVGPSYKEIAAKYAGQADASATLVKSIKEGSSGKWGA
+APMPANQVTDEEAKTLADWILTLK
+>gi|764928453|ref|WP_044499232.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. 12M76_air] >gi|674642377|emb|CEA04499.1| cytochrome c-551 [Pseudomonas sp. 12M76_air] >gi|683398949|emb|CEF26654.1| cytochrome c-551 [Pseudomonas sp. 12M76_air]
+MKFYLLPLVAAAALTAAHSASAAEDLFQSKVCVACHTVDTKLVGPAMKEVAAKYADQADGKEHIMASIQNGSSGVWGPIP
+MPPNQVTEEEAGKLADWILSLK
+>gi|516516768|ref|WP_017905161.1| cytochrome c biogenesis protein CcsA [Pseudomonas fuscovaginae]
+MKSTLFSLLVLGAALSAQPTVAQDAQELFKSKPCGACHAIDSKLVGPSLKEVAAKNAGVNGAVDTLAGHIRNGTQGNWGP
+IPMPANPVTEEEAKTLASWVLTLK
+>gi|740701000|ref|WP_038486289.1| cytochrome c' [Collimonas arenae] >gi|725876484|gb|AIY40230.1| Cytochrome c551/c552 [Collimonas arenae]
+MKRSLLICALLSATASGYALADAGLDLAKAKNCLACHSVQNKVVGPAYKDVAAKFAGQKGAEDMLVQKVLKGSTGTWGAI
+PMPANPQVSDAEAHTLVKWILSQK
+>gi|921158909|ref|WP_053104976.1| cytochrome c biogenesis protein CcsA [Oblitimonas alkaliphila] >gi|915628195|gb|AKX47263.1| cytochrome C biogenesis protein CcsA [Oblitimonas alkaliphila] >gi|915629947|gb|AKX48513.1| cytochrome C biogenesis protein CcsA [Oblitimonas alkaliphila] >gi|915635750|gb|AKX53635.1| cytochrome C biogenesis protein CcsA [Oblitimonas alkaliphila]
+MKKILLSAVLIGGAFSTQIALAADAEELFKTKACVACHTVETKLVGPALKEVAASGKDAATLAASIKNGSQGSYGPIPMP
+PNNVTEDEANTLAEWVLSHK
+>gi|639198631|ref|WP_024537071.1| cytochrome c' [Comamonas badia]
+MKAALIAMTLAFAASSPAFANEALAKSKNCMACHSIDKKVVGPAYKDVAKKFAGQKDAEAQLIKAVLKGSSGVWGPVPMP
+ANANVSDAEAKQLVDWILSLK
+>gi|1055134822|ref|WP_066882546.1| cytochrome C biogenesis protein CcsA [Dechloromonas denitrificans] >gi|985873730|gb|KXB30746.1| cytochrome C biogenesis protein CcsA [Dechloromonas denitrificans]
+MKKNFALLLVAGLVAGSALASEDLAKAKNCMTCHAFDKKIVGPSYKDVIAKRASEKGAEAALAAKIKNGSKNEWGAVPMP
+PNNVTEAEAATLAKWVLSHK
+>gi|498151913|ref|WP_010466069.1| cytochrome c biogenesis protein CcsA [Pseudomonas mandelii] >gi|635290716|gb|AHZ73460.1| Cytochrome c-551 (plasmid) [Pseudomonas mandelii JR-1]
+MKNTLFSLLALTAALSVQPVMAEDGPTLFKAKPCAACHSIDAKLVGPALKDVAKKNAGVAGAADTLASHIKNGTQGNWGA
+MPMPANPVTDEEAKILANWVLSLK
+>gi|921154713|ref|WP_053100810.1| cytochrome c biogenesis protein CcsA [Oblitimonas alkaliphila] >gi|915625738|gb|AKX45194.1| cytochrome C biogenesis protein CcsA [Oblitimonas alkaliphila] >gi|915633036|gb|AKX51095.1| cytochrome C biogenesis protein CcsA [Oblitimonas alkaliphila] >gi|915638003|gb|AKX55402.1| cytochrome C biogenesis protein CcsA [Oblitimonas alkaliphila] >gi|915640543|gb|AKX57461.1| cytochrome C biogenesis protein CcsA [Oblitimonas alkaliphila] >gi|915643315|gb|AKX59641.1| cytochrome C biogenesis protein CcsA [Oblitimonas alkaliphila]
+MKKILLSAVLIGGAFSAQIALAADAEELFKTKACVACHTVETKLVGPALKEVAASGKDAATLAASIKNGSQGSYGPIPMP
+PNNVTEDEANTLAEWVLSHK
+>gi|1048655744|emb|CRM92913.1| Cytochrome c551 [Pseudomonas sp. 22 E 5]
+MKNRLLALLVSAAALSLQPALAQDGLALFNSKPCAACHSVDSKRVGPALKDVAQKNTGVKDAATTLASHIKNGTQGNWGP
+IPMPPNPVTDDEAKVLAEWILSLK
+>gi|516096732|ref|WP_017527312.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens]
+MKNRLLALLVSAAALSLQPALAQDGLALFNSKPCAACHSVDSKRVGPALKDVSQKNAGVKDAVTTLASHIKNGTQGNWGP
+IPMPPNPVTDDEAKVLAEWILSLK
+>gi|757180828|ref|WP_042732948.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|756403569|gb|KIQ56162.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens] >gi|829494031|gb|AKJ99903.1| cytochrome C biogenesis protein CcsA [Pseudomonas chlororaphis]
+MKPILIALALTAAASLQPALAEDGPTLFKSKPCAACHSIDTKVVGPALKDVAAKNANVPGAQDVLAKHIKEGTQGNWGPM
+PMPANPVTEEEAKTLAAWVLTLK
+>gi|948080705|ref|WP_056739447.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. Root329] >gi|945466537|gb|KQV22518.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. Root329]
+MKNTLFSLFALTAALSVQPAMAQDALELFKSKPCAACHSIDTKIVGPALKDVAAKNAGVPGAVDTLAGHIKNGTQGNWGP
+MPMPANPVTEEEAKILATWVLTLK
+>gi|921174020|ref|WP_053119574.1| cytochrome c biogenesis protein CcsA [Pseudomonas thivervalensis] >gi|1025901665|gb|OAB50746.1| cytochrome C biogenesis protein CcsA [Pseudomonas thivervalensis]
+MKPILIALALTAAYSLPALAQDGPTLFKSKPCAACHSIDTKVVGPALKEVAAKNAGVAGAQDVLAKHIKEGTQGNWGPMP
+MPANPVTEEEAKILAAWVLTLK
+>gi|504105171|ref|WP_014339157.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|359761675|gb|AEV63754.1| NirM [Pseudomonas fluorescens F113] >gi|801164469|gb|KKA04127.1| cytochrome C biogenesis protein CcsA [Pseudomonas kilonensis] >gi|937319088|gb|ALI09950.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens] >gi|945554688|gb|KQW09800.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. Root401]
+MKPILIALALTAAYSLPALAQDGPTLFKSKPCAACHSIDTKVVGPALKEVAAKNAGVAGAQDLLAKHIKEGTQGNWGPMP
+MPANPVTEEEAKILAAWVLTLK
+>gi|802168049|ref|WP_046046544.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens] >gi|799200008|gb|KJZ44886.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens]
+MKNTLFSLFALTAALSAQPAMAQDALELFKSKPCAACHSIDTKIVGPALKDVAAKNAGIPGAVDTLAGHIKNGTQGNWGP
+MPMPANPVTEEEAKILATWVLTLK
+>gi|643467772|ref|WP_025213333.1| cytochrome c biogenesis protein CcsA [Pseudomonas brassicacearum] >gi|591392868|gb|AHL33761.1| cytochrome C biogenesis protein CcsA [Pseudomonas brassicacearum]
+MKPILFALTLAAAASLQPALAQDGPTLFKSKPCAACHSIDTKVVGPALKEVAAKNAGVAGAQELLAKHIKEGTQGNWGPM
+PMPANPVTEEEAKILAAWVLTLK
+>gi|518205223|ref|WP_019375431.1| cytochrome c' [Alicycliphilus sp. CRZ1]
+MKRTLITLAMSLSVAAPAFADQALATSKNCMACHAVDKKLVGPAYKDVAAKYAGQAGAADKLAEHIMKGSSGIWGPVPMP
+ANPQVKPDEAKKLADWVLSLK
+>gi|502757129|ref|WP_012992113.1| cytochrome c [Thermocrinis albus] >gi|289182463|gb|ADC89707.1| cytochrome c class I [Thermocrinis albus DSM 14484]
+MRRALLLGAVSVALLASCQQKPAEQQQPTGEQQQPAQPAQPAQPAQPPAAGEQQQQQQQKPAEEKKEQSAAPAKDMKALA
+QAKGCFACHDINTKKVGPAWKDVAKKFAGDPKAVDELAKRIKNGSSGVWGSVPMPPQNVTDQEAKDLAQWILSLK
+>gi|759382299|ref|WP_043108670.1| hypothetical protein [endosymbiont of unidentified scaly snail isolate Monju] >gi|530671513|dbj|BAN69929.1| cytochrome c, class I [endosymbiont of unidentified scaly snail isolate Monju]
+MKKQVLLLSALLASVLTAPVMAAEDASALAQAKNCLGCHQVDNKVVGPAYKDVAAKYAGDAGAVDKLVAKVKTGGAGVWG
+QIPMPPNNVTDEEARKLVEWILSLK
+>gi|696527071|ref|WP_033062188.1| cytochrome c biogenesis protein CcsA [Pseudomonas mandelii] >gi|633675671|gb|KDD65272.1| cytochrome C biogenesis protein CcsA [Pseudomonas mandelii PD30]
+MKNTLFSLFALTAALSVQPAMAQDALELFKSKPCAACHSVDTKIVGPALKDVAAKNAGVPGAVDTLAGHIKNGTQGNWGP
+MPMPANPVTEEEAKILATWVLTLK
+>gi|975879883|ref|WP_059285120.1| cytochrome C biogenesis protein CcsA [Aquitalea magnusonii]
+MKKMLLAALLLGTAAAPAMANLALAQKNNCLSCHAVDHKVVGPAYKDVAKKYAGDKGAEAKLIAKVKAGGSGVWGPIPMP
+PNSQVSDADIKTLVKWVLSQK
+>gi|797171394|ref|WP_045845894.1| cytochrome c biogenesis protein CcsA [Aquitalea magnusonii] >gi|787916766|gb|KJV31755.1| cytochrome C biogenesis protein CcsA [Aquitalea magnusonii]
+MKKMLLAALLLGTAAAPAMANLALAQKNNCLSCHAVDHKVVGPAYKDVAKKYAGDKGAEAKLIAKVKAGGAGVWGPVPMP
+PNAQVSDADVKTLVKWVLSQK
+>gi|802209282|ref|WP_046052675.1| cytochrome c biogenesis protein CcsA [Pseudomonas fluorescens] >gi|799223157|gb|KJZ67318.1| cytochrome C biogenesis protein CcsA [Pseudomonas fluorescens]
+MKITLFSLFALTAALSVQPAMAQDALELFKSKPCAACHSIDTKIVGPALKDVAAKNSGVPGAVDTLAGHIKNGTQGNWGP
+MPMPANPVTEEEAKILATWVLTLK
+>gi|495431597|ref|WP_008156292.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. GM41(2012)] >gi|576707956|gb|EUB74391.1| hypothetical protein PMI27_000567 [Pseudomonas sp. GM41(2012)]
+MKNTLFSLFALTAALSVQPAMAQDALELFKSKPCAACHSIDTKIVGPALKDVAAKNASVPGAVDTLASHIKNGTQGNWGP
+MPMPANPVTEEEAKILATWVLTLK
+>gi|655004537|ref|WP_028453698.1| hypothetical protein [Chitinilyticum aquatile]
+MQKIMIVLAVAGLLASAGAHAVSGADLAKSKACMACHTVDKKVVGPAYKDVAAKYKNDKGAVAKLATKIQKGGSGVWGSM
+AMPPNAVSDAEAKLLAEWVMAQK
+>gi|516077219|ref|WP_017507802.1| cytochrome c [beta proteobacterium L13]
+MKKMLFAALAISAFAAPAFANLQLAQKNNCTACHAVDKKVVGPAYKDVAKKYAGDKGAEAKLVAKVKAGGAGVWGPVPMP
+PNPQVSDADVKTLVKWVLSQK
+>gi|654527904|ref|WP_027996027.1| cytochrome c' [Simplicispira psychrophila]
+MKRTLITLAMTLSVAAPAMADQALATSKNCMACHSIDKKLVGPAYKDVAKKYAGQKGAEATLVTHVMKGSTGVWGPIPMP
+ANTQVSEAEAKKLVNWVLSLK
+>gi|500128499|ref|WP_011804504.1| MULTISPECIES: cytochrome c' [Comamonadaceae] >gi|120605564|gb|ABM41304.1| cytochrome c, class I [Acidovorax sp. JS42] >gi|221729643|gb|ACM32463.1| cytochrome c class I [Acidovorax ebreus TPSY] >gi|829485459|gb|KLR57435.1| cytochrome C' [Diaphorobacter sp. J5-51]
+MKRTLITLAMTLSVAAPAFADQALATSKNCMACHAVDKKLVGPSYKDVAAKYAGQAGAADKLAEKIMKGSSGVWGPVPMP
+ANAQVNAADAKKLATWVLSLK
+>gi|653251285|ref|WP_027456691.1| cytochrome c biogenesis protein CcsA [Dechloromonas agitata]
+MKAVYVAMMAAAGIVMTGQAQADEALAKAKNCMSCHAIDKKLVGPSYKDVAAKYKGDAKAPAMLAAKIKAGGKGTWGQIP
+MPPNNVTEDEAKKLAAWVLALK
+>gi|771601038|ref|WP_045213977.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. 21] >gi|770081234|gb|KJJ98745.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. 21]
+MHKALVALLFGGLLVQTTAMASTGEELFKAKACVACHSVDKKLVGPAFHDVAAKYGPQADGVAHITNSIKTGSKGNWGPI
+PMPANAVSPEEAKTLAEWIVTLK
+>gi|1011984857|ref|WP_062788988.1| cytochrome C biogenesis protein CcsA [Aquitalea pelogenes]
+MKKMLLAALLLGTAAAPAMANLALAQKNNCLSCHAVDHKVVGPAYKDVAKKYAGDKGAEAKLIAKVKAGGAGVWGPVPMP
+PNAQVSDADVKTLVKWILSQK
+>gi|939365403|ref|WP_054910310.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|1042732986|gb|OBY60967.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. AU12215] >gi|1042866713|gb|OBY93500.1| cytochrome C biogenesis protein CcsA [Pseudomonas sp. AU11447]
+MNKALVALLFGGLLVQTTAMASTGEELFKAKACVACHSVDKKLVGPAFHDVAAKYGPQADGVAHITNSIKTGSKGNWGPI
+PMPANAVSPEEAKTLAEWIVTLK
+>gi|1055135370|ref|WP_066882889.1| cytochrome C biogenesis protein CcsA [Dechloromonas denitrificans] >gi|985874069|gb|KXB31085.1| cytochrome C biogenesis protein CcsA [Dechloromonas denitrificans]
+MKAVYVAMMAAAGIVMAGQAQADEALAKAKNCMACHAIDKKLVGPAYKDVAAKYKSDKNAVATLAAKVKAGGKGNWGEIP
+MPPNNVTDDEAKKLVTWILAQK
+>gi|655951241|ref|WP_028994181.1| cytochrome c biogenesis protein CcsA [Azonexus hydrophilus]
+MKAAYIAIMAAAGIVMTGQAQADEALAKAKNCMTCHALDKKLVGPSYHDVAAKYKGDKGAAAMLAGKIKTGGKGTWGAIP
+MPPNKVTDEEAAKLAAWVLTTK
+>gi|648642375|ref|WP_026334126.1| cytochrome c' [Oxalobacteraceae bacterium AB_14]
+MKRNLMMVGMVVASAFASQAAMADAGMDLAKAKNCLACHAVSTKLVGPAYKDVAAKYAGQKDAEAKLVAKVMKGGSGTWG
+AIPMPANPQVTDAEAKTLVKWVLAQK
+>gi|655158567|ref|WP_028605172.1| cytochrome c' [Ottowia thiooxydans]
+MKRALFVLAALAGLTAVSTPVMANEALAKSKNCMACHTVDKKLVGPSYKDVAAKFSKDAGAADMLAGKIMKGSSGTWGAV
+PMPPNANVSEAEAKTLATWILSLK
+>gi|923026155|ref|WP_053420185.1| cytochrome c' [Azoarcus sp. PA01] >gi|922793554|gb|KON81174.1| cytochrome C' [Azoarcus sp. PA01]
+MKLFVAAAVAAGLLSAAPAFASAELAKAKNCLACHAVDKKLVGPSYQDVAKKYAGQADAVAKLAEKIQKGGSGVWGPVPM
+PANPQVSADEAKLLATWVMSQK
+>gi|501314883|ref|WP_012346518.1| cytochrome c' [Leptothrix cholodnii] >gi|170775617|gb|ACB33756.1| cytochrome c class I [Leptothrix cholodnii SP-6]
+MKPLFALLAASTALLASPAFANLELAQKKACMACHAVDKKLVGPGFKEVAAKYAGQKDAVAKLSDKVIKGGAGVWGPIPM
+PANAITADEAKTLVTWVLSQK
+>gi|753926842|ref|WP_041645820.1| cytochrome c' [Aromatoleum aromaticum]
+MKLFVAAAVAAGLLSAAPAFASAELAKAKNCLACHAVDKKLVGPSYQDVAKKYAGQADAVAKLADKIQKGGSGVWGPVPM
+PANPQVSADEAKLLATWVLSQK
+>gi|948088423|ref|WP_056747133.1| cytochrome c' [Acidovorax sp. Root568] >gi|945954362|gb|KRA07485.1| cytochrome C' [Acidovorax sp. Root568]
+MKRSLITLALTLSVAAPAMADLALATSKNCMACHAVDKKLVGPAYKDVAAKYAGQKDAVDKLAAKIVKGGSGVWGPVPMP
+ANAQVSDAEAKKLAAWVLTQK
+>gi|654640581|ref|WP_028101768.1| cytochrome c' [Pseudoduganella violaceinigra]
+MKRSLMVGFLVTAAFSSQAAFANADLAKAKNCMACHAIATKLVGPAYKDVAAKYAGQKDAEAKLVAKVMKGGSGVWGAVP
+MPANPQVTEAEAKTLVKWVLSQK
+>gi|639936965|ref|WP_024766101.1| cytochrome c biogenesis protein CcsA [Pseudomonas nitroreducens]
+MNKALVALLFGGLLVQTTAMASTGEELFKAKACVACHSVDKKLVGPAFHDVAAKYGPQADGVAYITNSIKTGSKGNWGPI
+PMPANAVSPEEAKTLAEWIVTLK
+>gi|495151488|ref|WP_007876294.1| cytochrome c' [Herbaspirillum sp. CF444] >gi|398103129|gb|EJL93302.1| cytochrome c551/c552 [Herbaspirillum sp. CF444]
+MKQSLFIASAVLAFGFSAQAFAQAAPADLAKSKNCMACHAVQTKIVGPAFKDVAAKYKGQKDAEDKLTQKVLKGGSGVWG
+AIPMPANAQVSEAEARTLVKWVLTQK
+>gi|739122179|ref|WP_036991770.1| cytochrome c biogenesis protein CcsA [Pseudomonas bauzanensis] >gi|612182221|gb|EZQ18174.1| cytochrome C biogenesis protein CcsA [Pseudomonas bauzanensis]
+MKFYLLPLVAAAALTAAHSASAAEELFQSKVCVACHTVDTKLVGPAMKEVAAKYGEQADGKEHIMASIQNGSSGIWGPIP
+MPPNQVTEEEAGKLADWILSLN
+>gi|115229|sp|P00102.1|CY551_PSEME RecName: Full=Cytochrome c-551; AltName: Full=Cytochrome C8; AltName: Full=Cytochrome c551
+ASGEELFKSKPCGACHSVQAKLVGPALKDVAAKNAGVDGAADVLAGHIKNGSTGVWGAMPMPPNPVTEEEAKTLAEWVLT
+LK
+>gi|489274669|ref|WP_003182369.1| MULTISPECIES: cytochrome c biogenesis protein CcsA [Pseudomonas] >gi|327378132|gb|AEA69482.1| Cytochrome c-551 [Pseudomonas brassicacearum subsp. brassicacearum NFM421] >gi|388005454|gb|EIK66721.1| cytochrome c-551 [Pseudomonas fluorescens Q8r1-96] >gi|397888896|gb|EJL05379.1| cytochrome c-551 [Pseudomonas fluorescens Q2-87] >gi|757246123|gb|KIR19361.1| Cytochrome c-551 precursor [Pseudomonas fluorescens] >gi|955701110|gb|ALQ04047.1| Cytochrome c551/c552 [Pseudomonas brassicacearum]
+MKPILIALALTAAYSLPALAQDGPTLFKSKPCAACHSIDTKVVGPALKDVAAKNASVPGAQDLLAKHIKEGTQGNWGPMP
+MPANPVTEEEAKILAAWVLTLK
+>gi|647645275|ref|WP_025917250.1| cytochrome c' [Herminiimonas sp. CN]
+MKSFLLVLLAMGGLVSNAAMADAGLDLAKAKNCMACHAVANKVVGPAYKDVAAKYAGQKDAEAKLVAKVMKGGSGVWGAI
+PMPANTQVSEAEAHTLVKWVLSQK
+>gi|674642239|emb|CEA04293.1| cytochrome c-551 [Pseudomonas sp. 12M76_air] >gi|683398811|emb|CEF26516.1| cytochrome c-551 [Pseudomonas sp. 12M76_air]
+MTILKKYLAASAATLALVAGNSFAATDEAIAERLKPYGSVCLVGDECANAVAAAPAAAAAGGEEAAGGSQGEALFSAKTC
+VACHSVDNKVVGPAMKEVAAKYAGDADHIIASIKNGSQGNWGPIPMPPNAVNDEEAAALAEWILSLN
+>gi|648260766|ref|WP_026041915.1| cytochrome c biogenesis protein CcsA [Pseudomonas mendocina] >gi|663687123|gb|KES02279.1| cytochrome C biogenesis protein CcsA [Pseudomonas mendocina] >gi|949814659|gb|ALN21683.1| cytochrome C biogenesis protein CcsA [Pseudomonas mendocina S5.2]
+MKKALIPLAALLSLAALSNAHAASGEELFKSKPCGACHSVQAKLVGPALKDVAAKNAGVDGAADVLAGHIKNGSTGVWGA
+MPMPPNPVTEEEAKTLAEWVLTLK
+>gi|946146105|gb|KRB98138.1| hypothetical protein ASE26_24770 [Duganella sp. Root198D2]
+MKMKIVAAALLMTASLAAYAEEPEQLAKSKSCFACHAMAKKLVGPSFKDVAAKYKNDKGAEDKLILKVLQGGSGVWGAVP
+MPPNQVTDAEAHQLVRWVLAQK
+>gi|495726996|ref|WP_008451575.1| cytochrome c class I [Janthinobacterium sp. HH01] >gi|444788908|gb|ELX10456.1| cytochrome c class I [Janthinobacterium sp. HH01]
+MKRNLMMVGMVVASAFASQSAMADAGADLAKAKNCLACHAVSTKLVGPAYKDVAAKYAGQKDAEAKLVTKVIKGGTGAWG
+AIPMPANPQVSEAEAKTLVKWVLAQK
+>gi|821528940|ref|WP_046850862.1| cytochrome c551 [Nitrosomonas communis] >gi|821348597|gb|AKH38828.1| cytochrome C-551 [Nitrosomonas communis]
+MRKVLLGVMAASAALWIGSAQADAELAKSSGCLNCHNVDTKLVGPSLKDVAAKYAGQADAADYLAGKIKNGSNGVWGTIP
+MPPNANVSDENAKKLAEFILTLK
+>gi|947156719|ref|WP_055929792.1| MULTISPECIES: hypothetical protein [Duganella] >gi|945498475|gb|KQV53925.1| hypothetical protein ASD07_05090 [Duganella sp. Root336D2] >gi|945890919|gb|KQZ44299.1| hypothetical protein ASD58_19050 [Duganella sp. Root1480D1]
+MKIVAAALLMTASLAAYAEEPEQLAKSKSCFACHAMAKKLVGPSFKDVAAKYKNDKGAEDKLILKVLQGGSGVWGAVPMP
+PNQVTDAEAHQLVRWVLAQK
+>gi|917630534|ref|WP_052199593.1| hypothetical protein [endosymbiont of unidentified scaly snail isolate Monju]
+MAPGASQPAAAPAVEDASALAQAKGCLGCHQVAAKVLGPAYKDVAAKYRGDAGALDRLVAKVKSGGAGVWGQIPMPPNNV
+SDEEATRLVKWILSLQ
+>gi|1004041310|ref|WP_061496589.1| hypothetical protein [Ramlibacter tataouinensis] >gi|1003118538|gb|AMO22285.1| hypothetical protein UC35_04470 [Ramlibacter tataouinensis]
+MKQLLIPALTGAALAWTAVAHAADSGEDLMKKNGCVACHAVDKKVVGPSFKEVAAKYKGDKTAEAKLVEKVKKGGSGVWG
+QVPMPPNAQVKDEDIKTMVKWVLTQ
+>gi|504001748|ref|WP_014235742.1| cytochrome c' [Azospira oryzae] >gi|359353870|gb|AEV25041.1| cytochrome c551/c552 [Dechlorosoma suillum PS]
+MKAIYVSLLAAAGLLINGAAQADEALAKAKNCMTCHQIATKVVGPAYKDVAKKYAGDKAAEGKLAEKIQKGGSGAWGTVP
+MPPNNVTPDEAKKLAHWVLSLK
+>gi|748793937|ref|WP_040041948.1| cytochrome c' [Herbaspirillum sp. TSA66] >gi|747178851|gb|KIF83322.1| cytochrome C' [Herbaspirillum sp. TSA66]
+MKRSLLVFLAAGALVSNAAMANADLAKAKNCMACHAVANKVVGPAFKDVAAKYAGQKDAEDKLTQKVLKGGSGVWGPVPM
+PANTQVNEAEARTLVKWVLSQK
+>gi|736784047|ref|WP_034786554.1| cytochrome c' [Janthinobacterium lividum] >gi|722540198|gb|KHA76322.1| cytochrome C' [Janthinobacterium lividum]
+MKRFMLVSVLAVSALASQAALANPDLAKAKNCMACHAVSTKLVGPAFKDVAAKYAGQKDAEAKLVAKVMKGGSGTWGAIP
+MPANPQVSDAEAHTLVKWVLAQK
+>gi|738277688|ref|WP_036232247.1| cytochrome c' [Massilia sp. JS1662] >gi|691636998|gb|KGF81954.1| cytochrome C' [Massilia sp. JS1662]
+MKRTMMLFAAVSALASTGAYAQDAAALAKAKNCMACHSVQTKLVGPAYKDVAAKYAGQKDAEGKLVQKVLKGGSGTWGPV
+PMPANPQVSEAEAHTLVKWVLAQK
+>gi|947732836|ref|WP_056394976.1| cytochrome c' [Massilia sp. Root418] >gi|945642590|gb|KQW97276.1| cytochrome C' [Massilia sp. Root418]
+MKRFLMIGMVAVSAFATQSAMANADLAKAKNCMACHAVANKLVGPAYKDVAAKYAGQKDAEAKLVTKVMKGGSGVWGAIP
+MPANPQVSEAEAKTLVKWVLAQK
+>gi|764930737|ref|WP_044501508.1| cytochrome c biogenesis protein CcsA [Pseudomonas sp. 12M76_air]
+MFSAKTCVACHSVDNKVVGPAMKEVAAKYAGDADHIIASIKNGSQGNWGPIPMPPNAVNDEEAAALAEWILSLN
+>gi|736185806|ref|WP_034298684.1| cytochrome c' [Herbaspirillum sp. RV1423]
+MKSFLFIASVVLASGISTQAFAQATPADLAKAKNCLACHSVQTKIVGPAYKDVAAKYKGQKDAEDKLTQKVLKGGSGVWG
+AIPMPANPQVTEAEARTLVKWVLSQK
+>gi|947398477|ref|WP_056064447.1| MULTISPECIES: cytochrome c' [Acidovorax] >gi|945570076|gb|KQW25104.1| cytochrome C' [Acidovorax sp. Root402]
+MKRSLITLALTLSVAAPAMADLALATSKNCMACHAVDKKLVGPAYKDVAAKYAGQKDAVDKLAAKIVKGGSGVWGPVPMP
+ANAQVNDAEAKKLAAWVLTQK
+>gi|504827725|ref|WP_015014827.1| MULTISPECIES: cytochrome c' [Acidovorax] >gi|407897615|gb|AFU46824.1| class I cytochrome c [Acidovorax sp. KKS102] >gi|946088960|gb|KRB41457.1| cytochrome C' [Acidovorax sp. Root70]
+MKRSLITLALTLSVAAPAMADLALATSKNCMACHAVDKKLVGPAYKDVAAKYAGQKDAVDKLAAKIIKGGSGVWGPVPMP
+ANAQVNDAEAKKLAAWVLTQK
+>gi|930604782|ref|WP_054257102.1| cytochrome c' [Acidovorax caeni]
+MNRTLITLAMALSVAAPAMADEALAKSKNCMACHAVDKKLVGPAYKDVAKKYAGQKDAEATLVSHVLKGSKDVWGPVPMP
+ANANVTEAEAKKLVAWVLSLK
+>gi|517817743|ref|WP_018987951.1| cytochrome c' [Azoarcus toluclasticus]
+MKVFVAAAVAAGLLSAAPAFASMELAKAKNCLACHAVDKKLVGPAYQEVAKKYAGDAGAAAKLAEKIQKGGSGVWGTMPM
+PANPQVSPEEAKTLAAWVLSQK
+>gi|652807952|ref|WP_027102671.1| cytochrome c' [Comamonadaceae bacterium URHA0028]
+MKRALFALSFALLAAGPALADQALATAKNCMACHAVDKKLVGPAYKDVAAKYAGQAGAADKLAVKIQKGGSGVWGPVPMP
+ANTQVNEAEAKKLAAWVLSLK
+>gi|938317281|ref|WP_054621507.1| cytochrome c' [Rhodocyclaceae bacterium Paddy-1]
+MSKSLISLSALSALALSAGLLSGAAQASEDLAKAKLCVGCHQIDKKLLGPAYKDVAKKYAGVAGAEGDLAKKIRGGSKGV
+WGGAEMPANSAVSEAEAATLAKWILSLK
+>gi|913734197|ref|WP_050479424.1| cytochrome c' [Herbaspirillum rhizosphaerae]
+MKQSLLIASVVLASGFSAQAFAQAAPADLAKSKNCMACHSVQTKIVGPAFKDVATKYKGQKDAEDKLTQKVLKGGSGVWG
+AIPMPANAQVSEAEARTLVKWVLTQK
+>gi|761528828|gb|AJP49147.1| hypothetical protein PG1C_13310 [Rhodocyclaceae bacterium PG1-Ca6]
+MKLVIASALVAVGILSSASAFASKEKDLATKSACMACHAVDKKLVGPAYQDVAKKYAGDKTAEAKLVEKVKKGGSGVWGP
+IPMPPNAAVKDEDIKTLVKWVLAGAK
+>gi|648294888|ref|WP_026075936.1| cytochrome c' [Herbaspirillum massiliense]
+MKRALLVCLMVGGLVSNAAMANADLAKAKNCMACHSVSNKVVGPAFKDVAAKYAGQKDAEDKLTQKVLKGGSGVWGAVPM
+PANAQVSEAEARTLVKWVLSQK
+>gi|657697459|ref|WP_029496622.1| cytochrome c' [Janthinobacterium lividum] >gi|1041887661|gb|OBX30886.1| cytochrome C' [Janthinobacterium lividum]
+MKRLMLVSVLTVSALASQAALANPDLAKAKNCMACHAVGTKLVGPAYKDVAAKYAGQKDAEAKLVVKVMKGGSGTWGAIP
+MPANPQVSEAEARTLVKWVLAQK
+>gi|880982853|ref|WP_048706658.1| cytochrome c' [Thauera humireducens] >gi|1003328547|gb|AMO37765.1| cytochrome C' [Thauera humireducens]
+MKLFVAAAVAAGLLSSAPAFASADLAKAKNCMACHAVDKKLVGPAYKDVAAKYAGQADAVAKLATKVQKGGVGAWGQIPM
+PPNPQVNDADAKTLVEWILAQK
+>gi|1012032953|ref|WP_062803675.1| cytochrome C [Cupriavidus nantongensis] >gi|1010935649|gb|AMR81886.1| cytochrome C [Cupriavidus nantongensis]
+MRTLPALPALLAAIGCVLAIGTAMPAHASQALASSKACLACHAIDKKMVGPAFQDIKAKYTGRKDAQAQMVQSILKGSSG
+RWGPVPMPANAVSAADANTLAKWILSL
+>gi|1004360923|ref|WP_061532409.1| cytochrome C' [Collimonas arenae] >gi|1004069776|gb|AMO98790.1| cytochrome c-551 [Collimonas arenae] >gi|1004082505|gb|AMP08685.1| cytochrome c-551 [Collimonas arenae]
+MKRFLLICALLGATVSGSALADAGLDLAKAKNCLACHSVQNKVVGPAYKDVAAKFAGQKGAEDMLVQKVLKGSTGTWGAI
+PMPANPQVSEAEAHTLVKWILSLK
+>gi|1028420143|gb|OAI50056.1| cytochrome C biogenesis protein CcsA [Betaproteobacteria bacterium SCGC AG-212-J23]
+MKRLVFIAALAASTAALPASANEELAKKHACFACHSVDKKLVGPSYKDVAAKYRNDKGAEAKLVEKVKKGGTGVWGQVPM
+PPNAAVPDADLHTLVKWILSQK
+>gi|950033800|ref|WP_057157728.1| cytochrome c' [Massilia sp. Root351] >gi|945525085|gb|KQV80429.1| cytochrome C' [Massilia sp. Root351]
+MKRFLMLGMVAVSAFATQSAMANADLAKAKNCMACHAVANKLVGPAFKDVAAKYAGQKDAEAKLATKVVKGGSGVWGAIP
+MPANPQVSEAEAKTLVKWILTQK
+>gi|913429482|ref|WP_050411813.1| cytochrome c' [Massilia sp. NR 4-1] >gi|909845019|gb|AKU24134.1| cytochrome C' [Massilia sp. NR 4-1]
+MKRILMVGAVVVSAFASQAALANADLAKAKNCMACHAVANKLVGPAYKDVAAKYAGQKDAETKLVQKVMKGGSGTWGAIP
+MPANPQVSEAEARTLVKWILTQK
+>gi|502019417|ref|WP_012695527.1| cytochrome c' [Laribacter hongkongensis] >gi|226713894|gb|ACO73032.1| Cytochrome c, class I precursor [Laribacter hongkongensis HLHK9]
+MNKYAIALSALALLATAPAFANQQLAQQKNCMSCHAVDKKIVGPAYKDVAAKYKNDPKAEAMLVQKVMKGGAGVWGPVPM
+PANNISEADAKTLVKWVMSQK
+>gi|947466274|ref|WP_056130632.1| MULTISPECIES: cytochrome c' [Massilia] >gi|945751646|gb|KQY05811.1| cytochrome C' [Massilia sp. Root133] >gi|945898921|gb|KQZ52262.1| cytochrome C' [Massilia sp. Root1485]
+MKRTMMLFAAVSALASTGAFAQDAAALAKAKNCMACHSVQTKLVGPAYKDVAAKYAGQKDAEGKLVAKVMKGGSGVWGPV
+PMPANPQVSEAEAHTLVKWVLAQK
+>gi|947476701|ref|WP_056141004.1| cytochrome c' [Duganella sp. Leaf61] >gi|944724437|gb|KQN75604.1| cytochrome C' [Duganella sp. Leaf61]
+MKRNLMMVGVLVASAFASQAAMADAGSDLAKAKNCMACHAVATKLVGPSYKDVAAKYAGQKDAESKLVTKVMKGGSGTWG
+AIPMPANPQVSEAEARTLVKWVLTQK
+>gi|406999161|gb|EKE16895.1| cytochrome c, class I [uncultured bacterium]
+MKAVYIAMIAAAGIVGAGQAYADDAAAALAKAKNCMACHAVDKKLVGPSYKDVAAKYKGDAKAPAMLAAKVKAGGKGVWG
+QIPMPPNNVTPDEAAKLVAWVLSQK
+>gi|504003151|ref|WP_014237145.1| cytochrome c' [Azospira oryzae] >gi|359355278|gb|AEV26449.1| cytochrome c551/c552 [Dechlorosoma suillum PS]
+MKSTHLSLLALGGLFLLGNAQADEALAKAKNCMSCHQVAVKVLGPAYKDVAAKYKGDAGAVDKLAAKIKAGGKGVWGEVP
+MPPNNVTADEAKKLATWVLSLK
+>gi|500134937|ref|WP_011810942.1| cytochrome c' [Verminephrobacter eiseniae] >gi|121554801|gb|ABM58950.1| cytochrome c, class I [Verminephrobacter eiseniae EF01-2]
+MKRILITFAMALSVAPAAMADLALATAKQCVACHTVDKKLVGPAYKDVAAKYAGQKDAVDKLAIKITQGSSGVWGPVPMP
+ANAKVSEAEAKKLAAWVLMQK
+>gi|503285483|ref|WP_013520144.1| MULTISPECIES: cytochrome c' [Alicycliphilus] >gi|317118574|gb|ADV01063.1| cytochrome c class I [Alicycliphilus denitrificans BC] >gi|329309095|gb|AEB83510.1| cytochrome c class I [Alicycliphilus denitrificans K601] >gi|781561375|dbj|GAO24662.1| cytochrome c-551 precursor [Alicycliphilus sp. B1] >gi|781564593|dbj|GAO21211.1| cytochrome c-551 precursor [Alicycliphilus sp. B1]
+MKRTLITLAMALSVAAPAMADEAMAKSKNCMACHAIDKKLVGPAYKEVAKKYAGKGAEATLVQHVLKGSSGVWGPVPMPA
+NAQVNEAEAKQLVSWILSLK
+>gi|947784399|ref|WP_056446143.1| cytochrome c' [Massilia sp. Root335] >gi|945481531|gb|KQV37096.1| cytochrome C' [Massilia sp. Root335]
+MKRSLMLFVAVAAVASTSAFAQDAAALAKAKNCMACHSVQSKLVGPAYKDVAAKYAGQKDAEGKLVSKVMKGGSGVWGPV
+PMPANPQVTEAEAHTLVKWVLSQK
+>gi|497786628|ref|WP_010100812.1| cytochrome c' [Verminephrobacter aporrectodeae]
+MKRTLIALAMTWSAATPAMADMALATAKNCMACHAVDKKLVGPAYKDVAAKYAGQKDAVAKLAAKIIMGGSGVWGPVPMP
+ANAQVSEADAKKLAAWVLTQK
+>gi|502912111|ref|WP_013147087.1| cytochrome c [Methylotenera versatilis] >gi|297256926|gb|ADI28771.1| cytochrome c class I [Methylotenera versatilis 301]
+MKALMLTIALAGSMLVAGQANAEDAKALAQKSGCLACHSVDAKILGPAYKDVAAKYKGDKGAEAKLVAKVKAGGSGVWGP
+MPMPANSPQVKDEDIKTIVHWVLSL

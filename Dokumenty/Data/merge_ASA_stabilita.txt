@@ -1,0 +1,1575 @@
+exposed	-stabilita
+burried	+stabilita
+burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	+stabilita
+exposed	+stabilita
+exposed	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	+stabilita
+exposed	-stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	+stabilita
+partially burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	+stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	+stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+partially burried	+stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+exposed	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+exposed	+stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	+stabilita
+burried	-stabilita
+partially burried	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+burried	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	+stabilita
+partially burried	-stabilita
+burried	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+burried	-stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+partially burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+partially burried	+stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	+stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+burried	+stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+exposed	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+partially burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	+stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+partially burried	+stabilita
+burried	-stabilita
+burried	+stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+exposed	+stabilita
+exposed	+stabilita
+partially burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	+stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+partially burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+partially burried	+stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+partially burried	+stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+burried	+stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	+stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+exposed	+stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	+stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+partially burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+partially burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+exposed	+stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	-stabilita
+partially burried	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+burried	+stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	+stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+burried	+stabilita
+partially burried	+stabilita
+exposed	-stabilita
+burried	-stabilita
+partially burried	+stabilita
+exposed	-stabilita
+burried	+stabilita
+burried	+stabilita
+burried	+stabilita
+burried	-stabilita
+partially burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	+stabilita
+burried	-stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+partially burried	+stabilita
+exposed	-stabilita
+exposed	+stabilita
+exposed	-stabilita
+burried	-stabilita
+burried	-stabilita
+burried	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	+stabilita
+exposed	+stabilita
+exposed	-stabilita
+exposed	-stabilita
+exposed	-stabilita
+burried	+stabilita

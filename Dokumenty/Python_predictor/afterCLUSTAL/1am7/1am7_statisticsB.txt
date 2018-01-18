@@ -1,0 +1,16 @@
+---------------
+
+file: 1am71-60.txt
+original acid: H
+mutated acid: N
+at position: 48
+
+Statistics:
+
+No all proteins: 250
+Is same at position: count = 0
+No. basic acids at position: 248
+No. mutated acids at position: 0
+No. else acids at position: 2
+Originals : 99.200000
+Mutated : 0.800000

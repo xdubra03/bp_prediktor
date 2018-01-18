@@ -1,0 +1,14 @@
+---------------
+
+file: 1ag2_181-240.txt
+original acid: Q
+mutated acid: R
+at position: 37
+
+Statistics:
+
+No all proteins: 250
+Is same at position: count = 0
+No. basic acids at position: 0
+No. mutated acids at position: 250
+Originals vs mutated : 0.000000

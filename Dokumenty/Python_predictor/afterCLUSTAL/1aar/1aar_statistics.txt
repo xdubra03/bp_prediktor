@@ -1,0 +1,14 @@
+---------------
+
+file: 1aar61-120.txt
+original acid: R
+mutated acid: Q
+at position: 11
+
+Statistics:
+
+No all proteins: 250
+Is same at position: count = 208
+No. basic acids at position: 2
+No. mutated acids at position: 40
+Originals vs mutated : 84.000000

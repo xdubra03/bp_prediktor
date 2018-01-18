@@ -1,0 +1,500 @@
+
+         /-gi|1024856266|ref|WP_063510458.1|hypothetical
+      /-|
+     |  |   /-gi|1054604572|ref|WP_066372822.1|hypothetical
+     |   \-|
+     |     |   /-gi|585397037|dbj|GAF08296.1|ribonuclease
+     |      \-|
+     |         \-gi|917413506|ref|WP_052020218.1|hypothetical
+     |
+     |   /-gi|825868112|ref|WP_047153091.1|hypothetical
+     |  |
+     |  |            /-gi|802894957|emb|CFU87809.1|ribonuclease
+     |  |         /-|
+     |  |        |   \-gi|1114602799|ref|WP_072080830.1|ribonuclease
+     |  |        |
+     |  |      /-|      /-gi|1118640895|ref|WP_072188253.1|ribonuclease
+     |  |     |  |   /-|
+   /-|  |     |  |  |   \-gi|806891241|emb|CRG51610.1|ribonuclease
+  |  |  |     |   \-|
+  |  |  |   /-|     |   /-gi|682102131|gb|AIN14008.1|ribonuclease
+  |  |  |  |  |      \-|
+  |  |  |  |  |         \-gi|812385045|emb|CNG37511.1|ribonuclease
+  |  |  |  |  |
+  |  |  |  |  |   /-gi|1062644284|ref|WP_069318547.1|barnase
+  |  |  |  |   \-|
+  |  |  |  |     |   /-gi|740403192|ref|WP_038236779.1|hypothetical
+  |  |  |  |      \-|
+  |  |  |  |         \-gi|1098170254|emb|SFJ70653.1|ribonuclease
+  |  |  |  |
+  |  |  |  |      /-gi|1165591200|ref|WP_079914337.1|ribonuclease
+  |  |  |  |     |
+  |  |  |  |     |      /-gi|1079665671|emb|SCW81802.1|ribonuclease
+  |   \-|  |     |     |
+  |     |  |     |     |   /-gi|783151794|ref|WP_045670872.1|ribonuclease
+  |     |  |     |     |  |
+  |     |  |     |     |  |   /-gi|518367210|ref|WP_019537417.1|barnase
+  |     |  |     |     |  |  |
+  |     |  |     |   /-|  |  |      /-gi|1057243113|ref|WP_068613200.1|ribonuclease
+  |     |  |     |  |  |  |  |     |
+  |     |  |     |  |  |  |  |     |      /-gi|1081640316|emb|SCY03418.1|ribonuclease
+  |     |  |     |  |  |  |  |     |     |
+  |     |  |     |  |  |  |  |     |     |      /-gi|1015837699|ref|WP_062834404.1|ribonuclease
+  |     |  |     |  |  |  |  |     |     |   /-|
+  |     |  |     |  |   \-|  |     |   /-|  |  |   /-gi|1133959178|ref|WP_076331147.1|ribonuclease
+  |     |  |     |  |     |  |     |  |  |  |   \-|
+  |     |  |     |  |     |  |     |  |  |  |     |   /-gi|516285190|ref|WP_017688497.1|hypothetical
+  |     |  |     |  |     |  |     |  |  |  |      \-|
+  |     |  |     |  |     |  |     |  |  |  |        |   /-gi|738721746|ref|WP_036615937.1|MULTISPECIES
+  |     |  |     |  |     |  |     |  |   \-|         \-|
+  |     |  |     |  |     |  |     |  |     |            \-gi|1133955598|ref|WP_076327604.1|ribonuclease
+  |     |  |     |  |     |  |   /-|  |     |
+  |     |  |     |  |     |  |  |  |  |     |   /-gi|1087488963|emb|SDC62798.1|ribonuclease
+  |     |  |     |  |     |  |  |  |  |     |  |
+  |     |  |     |  |      \-|  |  |  |     |  |      /-gi|1122547576|ref|WP_074095056.1|ribonuclease
+  |     |  |   /-|  |        |  |  |  |      \-|   /-|
+  |     |  |  |  |  |        |  |  |  |        |  |   \-gi|738779581|ref|WP_036670931.1|ribonuclease
+  |      \-|  |  |  |        |  |  |  |        |  |
+  |        |  |  |  |        |  |  |  |        |  |   /-gi|948031097|ref|WP_056690327.1|ribonuclease
+  |        |  |  |  |        |  |  |  |         \-|  |
+  |        |  |  |  |        |  |  |  |           |  |         /-gi|515239155|ref|WP_016821491.1|hypothetical
+  |        |  |  |  |        |  |  |  |           |  |      /-|
+  |        |  |  |  |        |  |  |  |           |  |   /-|   \-gi|670514236|ref|WP_031461760.1|ribonuclease
+  |        |  |  |  |        |  |  |  |            \-|  |  |
+  |        |  |  |  |        |  |   \-|              |  |   \-gi|515997513|ref|WP_017428096.1|hypothetical
+  |        |  |  |  |        |  |     |              |  |
+  |        |  |  |  |        |  |     |              |  |         /-gi|1159807914|ref|WP_079349134.1|ribonuclease
+  |        |  |  |  |        |  |     |              |  |      /-|
+  |        |  |  |  |        |  |     |              |  |     |   \-gi|1011413612|ref|WP_062325282.1|ribonuclease
+  |        |  |  |  |        |  |     |               \-|     |
+  |        |  |  |  |        |  |     |                 |     |      /-gi|1133915891|ref|WP_076289227.1|ribonuclease
+  |        |  |  |  |        |  |     |                 |   /-|     |
+  |        |  |  |  |         \-|     |                 |  |  |   /-|--gi|1095118168|emb|SEM09266.1|ribonuclease
+  |        |  |  |  |           |     |                 |  |  |  |  |
+  |        |  |  |  |           |     |                 |  |  |  |   \-gi|639455222|ref|WP_024633214.1|MULTISPECIES
+  |        |  |  |  |           |     |                 |  |   \-|
+  |        |  |  |  |           |     |                  \-|     |   /-gi|1035846259|ref|WP_064637338.1|ribonuclease
+  |        |  |  |  |           |     |                    |     |  |
+  |        |  |  |  |           |     |                    |      \-|--gi|1025828897|ref|WP_063562722.1|MULTISPECIES
+  |        |  |  |  |           |     |                    |        |
+  |        |  |   \-|           |     |                    |         \-gi|1095187221|emb|SEN85377.1|ribonuclease
+  |        |  |     |           |     |                    |
+  |        |  |     |           |     |                     \-gi|927081170|ref|WP_053781014.1|ribonuclease
+  |        |  |     |           |     |
+  |        |  |     |           |     |   /-gi|1011516405|ref|WP_062410808.1|ribonuclease
+  |        |  |     |           |      \-|
+--|        |  |     |           |         \-gi|1124441644|ref|WP_074728115.1|ribonuclease
+  |        |  |     |           |
+  |        |  |     |           |      /-gi|1199713489|ref|WP_087443714.1|ribonuclease
+  |        |  |     |           |   /-|
+  |        |  |     |           |  |   \-gi|493728039|ref|WP_006677378.1|barnase
+  |        |  |     |           |  |
+  |        |  |     |           |  |   /-gi|518253003|ref|WP_019423211.1|hypothetical
+  |        |  |     |            \-|  |
+  |         \-|     |              |  |      /-gi|1174823939|ref|WP_081505809.1|barnase
+  |           |     |              |  |   /-|
+  |           |     |              |  |  |   \-gi|402505271|gb|EJW15797.1|putative
+  |           |     |               \-|  |
+  |           |     |                 |  |         /-gi|1178680751|ref|WP_083189284.1|barnase
+  |           |     |                 |  |        |
+  |           |     |                 |  |        |--gi|1180022946|ref|WP_083545300.1|barnase
+  |           |     |                 |  |      /-|
+  |           |     |                  \-|     |  |--gi|1042846620|gb|OBY79093.1|barnase
+  |           |     |                    |     |  |
+  |           |     |                    |   /-|   \-gi|1070680749|dbj|GAV14683.1|putative
+  |           |     |                    |  |  |
+  |           |     |                    |  |  |      /-gi|1175128295|ref|WP_081676922.1|MULTISPECIES
+  |           |     |                    |  |  |   /-|
+  |           |     |                    |  |   \-|   \-gi|528203025|gb|EPY13127.1|ribonuclease
+  |           |     |                     \-|     |
+  |           |     |                       |      \-gi|1087266145|emb|SDE78045.1|ribonuclease
+  |           |     |                       |
+  |           |     |                       |      /-gi|1175127735|ref|WP_081676362.1|barnase
+  |           |     |                       |   /-|
+  |           |     |                       |  |   \-gi|528195020|gb|EPY05256.1|ribonuclease
+  |           |     |                        \-|
+  |           |     |                          |   /-gi|1175518808|ref|WP_082061449.1|barnase
+  |           |     |                           \-|
+  |           |     |                              \-gi|763824628|gb|KJB88981.1|barnase
+  |           |     |
+  |           |     |   /-gi|738793146|ref|WP_036684340.1|ribonuclease
+  |           |     |  |
+  |           |      \-|      /-gi|656245317|ref|WP_029191947.1|ribonuclease
+  |           |        |   /-|
+  |           |        |  |   \-gi|1020034482|ref|WP_063184877.1|ribonuclease
+  |           |         \-|
+  |           |           |   /-gi|1165776348|ref|WP_079940696.1|ribonuclease
+  |           |            \-|
+  |           |              |   /-gi|567769527|gb|ETK26875.1|ribonuclease
+  |           |               \-|
+  |           |                  \-gi|738760930|ref|WP_036654199.1|ribonuclease
+  |           |
+  |           |   /-gi|1175148227|ref|WP_081696149.1|ribonuclease
+  |            \-|
+  |               \-gi|542055973|gb|ERI07402.1|ribonuclease
+  |
+  |   /-gi|1119786584|ref|WP_072683042.1|ribonuclease
+  |  |
+  |  |      /-gi|860316173|ref|WP_048375793.1|hypothetical
+  |  |     |
+  |  |   /-|   /-gi|1172356678|ref|WP_080739949.1|MULTISPECIES
+  |  |  |  |  |
+  |  |  |  |  |      /-gi|1207641592|ref|WP_088005050.1|hypothetical
+  |  |  |   \-|   /-|
+  |  |  |     |  |   \-gi|1189462196|gb|OSX97144.1|hypothetical
+  |  |  |     |  |
+  |  |  |      \-|      /-gi|1079339781|ref|WP_070140253.1|hypothetical
+  |  |  |        |   /-|
+  |  |  |        |  |   \-gi|1175164593|ref|WP_081712514.1|hypothetical
+  |  |  |         \-|
+  |  |  |           |      /-gi|1207701332|ref|WP_088059654.1|hypothetical
+  |  |  |           |   /-|
+  |  |  |            \-|   \-gi|1063129308|emb|SCM96159.1|Uncharacterized
+  |  |  |              |
+   \-|  |               \-gi|488115953|ref|WP_002187350.1|MULTISPECIES
+     |  |
+     |  |         /-gi|1178863825|ref|WP_083243346.1|ribonuclease
+     |  |      /-|
+     |  |     |   \-gi|1062497689|gb|ODP29689.1|Ribonuclease
+     |  |     |
+     |  |   /-|      /-gi|1176645354|ref|WP_082472335.1|ribonuclease
+     |  |  |  |   /-|
+     |  |  |  |  |   \-gi|1031373032|gb|ANF96414.1|ribonuclease
+     |  |  |   \-|
+     |  |  |     |   /-gi|1175555189|ref|WP_082096888.1|ribonuclease
+     |  |  |      \-|
+     |  |  |        |   /-gi|808064069|ref|WP_046225301.1|ribonuclease
+     |  |  |         \-|
+     |  |  |            \-gi|516424493|ref|WP_017813891.1|hypothetical
+     |  |  |
+     |  |  |            /-gi|1140912155|ref|WP_076761063.1|MULTISPECIES
+     |  |  |           |
+      \-|  |           |      /-gi|1130988750|ref|WP_075751474.1|ribonuclease
+        |  |           |     |
+        |  |           |     |         /-gi|974645013|ref|WP_059230967.1|MULTISPECIES
+        |  |           |     |      /-|
+        |  |         /-|   /-|     |   \-gi|489277895|ref|WP_003185568.1|MULTISPECIES
+        |  |        |  |  |  |   /-|
+        |  |        |  |  |  |  |  |   /-gi|647492749|ref|WP_025807148.1|ribonuclease
+        |  |        |  |  |  |  |   \-|
+        |  |        |  |  |   \-|      \-gi|647489766|ref|WP_025806180.1|MULTISPECIES
+        |  |        |  |  |     |
+        |  |        |   \-|     |   /-gi|521288786|ref|WP_020453054.1|MULTISPECIES
+        |  |        |     |     |  |
+        |  |        |     |      \-|--gi|860231842|ref|WP_048350580.1|ribonuclease
+        |  |        |     |        |
+        |  |      /-|     |         \-gi|651584972|ref|WP_026580150.1|MULTISPECIES
+        |  |     |  |     |
+        |  |     |  |     |   /-gi|1140940916|ref|WP_076788766.1|ribonuclease
+        |  |     |  |      \-|
+        |  |     |  |         \-gi|763045613|ref|WP_043928993.1|ribonuclease
+        |  |     |  |
+        |  |     |  |   /-gi|1173398245|ref|WP_081250978.1|hypothetical
+        |  |     |  |  |
+        |  |     |  |  |      /-gi|817597551|gb|AKF78129.1|hypothetical
+        |  |     |  |  |     |
+        |  |     |   \-|     |--gi|703587258|gb|AIW39618.1|ribonuclease
+        |  |     |     |   /-|
+        |  |     |     |  |  |--gi|1141010549|ref|WP_076851332.1|MULTISPECIES
+        |  |     |     |  |  |
+        |  |     |     |  |   \-gi|631802708|gb|AHZ17373.1|hypothetical
+        |  |     |      \-|
+        |  |     |        |      /-gi|1004097077|gb|KXZ21008.1|hypothetical
+        |  |     |        |   /-|
+        |  |   /-|        |  |   \-gi|1177702159|ref|WP_082791747.1|hypothetical
+         \-|  |  |        |  |
+           |  |  |         \-|      /-gi|1172303043|ref|WP_080686322.1|hypothetical
+           |  |  |           |   /-|
+           |  |  |           |  |   \-gi|1176253566|ref|WP_082181764.1|hypothetical
+           |  |  |            \-|
+           |  |  |              |   /-gi|1004096258|gb|KXZ20206.1|hypothetical
+           |  |  |               \-|
+           |  |  |                  \-gi|1177707210|ref|WP_082796788.1|hypothetical
+           |  |  |
+           |  |  |         /-gi|736572415|ref|WP_034584049.1|ribonuclease
+           |  |  |      /-|
+           |  |  |     |   \-gi|499266768|ref|WP_010964161.1|ribonuclease
+           |  |  |   /-|
+           |  |  |  |  |      /-gi|1110249185|emb|SHJ96200.1|ribonuclease
+           |  |  |  |  |   /-|
+           |  |  |  |   \-|   \-gi|1120118847|ref|WP_072989278.1|ribonuclease
+           |  |  |  |     |
+           |  |   \-|      \-gi|497760038|ref|WP_010074222.1|ribonuclease
+           |  |     |
+           |  |     |   /-gi|1006560082|ref|WP_061802622.1|ribonuclease
+           |  |     |  |
+           |  |     |  |--gi|748820371|ref|WP_040061402.1|MULTISPECIES
+           |  |     |  |
+           |  |      \-|--gi|1182704186|emb|SMF18585.1|ribonuclease
+           |  |        |
+           |  |        |--gi|518222479|ref|WP_019392687.1|hypothetical
+           |  |        |
+           |  |         \-gi|1098134726|emb|SFQ83900.1|ribonuclease
+           |  |
+           |  |         /-gi|737427691|ref|WP_035408381.1|ribonuclease
+           |  |      /-|
+           |  |     |  |   /-gi|1085896396|emb|SDR91415.1|ribonuclease
+           |  |     |   \-|
+           |  |     |      \-gi|1134114923|ref|WP_076358071.1|MULTISPECIES
+           |  |     |
+           |  |     |                     /-gi|639452320|ref|WP_024630338.1|MULTISPECIES
+           |  |     |                  /-|
+           |  |     |                 |   \-gi|1011414516|ref|WP_062326158.1|ribonuclease
+           |  |     |               /-|
+           |  |     |              |  |   /-gi|1095185961|emb|SEN32067.1|ribonuclease
+           |  |     |            /-|   \-|
+           |  |     |           |  |      \-gi|927084054|ref|WP_053783898.1|ribonuclease
+           |  |     |           |  |
+           |  |     |           |   \-gi|1159805573|ref|WP_079346797.1|ribonuclease
+           |  |     |           |
+           |  |     |         /-|      /-gi|1025829408|ref|WP_063563233.1|ribonuclease
+            \-|     |        |  |     |
+              |     |        |  |     |--gi|1035847967|ref|WP_064639004.1|MULTISPECIES
+              |     |        |  |   /-|
+              |     |        |  |  |  |--gi|1095123841|emb|SEK24460.1|ribonuclease
+              |     |        |   \-|  |
+              |     |        |     |   \-gi|1133916246|ref|WP_076289582.1|ribonuclease
+              |     |        |     |
+              |     |        |      \-gi|1160849729|ref|WP_079694640.1|ribonuclease
+              |   /-|        |
+              |  |  |        |            /-gi|1133954795|ref|WP_076326801.1|ribonuclease
+              |  |  |        |         /-|
+              |  |  |        |        |   \-gi|1122546515|ref|WP_074094622.1|ribonuclease
+              |  |  |      /-|        |
+              |  |  |     |  |        |         /-gi|1133958760|ref|WP_076330729.1|ribonuclease
+              |  |  |     |  |        |      /-|
+              |  |  |     |  |      /-|     |   \-gi|1015837185|ref|WP_062833890.1|ribonuclease
+              |  |  |     |  |     |  |     |
+              |  |  |     |  |     |  |   /-|   /-gi|1133830541|ref|WP_076208834.1|ribonuclease
+              |  |  |     |  |     |  |  |  |  |
+              |  |  |     |  |     |  |  |  |  |--gi|836695271|ref|WP_047842543.1|ribonuclease
+              |  |  |     |  |     |  |  |   \-|
+              |  |  |     |  |   /-|   \-|     |--gi|738714728|ref|WP_036609184.1|MULTISPECIES
+              |  |  |     |  |  |  |     |     |
+              |  |  |     |  |  |  |     |      \-gi|1133946406|ref|WP_076318556.1|ribonuclease
+              |  |  |   /-|  |  |  |     |
+              |  |  |  |  |  |  |  |      \-gi|738777576|ref|WP_036670445.1|ribonuclease
+              |  |  |  |  |   \-|  |
+              |  |  |  |  |     |  |   /-gi|1087489550|emb|SDC77230.1|ribonuclease
+              |  |  |  |  |     |   \-|
+              |  |  |  |  |     |      \-gi|516285752|ref|WP_017689059.1|hypothetical
+              |  |  |  |  |     |
+              |  |  |  |  |      \-gi|1062668599|ref|WP_069327827.1|ribonuclease
+              |  |   \-|  |
+              |  |     |  |      /-gi|1198959913|ref|WP_087071305.1|ribonuclease
+              |  |     |  |   /-|
+              |  |     |  |  |   \-gi|1031373027|gb|ANF96409.1|ribonuclease
+              |  |     |   \-|
+              |  |     |     |   /-gi|808064075|ref|WP_046225307.1|ribonuclease
+              |  |     |      \-|
+              |  |     |         \-gi|516424487|ref|WP_017813885.1|hypothetical
+              |  |     |
+              |  |      \-gi|808053830|ref|WP_046215260.1|ribonuclease
+              |  |
+              |  |      /-gi|495636497|ref|WP_008361076.1|ribonuclease
+              |  |     |
+              |  |     |   /-gi|985593086|ref|WP_060832677.1|ribonuclease
+              |  |     |  |
+               \-|     |  |         /-gi|409107482|pdb|4HAA|AChain
+                 |     |  |      /-|
+                 |     |  |     |   \-gi|1129138595|gb|OLP65301.1|Ribonuclease
+                 |     |  |     |
+                 |   /-|  |     |   /-gi|1002969792|ref|WP_061420270.1|ribonuclease
+                 |  |  |  |     |  |
+                 |  |  |  |     |  |      /-gi|980954673|ref|WP_059376623.1|ribonuclease
+                 |  |  |  |   /-|  |     |
+                 |  |  |  |  |  |  |     |   /-gi|1207611554|ref|WP_087977349.1|ribonuclease
+                 |  |  |  |  |  |  |     |  |
+                 |  |  |  |  |  |  |     |  |--gi|764359025|ref|WP_044334262.1|ribonuclease
+                 |  |  |  |  |  |  |     |  |
+                 |  |  |  |  |  |  |   /-|  |--gi|637156927|ref|WP_024423547.1|MULTISPECIES
+                 |  |   \-|  |   \-|  |  |  |
+                 |  |     |  |     |  |  |  |--gi|746115824|ref|WP_039181638.1|MULTISPECIES
+                 |  |     |  |     |  |  |  |
+                 |  |     |  |     |  |  |  |--gi|751620246|ref|WP_041088138.1|ribonuclease
+                 |  |     |  |     |  |  |  |
+                 |  |     |  |     |  |  |  |--gi|751648729|ref|WP_041115611.1|MULTISPECIES
+                 |  |     |  |     |  |   \-|
+                 |  |     |  |     |  |     |--gi|1140996851|ref|WP_076840105.1|ribonuclease
+                 |  |     |  |     |  |     |
+                 |  |     |  |      \-|     |--gi|953534553|ref|WP_058013621.1|ribonuclease
+                 |  |     |  |        |     |
+                 |  |     |  |        |     |--gi|637174816|ref|WP_024427678.1|ribonuclease
+                 |  |     |  |        |     |
+                 |  |     |  |        |     |--gi|1130444242|ref|WP_075611969.1|ribonuclease
+                 |  |     |  |        |     |
+                 |  |      \-|        |     |--gi|85001421|gb|ABC68392.1|ribonuclease
+                 |  |        |        |     |
+                 |  |        |        |      \-gi|851972545|ref|WP_048237505.1|ribonuclease
+                 |  |        |        |
+                 |  |        |         \-gi|17942905|pdb|1GOY|AChain
+                 |  |        |
+                 |  |        |   /-gi|763277563|ref|WP_044139011.1|ribonuclease
+                 |  |        |  |
+                 |  |        |  |--gi|736652777|ref|WP_034660072.1|ribonuclease
+                 |  |        |  |
+                 |  |        |  |--gi|1040472313|ref|WP_065097975.1|ribonuclease
+                 |  |        |  |
+                  \-|        |  |--gi|500859943|ref|WP_012011354.1|ribonuclease
+                    |        |  |
+                    |        |  |--gi|489305202|ref|WP_003212642.1|ribonuclease
+                    |        |  |
+                    |        |  |--gi|460148460|gb|EMI12858.1|barnase
+                    |        |  |
+                    |        |  |--gi|960293490|ref|WP_058213571.1|MULTISPECIES
+                    |        |  |
+                    |        |  |--gi|736225637|ref|WP_034317411.1|ribonuclease
+                    |         \-|
+                    |           |--gi|495623543|ref|WP_008348122.1|MULTISPECIES
+                    |           |
+                    |           |--gi|515937522|ref|WP_017368105.1|MULTISPECIES
+                    |           |
+                    |           |--gi|585908|sp|P37203.1|RN_BACCORecName
+                    |           |
+                    |           |--gi|1942120|pdb|2RBI|AChain
+                    |           |
+                    |           |--gi|515927323|ref|WP_017357906.1|MULTISPECIES
+                    |           |
+                    |           |--gi|746103025|ref|WP_039169094.1|ribonuclease
+                    |           |
+                    |           |--gi|253722754|pdb|1BUJ|AChain
+                    |           |
+                    |            \-gi|983546835|ref|WP_060698390.1|ribonuclease
+                    |
+                    |      /-gi|489421063|ref|WP_003326799.1|MULTISPECIES
+                    |     |
+                    |     |--gi|1177697048|ref|WP_082786636.1|ribonuclease
+                    |     |
+                    |   /-|--gi|498488335|ref|WP_010790023.1|ribonuclease
+                    |  |  |
+                    |  |  |--gi|1207763222|ref|WP_088118033.1|ribonuclease
+                    |  |  |
+                    |  |   \-gi|1004096031|gb|KXZ19983.1|ribonuclease
+                    |  |
+                    |  |      /-gi|1036317081|gb|OAZ60428.1|Ribonuclease
+                     \-|     |
+                       |     |--gi|452374|emb|CAA82734.1|ribonuclease
+                       |   /-|
+                       |  |  |--gi|515504572|ref|WP_016937826.1|MULTISPECIES
+                       |  |  |
+                       |  |   \-gi|464661|sp|P35078.1|RN_BACCIRecName
+                       |  |
+                       |  |   /-gi|1141010520|ref|WP_076851303.1|ribonuclease
+                        \-|  |
+                          |  |   /-gi|983522118|ref|WP_060674010.1|ribonuclease
+                          |  |  |
+                          |  |  |         /-gi|154353445|gb|ABS75524.1|ribonuclease
+                          |  |  |        |
+                          |  |  |        |--gi|530338909|emb|CDG27389.1|Ribonuclease
+                          |  |  |        |
+                           \-|  |        |--gi|780197567|ref|WP_045512245.1|ribonuclease
+                             |  |        |
+                             |  |        |--gi|494649475|ref|WP_007407419.1|MULTISPECIES
+                             |  |        |
+                             |  |        |--gi|387174206|gb|AFJ63667.1|Ribonuclease
+                             |  |        |
+                             |  |        |--gi|385150864|gb|EIF14801.1|ribonuclease
+                             |  |      /-|
+                              \-|     |  |--gi|505200553|ref|WP_015387655.1|MULTISPECIES
+                                |     |  |
+                                |     |  |--gi|752856607|ref|WP_041482220.1|MULTISPECIES
+                                |     |  |
+                                |     |  |--gi|766627756|ref|WP_044801891.1|ribonuclease
+                                |   /-|  |
+                                |  |  |  |--gi|1053185211|ref|WP_065982410.1|ribonuclease
+                                |  |  |  |
+                                |  |  |  |--gi|696289724|ref|WP_032865384.1|ribonuclease
+                                |  |  |  |
+                                |  |  |   \-gi|989016133|ref|WP_060964189.1|ribonuclease
+                                |  |  |
+                                |  |   \-gi|1004344138|ref|WP_061521683.1|ribonuclease
+                                |  |
+                                 \-|      /-gi|723597964|ref|WP_033575190.1|MULTISPECIES
+                                   |     |
+                                   |   /-|   /-gi|452081354|emb|CCP23121.1|Ribonuclease
+                                   |  |  |  |
+                                   |  |   \-|--gi|667756689|ref|WP_031378294.1|MULTISPECIES
+                                   |  |     |
+                                   |  |      \-gi|752856518|ref|WP_041482131.1|ribonuclease
+                                   |  |
+                                   |  |      /-gi|489243297|ref|WP_003151497.1|MULTISPECIES
+                                   |  |   /-|
+                                    \-|  |   \-gi|1167816925|ref|WP_080130132.1|ribonuclease
+                                      |  |
+                                      |  |   /-gi|1065202|pdb|1BRH|AChain
+                                      |  |  |
+                                      |  |  |         /-gi|1065148|pdb|1BNE|AChain
+                                      |  |  |      /-|
+                                      |  |  |     |  |   /-gi|4139683|pdb|1B2S|AChain
+                                      |  |  |     |   \-|
+                                      |  |  |     |     |   /-gi|253722854|pdb|1FW7|AChain
+                                       \-|  |     |      \-|
+                                         |  |     |         \-gi|83754638|pdb|2C4B|AChain
+                                         |  |     |
+                                         |  |   /-|         /-gi|4139773|pdb|1B21|AChain
+                                         |  |  |  |      /-|
+                                         |  |  |  |     |   \-gi|4139770|pdb|1B20|AChain
+                                         |  |  |  |   /-|
+                                         |  |  |  |  |  |   /-gi|493902|pdb|1BSB|AChain
+                                         |  |  |  |  |   \-|
+                                         |  |  |  |  |      \-gi|1065209|pdb|1BRI|AChain
+                                          \-|  |   \-|
+                                            |  |     |         /-gi|1065151|pdb|1BNF|AChain
+                                            |  |     |      /-|
+                                            |  |     |   /-|   \-gi|226887701|pdb|3DA7|AChain
+                                            |  |     |  |  |
+                                            |  |      \-|   \-gi|442654|pdb|1BAO|AChain
+                                            |  |        |
+                                            |  |        |   /-gi|99032161|pdb|2F4Y|AChain
+                                            |  |         \-|
+                                            |  |           |   /-gi|576021|pdb|1BRG|AChain
+                                            |  |            \-|
+                                            |  |              |   /-gi|66360399|pdb|1X1Y|AChain
+                                            |  |               \-|
+                                            |  |                  \-gi|42741003|gb|AAS44581.1|barnase
+                                            |  |
+                                            |  |         /-gi|576011|pdb|1BNS|AChain
+                                            |  |      /-|
+                                             \-|     |   \-gi|493899|pdb|1BSA|AChain
+                                               |     |
+                                               |     |   /-gi|133149|sp|P00648.2|RNBR_BACAMRecName
+                                               |     |  |
+                                               |     |  |--gi|328913540|gb|AEB65136.1|Ribonuclease
+                                               |     |  |
+                                               |     |  |--gi|503119040|ref|WP_013353722.1|MULTISPECIES
+                                               |     |  |
+                                               |     |  |--gi|551694|gb|AAA86441.1|barnase
+                                               |   /-|  |
+                                               |  |  |  |--gi|30984052|gb|AAP41137.1|barnase
+                                               |  |  |  |
+                                               |  |  |  |--gi|4139703|pdb|1B3S|AChain
+                                               |  |  |  |
+                                               |  |  |  |--gi|1065224|pdb|1BRK|AChain
+                                               |  |  |  |
+                                               |  |  |  |--gi|1065216|pdb|1BRJ|AChain
+                                               |  |  |  |
+                                               |  |  |  |--gi|1439559|gb|AAC53661.1|barnase
+                                               |  |  |  |
+                                               |  |   \-|--gi|188595921|pdb|2ZA4|AChain
+                                               |  |     |
+                                               |  |     |--gi|493905|pdb|1BSC|AChain
+                                               |  |     |
+                                               |  |     |--gi|1065155|pdb|1BNG|AChain
+                                                \-|     |
+                                                  |     |--gi|493908|pdb|1BSD|AChain
+                                                  |     |
+                                                  |     |--gi|493911|pdb|1BSE|AChain
+                                                  |     |
+                                                  |     |--gi|493893|pdb|1BRN|LChain
+                                                  |     |
+                                                  |     |--gi|4139700|pdb|1B2Z|AChain
+                                                  |     |
+                                                  |     |--gi|442651|pdb|1BAN|AChain
+                                                  |     |
+                                                  |     |--gi|374074104|pdb|3Q3F|AChain
+                                                  |     |
+                                                  |      \-gi|112146878|gb|ABI13485.1|LacZ/MRS/barnase
+                                                  |
+                                                  |   /-gi|56406595|gb|AAV87646.1|barnase
+                                                   \-|
+                                                      \-gi|230301|pdb|1RNB|AChain

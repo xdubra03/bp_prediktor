@@ -1,0 +1,15 @@
+---------------
+
+file: 1aj31-60.txt
+original acid: W
+mutated acid: F
+at position: 22
+
+Statistics:
+
+No all proteins: 250
+Is same at position: count = 249
+No. basic acids at position: 0
+No. mutated acids at position: 0
+No. else acids at position: 1
+Originals vs mutated : 99.600000

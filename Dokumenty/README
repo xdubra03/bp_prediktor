@@ -1,0 +1,1 @@
+Midpoint algoritmus a výpočet vah z fylogenetického stromu by měl být implementovaný ve třídách BM a BranchManager v prophyler/module. Je to zběsilá věc, ale třeba to pomůže.

@@ -1,0 +1,15 @@
+---------------
+
+file: 1aky1-60.txt
+original acid: Q
+mutated acid: E
+at position: 48
+
+Statistics:
+
+No all proteins: 250
+Is same at position: count = 246
+No. basic acids at position: 0
+No. mutated acids at position: 0
+No. else acids at position: 4
+Originals vs mutated : 98.400000

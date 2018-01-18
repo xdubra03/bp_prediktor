@@ -1,0 +1,747 @@
+>gi|597583033|ref|XP_007294573.1| ubiquitin [Marssonina brunnea f. sp. 'multigermtubi' MB_m1] >gi|406862417|gb|EKD15468.1| ubiquitin [Marssonina brunnea f. sp. 'multigermtubi' MB_m1]
+MVSANSSSLTLRQSTTTTTTAAMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSD
+YNIQKESTLHLVLRLRGGIIEPSLKALASKFNCDKMICRKCYARLPPRATNCRKKKCGHTNQLRPKKKLK
+>gi|815881479|ref|XP_004446139.1| polyubiquitin, variant [Coccidioides immitis RS] >gi|767020337|gb|KJF61084.1| polyubiquitin, variant [Coccidioides immitis RS]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKMICRKCYVCF
+>gi|968584696|gb|KTW29378.1| ubiquitin-60S ribosomal protein L40 [Pneumocystis carinii B80]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAIQR
+CTMKQCSASAVRIVGDCNFCDGHFCGRHRQLENHACSGLQECRQQSHERNRTKLQKEQCVASKV
+>gi|50555534|ref|XP_505175.1| ubiquitin-60S ribosomal protein L40 fusion protein [Yarrowia lipolytica] >gi|49651045|emb|CAG77982.1| YALI0F08745p [Yarrowia lipolytica CLIB122]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKAICRKCYARLPPRATNCRKKKCGHTNQLRPKKKLK
+>gi|667785536|ref|XP_007871907.1| hypothetical protein PNEG_00053 [Pneumocystis murina B123] >gi|470320016|gb|EMR11612.1| ubiquitin-60S ribosomal protein L40 [Pneumocystis murina B123]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAIQR
+CTMKQCSASAVRIVGDCNFCDGHFCGRHRQLENHACTGLQECRQQSHERNRTKLQKEQCVASKV
+>gi|927374639|ref|XP_013933170.1| Ubiquitin-60S ribosomal protein L40 [Ogataea parapolymorpha DL-1] >gi|562971346|gb|ESW97085.1| Ubiquitin-60S ribosomal protein L40 [Ogataea parapolymorpha DL-1]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKAICRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|302309726|ref|XP_446470.2| ubiquitin-60S ribosomal protein L40 fusion protein [Candida glabrata CBS 138] >gi|302309927|ref|XP_451025.2| ubiquitin-60S ribosomal protein L40 fusion protein [Kluyveromyces lactis NRRL Y-1140] >gi|367001588|ref|XP_003685529.1| ubiquitin-60S ribosomal protein L40 fusion protein [Tetrapisispora phaffii CBS 4417] >gi|367001639|ref|XP_003685554.1| ubiquitin-60S ribosomal protein L40 fusion protein [Tetrapisispora phaffii CBS 4417] >gi|444320253|ref|XP_004180783.1| hypothetical protein TBLA_0E02110 [Tetrapisispora blattae CBS 6284] >gi|5531278|emb|CAB50892.1| ubiquitin fusion protein [Kluyveromyces lactis] >gi|196049067|emb|CAG59397.2| unnamed protein product [Candida glabrata] >gi|199424768|emb|CAH02613.2| KLLA0A00616p [Kluyveromyces lactis] >gi|357523827|emb|CCE63095.1| hypothetical protein TPHA_0D04600 [Tetrapisispora phaffii CBS 4417] >gi|357523853|emb|CCE63120.1| hypothetical protein TPHA_0E00240 [Tetrapisispora phaffii CBS 4417] >gi|387513826|emb|CCH61264.1| hypothetical protein TBLA_0E02110 [Tetrapisispora blattae CBS 6284] >gi|523425562|emb|CDF91945.1| ZYBA0S16-00628g1_1 [Zygosaccharomyces bailii CLIB 213]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKSVCRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|667789484|ref|XP_007873881.1| hypothetical protein PNEG_01906 [Pneumocystis murina B123] >gi|470318041|gb|EMR09720.1| ubiquitin-60S ribosomal protein L40 [Pneumocystis murina B123] >gi|968583441|gb|KTW28129.1| ubiquitin-60S ribosomal protein L40 [Pneumocystis carinii B80]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKMICRKCYARLPLRATNCRKRSCGHSNQLRPKKKLK
+>gi|255714507|ref|XP_002553535.1| ubiquitin-60S ribosomal protein L40 fusion protein [Lachancea thermotolerans] >gi|238934917|emb|CAR23098.1| KLTH0E01078p [Lachancea thermotolerans CBS 6340]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKFNCEKSVCRKCYARLPPKATNCRKRKCGHTNQLRPKKKLK
+>gi|156845692|ref|XP_001645736.1| hypothetical protein Kpol_1043p69 [Vanderwaltozyma polyspora DSM 70294] >gi|212540282|ref|XP_002150296.1| ubiquitin-60S ribosomal protein L40 fusion protein [Talaromyces marneffei ATCC 18224] >gi|156116403|gb|EDO17878.1| hypothetical protein Kpol_1043p69 [Vanderwaltozyma polyspora DSM 70294] >gi|210067595|gb|EEA21687.1| ubiquitin UbiA, putative [Talaromyces marneffei ATCC 18224] >gi|374717829|gb|AEZ66645.1| putative beta-1,6-glucanase [Wickerhamomyces anomalus] >gi|374717831|gb|AEZ66646.1| putative beta-1,6-glucanase [Wickerhamomyces anomalus]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKSICRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|58258495|ref|XP_566660.1| ubiquitin-carboxy extension protein fusion [Cryptococcus neoformans var. neoformans JEC21] >gi|134106619|ref|XP_778320.1| ubiquitin-60S ribosomal protein L40 fusion protein [Cryptococcus neoformans var. neoformans B-3501A] >gi|799314656|ref|XP_012046679.1| polyubiquitin [Cryptococcus neoformans var. grubii H99] >gi|302393713|sp|P40909.2|RL40_CRYNJ RecName: Full=Ubiquitin-60S ribosomal protein L40; Contains: RecName: Full=Ubiquitin; Contains: RecName: Full=60S ribosomal protein L40; AltName: Full=CEP52; AltName: Full=CEP53; Flags: Precursor >gi|576775|gb|AAA82979.1| ubiquitin-carboxy extension protein fusion [Cryptococcus neoformans] >gi|50261023|gb|EAL23673.1| hypothetical protein CNBA3200 [Cryptococcus neoformans var. neoformans B-3501A] >gi|57222797|gb|AAW40841.1| ubiquitin-carboxy extension protein fusion, putative [Cryptococcus neoformans var. neoformans JEC21] >gi|405117730|gb|AFR92505.1| polyubiquitin [Cryptococcus neoformans var. grubii H99]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKQICRKCYARLPPRATNCRKRKCGHSSQIRPKKALKK
+>gi|968585385|gb|KTW30064.1| ubiquitin-60S ribosomal protein L40 [Pneumocystis jirovecii RU7]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKTLASKYNCEKMICRKCYARLPPRATNCRKRSCGHSSQLRPKKKLK
+>gi|242802397|ref|XP_002483963.1| ubiquitin-60S ribosomal protein L40 fusion protein [Talaromyces stipitatus ATCC 10500] >gi|218717308|gb|EED16729.1| ubiquitin UbiA, putative [Talaromyces stipitatus ATCC 10500]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKSICRKCYARLPPRATNCRKRKCGHSNQLRPKKKLK
+>gi|584395815|emb|CDK24996.1| unnamed protein product [Kuraishia capsulata CBS 1993]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKFNCEKSICRKCYARLPPRATNCRKRKCGHSNQLRPKKKLK
+>gi|915150225|ref|XP_013310562.1| ubiquitin-60S ribosomal protein L40 [Exophiala xenobiotica] >gi|759273469|gb|KIW49978.1| ubiquitin-60S ribosomal protein L40 [Exophiala xenobiotica]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKMICRKCYARLPPRATNCRKKKCGHTNQLRPKKKIK
+>gi|936525069|emb|CDO57243.1| similar to Saccharomyces cerevisiae YIL148W RPL40A Ubiquitin-ribosomal 60S subunit protein L40A fusion protein [Geotrichum candidum] >gi|936528159|emb|CDO53900.1| similar to Saccharomyces cerevisiae YIL148W RPL40A Ubiquitin-ribosomal 60S subunit protein L40A fusion protein [Geotrichum candidum]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKSICRVCYARLPPRATNCRKRKCGHSNQLRPKKKLK
+>gi|254585431|ref|XP_002498283.1| ubiquitin-60S ribosomal protein L40 fusion protein [Zygosaccharomyces rouxii] >gi|238941177|emb|CAR29350.1| ZYRO0G06622p [Zygosaccharomyces rouxii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKSVCRQCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|254568572|ref|XP_002491396.1| Fusion protein, identical to Rpl40Bp [Komagataella phaffii GS115] >gi|238031193|emb|CAY69116.1| Fusion protein, identical to Rpl40Bp [Komagataella phaffii GS115] >gi|328352093|emb|CCA38492.1| Ubiquitin [Komagataella phaffii CBS 7435] >gi|1050827356|gb|ANZ75106.1| BA75_02689T0 [Komagataella pastoris] >gi|1051425658|gb|AOA62954.1| GQ67_00531T0 [Komagataella phaffii] >gi|1051431854|gb|AOA67253.1| GQ68_00857T0 [Komagataella phaffii GS115]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKVLASKYNCDKSVCRKCYARLPPRATNCRKRKCGHSNQLRPKKKLK
+>gi|549051664|emb|CCX30639.1| Similar to Ubiquitin-60S ribosomal protein L40; acc. no. P0CH08 [Pyronema omphalodes CBS 100304]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKCTGPSWLSLSTTRSTVTERSSVSAASAPRRDVVPVSSWPPWPTVSTVDAATLPTSSSRTKLLV
+DGGGTTEL
+>gi|213403686|ref|XP_002172615.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces japonicus yFS275] >gi|213406611|ref|XP_002174077.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces japonicus yFS275] >gi|213408649|ref|XP_002175095.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces japonicus yFS275] >gi|815881477|ref|XP_004446138.1| polyubiquitin [Coccidioides immitis RS] >gi|212000662|gb|EEB06322.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces japonicus yFS275] >gi|212002124|gb|EEB07784.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces japonicus yFS275] >gi|212003142|gb|EEB08802.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces japonicus yFS275] >gi|320032899|gb|EFW14849.1| ubiquitin [Coccidioides posadasii str. Silveira] >gi|767020336|gb|KJF61083.1| polyubiquitin [Coccidioides immitis RS] >gi|855535868|gb|KMM70517.1| 60S ribosomal protein L40 [Coccidioides posadasii RMSCC 3488]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKMICRKCYARLPPRATNCRKKKCGHTNQLRPKKKLK
+>gi|684169316|ref|XP_009158529.1| ubiquitin-60S ribosomal protein L40 [Exophiala dermatitidis NIH/UT8656] >gi|1022900771|ref|XP_016244534.1| ubiquitin-60S ribosomal protein L40 [Cladophialophora immunda] >gi|378731609|gb|EHY58068.1| ubiquitin-60S ribosomal protein L40 [Exophiala dermatitidis NIH/UT8656] >gi|759247650|gb|KIW24318.1| ubiquitin-60S ribosomal protein L40 [Cladophialophora immunda] >gi|759296905|gb|KIW73319.1| ubiquitin-60S ribosomal protein L40 [Capronia semi-immersa]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKMICRKCYARLPPRATNCRKKKCGHSNQLRPKKKIK
+>gi|367010118|ref|XP_003679560.1| ubiquitin-60S ribosomal protein L40 fusion protein [Torulaspora delbrueckii] >gi|359747218|emb|CCE90349.1| hypothetical protein TDEL_0B02200 [Torulaspora delbrueckii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKVLASKYNCEKSVCRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|19114835|ref|NP_593923.1| ubiquitin-60S ribosomal protein L40 fusion protein [Schizosaccharomyces pombe 972h-] >gi|19115310|ref|NP_594398.1| ubiquitin-60S ribosomal protein L40 fusion protein [Schizosaccharomyces pombe 972h-] >gi|302595805|sp|P0CH06.1|RL401_SCHPO RecName: Full=Ubiquitin-60S ribosomal protein L40; Contains: RecName: Full=Ubiquitin; Contains: RecName: Full=60S ribosomal protein L40; AltName: Full=CEP52; Flags: Precursor >gi|302595807|sp|P0CH07.1|RL402_SCHPO RecName: Full=Ubiquitin-60S ribosomal protein L40; Contains: RecName: Full=Ubiquitin; Contains: RecName: Full=60S ribosomal protein L40; AltName: Full=CEP52; Flags: Precursor >gi|2408009|emb|CAB16209.1| ribosomal-ubiquitin fusion protein Ubi1 (predicted) [Schizosaccharomyces pombe] >gi|5912365|emb|CAB55853.1| ribosomal-ubiquitin fusion protein Ubi2 [Schizosaccharomyces pombe]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKQICRKCYARLPPRATNCRKKKCGHTNQLRPKKKLK
+>gi|761758215|emb|CEP63879.1| LALA0S09e04544g1_1 [Lachancea lanzarotensis] >gi|949382085|emb|CUS24745.1| LAQU0S19e00672g1_1 [Lachancea quebecensis]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKFNCEKSVCRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|891550810|ref|XP_013017000.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces octosporus yFS286] >gi|891554388|ref|XP_013017695.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces octosporus yFS286] >gi|891578342|ref|XP_013021479.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces cryophilus OY26] >gi|891592473|ref|XP_013024056.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces cryophilus OY26] >gi|528064276|gb|EPX73838.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces octosporus yFS286] >gi|528065690|gb|EPX75252.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces octosporus yFS286] >gi|528316912|gb|EPY51489.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces cryophilus OY26] >gi|528318649|gb|EPY53223.1| ribosomal-ubiquitin fusion protein Ubi1 [Schizosaccharomyces cryophilus OY26]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKHNCEKQICRKCYARLPPRATNCRKKKCGHTNQLRPKKKLK
+>gi|6322043|ref|NP_012118.1| ubiquitin-ribosomal 60S subunit protein L40A fusion protein [Saccharomyces cerevisiae S288c] >gi|398365469|ref|NP_013020.3| ubiquitin-ribosomal 60S subunit protein L40B fusion protein [Saccharomyces cerevisiae S288c] >gi|410078848|ref|XP_003957005.1| hypothetical protein KAFR_0D02230 [Kazachstania africana CBS 2517] >gi|410081975|ref|XP_003958566.1| hypothetical protein KAFR_0H00220 [Kazachstania africana CBS 2517] >gi|302595806|sp|P0CH08.1|RL401_YEAST RecName: Full=Ubiquitin-60S ribosomal protein L40; Contains: RecName: Full=Ubiquitin; Contains: RecName: Full=60S ribosomal protein L40; AltName: Full=CEP52; Flags: Precursor >gi|302595809|sp|P0CH09.1|RL402_YEAST RecName: Full=Ubiquitin-60S ribosomal protein L40; Contains: RecName: Full=Ubiquitin; Contains: RecName: Full=60S ribosomal protein L40; AltName: Full=CEP52; Flags: Precursor >gi|365767289|pdb|3U5E|MM Chain m, The Structure Of The Eukaryotic Ribosome At 3.0 A Resolution. This Entry Contains Proteins Of The 60s Subunit, Ribosome A >gi|365767331|pdb|3U5I|MM Chain m, The Structure Of The Eukaryotic Ribosome At 3.0 A Resolution. This Entry Contains Proteins Of The 60s Subunit, Ribosome B >gi|410562517|pdb|4B6A|MM Chain m, Cryo-Em Structure Of The 60s Ribosomal Subunit In Complex With Arx1 And Rei1 >gi|559778693|pdb|4BYN|MM Chain m, Cryo-em Reconstruction Of The 80s-eif5b-met-itrnamet Eukaryotic Translation Initiation Complex >gi|559778735|pdb|4BYU|MM Chain m, Cryo-em Reconstruction Of The 80s-eif5b-met-itrnamet Eukaryotic Translation Initiation Complex >gi|635575160|pdb|4CUW|MM Chain m, Kluyveromyces Lactis 80s Ribosome In Complex With Crpv-ires >gi|651207353|pdb|1VW8|NN Chain n, S. Cerevisiae 80s Ribosome Bound With Taura Syndrome Virus (tsv) Ires, 5 Degree Rotation (class Ii). This Entry Contains The Large Subunit Ribosomal Proteins. >gi|651207433|pdb|1VWU|NN Chain n, S. Cerevisiae 80s Ribosome Bound With Taura Syndrome Virus (tsv) Ires, 2 Degree Rotation (class I). This Entry Contains The Large Subunit Ribosomal Proteins. >gi|672885399|pdb|1VXV|NN Chain n, Structures Of Yeast 80s Ribosome-trna Complexes In The Rotated And Non-rotated Conformations (class Ii - Rotated Ribosome With 1 Trna, This Entry Contains The Large Ribosomal Subunit Proteins) >gi|672885482|pdb|1VXY|NN Chain n, Structures Of Yeast 80s Ribosome-trna Complexes In The Rotated And Non-rotated Conformations (class I - Non-rotated Ribosome With 2 Trnas, This Entry Contains The Large Ribosomal Subunit Proteins) >gi|4728|emb|CAA29195.1| ubiquitin [Saccharomyces cerevisiae] >gi|4730|emb|CAA29196.1| ubiquitin [Saccharomyces cerevisiae] >gi|450555|emb|CAA51949.1| UBI2 [Saccharomyces cerevisiae] >gi|486585|emb|CAA82173.1| RPL40B [Saccharomyces cerevisiae] >gi|559522|emb|CAA86130.1| ubi1 [Saccharomyces cerevisiae] >gi|151941633|gb|EDN59996.1| ribosomal protein L40B [Saccharomyces cerevisiae YJM789] >gi|151943018|gb|EDN61353.1| ribosomal protein L40A [Saccharomyces cerevisiae YJM789] >gi|190406359|gb|EDV09626.1| also encodes a ubiquitin protein [Saccharomyces cerevisiae RM11-1a] >gi|190409906|gb|EDV13171.1| also encodes a ubiquitin protein [Saccharomyces cerevisiae RM11-1a] >gi|259147106|emb|CAY80359.1| Rpl40ap [Saccharomyces cerevisiae EC1118] >gi|259147920|emb|CAY81170.1| Rpl40bp [Saccharomyces cerevisiae EC1118] >gi|285812506|tpg|DAA08405.1| TPA: ubiquitin-ribosomal 60S subunit protein L40A fusion protein [Saccharomyces cerevisiae S288c] >gi|285813347|tpg|DAA09244.1| TPA: ubiquitin-ribosomal 60S subunit protein L40B fusion protein [Saccharomyces cerevisiae S288c] >gi|349578809|dbj|GAA23973.1| K7_Rpl40ap [Saccharomyces cerevisiae Kyokai no. 7] >gi|349579652|dbj|GAA24814.1| K7_Rpl40bp [Saccharomyces cerevisiae Kyokai no. 7] >gi|372463590|emb|CCF57870.1| hypothetical protein KAFR_0D02230 [Kazachstania africana CBS 2517] >gi|372465155|emb|CCF59431.1| hypothetical protein KAFR_0H00220 [Kazachstania africana CBS 2517] >gi|392298239|gb|EIW09337.1| Rpl40ap [Saccharomyces cerevisiae CEN.PK113-7D] >gi|392298768|gb|EIW09864.1| Rpl40ap [Saccharomyces cerevisiae CEN.PK113-7D] >gi|584364920|gb|EWG84925.1| Rpl40bp [Saccharomyces cerevisiae R008] >gi|584365259|gb|EWG85261.1| Rpl40ap [Saccharomyces cerevisiae R008] >gi|584370253|gb|EWG90204.1| Rpl40bp [Saccharomyces cerevisiae P301] >gi|584370492|gb|EWG90437.1| Rpl40ap [Saccharomyces cerevisiae P301] >gi|584374908|gb|EWG94801.1| Rpl40bp [Saccharomyces cerevisiae R103] >gi|584375520|gb|EWG95401.1| Rpl40ap [Saccharomyces cerevisiae R103] >gi|584474413|gb|EWH16174.1| Rpl40ap [Saccharomyces cerevisiae P283] >gi|584475693|gb|EWH17448.1| Rpl40bp [Saccharomyces cerevisiae P283] >gi|628175479|gb|AHY75860.1| Rpl40ap [Saccharomyces cerevisiae YJM993] >gi|628182467|gb|AHY76327.1| Rpl40bp [Saccharomyces cerevisiae YJM993] >gi|761460016|gb|AJP39328.1| Rpl40ap [Saccharomyces cerevisiae YJM1078] >gi|761508929|gb|AJP40121.1| Rpl40bp [Saccharomyces cerevisiae YJM1078] >gi|765530966|gb|AJR36621.1| Rpl40ap [Saccharomyces cerevisiae YJM189] >gi|765542862|gb|AJR36816.1| Rpl40ap [Saccharomyces cerevisiae YJM193] >gi|765543054|gb|AJR37007.1| Rpl40ap [Saccharomyces cerevisiae YJM195] >gi|765546275|gb|AJR37155.1| Rpl40ap [Saccharomyces cerevisiae YJM244] >gi|765568575|gb|AJR37348.1| Rpl40ap [Saccharomyces cerevisiae YJM248] >gi|765570946|gb|AJR37543.1| Rpl40ap [Saccharomyces cerevisiae YJM270] >gi|765576291|gb|AJR37737.1| Rpl40ap [Saccharomyces cerevisiae YJM271] >gi|765597380|gb|AJR37931.1| Rpl40ap [Saccharomyces cerevisiae YJM320] >gi|765647227|gb|AJR38303.1| Rpl40ap [Saccharomyces cerevisiae YJM428] >gi|765669118|gb|AJR38686.1| Rpl40ap [Saccharomyces cerevisiae YJM451] >gi|765669313|gb|AJR38880.1| Rpl40ap [Saccharomyces cerevisiae YJM453] >gi|765669852|gb|AJR39074.1| Rpl40ap [Saccharomyces cerevisiae YJM456] >gi|765680165|gb|AJR39263.1| Rpl40ap [Saccharomyces cerevisiae YJM470] >gi|765680355|gb|AJR39452.1| Rpl40ap [Saccharomyces cerevisiae YJM541] >gi|765683540|gb|AJR39631.1| Rpl40ap [Saccharomyces cerevisiae YJM554] >gi|765684385|gb|AJR39811.1| Rpl40ap [Saccharomyces cerevisiae YJM555] >gi|765684577|gb|AJR40002.1| Rpl40ap [Saccharomyces cerevisiae YJM627] >gi|765684771|gb|AJR40195.1| Rpl40ap [Saccharomyces cerevisiae YJM681] >gi|765684973|gb|AJR40384.1| Rpl40ap [Saccharomyces cerevisiae YJM682] >gi|765685167|gb|AJR40577.1| Rpl40ap [Saccharomyces cerevisiae YJM683] >gi|765688270|gb|AJR40767.1| Rpl40ap [Saccharomyces cerevisiae YJM689] >gi|765688537|gb|AJR40949.1| Rpl40ap [Saccharomyces cerevisiae YJM693] >gi|765688962|gb|AJR41122.1| Rpl40ap [Saccharomyces cerevisiae YJM969] >gi|765702311|gb|AJR41316.1| Rpl40ap [Saccharomyces cerevisiae YJM972] >gi|765702716|gb|AJR41509.1| Rpl40ap [Saccharomyces cerevisiae YJM975] >gi|765702911|gb|AJR41703.1| Rpl40ap [Saccharomyces cerevisiae YJM978] >gi|765703105|gb|AJR41896.1| Rpl40ap [Saccharomyces cerevisiae YJM981] >gi|765703300|gb|AJR42090.1| Rpl40ap [Saccharomyces cerevisiae YJM984] >gi|765703491|gb|AJR42280.1| Rpl40ap [Saccharomyces cerevisiae YJM987] >gi|765703686|gb|AJR42474.1| Rpl40ap [Saccharomyces cerevisiae YJM990] >gi|765703881|gb|AJR42668.1| Rpl40ap [Saccharomyces cerevisiae YJM996] >gi|765704075|gb|AJR42861.1| Rpl40ap [Saccharomyces cerevisiae YJM1083] >gi|765704264|gb|AJR43049.1| Rpl40ap [Saccharomyces cerevisiae YJM1129] >gi|765704459|gb|AJR43243.1| Rpl40ap [Saccharomyces cerevisiae YJM1133] >gi|765704654|gb|AJR43437.1| Rpl40ap [Saccharomyces cerevisiae YJM1190] >gi|765704848|gb|AJR43630.1| Rpl40ap [Saccharomyces cerevisiae YJM1199] >gi|765705042|gb|AJR43823.1| Rpl40ap [Saccharomyces cerevisiae YJM1202] >gi|765705229|gb|AJR44009.1| Rpl40ap [Saccharomyces cerevisiae YJM1208] >gi|765705423|gb|AJR44202.1| Rpl40ap [Saccharomyces cerevisiae YJM1242] >gi|765705617|gb|AJR44395.1| Rpl40ap [Saccharomyces cerevisiae YJM1244] >gi|765705812|gb|AJR44589.1| Rpl40ap [Saccharomyces cerevisiae YJM1248] >gi|765706004|gb|AJR44780.1| Rpl40ap [Saccharomyces cerevisiae YJM1250] >gi|765706199|gb|AJR44974.1| Rpl40ap [Saccharomyces cerevisiae YJM1615] >gi|765706387|gb|AJR45161.1| Rpl40ap [Saccharomyces cerevisiae YJM1252] >gi|765706581|gb|AJR45354.1| Rpl40ap [Saccharomyces cerevisiae YJM1273] >gi|765706777|gb|AJR45549.1| Rpl40ap [Saccharomyces cerevisiae YJM1304] >gi|765706969|gb|AJR45740.1| Rpl40ap [Saccharomyces cerevisiae YJM1307] >gi|765717157|gb|AJR45925.1| Rpl40ap [Saccharomyces cerevisiae YJM1311] >gi|765747820|gb|AJR46114.1| Rpl40ap [Saccharomyces cerevisiae YJM1326] >gi|765783573|gb|AJR46303.1| Rpl40ap [Saccharomyces cerevisiae YJM1332] >gi|765801974|gb|AJR46496.1| Rpl40ap [Saccharomyces cerevisiae YJM1336] >gi|765816230|gb|AJR46689.1| Rpl40ap [Saccharomyces cerevisiae YJM1338] >gi|765826189|gb|AJR46882.1| Rpl40ap [Saccharomyces cerevisiae YJM1341] >gi|765826598|gb|AJR47074.1| Rpl40ap [Saccharomyces cerevisiae YJM1342] >gi|765826981|gb|AJR47455.1| Rpl40ap [Saccharomyces cerevisiae YJM1356] >gi|765833959|gb|AJR47647.1| Rpl40ap [Saccharomyces cerevisiae YJM1381] >gi|765851896|gb|AJR47839.1| Rpl40ap [Saccharomyces cerevisiae YJM1383] >gi|765874825|gb|AJR48006.1| Rpl40ap [Saccharomyces cerevisiae YJM1385] >gi|765893321|gb|AJR48197.1| Rpl40ap [Saccharomyces cerevisiae YJM1386] >gi|765910933|gb|AJR48390.1| Rpl40ap [Saccharomyces cerevisiae YJM1387] >gi|765923502|gb|AJR48585.1| Rpl40ap [Saccharomyces cerevisiae YJM1388] >gi|765938335|gb|AJR48776.1| Rpl40ap [Saccharomyces cerevisiae YJM1389] >gi|765938528|gb|AJR48968.1| Rpl40ap [Saccharomyces cerevisiae YJM1399] >gi|765938665|gb|AJR49104.1| Rpl40ap [Saccharomyces cerevisiae YJM1400] >gi|765938858|gb|AJR49296.1| Rpl40ap [Saccharomyces cerevisiae YJM1401] >gi|765939043|gb|AJR49480.1| Rpl40ap [Saccharomyces cerevisiae YJM1402] >gi|765939236|gb|AJR49672.1| Rpl40ap [Saccharomyces cerevisiae YJM1415] >gi|765955615|gb|AJR49865.1| Rpl40ap [Saccharomyces cerevisiae YJM1417] >gi|765977341|gb|AJR50055.1| Rpl40ap [Saccharomyces cerevisiae YJM1418] >gi|766003456|gb|AJR50242.1| Rpl40ap [Saccharomyces cerevisiae YJM1419] >gi|766032711|gb|AJR50434.1| Rpl40ap [Saccharomyces cerevisiae YJM1433] >gi|766060376|gb|AJR50628.1| Rpl40ap [Saccharomyces cerevisiae YJM1434] >gi|766087713|gb|AJR50820.1| Rpl40ap [Saccharomyces cerevisiae YJM1439] >gi|766120522|gb|AJR51009.1| Rpl40ap [Saccharomyces cerevisiae YJM1443] >gi|766121269|gb|AJR51200.1| Rpl40ap [Saccharomyces cerevisiae YJM1444] >gi|766121459|gb|AJR51389.1| Rpl40ap [Saccharomyces cerevisiae YJM1447] >gi|766121835|gb|AJR51763.1| Rpl40ap [Saccharomyces cerevisiae YJM1460] >gi|766143713|gb|AJR51949.1| Rpl40ap [Saccharomyces cerevisiae YJM1463] >gi|766175773|gb|AJR52141.1| Rpl40ap [Saccharomyces cerevisiae YJM1477] >gi|766205641|gb|AJR52333.1| Rpl40ap [Saccharomyces cerevisiae YJM1478] >gi|766238317|gb|AJR52522.1| Rpl40ap [Saccharomyces cerevisiae YJM1479] >gi|766281415|gb|AJR52833.1| Rpl40ap [Saccharomyces cerevisiae YJM1527] >gi|766281611|gb|AJR53028.1| Rpl40ap [Saccharomyces cerevisiae YJM1549] >gi|766281804|gb|AJR53220.1| Rpl40ap [Saccharomyces cerevisiae YJM1573] >gi|766281993|gb|AJR53408.1| Rpl40ap [Saccharomyces cerevisiae YJM1574] >gi|766282189|gb|AJR53603.1| Rpl40ap [Saccharomyces cerevisiae YJM1592] >gi|767008648|gb|AJS30319.1| Rpl40bp [Saccharomyces cerevisiae YJM189] >gi|767009418|gb|AJS30620.1| Rpl40bp [Saccharomyces cerevisiae YJM193] >gi|767009716|gb|AJS30917.1| Rpl40bp [Saccharomyces cerevisiae YJM195] >gi|767010018|gb|AJS31218.1| Rpl40bp [Saccharomyces cerevisiae YJM244] >gi|767010316|gb|AJS31515.1| Rpl40bp [Saccharomyces cerevisiae YJM248] >gi|767010616|gb|AJS31814.1| Rpl40bp [Saccharomyces cerevisiae YJM270] >gi|767010934|gb|AJS32114.1| Rpl40bp [Saccharomyces cerevisiae YJM271] >gi|767012447|gb|AJS32413.1| Rpl40bp [Saccharomyces cerevisiae YJM320] >gi|767012771|gb|AJS32712.1| Rpl40bp [Saccharomyces cerevisiae YJM326] >gi|767019695|gb|AJS33014.1| Rpl40bp [Saccharomyces cerevisiae YJM428] >gi|767023412|gb|AJS33315.1| Rpl40bp [Saccharomyces cerevisiae YJM450] >gi|767023654|gb|AJS33556.1| Rpl40bp [Saccharomyces cerevisiae YJM451] >gi|767027452|gb|AJS33860.1| Rpl40bp [Saccharomyces cerevisiae YJM453] >gi|767032645|gb|AJS34161.1| Rpl40bp [Saccharomyces cerevisiae YJM456] >gi|767033091|gb|AJS34462.1| Rpl40bp [Saccharomyces cerevisiae YJM470] >gi|767033394|gb|AJS34764.1| Rpl40bp [Saccharomyces cerevisiae YJM541] >gi|767034036|gb|AJS35064.1| Rpl40bp [Saccharomyces cerevisiae YJM554] >gi|767040006|gb|AJS35364.1| Rpl40bp [Saccharomyces cerevisiae YJM555] >gi|767040305|gb|AJS35662.1| Rpl40bp [Saccharomyces cerevisiae YJM627] >gi|767040667|gb|AJS35962.1| Rpl40bp [Saccharomyces cerevisiae YJM681] >gi|767040974|gb|AJS36262.1| Rpl40bp [Saccharomyces cerevisiae YJM682] >gi|767041275|gb|AJS36562.1| Rpl40bp [Saccharomyces cerevisiae YJM683] >gi|767046672|gb|AJS36859.1| Rpl40bp [Saccharomyces cerevisiae YJM689] >gi|767049935|gb|AJS37159.1| Rpl40bp [Saccharomyces cerevisiae YJM693] >gi|767050219|gb|AJS37442.1| Rpl40bp [Saccharomyces cerevisiae YJM969] >gi|767050522|gb|AJS37744.1| Rpl40bp [Saccharomyces cerevisiae YJM972] >gi|767100470|gb|AJS38047.1| Rpl40bp [Saccharomyces cerevisiae YJM975] >gi|767154866|gb|AJS38348.1| Rpl40bp [Saccharomyces cerevisiae YJM978] >gi|767155169|gb|AJS38650.1| Rpl40bp [Saccharomyces cerevisiae YJM981] >gi|767155471|gb|AJS38951.1| Rpl40bp [Saccharomyces cerevisiae YJM984] >gi|767155773|gb|AJS39252.1| Rpl40bp [Saccharomyces cerevisiae YJM987] >gi|767156076|gb|AJS39554.1| Rpl40bp [Saccharomyces cerevisiae YJM990] >gi|767156379|gb|AJS39856.1| Rpl40bp [Saccharomyces cerevisiae YJM996] >gi|767156682|gb|AJS40158.1| Rpl40bp [Saccharomyces cerevisiae YJM1083] >gi|767156987|gb|AJS40462.1| Rpl40bp [Saccharomyces cerevisiae YJM1129] >gi|767157290|gb|AJS40764.1| Rpl40bp [Saccharomyces cerevisiae YJM1133] >gi|767157591|gb|AJS41064.1| Rpl40bp [Saccharomyces cerevisiae YJM1190] >gi|767157895|gb|AJS41367.1| Rpl40bp [Saccharomyces cerevisiae YJM1199] >gi|767158197|gb|AJS41668.1| Rpl40bp [Saccharomyces cerevisiae YJM1202] >gi|767164931|gb|AJS41971.1| Rpl40bp [Saccharomyces cerevisiae YJM1208] >gi|767165769|gb|AJS42272.1| Rpl40bp [Saccharomyces cerevisiae YJM1242] >gi|767166072|gb|AJS42574.1| Rpl40bp [Saccharomyces cerevisiae YJM1244] >gi|767166344|gb|AJS42845.1| Rpl40bp [Saccharomyces cerevisiae YJM1248] >gi|767166646|gb|AJS43146.1| Rpl40bp [Saccharomyces cerevisiae YJM1250] >gi|767166947|gb|AJS43446.1| Rpl40bp [Saccharomyces cerevisiae YJM1252] >gi|767167247|gb|AJS43745.1| Rpl40bp [Saccharomyces cerevisiae YJM1273] >gi|767167552|gb|AJS44049.1| Rpl40bp [Saccharomyces cerevisiae YJM1304] >gi|767168207|gb|AJS44351.1| Rpl40bp [Saccharomyces cerevisiae YJM1307] >gi|767168506|gb|AJS44649.1| Rpl40bp [Saccharomyces cerevisiae YJM1311] >gi|767168805|gb|AJS44947.1| Rpl40bp [Saccharomyces cerevisiae YJM1326] >gi|767170929|gb|AJS45248.1| Rpl40bp [Saccharomyces cerevisiae YJM1332] >gi|767171235|gb|AJS45553.1| Rpl40bp [Saccharomyces cerevisiae YJM1336] >gi|767171537|gb|AJS45854.1| Rpl40bp [Saccharomyces cerevisiae YJM1338] >gi|767171840|gb|AJS46156.1| Rpl40bp [Saccharomyces cerevisiae YJM1341] >gi|767172141|gb|AJS46456.1| Rpl40bp [Saccharomyces cerevisiae YJM1342] >gi|767172517|gb|AJS46758.1| Rpl40bp [Saccharomyces cerevisiae YJM1355] >gi|767172820|gb|AJS47060.1| Rpl40bp [Saccharomyces cerevisiae YJM1356] >gi|767173121|gb|AJS47360.1| Rpl40bp [Saccharomyces cerevisiae YJM1381] >gi|767173425|gb|AJS47663.1| Rpl40bp [Saccharomyces cerevisiae YJM1383] >gi|767173727|gb|AJS47964.1| Rpl40bp [Saccharomyces cerevisiae YJM1385] >gi|767174027|gb|AJS48263.1| Rpl40bp [Saccharomyces cerevisiae YJM1386] >gi|767174330|gb|AJS48565.1| Rpl40bp [Saccharomyces cerevisiae YJM1387] >gi|767174635|gb|AJS48869.1| Rpl40bp [Saccharomyces cerevisiae YJM1388] >gi|767174931|gb|AJS49164.1| Rpl40bp [Saccharomyces cerevisiae YJM1389] >gi|767175159|gb|AJS49391.1| Rpl40bp [Saccharomyces cerevisiae YJM1399] >gi|767175461|gb|AJS49692.1| Rpl40bp [Saccharomyces cerevisiae YJM1400] >gi|767176061|gb|AJS50290.1| Rpl40bp [Saccharomyces cerevisiae YJM1402] >gi|767176363|gb|AJS50591.1| Rpl40bp [Saccharomyces cerevisiae YJM1415] >gi|767176665|gb|AJS50892.1| Rpl40bp [Saccharomyces cerevisiae YJM1417] >gi|767176969|gb|AJS51195.1| Rpl40bp [Saccharomyces cerevisiae YJM1418] >gi|767177274|gb|AJS51499.1| Rpl40bp [Saccharomyces cerevisiae YJM1419] >gi|767177578|gb|AJS51802.1| Rpl40bp [Saccharomyces cerevisiae YJM1433] >gi|767177880|gb|AJS52103.1| Rpl40bp [Saccharomyces cerevisiae YJM1434] >gi|767178182|gb|AJS52404.1| Rpl40bp [Saccharomyces cerevisiae YJM1439] >gi|767178479|gb|AJS52698.1| Rpl40bp [Saccharomyces cerevisiae YJM1443] >gi|767178782|gb|AJS53000.1| Rpl40bp [Saccharomyces cerevisiae YJM1444] >gi|767179374|gb|AJS53590.1| Rpl40bp [Saccharomyces cerevisiae YJM1450] >gi|767179671|gb|AJS53886.1| Rpl40bp [Saccharomyces cerevisiae YJM1460] >gi|767179970|gb|AJS54184.1| Rpl40bp [Saccharomyces cerevisiae YJM1463] >gi|767180270|gb|AJS54483.1| Rpl40bp [Saccharomyces cerevisiae YJM1477] >gi|767180573|gb|AJS54783.1| Rpl40bp [Saccharomyces cerevisiae YJM1478] >gi|767180869|gb|AJS55078.1| Rpl40bp [Saccharomyces cerevisiae YJM1479] >gi|767181173|gb|AJS55381.1| Rpl40bp [Saccharomyces cerevisiae YJM1526] >gi|767181476|gb|AJS56247.1| Rpl40bp [Saccharomyces cerevisiae YJM1573] >gi|767181773|gb|AJS56543.1| Rpl40bp [Saccharomyces cerevisiae YJM1574] >gi|767182458|gb|AJS57146.1| Rpl40bp [Saccharomyces cerevisiae YJM1615] >gi|767183625|gb|AJS56844.1| Rpl40bp [Saccharomyces cerevisiae YJM1592] >gi|767185240|gb|AJS55944.1| Rpl40bp [Saccharomyces cerevisiae YJM1549] >gi|919302247|gb|KOH49349.1| RPL40Ap ubiquitin-ribosomal 60S subunit protein L40A fusion protein [Saccharomyces sp. 'boulardii'] >gi|941961602|gb|KQC42541.1| Ubiquitin-ribosomal 60S subunit protein L40A fusion protein [Saccharomyces sp. 'boulardii'] >gi|1023942764|gb|KZV10034.1| RPL40B [Saccharomyces cerevisiae] >gi|1023943211|gb|KZV10464.1| RPL40A [Saccharomyces cerevisiae]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCDKSVCRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|968581571|gb|KTW26270.1| ubiquitin-60S ribosomal protein L40 [Pneumocystis jirovecii RU7]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAPQK
+CTMKECNAPAVRIAGDCNFCEGHFCGRHRQLENHACTGLQECRQQSHERNRTKLEKEQCVASKV
+>gi|635575887|pdb|4NNJ|B Chain B, Crystal Structure Of Uba1 In Complex With Ubiquitin-amp And Thioesterified Ubiquitin >gi|635575889|pdb|4NNJ|D Chain D, Crystal Structure Of Uba1 In Complex With Ubiquitin-amp And Thioesterified Ubiquitin >gi|635575890|pdb|4NNJ|E Chain E, Crystal Structure Of Uba1 In Complex With Ubiquitin-amp And Thioesterified Ubiquitin
+SAAMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG
+>gi|906319669|emb|CEP20278.1| K02927 large subunit ribosomal protein L40e [Cyberlindnera jadinii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCDKSICRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|835889164|gb|KLU81424.1| ubiquitin-60S ribosomal protein L40 [Magnaporthiopsis poae ATCC 64411]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKFNCEKMICRKCYARLPPRATNCRKRKCGHTNQLRPKKKIK
+>gi|846914409|gb|KMK60227.1| Ubiquitin-40S ribosomal protein S27a [Aspergillus fumigatus Z5]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKCGAGIFMAAMHNRQYCGKCHLTYVFDESK
+>gi|396487141|ref|XP_003842568.1| similar to ubiquitin/ribosomal L40 fusion protein [Leptosphaeria maculans JN3] >gi|312219145|emb|CBX99089.1| similar to ubiquitin/ribosomal L40 fusion protein [Leptosphaeria maculans JN3] >gi|1020701966|gb|KZM22476.1| structural constituent of ribosome [Ascochyta rabiei]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCDKMICRKCYARLPPRAVNCRKKKCGHTNQLRPKKKLK
+>gi|154275126|ref|XP_001538414.1| ubiquitin-60S ribosomal protein L40 fusion protein [Histoplasma capsulatum NAm1] >gi|150414854|gb|EDN10216.1| ubiquitin [Histoplasma capsulatum NAm1]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCDKMICRKCYARLPPRATNCRKKKCGHTNQLRPKKKLK
+>gi|326634394|pdb|3OLM|D Chain D, Structure And Function Of A Ubiquitin Binding Site Within The Catalytic Domain Of A Hect Ubiquitin Ligase
+SNAMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG
+>gi|321251621|ref|XP_003192124.1| ubiquitin-carboxy extension protein fusion [Cryptococcus gattii WM276] >gi|317458592|gb|ADV20337.1| Ubiquitin-carboxy extension protein fusion, putative [Cryptococcus gattii WM276] >gi|686622189|gb|KGB74387.1| ubiquitin-40S ribosomal protein S27a [Cryptococcus gattii VGII R265] >gi|757318991|gb|KIR25111.1| ubiquitin-40S ribosomal protein S27a [Cryptococcus gattii VGII LA55] >gi|757327855|gb|KIR33907.1| polyubiquitin [Cryptococcus gattii VGII MMRL2647] >gi|757334516|gb|KIR40544.1| ubiquitin-40S ribosomal protein S27a [Cryptococcus gattii VGII Ram5] >gi|757349767|gb|KIR55623.1| ubiquitin-40S ribosomal protein S27a [Cryptococcus gattii Ru294] >gi|757361569|gb|KIR67390.1| ubiquitin-40S ribosomal protein S31 [Cryptococcus gattii CA1873] >gi|757368428|gb|KIR74225.1| ubiquitin-40S ribosomal protein S27a [Cryptococcus gattii VGII CA1014] >gi|757371389|gb|KIR77113.1| polyubiquitin [Cryptococcus gattii EJB2] >gi|757382489|gb|KIR87835.1| polyubiquitin [Cryptococcus gattii VGIV IND107] >gi|757388968|gb|KIR94289.1| polyubiquitin [Cryptococcus gattii VGII CBS 10090] >gi|757395999|gb|KIS01296.1| ubiquitin-40S ribosomal protein S27b [Cryptococcus gattii VGII 2001/935-1] >gi|761747695|gb|KIY36140.1| polyubiquitin [Cryptococcus gattii E566] >gi|761933732|gb|KIY54553.1| ubiquitin-40S ribosomal protein S27a [Cryptococcus gattii VGII 99/473] >gi|765277759|gb|KJE00348.1| ubiquitin-40S ribosomal protein S27b [Cryptococcus gattii NT-10]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCDKQICRKCYARLPPRATNCRKRKCGHSSQIRPKKTLKK
+>gi|440470934|gb|ELQ39973.1| ubiquitin [Magnaporthe oryzae Y34] >gi|440488297|gb|ELQ68028.1| ubiquitin [Magnaporthe oryzae P131]
+MASTPDGMENFTKAAKMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKE
+STLHLVLRLRGGIIEPSLKALASKFNCDKQICRKCYARLPPRATNCRKRKCGHSNQLRPKKKLK
+>gi|449802717|pdb|4II3|B Chain B, Crystal Structure Of S. Pombe Ubiquitin Activating Enzyme 1 (uba1) In Complex With Ubiquitin And Atp/mg >gi|449802719|pdb|4II3|D Chain D, Crystal Structure Of S. Pombe Ubiquitin Activating Enzyme 1 (uba1) In Complex With Ubiquitin And Atp/mg
+MGSSHHHHHHSSGLVPRGSHMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYN
+IQKESTLHLVLRLRGG
+>gi|209603|gb|AAA72816.1| ubiquitin/relaxin fusion protein [synthetic construct]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGEFIE
+GRSWMEEVIKLCGRELVRAQIAICGMSTWSKRSL
+>gi|225678066|gb|EEH16350.1| ubiquitin-60S ribosomal protein L40 [Paracoccidioides brasiliensis Pb03]
+MPTTHALSESSKLQRPNVEVKREEERERRVESDHPATTERVSATMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGI
+PPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEPSLRALASKYNCDKMICRKCYARLPPRATNCRKKKCG
+HTNQLRPKKKLK
+>gi|631247465|ref|XP_007918654.1| putative ubiquitin-60s ribosomal protein l40 protein [Phaeoacremonium minimum UCRPA7] >gi|758190866|ref|XP_011317812.1| hypothetical protein FGSG_01956 [Fusarium graminearum PH-1] >gi|500252819|gb|EON96596.1| putative ubiquitin-60s ribosomal protein l40 protein [Phaeoacremonium minimum UCRPA7] >gi|558857244|gb|ESU07327.1| hypothetical protein FGSG_01956 [Fusarium graminearum PH-1] >gi|584137706|gb|EWG47048.1| ubiquitin-60S ribosomal protein L40 [Fusarium verticillioides 7600] >gi|587710773|gb|EWZ82110.1| ubiquitin-60S ribosomal protein L40 [Fusarium oxysporum f. sp. lycopersici MN25] >gi|902729108|gb|KNB00677.1| ubiquitin-60S ribosomal protein L40 [Fusarium oxysporum f. sp. lycopersici 4287]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKFNCDKMICRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|365987463|ref|XP_003670563.1| ubiquitin/ribosomal protein L40 fusion protein [Naumovozyma dairenensis CBS 421] >gi|366987003|ref|XP_003673268.1| hypothetical protein NCAS_0A03210 [Naumovozyma castellii CBS 4309] >gi|366995001|ref|XP_003677264.1| hypothetical protein NCAS_0G00240 [Naumovozyma castellii CBS 4309] >gi|342299131|emb|CCC66879.1| hypothetical protein NCAS_0A03210 [Naumovozyma castellii CBS 4309] >gi|342303133|emb|CCC70911.1| hypothetical protein NCAS_0G00240 [Naumovozyma castellii CBS 4309] >gi|343769333|emb|CCD25320.1| hypothetical protein NDAI_0E05030 [Naumovozyma dairenensis CBS 421]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKVLASKYNCDKSVCRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|389628484|ref|XP_003711895.1| ubiquitin-60S ribosomal protein L40 [Magnaporthe oryzae 70-15] >gi|351644227|gb|EHA52088.1| ubiquitin-60S ribosomal protein L40 [Magnaporthe oryzae 70-15]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKFNCDKQICRKCYARLPPRATNCRKRKCGHSNQLRPKKKLK
+>gi|3047314|gb|AAC13689.1| ubiquitin fusion protein [Magnaporthe grisea]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKFNCDKQICRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|1039711189|gb|OBR85053.1| polyubiquitin [Kwoniella dejecticola CBS 10117] >gi|1045430988|gb|OCF25336.1| ubiquitin-40S ribosomal protein S27a [Kwoniella bestiolae CBS 10118] >gi|1045436263|gb|OCF30532.1| polyubiquitin [Kwoniella heveanensis BCC8398] >gi|1045456398|gb|OCF49892.1| polyubiquitin [Kwoniella pini CBS 10737]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKVLANKYNCDKQICRKCYARLPPRATNCRKRKCGHSSQIRPKKKIKN
+>gi|1045472703|gb|OCF64629.1| ubiquitin-40S ribosomal protein S27b [Kwoniella mangroviensis CBS 8507]
+MSSPFKMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLR
+GGIIEPSLKVLANKYNCDKQICRKCYARLPPRATNCRKRKCGHSSQIRPKKKIKN
+>gi|734685992|ref|XP_010763225.1| ubiquitin-60S ribosomal protein L40 [Paracoccidioides brasiliensis Pb18] >gi|699748343|gb|EEH43071.2| ubiquitin-60S ribosomal protein L40 [Paracoccidioides brasiliensis Pb18]
+MPTTHALSESSKLQRPNVEVKTRGRERERRVESDHPATTEKVSATMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEG
+IPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEPSLRALASKYNCDKMICRKCYARLPPRATNCRKKKC
+GHTNQLRPKKKLK
+>gi|672382976|gb|KFG85094.1| hypothetical protein MANI_018777 [Metarhizium anisopliae]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIC
+E
+>gi|1002198537|gb|KXS94618.1| hypothetical protein AC578_10643 [Mycosphaerella eumusae]
+MLMPCAKRHNRDFPPRTHHQRRFLSKTNARHKRRPQTVMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQR
+LIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEPSLKALASKYNCEKMICRKCYARLPPRATNCRKKKCGHTNQLR
+PKKKLK
+>gi|927417252|ref|XP_013954457.1| hypothetical protein TRIVIDRAFT_181110 [Trichoderma virens Gv29-8] >gi|358382588|gb|EHK20259.1| hypothetical protein TRIVIDRAFT_181110 [Trichoderma virens Gv29-8]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGVIEP
+SLKVLASKFNCDKMICRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|858055748|emb|CDW97431.1| hypothetical protein [Sporisorium scitamineum] >gi|1003336044|emb|CDR88817.1| probable ubiquitin [Sporisorium scitamineum]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+CQNGAGTESQCKDAAINLVGECPHCSLKFCGKHRLPEQHKCAQVEQVRNAAFAANKAKLESERTQATRGLAH
+>gi|752278237|dbj|GAM86569.1| hypothetical protein ANO11243_045830 [fungal sp. No.11243] >gi|752279116|dbj|GAM85931.1| hypothetical protein ANO11243_039410 [fungal sp. No.11243]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGE
+>gi|365989228|ref|XP_003671444.1| hypothetical protein NDAI_0H00270 [Naumovozyma dairenensis CBS 421] >gi|343770217|emb|CCD26201.1| hypothetical protein NDAI_0H00270 [Naumovozyma dairenensis CBS 421]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGV
+>gi|757378269|gb|KIR83631.1| polyubiquitin, partial [Cryptococcus gattii VGIV IND107]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIF
+VKTLTGKTITLEVESSDTIDN
+>gi|367016509|ref|XP_003682753.1| ubiquitin [Torulaspora delbrueckii] >gi|359750416|emb|CCE93542.1| hypothetical protein TDEL_0G01750 [Torulaspora delbrueckii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGC
+>gi|953473149|ref|XP_014580049.1| ubiquitin, partial [Metarhizium majus ARSEF 297] >gi|743674135|gb|KIE01056.1| ubiquitin [Metarhizium majus ARSEF 297]
+MSEELSPLELFSNFHTRSAVRIFTIASVTKSVKMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAG
+KQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEPSLKALASKFNCDKMICRKCYARLPPRATNCRKRKCGHTNQLRPKKKL
+K
+>gi|723189808|gb|KHC63621.1| polyubiquitin [Candida albicans P75010]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIF
+VKT
+>gi|770397458|gb|KJK83428.1| hypothetical protein H634G_01557 [Metarhizium anisopliae BRIP 53293] >gi|770409235|gb|KJK94047.1| hypothetical protein H633G_02058 [Metarhizium anisopliae BRIP 53284]
+MPEELSPLQLFSSPHTRSAVRIFTIASVTKSVKMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAG
+KQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEPSLKALASKFNCDKMICRKCYARLPPRATNCRKRKCGHTNQLRPKKKL
+K
+>gi|159162804|pdb|1OTR|B Chain B, Solution Structure Of A Cue-Ubiquitin Complex >gi|159162864|pdb|1Q0W|B Chain B, Solution Structure Of Vps27 Amino-Terminal Uim-Ubiquitin Complex >gi|159163450|pdb|1WR1|A Chain A, The Complex Sturcture Of Dsk2p Uba With Ubiquitin >gi|159164567|pdb|2G3Q|B Chain B, Solution Structure Of Ede1 Uba-Ubiquitin Complex >gi|159164727|pdb|2JT4|B Chain B, Solution Structure Of The Sla1 Sh3-3-Ubiquitin Complex >gi|195927471|pdb|3CMM|B Chain B, Crystal Structure Of The Uba1-Ubiquitin Complex >gi|195927472|pdb|3CMM|D Chain D, Crystal Structure Of The Uba1-Ubiquitin Complex >gi|340780219|pdb|2L00|B Chain B, Solution Structure Of The Non-Covalent Complex Of The Znf216 A20 Domain With Ubiquitin >gi|6318568|gb|AAF06951.1|AF134781_1 ubiquitin peptide [Cloning vector YEP46] >gi|209599|gb|AAA72565.1| synthetic ubiquitin [synthetic construct] >gi|326698725|gb|AEA04446.1| ubiquitin, partial [Schizaphis graminum]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG
+>gi|343425443|emb|CBQ68978.1| probable ubiquitin [Sporisorium reilianum SRZ2]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+CQNGAGTEGQCKDAAINLVGECPHCSLKFCGKHRLPEQHKCAQVEQVRNAAFAANKAKLESERTQATRGLAH
+>gi|342879288|gb|EGU80543.1| hypothetical protein FOXB_09003 [Fusarium oxysporum Fo5176]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQI
+>gi|1028573876|gb|OAJ42180.1| ubiquitin [Batrachochytrium dendrobatidis JEL423]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGVIEP
+TLKALAMKYNCDKKVCRKCYARLPPRATNCRKKKCGHSNQLRPKKKTSK
+>gi|422920073|pdb|4HCN|B Chain B, Crystal Structure Of Burkholderia Pseudomallei Effector Protein Chbp In Complex With Ubiquitin
+MGSSHHHHHHSSGENLYFQGRPMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSD
+YNIQKESTLHLVLRLRGG
+>gi|410082331|ref|XP_003958744.1| hypothetical protein KAFR_0H02000 [Kazachstania africana CBS 2517] >gi|372465333|emb|CCF59609.1| hypothetical protein KAFR_0H02000 [Kazachstania africana CBS 2517]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAVLSYYKVDNEGKVTKLRRECTNATCGAGVFLANHKDRFYCGKCHSVYKTNA
+>gi|3047316|gb|AAC13690.1| ubiquitin fusion protein [Magnaporthe grisea]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAVLSTTRSTVTERLSASAASCPNETCGAGIFMAAMQDRQYCGRCHLTYVFDKKD
+>gi|410730137|ref|XP_003671246.2| hypothetical protein NDAI_0G02280 [Naumovozyma dairenensis CBS 421] >gi|401780066|emb|CCD26003.2| hypothetical protein NDAI_0G02280 [Naumovozyma dairenensis CBS 421]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAVLSYYKVDAEGKVTKLRRECSNPTCGAGVFLANHQDRYYCGKCHSVYKTSA
+>gi|45198803|ref|NP_985832.1| ubiquitin-60S ribosomal protein L40 fusion protein [Eremothecium gossypii ATCC 10895] >gi|44984832|gb|AAS53656.1| AFR285Cp [Eremothecium gossypii ATCC 10895] >gi|374109063|gb|AEY97969.1| FAFR285Cp [Eremothecium gossypii FDAG1] >gi|403218339|emb|CCK72830.1| hypothetical protein KNAG_0L02120 [Kazachstania naganishii CBS 8797]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKSVCRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|712882697|gb|KGU30436.1| polyubiquitin [Candida albicans P57055]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIF
+VKTLTGK
+>gi|695103213|emb|CEG02278.1| unnamed protein product [Fusarium pseudograminearum CS3220] >gi|695124286|emb|CEG04129.1| unnamed protein product [Fusarium sp. FIESC_5 CS3069]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGQ
+>gi|723161437|gb|KHC35477.1| polyubiquitin [Candida albicans P76055]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIF
+VKTLTG
+>gi|1028555604|gb|OAJ25570.1| hypothetical protein A4X03_g1514 [Tilletia caries] >gi|1028560828|gb|OAJ30223.1| hypothetical protein A4X06_g2512 [Tilletia controversa]
+MQIFVKTLTGKTITLEVESSDTIDNVKTKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGARKR
+CQHGHGSEAQCRDAAVKIVGECPHCTMHFCGTHRLPEQHACPKQAEVRSKAFEANKARLEAEKTHASRGLAH
+>gi|116204187|ref|XP_001227904.1| ubiquitin [Chaetomium globosum CBS 148.51] >gi|88176105|gb|EAQ83573.1| ubiquitin [Chaetomium globosum CBS 148.51]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGAMARL
+SVFAASAPTRA
+>gi|549044533|emb|CCX33817.1| Similar to Ubiquitin-60S ribosomal protein L40; acc. no. P0CH08 [Pyronema omphalodes CBS 100304]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAPKK
+KTCSWKECNNAALRIVGDCTFCDGHFCGAHRLLEDHKCTGLENCKKESHDRNAMKLQAERTIVGKV
+>gi|636589585|ref|XP_008026131.1| hypothetical protein SETTUDRAFT_56731, partial [Setosphaeria turcica Et28A] >gi|482809394|gb|EOA86216.1| hypothetical protein SETTUDRAFT_56731 [Setosphaeria turcica Et28A]
+TANMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGI
+IEPSLKALASKYNCDKMICRKCYARLPPRAVNCRKKKCGHTNQLRPKKKLK
+>gi|156063510|ref|XP_001597677.1| ubiquitin-60S ribosomal protein L40 fusion protein [Sclerotinia sclerotiorum 1980 UF-70] >gi|154697207|gb|EDN96945.1| ubiquitin fusion protein [Sclerotinia sclerotiorum 1980 UF-70]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKFNCEKMICRKCYARLPPRATNCRKKKCGHTNQLRPKKKLK
+>gi|906317491|emb|CEP23256.1| 40S ribosomal protein S27a [Cyberlindnera jadinii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGH
+>gi|930411753|ref|XP_014180149.1| ubiquitin fusion protein [Trichosporon asahii var. asahii CBS 2479] >gi|401885150|gb|EJT49277.1| ubiquitin fusion protein [Trichosporon asahii var. asahii CBS 2479] >gi|406694588|gb|EKC97912.1| ubiquitin fusion protein [Trichosporon asahii var. asahii CBS 8904]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPK
+>gi|6323196|ref|NP_013268.1| ubiquitin-ribosomal 40S subunit protein S31 fusion protein [Saccharomyces cerevisiae S288c] >gi|303308545|sp|P05759.3|RS27A_YEAST RecName: Full=Ubiquitin-40S ribosomal protein S31; Contains: RecName: Full=Ubiquitin; Contains: RecName: Full=40S ribosomal protein S31; AltName: Full=CEP76; AltName: Full=S37; AltName: Full=YS24; Flags: Precursor >gi|651207389|pdb|1VW9|GG Chain g, S. Cerevisiae 80s Ribosome Bound With Taura Syndrome Virus (tsv) Ires, 5 Degree Rotation (class Ii). This Entry Contains The Small Ribosomal Subunit. >gi|651207469|pdb|1VWV|GG Chain g, S. Cerevisiae 80s Ribosome Bound With Taura Syndrome Virus (tsv) Ires, 2 Degree Rotation (class I). This Entry Contains The Small Ribosomal Subunit. >gi|672885436|pdb|1VXW|FF Chain f, Structures Of Yeast 80s Ribosome-trna Complexes In The Rotated And Non-rotated Conformations (class Ii - Rotated Ribosome With 1 Trna, This Entry Contains The Small Ribosomal Subunit, Mrna, And Trna) >gi|672885519|pdb|1VXZ|FF Chain f, Structures Of Yeast 80s Ribosome-trna Complexes In The Rotated And Non-rotated Conformations (class I - Non-rotated Ribosome With 2 Trnas, This Entry Contains The Small Ribosomal Subunit, Mrna, And Trna) >gi|4732|emb|CAA29197.1| unnamed protein product [Saccharomyces cerevisiae] >gi|577206|gb|AAB67466.1| Ubi3p: Ubiquitin fused to ribosomal protein S27A [Saccharomyces cerevisiae] >gi|151941013|gb|EDN59393.1| ribosomal protein S31 [Saccharomyces cerevisiae YJM789] >gi|190405239|gb|EDV08506.1| also encodes a ubiquitin protein [Saccharomyces cerevisiae RM11-1a] >gi|256274360|gb|EEU09265.1| Rps31p [Saccharomyces cerevisiae JAY291] >gi|259148159|emb|CAY81406.1| Rps31p [Saccharomyces cerevisiae EC1118] >gi|285813593|tpg|DAA09489.1| TPA: ubiquitin-ribosomal 40S subunit protein S31 fusion protein [Saccharomyces cerevisiae S288c] >gi|323303838|gb|EGA57620.1| Rps31p [Saccharomyces cerevisiae FostersB] >gi|323308010|gb|EGA61264.1| Rps31p [Saccharomyces cerevisiae FostersO] >gi|323332310|gb|EGA73719.1| Rps31p [Saccharomyces cerevisiae AWRI796] >gi|323336441|gb|EGA77708.1| Rps31p [Saccharomyces cerevisiae Vin13] >gi|323347396|gb|EGA81667.1| Rps31p [Saccharomyces cerevisiae Lalvin QA23] >gi|323353759|gb|EGA85614.1| Rps31p [Saccharomyces cerevisiae VL3] >gi|349579884|dbj|GAA25045.1| K7_Rps31p [Saccharomyces cerevisiae Kyokai no. 7] >gi|365764019|gb|EHN05544.1| Rps31p [Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7] >gi|392297678|gb|EIW08777.1| Rps31p [Saccharomyces cerevisiae CEN.PK113-7D] >gi|584364410|gb|EWG84417.1| Rps31p [Saccharomyces cerevisiae R008] >gi|584369624|gb|EWG89583.1| Rps31p [Saccharomyces cerevisiae P301] >gi|584374453|gb|EWG94350.1| Rps31p [Saccharomyces cerevisiae R103] >gi|584475290|gb|EWH17047.1| Rps31p [Saccharomyces cerevisiae P283] >gi|628238154|gb|AHY78549.1| Rps31p [Saccharomyces cerevisiae YJM993] >gi|761519748|gb|AJP40324.1| Rps31p [Saccharomyces cerevisiae YJM1078] >gi|768822193|gb|AJV46229.1| Rps31p [Saccharomyces cerevisiae YJM1083] >gi|768822646|gb|AJV46681.1| Rps31p [Saccharomyces cerevisiae YJM1129] >gi|768823133|gb|AJV47133.1| Rps31p [Saccharomyces cerevisiae YJM1133] >gi|768823586|gb|AJV47585.1| Rps31p [Saccharomyces cerevisiae YJM1190] >gi|768824041|gb|AJV48038.1| Rps31p [Saccharomyces cerevisiae YJM1199] >gi|768824499|gb|AJV48495.1| Rps31p [Saccharomyces cerevisiae YJM1202] >gi|768824952|gb|AJV48947.1| Rps31p [Saccharomyces cerevisiae YJM1208] >gi|768825406|gb|AJV49400.1| Rps31p [Saccharomyces cerevisiae YJM1242] >gi|768825861|gb|AJV49854.1| Rps31p [Saccharomyces cerevisiae YJM1244] >gi|768826275|gb|AJV50267.1| Rps31p [Saccharomyces cerevisiae YJM1248] >gi|768826727|gb|AJV50718.1| Rps31p [Saccharomyces cerevisiae YJM1250] >gi|768827176|gb|AJV51166.1| Rps31p [Saccharomyces cerevisiae YJM1252] >gi|768827627|gb|AJV51616.1| Rps31p [Saccharomyces cerevisiae YJM1273] >gi|768828078|gb|AJV52066.1| Rps31p [Saccharomyces cerevisiae YJM1304] >gi|768828521|gb|AJV52508.1| Rps31p [Saccharomyces cerevisiae YJM1307] >gi|768828975|gb|AJV52961.1| Rps31p [Saccharomyces cerevisiae YJM1311] >gi|768829417|gb|AJV53402.1| Rps31p [Saccharomyces cerevisiae YJM1326] >gi|768829870|gb|AJV53854.1| Rps31p [Saccharomyces cerevisiae YJM1332] >gi|768830327|gb|AJV54310.1| Rps31p [Saccharomyces cerevisiae YJM1336] >gi|768830780|gb|AJV54762.1| Rps31p [Saccharomyces cerevisiae YJM1338] >gi|768831217|gb|AJV55198.1| Rps31p [Saccharomyces cerevisiae YJM1341] >gi|768831669|gb|AJV55649.1| Rps31p [Saccharomyces cerevisiae YJM1342] >gi|768832116|gb|AJV56095.1| Rps31p [Saccharomyces cerevisiae YJM1355] >gi|768832572|gb|AJV56550.1| Rps31p [Saccharomyces cerevisiae YJM1356] >gi|768833028|gb|AJV57005.1| Rps31p [Saccharomyces cerevisiae YJM1381] >gi|768833482|gb|AJV57458.1| Rps31p [Saccharomyces cerevisiae YJM1383] >gi|768833934|gb|AJV57909.1| Rps31p [Saccharomyces cerevisiae YJM1385] >gi|768834383|gb|AJV58357.1| Rps31p [Saccharomyces cerevisiae YJM1386] >gi|768834837|gb|AJV58810.1| Rps31p [Saccharomyces cerevisiae YJM1387] >gi|768835286|gb|AJV59258.1| Rps31p [Saccharomyces cerevisiae YJM1388] >gi|768835727|gb|AJV59698.1| Rps31p [Saccharomyces cerevisiae YJM1389] >gi|768836171|gb|AJV60141.1| Rps31p [Saccharomyces cerevisiae YJM1399] >gi|768836621|gb|AJV60590.1| Rps31p [Saccharomyces cerevisiae YJM1400] >gi|768837072|gb|AJV61040.1| Rps31p [Saccharomyces cerevisiae YJM1401] >gi|768837528|gb|AJV61495.1| Rps31p [Saccharomyces cerevisiae YJM1402] >gi|768837982|gb|AJV61948.1| Rps31p [Saccharomyces cerevisiae YJM1415] >gi|768838437|gb|AJV62402.1| Rps31p [Saccharomyces cerevisiae YJM1417] >gi|768838882|gb|AJV62846.1| Rps31p [Saccharomyces cerevisiae YJM1418] >gi|768839333|gb|AJV63296.1| Rps31p [Saccharomyces cerevisiae YJM1419] >gi|768839764|gb|AJV63726.1| Rps31p [Saccharomyces cerevisiae YJM1433] >gi|768840211|gb|AJV64172.1| Rps31p [Saccharomyces cerevisiae YJM1434] >gi|768840659|gb|AJV64619.1| Rps31p [Saccharomyces cerevisiae YJM1439] >gi|768841100|gb|AJV65059.1| Rps31p [Saccharomyces cerevisiae YJM1443] >gi|768841519|gb|AJV65477.1| Rps31p [Saccharomyces cerevisiae YJM1444] >gi|768841971|gb|AJV65928.1| Rps31p [Saccharomyces cerevisiae YJM1447] >gi|768842403|gb|AJV66359.1| Rps31p [Saccharomyces cerevisiae YJM1450] >gi|768842855|gb|AJV66810.1| Rps31p [Saccharomyces cerevisiae YJM1460] >gi|768843306|gb|AJV67260.1| Rps31p [Saccharomyces cerevisiae YJM1463] >gi|768843759|gb|AJV67712.1| Rps31p [Saccharomyces cerevisiae YJM1477] >gi|768844211|gb|AJV68163.1| Rps31p [Saccharomyces cerevisiae YJM1478] >gi|768844665|gb|AJV68616.1| Rps31p [Saccharomyces cerevisiae YJM1479] >gi|768845115|gb|AJV69065.1| Rps31p [Saccharomyces cerevisiae YJM1526] >gi|768845568|gb|AJV69517.1| Rps31p [Saccharomyces cerevisiae YJM1527] >gi|768846021|gb|AJV69969.1| Rps31p [Saccharomyces cerevisiae YJM1549] >gi|768846464|gb|AJV70411.1| Rps31p [Saccharomyces cerevisiae YJM1573] >gi|768846917|gb|AJV70863.1| Rps31p [Saccharomyces cerevisiae YJM1574] >gi|768847354|gb|AJV71299.1| Rps31p [Saccharomyces cerevisiae YJM1592] >gi|768847798|gb|AJV71742.1| Rps31p [Saccharomyces cerevisiae YJM1615] >gi|768848253|gb|AJV72196.1| Rps31p [Saccharomyces cerevisiae YJM189] >gi|768848704|gb|AJV72646.1| Rps31p [Saccharomyces cerevisiae YJM193] >gi|768849156|gb|AJV73097.1| Rps31p [Saccharomyces cerevisiae YJM195] >gi|768849602|gb|AJV73542.1| Rps31p [Saccharomyces cerevisiae YJM244] >gi|768849972|gb|AJV73911.1| Rps31p [Saccharomyces cerevisiae YJM248] >gi|768850420|gb|AJV74358.1| Rps31p [Saccharomyces cerevisiae YJM270] >gi|768850871|gb|AJV74808.1| Rps31p [Saccharomyces cerevisiae YJM271] >gi|768851263|gb|AJV75199.1| Rps31p [Saccharomyces cerevisiae YJM320] >gi|768851715|gb|AJV75650.1| Rps31p [Saccharomyces cerevisiae YJM326] >gi|768852168|gb|AJV76102.1| Rps31p [Saccharomyces cerevisiae YJM428] >gi|768852621|gb|AJV76554.1| Rps31p [Saccharomyces cerevisiae YJM450] >gi|768853073|gb|AJV77005.1| Rps31p [Saccharomyces cerevisiae YJM451] >gi|768853530|gb|AJV77461.1| Rps31p [Saccharomyces cerevisiae YJM453] >gi|768853971|gb|AJV77901.1| Rps31p [Saccharomyces cerevisiae YJM456] >gi|768854425|gb|AJV78354.1| Rps31p [Saccharomyces cerevisiae YJM470] >gi|768854876|gb|AJV78804.1| Rps31p [Saccharomyces cerevisiae YJM541] >gi|768855326|gb|AJV79253.1| Rps31p [Saccharomyces cerevisiae YJM554] >gi|768855779|gb|AJV79705.1| Rps31p [Saccharomyces cerevisiae YJM555] >gi|768856230|gb|AJV80155.1| Rps31p [Saccharomyces cerevisiae YJM627] >gi|768856662|gb|AJV80586.1| Rps31p [Saccharomyces cerevisiae YJM681] >gi|768857112|gb|AJV81035.1| Rps31p [Saccharomyces cerevisiae YJM682] >gi|768857567|gb|AJV81489.1| Rps31p [Saccharomyces cerevisiae YJM683] >gi|768858021|gb|AJV81942.1| Rps31p [Saccharomyces cerevisiae YJM689] >gi|768858472|gb|AJV82392.1| Rps31p [Saccharomyces cerevisiae YJM693] >gi|768858928|gb|AJV82847.1| Rps31p [Saccharomyces cerevisiae YJM969] >gi|768859385|gb|AJV83303.1| Rps31p [Saccharomyces cerevisiae YJM972] >gi|768859836|gb|AJV83753.1| Rps31p [Saccharomyces cerevisiae YJM975] >gi|768860289|gb|AJV84205.1| Rps31p [Saccharomyces cerevisiae YJM978] >gi|768860745|gb|AJV84660.1| Rps31p [Saccharomyces cerevisiae YJM981] >gi|768861199|gb|AJV85113.1| Rps31p [Saccharomyces cerevisiae YJM984] >gi|768861653|gb|AJV85566.1| Rps31p [Saccharomyces cerevisiae YJM987] >gi|768862108|gb|AJV86020.1| Rps31p [Saccharomyces cerevisiae YJM990] >gi|768862563|gb|AJV86474.1| Rps31p [Saccharomyces cerevisiae YJM996] >gi|919301975|gb|KOH49085.1| RPS31p ubiquitin-ribosomal 40S subunit protein S31 fusion protein [Saccharomyces sp. 'boulardii'] >gi|941961324|gb|KQC42277.1| ubiquitin-ribosomal 40S subunit protein S31 fusion protein [Saccharomyces sp. 'boulardii'] >gi|1023942136|gb|KZV09412.1| RPS31 [Saccharomyces cerevisiae]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAVLSYYKVDAEGKVTKLRRECSNPTCGAGVFLANHKDRLYCGKCHSVYKVNA
+>gi|578054726|emb|CDH09860.1| probable Ubiquitin-40S ribosomal protein S27a [Zygosaccharomyces bailii ISA1307] >gi|578055423|emb|CDH09517.1| probable Ubiquitin-40S ribosomal protein S27a [Zygosaccharomyces bailii ISA1307]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKMAILSYFKVDSEGKVSKLRKECNNCGAGIFLANHKDRYYCGKCHSVYTFKQEA
+>gi|365759384|gb|EHN01172.1| Rps31p [Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7] >gi|401624593|gb|EJS42648.1| rps31p [Saccharomyces arboricola H-6] >gi|401839983|gb|EJT42910.1| RPS31-like protein [Saccharomyces kudriavzevii IFO 1802] >gi|918731894|gb|KOG97868.1| RPS31-like protein [Saccharomyces eubayanus]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIRHKHKKVKLAVLSYYKVDAEGKVTKLRRECSNPTCGAGVFLANHKDRLYCGKCHSVYKVNA
+>gi|366991769|ref|XP_003675650.1| hypothetical protein NCAS_0C02940 [Naumovozyma castellii CBS 4309] >gi|342301515|emb|CCC69284.1| hypothetical protein NCAS_0C02940 [Naumovozyma castellii CBS 4309]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAVLGYYKVDAEGKVTKLRRECSNATCGAGVFLANHGDRYYCGKCHSVFKTNA
+>gi|363751405|ref|XP_003645919.1| hypothetical protein Ecym_4019 [Eremothecium cymbalariae DBVPG#7215] >gi|356889554|gb|AET39102.1| hypothetical protein Ecym_4019 [Eremothecium cymbalariae DBVPG#7215]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCDKSVCRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|213403416|ref|XP_002172480.1| ribomal-ubiquitin fusion protein Ubi5 [Schizosaccharomyces japonicus yFS275] >gi|212000527|gb|EEB06187.1| ribomal-ubiquitin fusion protein Ubi5 [Schizosaccharomyces japonicus yFS275]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKTYTTPKKIKHKHKKVELAVLKYYKVEDDGSIKRLRRECPNCGASVFMAVHKDRLYCGKCHLTLKLEA
+>gi|831336581|gb|KLT46113.1| ubiquitin/40s ribosomal protein S27a fusion [Trichosporon oleaginosus]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMAKK
+RKKKNYTTPKKIKHKRKKVKMAVLKYYKVGSDGAITRLRRECPAPTCGAGVFMAMHKDRQACGKCGLTYMFDESSKPAAT
+KGKK
+>gi|407916397|gb|EKG09770.1| Ubiquitin [Macrophomina phaseolina MS6]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPQEQ
+>gi|757344479|gb|KIR50412.1| ubiquitin [Cryptococcus gattii CA1280]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCDKQICRKCYARLPPRATNCRKRKCGHSSQIRPKKTLKK
+>gi|939396132|emb|CEH18489.1| ubiquitin-60s ribosomal protein l40 fusion protein [Ceraceosorus bombacis]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGLIEP
+SLKVLASKYNCDKQICRKCYARLPPRATNCRKKKCGHSSQLRVKKKLK
+>gi|672826748|gb|KFH71638.1| ubiquitin-60S ribosomal protein L40 [Mortierella verticillata NRRL 6337]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKFNCDKMICRKCYARLPPRATNCRKKKCGHSNQLRIKKKLK
+>gi|444322954|ref|XP_004182118.1| hypothetical protein TBLA_0H03180 [Tetrapisispora blattae CBS 6284] >gi|387515164|emb|CCH62599.1| hypothetical protein TBLA_0H03180 [Tetrapisispora blattae CBS 6284]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIPHKHKKVKLAILSYFKVDDEGKVVKLRKECTNSTCGAGVFLANHKTRYYCGKCHSVYKVNA
+>gi|584392634|emb|CDK27644.1| unnamed protein product [Kuraishia capsulata CBS 1993]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAVLNYYKVDNDGKVERLRKECPTATCGAGVFMAKMTDRHYCGKCHTSYKLN
+>gi|367016066|ref|XP_003682532.1| ubiquitin-40S ribosomal protein S31 fusion protein [Torulaspora delbrueckii] >gi|359750194|emb|CCE93321.1| hypothetical protein TDEL_0F05100 [Torulaspora delbrueckii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKVKHKHKKVKLAILSYFKVDGEGKVSKLRKECSNCGAGIFLANHKDRHYCGKCHSVFTIKA
+>gi|681096911|emb|CDP26955.1| Putative fusion protein: ubiquitin-cytosolic 60S ribosomal protein Rpl40 [Podospora anserina S mat+]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKFNCDKMICRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|630962276|ref|XP_007877546.1| hypothetical protein PFL1_06936 [Anthracocystis flocculosa PF-1] >gi|521587238|gb|EPQ30828.1| hypothetical protein PFL1_06936 [Anthracocystis flocculosa PF-1]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKVLASKYNCDKQICRKCYARLPPRATNCRKRKCGHSSQLRPKKKLK
+>gi|875638503|gb|KMU85259.1| ubiquitin [Coccidioides immitis H538.4]
+MQIFVKTLTGKTITLEVESSDTIDNVKTKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLSVLKYYKVDADGRSSA
+>gi|610259383|gb|AHW57997.1| ubiquitin [Xanthophyllomyces dendrorhous] >gi|820659730|emb|CED85139.1| ubiquitin-60s ribosomal protein l40 [Xanthophyllomyces dendrorhous]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKVLASKTNCDKQICRKCYARLPPRATNCRKRSCGHSSQLRPKKKLK
+>gi|325191951|emb|CCA26421.1| ubiquitinribosomal fusion protein putative [Albugo laibachii Nc14]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGAIEP
+TLAALAKKKNTEKKICRICYARLPISATNCRKKKCGHSSQLRMKKKLK
+>gi|691791025|emb|CDO73416.1| hypothetical protein BN946_scf185013.g50 [Trametes cinnabarina]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKVLASKYNCDKQICRKCYARLPPRATNCRKRGCGHSSQLRPSICSKKKLK
+>gi|734608837|ref|XP_010731693.1| PREDICTED: ubiquitin-60S ribosomal protein L40-like [Larimichthys crocea]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLRQLAQRYNCDKMVCRKCYARLHPRAVNCRKKKCGHTSNLRPKKKLK
+>gi|1028549628|gb|OAJ19974.1| hypothetical protein A4X09_g2055 [Tilletia walkeri]
+MQIFVKTLTGKTITLEVESSDTIDNVKTKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGARKR
+CEHGSGSDVQCRDAAVKIVGECPHCTMHFCGTHRLPEQHACPKQAEVRSKAFEANKARLEAEKTHASRGLAH
+>gi|983145279|gb|KWU43261.1| polyubiquitin [Rhodotorula sp. JG-1b]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIF
+VKTLTGKTITLEVESSDTIDNVKAK
+>gi|255716604|ref|XP_002554583.1| ubiquitin-40S ribosomal protein S31 fusion protein [Lachancea thermotolerans] >gi|238935966|emb|CAR24146.1| KLTH0F08734p [Lachancea thermotolerans CBS 6340] >gi|949379175|emb|CUS22116.1| LAQU0S04e08570g1_1 [Lachancea quebecensis]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAVLNYFKVDSEGKVTKLRRECPNCGAGTFLANHKDRHYCGKCHSTFKIKA
+>gi|169845722|ref|XP_001829580.1| ubiquitin-60S ribosomal protein L40 fusion protein [Coprinopsis cinerea okayama7#130] >gi|302676962|ref|XP_003028164.1| ubiquitin-60S ribosomal protein L40 fusion protein [Schizophyllum commune H4-8] >gi|116509329|gb|EAU92224.1| ubiquitin-carboxy extension protein fusion [Coprinopsis cinerea okayama7#130] >gi|300101852|gb|EFI93261.1| hypothetical protein SCHCODRAFT_70430 [Schizophyllum commune H4-8] >gi|471887626|emb|CCO33060.1| Ubiquitin-60S ribosomal protein L40 [Rhizoctonia solani AG-1 IB] >gi|576980794|gb|EUC53537.1| ubiquitin-60S ribosomal protein L40, partial [Rhizoctonia solani AG-3 Rhs1AP] >gi|751831877|emb|CEL63629.1| Ubiquitin-60S ribosomal protein L40 OS=Cryptococcus neoformans var, neoformans serotype D (strain JEC21 / ATCC MYA-565) GN=UBI1 PE=1 SV=2 [Rhizoctonia solani AG-1 IB] >gi|924113618|emb|CUA77874.1| Ubiquitin-60S ribosomal protein L40 [Rhizoctonia solani] >gi|924115142|emb|CUA76633.1| Ubiquitin-60S ribosomal protein L40 [Rhizoctonia solani] >gi|961952957|gb|KTB29992.1| putative ubiquitin-60S ribosomal protein L40 fusion protein [Moniliophthora roreri] >gi|1018868840|dbj|GAT54375.1| ubiquitin-60S ribosomal protein [Mycena chlorophos]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKVLASKYNCDKQICRKCYARLPPRATNCRKRSCGHSSQLRPKKKLK
+>gi|915142477|ref|XP_013326276.1| Ubiquitin [Rasamsonia emersonii CBS 393.64] >gi|802089796|gb|KKA19664.1| Ubiquitin [Rasamsonia emersonii CBS 393.64]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTRLAVLKYYKVDSDGKIERLRRECPSAECGAGVFMAAMHNRQYCGKCHLTYVFDDSK
+>gi|730182198|gb|KHJ33942.1| putative ubiquitin-40s ribosomal protein s31 fusion protein [Erysiphe necator]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPAEECGASVFMAAMQDRQYCGLCHLTYIYSDAGK
+>gi|323308175|gb|EGA61425.1| Ubi4p [Saccharomyces cerevisiae FostersO]
+RTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLS
+DYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVESSDTIDNVKSKNSR
+>gi|816340266|gb|KKK18522.1| ubiquitin-40S ribosomal protein [Aspergillus ochraceoroseus]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPPPSAVLVSSWLLCRTVSTAESATSPTSSMSPSKRTVFG
+SENPPVFCTSGSVCLAMAVSG
+>gi|517321127|emb|CCT71659.1| probable ubiquitin/ribosomal protein S27a fusion protein [Fusarium fujikuroi IMI 58289] >gi|584143850|gb|EWG53148.1| ubiquitin-40S ribosomal protein S27a [Fusarium verticillioides 7600] >gi|584143851|gb|EWG53149.1| ubiquitin-40S ribosomal protein S27a [Fusarium verticillioides 7600] >gi|829116871|gb|KLO93191.1| putative ubiquitin/ribosomal protein S27a fusion protein [Fusarium fujikuroi] >gi|829125239|gb|KLP00622.1| putative ubiquitin/ribosomal protein S27a fusion protein [Fusarium fujikuroi] >gi|829134205|gb|KLP07972.1| putative ubiquitin/ribosomal protein S27a fusion protein [Fusarium fujikuroi]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMAKK
+RKKKVYTTPKKIKHKRKKTKLAVLKYYKVDSDGKIERLRRECPADTCGAGVFMAAMQDRQYCGRCHLTYVFDKQ
+>gi|695531877|ref|XP_009540734.1| hypothetical protein HETIRDRAFT_377330 [Heterobasidion irregulare TC 32-1] >gi|575071131|gb|ETW86741.1| hypothetical protein HETIRDRAFT_377330 [Heterobasidion irregulare TC 32-1] >gi|639561539|gb|KDN39276.1| Ubiquitin-60S ribosomal protein L40, partial [Rhizoctonia solani AG-8 WAC10335]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGLIEP
+SLKVLASKYNCDKQICRKCYARLPPRATNCRKRSCGHSSQLRPKKKLK
+>gi|949384373|dbj|GAP92607.1| putative ubiquitin-40s ribosomal protein s31 fusion protein [Rosellinia necatrix]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTAKKIKHKRKKNKLAVLKYYKVDGDGKIERLRRECPADTCGAGVFMAAMQDRQYCGRCHLTYVFDKQ
+>gi|1028532038|gb|OAJ05365.1| hypothetical protein A4X13_g2422 [Tilletia indica]
+MQIFVKTLTGKTITLEVESSDTIDNVKTKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGARKR
+CQHGSGSDVQCRDAAVKIVGECPHCTMHFCGTHRLPEQHACPKQAEVRSKAFEANKARLEAEKTHASRGLAH
+>gi|685860831|ref|XP_009257448.1| hypothetical protein FPSE_06055 [Fusarium pseudograminearum CS3096] >gi|758206189|ref|XP_011325433.1| hypothetical protein FGSG_10941 [Fusarium graminearum PH-1] >gi|342882263|gb|EGU82991.1| hypothetical protein FOXB_06544 [Fusarium oxysporum Fo5176] >gi|408394571|gb|EKJ73774.1| hypothetical protein FPSE_06055 [Fusarium pseudograminearum CS3096] >gi|475676324|gb|EMT73358.1| Ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. cubense race 4] >gi|477514801|gb|ENH67166.1| Ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. cubense race 1] >gi|558867728|gb|ESU17811.1| hypothetical protein FGSG_10941 [Fusarium graminearum PH-1] >gi|587663737|gb|EWY86078.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum FOSC 3-a] >gi|587663738|gb|EWY86079.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum FOSC 3-a] >gi|587663739|gb|EWY86080.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum FOSC 3-a] >gi|587685095|gb|EWZ31700.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum Fo47] >gi|587685096|gb|EWZ31701.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum Fo47] >gi|587685097|gb|EWZ31702.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum Fo47] >gi|587722947|gb|EWZ94284.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. lycopersici MN25] >gi|587722948|gb|EWZ94285.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. lycopersici MN25] >gi|587722949|gb|EWZ94286.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. lycopersici MN25] >gi|587741863|gb|EXA39579.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. pisi HDV247] >gi|587741864|gb|EXA39580.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. pisi HDV247] >gi|587741865|gb|EXA39581.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. pisi HDV247] >gi|590036417|gb|EXK38275.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. melonis 26406] >gi|590036418|gb|EXK38276.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. melonis 26406] >gi|590036419|gb|EXK38277.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. melonis 26406] >gi|590065785|gb|EXK93309.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. raphani 54005] >gi|590065786|gb|EXK93310.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. raphani 54005] >gi|590065787|gb|EXK93311.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. raphani 54005] >gi|591407839|gb|EXL42976.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. radicis-lycopersici 26381] >gi|591407840|gb|EXL42977.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. radicis-lycopersici 26381] >gi|591407841|gb|EXL42978.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. radicis-lycopersici 26381] >gi|591447516|gb|EXL79955.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. conglutinans race 2 54008] >gi|591447517|gb|EXL79956.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. conglutinans race 2 54008] >gi|591447518|gb|EXL79957.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. conglutinans race 2 54008] >gi|591469301|gb|EXM00628.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. cubense tropical race 4 54006] >gi|591469302|gb|EXM00629.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. cubense tropical race 4 54006] >gi|591469303|gb|EXM00630.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. cubense tropical race 4 54006] >gi|591497373|gb|EXM26855.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. vasinfectum 25433] >gi|591497374|gb|EXM26856.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. vasinfectum 25433] >gi|591497375|gb|EXM26857.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. vasinfectum 25433] >gi|596549269|gb|EYB28932.1| hypothetical protein FG05_10941 [Fusarium graminearum] >gi|699036466|emb|CEF88440.1| unnamed protein product [Fusarium graminearum] >gi|751352273|gb|KIL89995.1| hypothetical protein FAVG1_06733 [Fusarium avenaceum] >gi|902741792|gb|KNB13361.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. lycopersici 4287] >gi|902741793|gb|KNB13362.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. lycopersici 4287] >gi|902741794|gb|KNB13363.1| ubiquitin-40S ribosomal protein S27a [Fusarium oxysporum f. sp. lycopersici 4287]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMAKK
+RKKKVYTTPKKIKHKRKKTKLAVLKYYKVDSDGKIERLRRECPSDTCGAGVFMAAMQDRQYCGRCHLTYVFDKQ
+>gi|630213774|ref|XP_007855933.1| ubiquitin [Moniliophthora roreri MCA 2997] >gi|554902100|gb|ESK84758.1| ubiquitin [Moniliophthora roreri MCA 2997]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKVLASKYNCDKQICRKCYARLPPRATNCRKRSCGHSSQLRP
+>gi|557722186|dbj|GAD99010.1| ubiquitin [Byssochlamys spectabilis No. 5]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPSAECGAGIFMAAMHNRQYCGKCHLTYVFDESK
+>gi|821511645|gb|KKZ67679.1| ubiquitin-40S ribosomal protein S27a [Emmonsia crescens UAMH 3008]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPTAECGAGVFMAAMHNRQYCGKCHLTYVFDESK
+>gi|254579693|ref|XP_002495832.1| ubiquitin-40S ribosomal protein S31 fusion protein [Zygosaccharomyces rouxii] >gi|238938723|emb|CAR26899.1| ZYRO0C04026p [Zygosaccharomyces rouxii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKMAILSYFKVDPEGKVSKLRRECNNCGAGIFLANHKDRYYCGKCHATYTIKQDA
+>gi|566209251|ref|XP_006373839.1| UBIQUITIN EXTENSION protein 1 [Populus trichocarpa] >gi|550321067|gb|ERP51636.1| UBIQUITIN EXTENSION protein 1 [Populus trichocarpa]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGIIER
+SLMALARKYNQEKMICRKYAV
+>gi|1028539380|gb|OAJ10932.1| hypothetical protein A4X03_g7244 [Tilletia caries] >gi|1028551463|gb|OAJ21707.1| hypothetical protein A4X06_g6110 [Tilletia controversa]
+MQIFVKTLTGKTITLEVESSDTIDNVKTKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKVLASKTNCDKQICRKCYARLPPRATNCRKRACGHSSQLRPKKKLK
+>gi|403215251|emb|CCK69751.1| hypothetical protein KNAG_0C06580 [Kazachstania naganishii CBS 8797]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKSVCRKCYARLPPRATNCRKRKCGHTNQLRPRELKLICFWFSRRLCIPVISYVLYIC
+>gi|1025670411|gb|OAA57765.1| ubiquitin [Isaria fumosorosea ARSEF 2679]
+MSLASRQRNESVLVSIELSRSSRAARAHAYAPEKTKVETDCKMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPP
+DQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKRKKKVYTTPKKIKHKRKKTKLAVLKYYKVDKDGGIERLR
+RECPADTCGAGVFMAAMADRQYCGRCHLTYVFDKQ
+>gi|597999581|ref|XP_007334275.1| hypothetical protein AGABI1DRAFT_26321, partial [Agaricus bisporus var. burnettii JB137-S8] >gi|409074685|gb|EKM75077.1| hypothetical protein AGABI1DRAFT_26321, partial [Agaricus bisporus var. burnettii JB137-S8] >gi|1024078078|gb|KZV71016.1| ubiquitin-60S ribosomal protein L40, variant, partial [Peniophora sp. CONT]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKVLASKYNCDKQICRKCY
+>gi|50288577|ref|XP_446718.1| ubiquitin-40S ribosomal protein S31 fusion protein [Candida glabrata CBS 138] >gi|49526026|emb|CAG59645.1| unnamed protein product [Candida glabrata]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAVLSYYKVDGEGTVTKLRKECSNPTCGAGVFLADHKTRLYCGKCHSVYKVDA
+>gi|663447497|emb|CDR46006.1| CYFA0S21e00716g1_1 [Cyberlindnera fabianii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAVLTYYKVDSDGNVERLRRECPAETCGAGVFMASHGDRQYCGKCHLTIKAKK
+>gi|666408931|gb|KEY73810.1| hypothetical protein S7711_03110 [Stachybotrys chartarum IBT 7711] >gi|667527110|gb|KFA55389.1| hypothetical protein S40293_05696 [Stachybotrys chartarum IBT 40293] >gi|667728867|gb|KFA69751.1| hypothetical protein S40285_05991 [Stachybotrys chlorohalonata IBT 40285]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDNDGKIERLRRECPADTCGAGVFMAAMQDRQYCGRCHLTYVFDKQ
+>gi|1022858565|ref|XP_016271290.1| large subunit ribosomal protein L40e [Rhodotorula toruloides NP11] >gi|472582485|gb|EMS20171.1| large subunit ribosomal protein L40e [Rhodotorula toruloides NP11] >gi|647402387|emb|CDR48641.1| RHTO0S19e01398g1_1 [Rhodotorula toruloides]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLRILASSFNCDKMICRKCYARLPPRATNCRKRSCGHSSQLRPKKKLK
+>gi|380475449|emb|CCF45248.1| ubiquitin-40S ribosomal protein S27a [Colletotrichum higginsianum] >gi|996598222|gb|KXH38854.1| ubiquitin-40S ribosomal protein S27a [Colletotrichum nymphaeae SA-01] >gi|996647834|gb|KXH65926.1| ubiquitin-40S ribosomal protein S27a [Colletotrichum salicis] >gi|1020428783|gb|KZL65278.1| ubiquitin-40S ribosomal protein S27a [Colletotrichum tofieldiae] >gi|1020445668|gb|KZL80093.1| ubiquitin-40s ribosomal protein s27a [Colletotrichum incanum] >gi|1039267030|gb|OBR05304.1| Ubiquitin-40S ribosomal protein S27a [Colletotrichum higginsianum IMI 349063]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMAKK
+RKKKVYTTPKKIKHKRKKTKLAVLKYYKVDSDGKIERLRRECPSDTCGAGVFMAAMNDRQYCGRCHLTYVFDKKE
+>gi|19114970|ref|NP_594058.1| ubiquitin-40S ribosomal protein S31 fusion protein [Schizosaccharomyces pombe 972h-] >gi|302393762|sp|P0C8R3.2|RS27B_SCHPO RecName: Full=Ubiquitin-40S ribosomal protein S27b; Contains: RecName: Full=Ubiquitin; Contains: RecName: Full=40S ribosomal protein S27b; Flags: Precursor >gi|12043554|emb|CAC19767.1| ribomal-ubiquitin fusion protein Ubi5 (predicted) [Schizosaccharomyces pombe]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKTYTTPKKIKHKHKKVELAVLKYYKVEDDGSVKRLRRECPNCGASTFMANHKDRLYCGRCHLTLKLEA
+>gi|1022620182|ref|XP_016227833.1| ubiquitin-40S ribosomal protein S27a [Exophiala mesophila] >gi|759218922|gb|KIV96259.1| ubiquitin-40S ribosomal protein S27a [Exophiala mesophila]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPTAECGAGVFMAAMQNRQYCGRCHLTYVFDESK
+>gi|50555628|ref|XP_505222.1| ubiquitin-40S ribosomal protein S31 fusion protein [Yarrowia lipolytica] >gi|49651092|emb|CAG78029.1| YALI0F09790p [Yarrowia lipolytica CLIB122]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKNKLAVLNLYKVDDDGKVERLRRECESESCGAGVFMADMKDRQYCGRCHLTLKA
+>gi|1046810408|gb|OCL15406.1| ubiquitin-domain-containing protein [Glonium stellatum]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDADGKIERLRRECPQPECGAGVFMAAMHNRQYCGRCHLTYVFDESK
+>gi|700487530|gb|KGO72985.1| Ribosomal protein S27a [Penicillium italicum]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKTKLAILKYYKVDGDGKIERLRRECPAAECGAGVFMAAMHNRQYCGKCHLTYVFDEAK
+>gi|628232364|ref|XP_007722210.1| ubiquitin-40S ribosomal protein S27a [Capronia coronata CBS 617.96] >gi|628263721|ref|XP_007730308.1| ubiquitin-40S ribosomal protein S27a [Capronia epimyces CBS 606.96] >gi|628319590|ref|XP_007742239.1| ubiquitin-40S ribosomal protein S27a [Cladophialophora psammophila CBS 110553] >gi|671172854|ref|XP_008726893.1| ubiquitin-40S ribosomal protein S27a [Cladophialophora carrionii CBS 160.54] >gi|915053461|ref|XP_013279112.1| ubiquitin-40S ribosomal protein S27a [Fonsecaea pedrosoi CBS 271.37] >gi|1022891019|ref|XP_016248175.1| ubiquitin-40S ribosomal protein S27a [Cladophialophora immunda] >gi|1027048638|ref|XP_016616075.1| ubiquitin-40S ribosomal protein S27a [Cladophialophora bantiana CBS 173.52] >gi|565935728|gb|ETI24957.1| ubiquitin-40S ribosomal protein S27a [Cladophialophora carrionii CBS 160.54] >gi|589991026|gb|EXJ73676.1| ubiquitin-40S ribosomal protein S27a [Cladophialophora psammophila CBS 110553] >gi|590013709|gb|EXJ88911.1| ubiquitin-40S ribosomal protein S27a [Capronia epimyces CBS 606.96] >gi|590019517|gb|EXJ94716.1| ubiquitin-40S ribosomal protein S27a [Capronia coronata CBS 617.96] >gi|759251293|gb|KIW27959.1| ubiquitin-40S ribosomal protein S27a [Cladophialophora immunda] >gi|759298894|gb|KIW75304.1| ubiquitin-40S ribosomal protein S27a [Fonsecaea pedrosoi CBS 271.37] >gi|759313048|gb|KIW89406.1| ubiquitin-40S ribosomal protein S27a [Cladophialophora bantiana CBS 173.52] >gi|1032442758|gb|OAP65426.1| ubiquitin-40S ribosomal protein S27a [Fonsecaea erecta] >gi|1050188356|gb|OCT52987.1| Ubiquitin-40S ribosomal protein S27a [Cladophialophora carrionii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPTKECGAGVFMAAMHNRQYCGRCHLTYVFDESK
+>gi|1076678|pir||S42643 ubiquitin / ribosomal protein S27a - potato (fragment)
+MSGPITKKRACKTLIKWHWQSLHSHSINKETLKAAAPLISLLQAKMQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEG
+IPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGAKKRK
+>gi|695109666|gb|KGK36285.1| hypothetical protein JL09_g4565 [Pichia kudriavzevii] >gi|695109667|gb|KGK36286.1| hypothetical protein JL09_g4566 [Pichia kudriavzevii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHTHKSVKLAVLHYYQVDSEGKVTKLRTECPKCGPGIFMANMENRQYCGKCHTTLKLK
+>gi|972131616|gb|KUI60189.1| Ubiquitin-40S ribosomal protein S27a [Valsa mali var. pyri] >gi|972140458|gb|KUI66707.1| Ubiquitin-40S ribosomal protein S27a [Valsa mali]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKAKKTKLAVLKYYKVDSDGKIERLRRECPADTCGAGVFMAAHKDRQYCGRCHLTYVFEKSS
+>gi|530469371|gb|EQB50539.1| hypothetical protein CGLO_10017 [Colletotrichum gloeosporioides Cg-14]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDSDGKIERLRRECPSDTCGAGVFMAAMNDRQYCGRCHLTYVFDKKE
+>gi|1003741007|gb|KXX77092.1| hypothetical protein MMYC01_205387 [Madurella mycetomatis]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDSDGKIERLRRECPNETCGAGVFMAAMQDRQYCGRCHLTYVFEKSG
+>gi|821079570|gb|KKY33144.1| putative ubiquitin-40s ribosomal protein s31 fusion protein [Diaporthe ampelina]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDSDGKIERLRRECPADTCGAGVFMAAHKDRQYCGRCHLTYVFEKSS
+>gi|1022824101|ref|XP_016231267.1| ubiquitin-40S ribosomal protein S27a [Exophiala spinifera] >gi|759234102|gb|KIW11051.1| ubiquitin-40S ribosomal protein S27a [Exophiala spinifera]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPQKECGAGVFMAAMHNRQYCGRCHLTYVFDETK
+>gi|380490173|emb|CCF36198.1| polyubiquitin [Colletotrichum higginsianum]
+XRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTL
+SDYNIQKESTLHLVLRLRGGQ
+>gi|302898860|ref|XP_003047931.1| ubiquitin-40S ribosomal protein S31 fusion protein [Nectria haematococca mpVI 77-13-4] >gi|256728863|gb|EEU42218.1| predicted protein [Nectria haematococca mpVI 77-13-4] >gi|936404449|gb|KPM33962.1| hypothetical protein AK830_g12612 [Neonectria ditissima]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDSDGKIERLRRECPSDTCGAGVFMAAMQDRQYCGRCHLTYVFDKQ
+>gi|126139735|ref|XP_001386390.1| ubiquitin-40S ribosomal protein S31 fusion protein [Scheffersomyces stipitis CBS 6054] >gi|126093672|gb|ABN68361.1| Ubiquitin/40S ribosomal protein S27a fusion [Scheffersomyces stipitis CBS 6054]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHRKHKLAVLTYYKVDNEGKVERLKRECPAPTCGSGVFMANMKDRQYCGKCHLTFKAN
+>gi|1046788726|gb|OCK96458.1| ubiquitin-domain-containing protein [Cenococcum geophilum 1.58]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYSTPKKIKHKRKKTKLAVLKYYKVDADGKIERLRRECPQPECGAGVFMAAMHNRQYCGRCHLTYVFDDSK
+>gi|631238136|ref|XP_007913990.1| putative ubiquitin-40s ribosomal protein s31 fusion protein [Phaeoacremonium minimum UCRPA7] >gi|500258309|gb|EOO01265.1| putative ubiquitin-40s ribosomal protein s31 fusion protein [Phaeoacremonium minimum UCRPA7]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDSDGKIERLRRECPNETCGAGVFMAAMQDRQYCGRCHLTYVFDKKD
+>gi|684170368|ref|XP_009159055.1| ubiquitin-40S ribosomal protein S27a [Exophiala dermatitidis NIH/UT8656] >gi|378732135|gb|EHY58594.1| ubiquitin-40S ribosomal protein S27a [Exophiala dermatitidis NIH/UT8656]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPAKECGAGIFMAAMHNRQYCGRCHLTYVFDETK
+>gi|1027073106|ref|XP_016638686.1| Ubiquitin-40S ribosomal protein S27a [Scedosporium apiospermum] >gi|666861965|gb|KEZ38887.1| Ubiquitin-40S ribosomal protein S27a [Scedosporium apiospermum]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKVKLAVLKYYKVDSDGKIERLRRECPNETCGAGVFMAAMDDRQYCGRCHLTYVFDKN
+>gi|915104591|ref|XP_013265230.1| ubiquitin-40S ribosomal protein S27a [Exophiala aquamarina CBS 119918] >gi|656917062|gb|KEF62640.1| ubiquitin-40S ribosomal protein S27a [Exophiala aquamarina CBS 119918]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPTKECGAGVFMAAMHNRQYCGRCHLTYVFDDSK
+>gi|818159275|gb|KKO99753.1| ubiquitin-40S ribosomal protein S27a [Trichoderma harzianum]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVSNDGNIERLRRECPSETCGAGVFMAAMPDRQYCGRCHLTYVFDKQ
+>gi|723189807|gb|KHC63620.1| polyubiquitin [Candida albicans P75010]
+RTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLS
+DYNIQKESTLHLVLRLRGGF
+>gi|615411223|ref|XP_007583549.1| putative ubiquitin-40s ribosomal protein s31 fusion protein [Neofusicoccum parvum UCRNP2] >gi|485924071|gb|EOD48984.1| putative ubiquitin-40s ribosomal protein s31 fusion protein [Neofusicoccum parvum UCRNP2] >gi|821071529|gb|KKY26531.1| putative ubiquitin-40s ribosomal protein s31 fusion protein [Diplodia seriata]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPQEQCGAGVFMAAMHNRQYCGKCHLTYVFDESK
+>gi|749875887|gb|KIJ45726.1| hypothetical protein M422DRAFT_166624 [Sphaerobolus stellatus SS14]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGQ
+>gi|646311198|gb|KDQ32340.1| hypothetical protein PLEOSDRAFT_1074537 [Pleurotus ostreatus PC15]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGL
+>gi|712878782|gb|KGU26596.1| polyubiquitin, partial [Candida albicans P34048] >gi|712881991|gb|KGU29736.1| polyubiquitin, partial [Candida albicans P75063]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIF
+VKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPP
+>gi|761760512|emb|CEP61451.1| LALA0S03e03158g1_1 [Lachancea lanzarotensis]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAVLNYFKVDSEGKVTKLRRECPNCGAGVFLANHKDRHYCGKCHSTFRIKA
+>gi|19115020|ref|NP_594108.1| ubiquitin-40S ribosomal protein S31 fusion protein [Schizosaccharomyces pombe 972h-] >gi|302393758|sp|P0C016.2|RS27A_SCHPO RecName: Full=Ubiquitin-40S ribosomal protein S27a; Contains: RecName: Full=Ubiquitin; Contains: RecName: Full=40S ribosomal protein S27a; Flags: Precursor >gi|2330875|emb|CAB11297.1| ribosomal-ubiquitin fusion protein Ubi3 (predicted) [Schizosaccharomyces pombe]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKTYTTPKKIKHKHKKVELAVLKYYKVEDDGSVKRLRRECPNCGASTFMANHKDRLYCGRCHLTLKLEN
+>gi|759204638|gb|KIV82057.1| ubiquitin-40S ribosomal protein S27a [Exophiala sideris]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPAQECGAGVFMAAMHNRQYCGRCHLTYVFDETK
+>gi|164656733|ref|XP_001729494.1| hypothetical protein MGL_3529 [Malassezia globosa CBS 7966] >gi|159103385|gb|EDP42280.1| hypothetical protein MGL_3529 [Malassezia globosa CBS 7966]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+CQFGSGTEQHCRDAAIQIVGECPHCTLKFCGRHRLPETHNCAKQEQVRNAAFTANKQKLESERTAGTRGLAH
+>gi|1024753446|gb|KZZ92463.1| Ubiquitin subgroup [Aschersonia aleyrodis RCEF 2490]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDKDGKIERLRRECPAEMCGAGIFMASMSDRQYCGKCHLTYVFDKQ
+>gi|802105262|gb|KKA30846.1| hypothetical protein TD95_000736 [Thielaviopsis punctulata]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDSDGKIERLRRECPSETCGAGVFMASMQDRQYCGRCHLTYVFEKN
+>gi|927383242|ref|XP_013937470.1| Ubiquitin-40S ribosomal protein S27a [Ogataea parapolymorpha DL-1] >gi|562977351|gb|ESX03059.1| Ubiquitin-40S ribosomal protein S27a [Ogataea parapolymorpha DL-1]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHRKNKLAVLSYYSVDDDGKVERTRRECPSATCGAGIFMANMKDRQYCGKCHTTFKLN
+>gi|915153224|ref|XP_013311158.1| ubiquitin-40S ribosomal protein S27a [Exophiala xenobiotica] >gi|1022873592|ref|XP_016263357.1| ubiquitin-40S ribosomal protein S27a [Exophiala oligosperma] >gi|759266620|gb|KIW43141.1| ubiquitin-40S ribosomal protein S27a [Exophiala oligosperma] >gi|759274066|gb|KIW50574.1| ubiquitin-40S ribosomal protein S27a [Exophiala xenobiotica]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPTKECGAGVFMAAMHNRQYCGRCHLTYVFDETK
+>gi|364506127|pdb|3U5C|FF Chain f, The Structure Of The Eukaryotic Ribosome At 3.0 A Resolution. This Entry Contains Proteins Of The 40s Subunit, Ribosome A >gi|558704779|pdb|4BYL|5 Chain 5, Cryo-em Reconstruction Of The 80s-eif5b-met-itrnamet Eukaryotic Translation Initiation Complex >gi|558704821|pdb|4BYT|5 Chain 5, Cryo-em Reconstruction Of The 80s-eif5b-met-itrnamet Eukaryotic Translation Initiation Complex
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KXXXXXXXXXXXXXXXXXXXXVLSYYKVDAEGKVTKLRRECSNPTCGAGVFLANHKDRLYCGKCHSVYKVNA
+>gi|1037323752|gb|OBA13484.1| hypothetical protein OGAPODRAFT_95653 [Ogataea polymorpha]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHRKNKLAVLSYYSVDDDGKVERTRRECPAATCGAGIFMANMKDRQYCGKCHITFKLN
+>gi|1027158730|gb|OAG19110.1| ubiquitin-40S ribosomal protein S31 fusion protein [Alternaria alternata]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMAKK
+RKKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPQPECGAGVFMAAMHNRQYCGKCHLTYVFDEAK
+>gi|752358454|gb|KIO16717.1| hypothetical protein M407DRAFT_183161 [Tulasnella calospora MUT 4182]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGN
+>gi|367000181|ref|XP_003684826.1| ubiquitin-40S ribosomal protein S31 fusion protein [Tetrapisispora phaffii CBS 4417] >gi|357523123|emb|CCE62392.1| hypothetical protein TPHA_0C02390 [Tetrapisispora phaffii CBS 4417]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAILSYFKVDGEGKVTKLRKECSTCGAGTFLANHNDRFYCGKCHQVFKTGA
+>gi|1046770949|gb|OCK79390.1| ubiquitin-domain-containing protein [Lepidopterella palustris CBS 459.81]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPQAECGAGVFMAAMHNRQYCGRCHLTYVFDDSK
+>gi|972232052|emb|CEL08050.1| Putative Ubiquitin/79aa fusion protein [Aspergillus calidoustus]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPAPECGAGIFMAAMQNRQYCGKCHLTYVFDESK
+>gi|241955164|ref|XP_002420303.1| ubiquitin-40S ribosomal protein S31 fusion protein [Candida dubliniensis CD36] >gi|255729040|ref|XP_002549445.1| ubiquitin [Candida tropicalis MYA-3404] >gi|3152950|emb|CAA75692.1| ubiquitin fusion protein [Candida albicans] >gi|223643644|emb|CAX42527.1| ubiquitin fusion protein, putative [Candida dubliniensis CD36] >gi|238881180|gb|EEQ44818.1| ubiquitin [Candida albicans WO-1] >gi|240132514|gb|EER32071.1| ubiquitin [Candida tropicalis MYA-3404] >gi|459368854|gb|EMG47450.1| Ubiquitin fusion protein, putative [Candida maltosa Xu316] >gi|723192919|gb|KHC66706.1| polyubiquitin [Candida albicans P75016]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHRKHKLAVLTYYKVDNEGNVERLRRECPAPTCGAGIFMANMKDRQYCGKCHLTLKAN
+>gi|118483418|gb|ABK93609.1| unknown [Populus trichocarpa]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGIIEP
+SLMALARKYNQEKMICRKCYARLHPRAVNCRKKKCGHRTS
+>gi|891568592|ref|XP_013019479.1| ribosomal-ubiquitin fusion protein Ubi3 [Schizosaccharomyces octosporus yFS286] >gi|528062622|gb|EPX72185.1| ribosomal-ubiquitin fusion protein Ubi3 [Schizosaccharomyces octosporus yFS286]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKTYTTPKKIKHKHKKVELAVLKYYKVEDDGSVKRLRRECPTCGASVFMANHGDRLYCGRCHLTLKLEA
+>gi|589113721|ref|XP_006968883.1| ubiquitin/small ribosomal subunit protein 31 fusion protein [Trichoderma reesei QM6a] >gi|927424214|ref|XP_013957938.1| hypothetical protein TRIVIDRAFT_179162 [Trichoderma virens Gv29-8] >gi|340514956|gb|EGR45214.1| ubiquitin/small ribosomal subunit protein 31 fusion protein [Trichoderma reesei QM6a] >gi|358386134|gb|EHK23730.1| hypothetical protein TRIVIDRAFT_179162 [Trichoderma virens Gv29-8] >gi|572274892|gb|ETR98378.1| ubiquitin-domain-containing protein [Trichoderma reesei RUT C-30] >gi|969883492|gb|KUF00681.1| ubiquitin family protein [Trichoderma gamsii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVSNDGNIERLRRECPSDTCGAGVFMAAMPDRQYCGRCHLTYVFDKQ
+>gi|374717825|gb|AEZ66643.1| putative beta-1,6-glucanase [Wickerhamomyces anomalus] >gi|374717827|gb|AEZ66644.1| putative beta-1,6-glucanase [Wickerhamomyces anomalus]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAVLTYYKVDKDGNVERLRRECPATTCGAGVFMANHGDRQYCGKCHLTFKAKN
+>gi|1045430253|gb|OCF24602.1| polyubiquitin [Kwoniella bestiolae CBS 10118] >gi|1045439317|gb|OCF33523.1| polyubiquitin [Kwoniella heveanensis BCC8398] >gi|1045449898|gb|OCF43554.1| polyubiquitin [Kwoniella heveanensis CBS 569]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMAKK
+RKKKNYTTPKKIKHKRKKVKMAILKYYKVGSDGKIQRLRRECPAPTCGAGVFMAWHKDRQSCGKCGLTYTFEPGTKPTAA
+>gi|575481962|ref|XP_006680275.1| ubiquitin [Batrachochytrium dendrobatidis JAM81] >gi|136667|sp|P19848.1|UBIQ_COPCO RecName: Full=Ubiquitin >gi|2551|emb|CAA38483.1| ubiquitin, partial [Coprinellus congregatus] >gi|63003176|dbj|BAD97865.1| ubiquitin, partial [Lemna paucicostata] >gi|328768863|gb|EGF78908.1| ubiquitin [Batrachochytrium dendrobatidis JAM81]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG
+>gi|330915333|ref|XP_003296988.1| ubiquitin-40S ribosomal protein S31 fusion protein [Pyrenophora teres f. teres 0-1] >gi|311330589|gb|EFQ94925.1| hypothetical protein PTT_07252 [Pyrenophora teres f. teres 0-1] >gi|909990627|gb|KNG48109.1| ubiquitin-40s ribosomal protein s27a [Stemphylium lycopersici]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPQPECGAGVFMAAMHNRQYCGKCHLTYVFDEAK
+>gi|814599950|gb|KKF94624.1| 40S ribosomal protein S27a [Ceratocystis platani]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDSDGKIERLRRECPSDSCGAGVFMAAMQDRQYCGRCHLTYVFEKN
+>gi|630041919|ref|XP_007841585.1| Ubiquitin-40S ribosomal protein S27a [Pestalotiopsis fici W106-1] >gi|573053890|gb|ETS73867.1| Ubiquitin-40S ribosomal protein S27a [Pestalotiopsis fici W106-1]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPAETCGAGVFMAAMQDRQYCGRCHLTYVFDKP
+>gi|364506165|pdb|3U5G|FF Chain f, The Structure Of The Eukaryotic Ribosome At 3.0 A Resolution. This Entry Contains Proteins Of The 40s Subunit, Ribosome B
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGXXXX
+XXXXXXXXXXXXXXXXXXXXXVLSYYKVDAEGKVTKLRRECSNPTCGAGVFLANHKDRLYCGKCHSVYKVNA
+>gi|574143422|dbj|BAO41213.1| ubiquitin-40S ribosomal protein S27a [Kluyveromyces marxianus DMKU3-1042] >gi|693903811|dbj|BAP72663.1| ubiquitin-40S ribosomal protein S27a [Kluyveromyces marxianus]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAVLNYYKVDDEGKVTKLRKECPNCGAGIFLANHGGSRLYCGKCHSTFATQK
+>gi|254571679|ref|XP_002492949.1| Fusion protein that is cleaved to yield a ribosomal protein of the small (40S) subunit and ubiquitin [Komagataella phaffii GS115] >gi|238032747|emb|CAY70770.1| Fusion protein that is cleaved to yield a ribosomal protein of the small (40S) subunit and ubiquitin [Komagataella phaffii GS115] >gi|328353038|emb|CCA39436.1| Ubiquitin-like protein [Komagataella phaffii CBS 7435] >gi|1050829036|gb|ANZ76785.1| BA75_03821T0 [Komagataella pastoris] >gi|1051426654|gb|AOA63618.1| GQ67_03814T0 [Komagataella phaffii] >gi|1051433760|gb|AOA68626.1| GQ68_03787T0 [Komagataella phaffii GS115]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKK
+KKKNYTTPKKIKHKHRKVKLAVLNYYKVDDDGKIERLRRECDTCGAGIFMANMSDRQYCGKCHTTIKLSK
+>gi|1037337128|gb|OBA20433.1| ubiquitin [Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993]
+MQIFVKTLTGKTITLEVEASDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQI
+>gi|396473719|ref|XP_003839401.1| similar to ubiquitin / ribosomal protein S27a [Leptosphaeria maculans JN3] >gi|312215970|emb|CBX95922.1| similar to ubiquitin / ribosomal protein S27a [Leptosphaeria maculans JN3] >gi|1028891745|gb|OAK94019.1| ubiquitin-domain-containing protein [Stagonospora sp. SRC1lsM3a] >gi|1029179270|gb|OAL43856.1| ubiquitin-domain-containing protein [Pyrenochaeta sp. DS3sAY3a]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPQPECGAGVFMAAMHNRQYCGRCHLTYVFDEAK
+>gi|807746803|ref|XP_012178196.1| predicted protein [Fibroporia radiculosa] >gi|403412213|emb|CCL98913.1| predicted protein [Fibroporia radiculosa]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKVLASKYNCDKQICRKCYARLPPRATNCRKRGCGHSSQLRP
+>gi|1027143176|gb|OAG03628.1| ubiquitin-domain-containing protein [Paraphaeosphaeria sporulosa]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMAKK
+RKKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPQPECGAGVFMAAMHNRQYCGRCHLTYVFDESK
+>gi|712882696|gb|KGU30435.1| polyubiquitin [Candida albicans P57055]
+SDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYN
+IQKESTLHLVLRLRGGF
+>gi|748547656|emb|CDO94046.1| unnamed protein product [Kluyveromyces dobzhanskii CBS 2104]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIRHKHKNVKLAVLNYYKVDDEGKVAKLRKECPNCGAGIFLANHGDRYYCGKCHSTFAIQK
+>gi|1045458062|gb|OCF51506.1| polyubiquitin [Kwoniella pini CBS 10737] >gi|1045461553|gb|OCF54935.1| polyubiquitin [Kwoniella mangroviensis CBS 10435] >gi|1045475839|gb|OCF67711.1| polyubiquitin [Kwoniella mangroviensis CBS 8507] >gi|1045481211|gb|OCF72959.1| polyubiquitin [Kwoniella mangroviensis CBS 8886]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMAKK
+RKKKNYTTPKKIKHKRKKVKMAILKYYKVGSDGKIQRLRRECPAPQCGAGVFMAWHKDRQSCGKCGLTYTFEPGTKPTAA
+>gi|671145803|ref|XP_008712206.1| ubiquitin-40S ribosomal protein S27a [Cyphellophora europaea CBS 101466] >gi|568122888|gb|ETN45478.1| ubiquitin-40S ribosomal protein S27a [Cyphellophora europaea CBS 101466]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPTAECGAGVFMAAMHNRQYCGKCHLTYVFDESK
+>gi|685402587|ref|XP_009220153.1| ubiquitin-60S ribosomal protein L40 [Gaeumannomyces graminis var. tritici R3-111a-1] >gi|402083990|gb|EJT79008.1| ubiquitin-60S ribosomal protein L40 [Gaeumannomyces graminis var. tritici R3-111a-1]
+MVATKGPRDQRNLRWDFSRLFIDDQNKSPFTKTAKMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIF
+AGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEPSLKALASKFNCDKMICRKCYARLPPRATNCRKRKCGHTNQLRPKK
+KLK
+>gi|149237516|ref|XP_001524635.1| ubiquitin [Lodderomyces elongisporus NRRL YB-4239] >gi|146452170|gb|EDK46426.1| ubiquitin [Lodderomyces elongisporus NRRL YB-4239]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHRKHKLAVLTYYKVDNDGNVERLRRECPAPTCGAGIFMANMKDRQYCGKCHLTLRAN
+>gi|630014389|ref|XP_007831180.1| Ubiquitin-60S ribosomal protein L40 [Pestalotiopsis fici W106-1] >gi|573062881|gb|ETS82532.1| Ubiquitin-60S ribosomal protein L40 [Pestalotiopsis fici W106-1]
+MPLQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGII
+EPSLKALASKFNCEKMICRKCYARLPPRATNCRKKKCGHTNQLRPKKKLK
+>gi|363751715|ref|XP_003646074.1| hypothetical protein Ecym_4181 [Eremothecium cymbalariae DBVPG#7215] >gi|356889709|gb|AET39257.1| hypothetical protein Ecym_4181 [Eremothecium cymbalariae DBVPG#7215]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAILTYFNVDDDGKVTKLRRECPSDTCGAGIFLANHKTRHYCGKCHSTFMKQA
+>gi|146415554|ref|XP_001483747.1| ubiquitin [Meyerozyma guilliermondii ATCC 6260] >gi|146392220|gb|EDK40378.1| ubiquitin [Meyerozyma guilliermondii ATCC 6260]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHRKHKLAVLTYYKVDNDGKVERLRRECPSITCGAGIFMADMKDRQYCGKCHTTFKSA
+>gi|827065830|ref|XP_008094435.1| ubiquitin family protein [Colletotrichum graminicola M1.001] >gi|310794954|gb|EFQ30415.1| ubiquitin family protein [Colletotrichum graminicola M1.001] >gi|477531585|gb|ENH83292.1| ubiquitin [Colletotrichum orbiculare MAFF 240422] >gi|640920892|gb|KDN65304.1| putative ubiquitin family protein [Colletotrichum sublineola]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDSDGKIERLRRECPSDTCGAGVFMAAMNDRQYCGRCHLTYVFDKKE
+>gi|754411882|ref|XP_011274891.1| 40S ribosomal protein S27a [Wickerhamomyces ciferrii] >gi|406605326|emb|CCH43249.1| 40S ribosomal protein S27a [Wickerhamomyces ciferrii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHRKVKLAVLTYYKVDTDGKVERLRRECPAPTCGAGVFMANHGDRQYCGKCHLTFKAKA
+>gi|154276232|ref|XP_001538961.1| ubiquitin-40S ribosomal protein S31 fusion protein [Histoplasma capsulatum NAm1] >gi|150414034|gb|EDN09399.1| ubiquitin/79aa fusion protein [Histoplasma capsulatum NAm1]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPTPECGAGVFMAAMQNRQYCGKCHLTYVFDESK
+>gi|672795455|gb|KFH46012.1| Ubiquitin-40S ribosomal protein-like protein [Acremonium chrysogenum ATCC 11550]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVGSDGSIERLRRECPSDTCGAGVFMASMPDRQYCGRCHLTYVFDKQ
+>gi|831339781|ref|XP_012739743.1| ubiquitin-40S ribosomal protein S27a [Pseudogymnoascus destructans 20631-21] >gi|440633898|gb|ELR03817.1| ubiquitin-40S ribosomal protein S27a [Pseudogymnoascus destructans 20631-21]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKSKKTKLAVLKYYKVDGDGKIERLRRECPAPDCGAGVFMAAMHDRQYCGRCHLTYIFDNENKA
+>gi|302415545|ref|XP_003005604.1| ubiquitin-40S ribosomal protein S31 fusion protein [Verticillium alfalfae VaMs.102] >gi|697090078|ref|XP_009657945.1| 40S ribosomal protein S27a [Verticillium dahliae VdLs.17] >gi|261355020|gb|EEY17448.1| 40S ribosomal protein S27a [Verticillium alfalfae VaMs.102] >gi|346978058|gb|EGY21510.1| 40S ribosomal protein S27a [Verticillium dahliae VdLs.17] >gi|913760335|emb|CRK40752.1| hypothetical protein BN1708_008335 [Verticillium longisporum]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDSDGKIERLRRECPAPECGAGVFMAAMQDRQYCGRCHLTYVFDQK
+>gi|758977353|ref|XP_011388728.1| ubiquitin-ribosomal 60S subunit protein L40 fusion protein [Ustilago maydis 521] >gi|955491957|ref|XP_014656851.1| ubiquitin-60S ribosomal protein L40 fusion protein [Moesziomyces antarcticus] >gi|343427656|emb|CBQ71183.1| probable RPL40A-Ubiquitin [Sporisorium reilianum SRZ2] >gi|388858459|emb|CCF48053.1| probable RPL40A-Ubiquitin [Ustilago hordei] >gi|443897362|dbj|GAC74703.1| iron/ascorbate family oxidoreductases [Moesziomyces antarcticus T-34] >gi|674219589|dbj|GAK65064.1| ubiquitin-60S ribosomal protein L40 fusion protein [Moesziomyces antarcticus] >gi|757947459|gb|KIS69926.1| ubiquitin-ribosomal 60S subunit protein L40 fusion protein [Ustilago maydis 521]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKVLAGKYNCDKQICRKCYARLPPRATNCRKRKCGHSSQLRPKKKLK
+>gi|212527668|ref|XP_002143991.1| ubiquitin-40S ribosomal protein S31 fusion protein [Talaromyces marneffei ATCC 18224] >gi|210073389|gb|EEA27476.1| ubiquitin (UbiC), putative [Talaromyces marneffei ATCC 18224] >gi|679998480|gb|KFX50690.1| Ubiquitin-40S ribosomal protein S27a [Talaromyces marneffei PM1] >gi|748554607|dbj|GAM39284.1| ubiquitin [Talaromyces cellulolyticus]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPSAECGAGVFMAAMHNRQYCGKCHLTYIFDESK
+>gi|70999548|ref|XP_754493.1| ubiquitin (UbiC) [Aspergillus fumigatus Af293] >gi|119491683|ref|XP_001263336.1| ubiquitin-40S ribosomal protein S31 fusion protein [Aspergillus fischeri NRRL 181] >gi|66852130|gb|EAL92455.1| ubiquitin (UbiC), putative [Aspergillus fumigatus Af293] >gi|119411496|gb|EAW21439.1| ubiquitin [Aspergillus fischeri NRRL 181] >gi|159127510|gb|EDP52625.1| ubiquitin (UbiC), putative [Aspergillus fumigatus A1163] >gi|666430037|gb|KEY77668.1| ubiquitin UbiC [Aspergillus fumigatus var. RP-2014] >gi|952553169|dbj|GAQ04344.1| ubiquitin-40S ribosomal protein S27a [Aspergillus lentulus]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPSPECGAGIFMAAMHNRQYCGKCHLTYVFDESK
+>gi|169770719|ref|XP_001819829.1| ubiquitin-40S ribosomal protein S31 fusion protein [Aspergillus oryzae RIB40] >gi|238486822|ref|XP_002374649.1| ubiquitin-40S ribosomal protein S31 fusion protein [Aspergillus flavus NRRL3357] >gi|83767688|dbj|BAE57827.1| unnamed protein product [Aspergillus oryzae RIB40] >gi|220699528|gb|EED55867.1| ubiquitin (UbiC), putative [Aspergillus flavus NRRL3357] >gi|391867597|gb|EIT76843.1| ubiquitin/40S ribosomal protein S27a fusion [Aspergillus oryzae 3.042] >gi|635508312|gb|KDE80296.1| ubiquitin/40S ribosomal protein [Aspergillus oryzae 100-8]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPAPECGAGVFMAAMHNRQYCGKCHLTYVFDESK
+>gi|255936695|ref|XP_002559374.1| Pc13g09510 [Penicillium rubens Wisconsin 54-1255] >gi|953384341|ref|XP_014536439.1| Ubiquitin [Penicillium digitatum Pd1] >gi|211583994|emb|CAP92020.1| Pc13g09510 [Penicillium rubens Wisconsin 54-1255] >gi|425767373|gb|EKV05947.1| Ubiquitin [Penicillium digitatum PHI26] >gi|425779746|gb|EKV17781.1| Ubiquitin [Penicillium digitatum Pd1] >gi|584411801|emb|CDM30566.1| Ubiquitin-40S ribosomal protein S27a [Penicillium roqueforti FM164] >gi|902276526|emb|CRL19302.1| Ribosomal protein S27a [Penicillium camemberti] >gi|995936180|gb|KXG48876.1| Ribosomal protein S27a [Penicillium griseofulvum] >gi|1021545901|gb|KZN93147.1| Ubiquitin-40S ribosomal protein [Penicillium chrysogenum]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKTKLAILKYYKVDGDGKIERLRRECPAPECGAGVFMAAMHNRQYCGKCHLTYVFDEAK
+>gi|261200543|ref|XP_002626672.1| ubiquitin-40S ribosomal protein S31 fusion protein [Blastomyces gilchristii SLH14081] >gi|629648798|ref|XP_007801900.1| Ubiquitin-40S ribosomal protein S27a [Endocarpon pusillum Z07020] >gi|239607379|gb|EEQ84366.1| ubiquitin-40S ribosomal protein S27a, variant [Blastomyces dermatitidis ER-3] >gi|327355746|gb|EGE84603.1| ubiquitin-40S ribosomal protein S27a [Blastomyces dermatitidis ATCC 18188] >gi|531978323|gb|EQL28910.1| ubiquitin-40S ribosomal protein S27a [Blastomyces dermatitidis ATCC 26199] >gi|531978324|gb|EQL28911.1| ubiquitin-40S ribosomal protein S27a, variant [Blastomyces dermatitidis ATCC 26199] >gi|539436274|gb|ERF72465.1| Ubiquitin-40S ribosomal protein S27a [Endocarpon pusillum Z07020] >gi|824366862|gb|KLJ09016.1| ubiquitin-40S ribosomal protein S27a [Emmonsia parva UAMH 139] >gi|1033916503|gb|OAS99750.1| ubiquitin-40S ribosomal protein S27a [Blastomyces dermatitidis ER-3] >gi|1033925820|gb|OAT06674.1| ubiquitin-40S ribosomal protein S27a [Blastomyces gilchristii SLH14081] >gi|1033925821|gb|OAT06675.1| ubiquitin-40S ribosomal protein S27a, variant [Blastomyces gilchristii SLH14081] >gi|1035641038|gb|OAX82813.1| ubiquitin-40S ribosomal protein S27a [Emmonsia sp. CAC-2015a]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPTPECGAGVFMAAMHNRQYCGKCHLTYVFDESK
+>gi|799249488|gb|KJZ78174.1| Ubiquitin-40S ribosomal protein S27a [Hirsutella minnesotensis 3608]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDKDGNIERLRRECPSDTCGAGVFMASMPDRQYCGRCHLTYVFDKQ
+>gi|599155438|gb|EYE94641.1| ubiquitin-domain-containing protein [Aspergillus ruber CBS 135680]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRRKTKLAVLKYYKVDGDGKIERLRRECPAPECGAGVFMAAMHNRQYCGKCHLTYVFDESK
+>gi|667829860|ref|XP_007779099.1| ubiquitin-40S ribosomal protein S27a [Coniosporium apollinis CBS 100218] >gi|494826755|gb|EON63782.1| ubiquitin-40S ribosomal protein S27a [Coniosporium apollinis CBS 100218]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPTPECGAGVFMAAMHNRQYCGKCHLTYVFDETK
+>gi|156841768|ref|XP_001644255.1| hypothetical protein Kpol_1030p5 [Vanderwaltozyma polyspora DSM 70294] >gi|156114894|gb|EDO16397.1| hypothetical protein Kpol_1030p5 [Vanderwaltozyma polyspora DSM 70294]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKNKKVKLAILSYFKVDDEGKVTKLRKECSNSTCGAGIFLANHKDRYYCGKCHSVYKMKA
+>gi|448514833|ref|XP_003867179.1| Ubi3 protein [Candida orthopsilosis Co 90-125] >gi|354547050|emb|CCE43783.1| hypothetical protein CPAR2_500090 [Candida parapsilosis] >gi|380351518|emb|CCG21741.1| Ubi3 protein [Candida orthopsilosis]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHRKHKLAVLTYYKVDNDGNVERLRRECPSPTCGAGIFMANMKDRQYCGKCHLTLRAN
+>gi|923614103|ref|XP_013745166.1| PREDICTED: ubiquitin [Brassica napus]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGAKKR
+KKKTYTKPKKIKHKHKKLLTSSSHSVDFVQV
+>gi|156843306|ref|XP_001644721.1| hypothetical protein Kpol_1024p16 [Vanderwaltozyma polyspora DSM 70294] >gi|156115370|gb|EDO16863.1| hypothetical protein Kpol_1024p16 [Vanderwaltozyma polyspora DSM 70294]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAILSYFKVDDEGKVTKLRKECSNSTCGAGIFLANHKDRYYCGKCHSVYKMKA
+>gi|1000944557|ref|XP_015581578.1| PREDICTED: ubiquitin-60S ribosomal protein L40 isoform X2 [Ricinus communis]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGIIEP
+SLMALARKYNQDKMICRKCYARLHPRAVNCRKKKCGHSNQA
+>gi|1025678034|gb|OAA65351.1| Ubiquitin subgroup [Sporothrix insectorum RCEF 264]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPHETCGAGVFMAAMQDRQYCGRCHLTYVFGEKD
+>gi|816192418|emb|CRG85948.1| Ubiquitin-40S ribosomal protein S27a [Talaromyces islandicus]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPSPECGAGVFMAAMHNRQYCGKCHLTYVFDESK
+>gi|573975530|ref|XP_006665710.1| ubiquitin [Cordyceps militaris CM01] >gi|667661593|ref|XP_008602628.1| ubiquitin family protein [Beauveria bassiana ARSEF 2860] >gi|346326237|gb|EGX95833.1| ubiquitin [Cordyceps militaris CM01] >gi|400593850|gb|EJP61747.1| ubiquitin family protein [Beauveria bassiana ARSEF 2860] >gi|1025683465|gb|OAA70763.1| ubiquitin [Cordyceps confragosa RCEF 1005]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDKDGGIERLRRECPADTCGAGVFMAAMADRQYCGRCHLTYVFDKQ
+>gi|631387256|ref|XP_007928008.1| hypothetical protein MYCFIDRAFT_54296 [Cercospora fijiensis CIRAD86] >gi|1030135985|ref|XP_016761049.1| ubiquitin-domain-containing protein [Sphaerulina musiva SO2202] >gi|452840155|gb|EME42093.1| hypothetical protein DOTSEDRAFT_73004 [Dothistroma septosporum NZE10] >gi|452981134|gb|EME80894.1| hypothetical protein MYCFIDRAFT_54296 [Cercospora fijiensis CIRAD86] >gi|453084884|gb|EMF12928.1| ubiquitin-domain-containing protein [Sphaerulina musiva SO2202] >gi|1002206134|gb|KXT01679.1| hypothetical protein AC578_2761 [Mycosphaerella eumusae]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMAKK
+RKKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPAETCGAGIFMAAMHNRQYCGRCHLTYVFDDPK
+>gi|927759736|gb|KPA42826.1| ubiquitin-40s ribosomal protein s27a [Fusarium langsethiae] >gi|1040029742|gb|OBS22469.1| hypothetical protein FPOA_08806 [Fusarium poae]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDSDGKIERLRRECPSDTCGAGVFMAAMQDRQYCGRCHLTYVFDKQ
+>gi|751000305|gb|KIK42485.1| hypothetical protein CY34DRAFT_30585 [Suillus luteus UH-Slu-Lm8-n1]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+>gi|953414712|ref|XP_014549763.1| ubiquitin, partial [Metarhizium brunneum ARSEF 3297] >gi|743649599|gb|KID80625.1| ubiquitin [Metarhizium brunneum ARSEF 3297]
+MSEELSPLKLSRDLAYDLGFFLHRLFGPTNFAQTRSAVRIFTIASVTKSVKMQIFVKTLTGKTITLEVESSDTIDNVKSK
+IQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEPSLKALASKFNCDKMICRKCYARLPPRATN
+CRKRKCGHTNQLRPKKKLK
+>gi|748543571|gb|KIH93873.1| small subunit ribosomal protein S27Ae [Sporothrix brasiliensis 5110]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPNETCGAGVFMAAMQDRQYCGRCHLTYVFGENN
+>gi|448105792|ref|XP_004200582.1| Piso0_003174 [Millerozyma farinosa CBS 7064] >gi|448108906|ref|XP_004201213.1| Piso0_003174 [Millerozyma farinosa CBS 7064] >gi|998531887|ref|XP_015468305.1| Ubiquitin-40S ribosomal protein S27a [Debaryomyces fabryi] >gi|359382004|emb|CCE80841.1| Piso0_003174 [Millerozyma farinosa CBS 7064] >gi|359382769|emb|CCE80076.1| Piso0_003174 [Millerozyma farinosa CBS 7064] >gi|955269950|gb|KSA02203.1| Ubiquitin-40S ribosomal protein S27a [Debaryomyces fabryi]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHRKHKLAVLTYYKVDNDGKVERLRRECPSITCGAGIFMADMKDRQYCGKCHTTFKSN
+>gi|13094202|dbj|BAB32735.1| ubiquitin [Eustoma exaltatum subsp. russellianum]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGIIEP
+SLMALARKYNQDKMICSKCY
+>gi|367068743|gb|AEX13272.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068745|gb|AEX13273.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068747|gb|AEX13274.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068749|gb|AEX13275.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068751|gb|AEX13276.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068753|gb|AEX13277.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068755|gb|AEX13278.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068757|gb|AEX13279.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068759|gb|AEX13280.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068761|gb|AEX13281.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068763|gb|AEX13282.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068765|gb|AEX13283.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068767|gb|AEX13284.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068769|gb|AEX13285.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068771|gb|AEX13286.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068773|gb|AEX13287.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068775|gb|AEX13288.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068777|gb|AEX13289.1| hypothetical protein CL958Contig1_06, partial [Pinus taeda] >gi|367068779|gb|AEX13290.1| hypothetical protein CL958Contig1_06, partial [Pinus radiata]
+STLHLVLRLRGGMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLH
+LVLRLRGGMQ
+>gi|1020703474|gb|KZM23849.1| structural constituent of ribosome [Ascochyta rabiei]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPQPECGAGVFMAAMHNRQYCGRCHLTYVFDEAK
+>gi|658037385|ref|XP_008354260.1| PREDICTED: ubiquitin [Malus domestica]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGIIEP
+SLMALARKYNQEKMICRKCYARLHPRAVNCRKKKCGHSNQVFHIAE
+>gi|1026972336|ref|XP_016637284.1| ubiquitin-40S ribosomal protein S27a [Fonsecaea multimorphosa CBS 102226] >gi|761342271|gb|KIY03162.1| ubiquitin-40S ribosomal protein S27a [Fonsecaea multimorphosa CBS 102226] >gi|1029153342|gb|OAL30405.1| ubiquitin-40S ribosomal protein S27a [Fonsecaea multimorphosa]
+MQVFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPTKECGAGVFMAAMHNRQYCGRCHLTYVFDESK
+>gi|1000220996|gb|KXJ90004.1| ubiquitin-40S ribosomal protein S31 fusion protein [Microdochium bolleyi]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPADTCGAGVFMAAMQDRQYCGRCHLTYVFDKQ
+>gi|972124928|gb|KUI53855.1| Ubiquitin-60S ribosomal protein L40 [Valsa mali var. pyri]
+MGRSSLGVSRVDVWLPDNDLGTVTFTHSKVKPLRREAVKMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQ
+RLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGLIEPSLKALASKFNCDKMICRKCYARLPPRATNCRKRKCGHTNQL
+RPKKKLK
+>gi|906318611|emb|CEP22798.1| unnamed protein product [Cyberlindnera jadinii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKVKLAVLTYYKVDQDGKVERLRRQCPAETCGAGVFMANHGDRQYCGKCHLTVKPE
+>gi|50427261|ref|XP_462243.1| ubiquitin-40S ribosomal protein S31 fusion protein [Debaryomyces hansenii CBS767] >gi|49657913|emb|CAG90739.1| DEHA2G16082p [Debaryomyces hansenii CBS767]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIRHKHRKHKLAVLTYYKVDNDGKVERLRRECPSITCGAGIFMADMKDRQYCGKCHTTFKSN
+>gi|821080617|gb|KKY34151.1| putative ubiquitin [Diaporthe ampelina]
+MFKGQSRSDEEPVLSGTVTLPPKPQQTPIPHEDEAFKMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRL
+IFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGLIEPSLKILASKFNCDKMICRKCYARLPPRATNCRKRKCGHTNQLRP
+KKKLK
+>gi|1018269830|gb|KZF21929.1| ubiquitin/40S ribosomal protein S27a fusion [Xylona heveae TC161]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRRKTKLAVLKYYKVDGDGKIERLRRECPAPECGAGVFMAAMHNRQYCGKCHLTYVFDETK
+>gi|525583697|gb|EPS29947.1| hypothetical protein PDE_04897 [Penicillium oxalicum 114-2]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKTKLAILKYYKVDGDGKIERLRRECPAPECGAGVFMAAMHNRQYCGKCHLTYVFDESK
+>gi|398396176|ref|XP_003851546.1| ubiquitin-40S ribosomal protein S31 [Zymoseptoria tritici IPO323] >gi|339471426|gb|EGP86522.1| hypothetical protein MYCGRDRAFT_104912 [Zymoseptoria tritici IPO323]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMAKK
+RKKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPAEQCGAGIFMAAMHNRQYCGRCHLTYVFDDPK
+>gi|629667669|ref|XP_007795786.1| putative ubiquitin-40s ribosomal protein s31 fusion protein [Eutypa lata UCREL1] >gi|471564064|gb|EMR65118.1| putative ubiquitin-40s ribosomal protein s31 fusion protein [Eutypa lata UCREL1]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPADTCGAGIFMAAMQDRQYCGRCHLTYVFDKP
+>gi|927393079|ref|XP_013942385.1| hypothetical protein TRIATDRAFT_300462 [Trichoderma atroviride IMI 206040] >gi|358394759|gb|EHK44152.1| hypothetical protein TRIATDRAFT_300462 [Trichoderma atroviride IMI 206040]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVSNDGNIERLRRECPSDTCGAGVFMAAMPDRQYCGRCHLTYVFDKQ
+>gi|323347583|gb|EGA81850.1| Ubi4p [Saccharomyces cerevisiae Lalvin QA23]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIF
+VKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQEVDLCR
+>gi|213405387|ref|XP_002173465.1| ribomal-ubiquitin fusion protein Ubi5 [Schizosaccharomyces japonicus yFS275] >gi|212001512|gb|EEB07172.1| ribomal-ubiquitin fusion protein Ubi5 [Schizosaccharomyces japonicus yFS275]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGAKKR
+KKKTYTTPKKIKHKHKKVELAVLKYYKVEDDGSIKRLRRECPNCGASVFMAVHKDRLYCGKCHLTLKLEA
+>gi|115396396|ref|XP_001213837.1| ubiquitin-40S ribosomal protein S31 fusion protein [Aspergillus terreus NIH2624] >gi|114193406|gb|EAU35106.1| 40S ribosomal protein S27a [Aspergillus terreus NIH2624] >gi|849272401|dbj|GAO85208.1| ubiquitin-40S ribosomal protein S27a [Aspergillus udagawae]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPSPECGAGIFMAAMHNRQYCGKCHLTYVFDESK
+>gi|947105203|gb|KRH53586.1| hypothetical protein GLYMA_06G133600 [Glycine max]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGIIEP
+SLMALARKYNQDKMICRKCYARLHPRAVNCRKKKCGHSNQV
+>gi|939612533|gb|KPV74556.1| hypothetical protein RHOBADRAFT_45046 [Rhodotorula graminis WP1]
+MQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMAKK
+RKKKTYTTPKKIKHKRKPVKMAVLKYYRVDSDGKIKRLRRECPAETCGAGVFMAAHKNRQYCGKCGLTYLHE
+>gi|1039710705|gb|OBR84569.1| polyubiquitin [Kwoniella dejecticola CBS 10117]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMAKK
+RKKKNYTTPKKIKHKRKKVKMAILKYYKVGSDGKIQRLRRECPAPQCGAGVFMAWHKDRQSCGKCGLTYTFEPGTKPTVA
+>gi|968582579|gb|KTW27271.1| ubiquitin-40S ribosomal protein S27a [Pneumocystis carinii B80]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKR
+KKKTYTTPKKIKHKRKKVKLSILNFYKVDADGKIQRLRSECPHPTCGAGVFMALHKDRRYCGKCGLTMVFEKKE
+>gi|816345241|gb|KKK21855.1| hypothetical protein ARAM_002889 [Aspergillus rambellii]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPSPECGAGIFMAAMQNRQYCGKCHLTYVFDESK
+>gi|384489624|gb|EIE80846.1| ubiquitin-60S ribosomal protein L40 [Rhizopus delemar RA 99-880] >gi|384499458|gb|EIE89949.1| ubiquitin-60S ribosomal protein L40 [Rhizopus delemar RA 99-880] >gi|384500325|gb|EIE90816.1| ubiquitin-60S ribosomal protein L40 [Rhizopus delemar RA 99-880] >gi|384501425|gb|EIE91916.1| ubiquitin-60S ribosomal protein L40 [Rhizopus delemar RA 99-880]
+MQIFVKTLTGKTITLEVESSDTIDNVKQKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEP
+SLKALASKYNCEKMICRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK
+>gi|821059962|gb|KKY15510.1| putative ubiquitin-40s ribosomal protein s31 fusion protein [Phaeomoniella chlamydospora]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPTPECGAGVFMASMQNRQYCGKCHLTYVFDESK
+>gi|399171857|emb|CCE27084.1| probable ubiquitin/ribosomal protein S27a fusion protein [Claviceps purpurea 20.1]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDQDGKIERLRRECPADTCGAGVFMASMPDRQYCGRCHLTYVFDKQ
+>gi|451993472|gb|EMD85945.1| hypothetical protein COCHEDRAFT_43242 [Bipolaris maydis C5]
+ANMQIFVKTLTGKTITLEVESSDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGG
+>gi|1024752186|gb|KZZ91217.1| ubiquitin (UbiC) [Ascosphaera apis ARSEF 7405]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKHKKTKLAVLKYYKVDGDGKIERLRRECPSPECGAGVFMAAMSNRQYCGRCHLTYVFDETK
+>gi|242784322|ref|XP_002480364.1| ubiquitin-40S ribosomal protein S31 fusion protein [Talaromyces stipitatus ATCC 10500] >gi|218720511|gb|EED19930.1| ubiquitin (UbiC), putative [Talaromyces stipitatus ATCC 10500]
+MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKR
+KKKVYTTPKKIKHKRKKTKLAVLKYYKVDGDGKIERLRRECPTPECGAGVFMAAMHNRQYCGKCHLTYIFDESK

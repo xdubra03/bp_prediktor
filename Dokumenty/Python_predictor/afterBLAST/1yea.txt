@@ -1,0 +1,756 @@
+>gi|6320796|ref|NP_010875.1| cytochrome c isoform 2 [Saccharomyces cerevisiae S288c] >gi|984144414|ref|XP_015332620.1| PREDICTED: cytochrome c iso-2 [Marmota marmota marmota] >gi|117905|sp|P00045.1|CYC7_YEAST RecName: Full=Cytochrome c iso-2 >gi|4261674|gb|AAD13974.1|S65964_111111 Unknown [Saccharomyces cerevisiae] >gi|3629|emb|CAA24606.1| unnamed protein product [Saccharomyces cerevisiae] >gi|171348|gb|AAB59339.1| iso-2-cytochrome c [Saccharomyces cerevisiae] >gi|347501|gb|AAA34940.1| cytochrome c isozyme [Saccharomyces cerevisiae] >gi|603640|gb|AAB65003.1| Cyc7p: cytochrome c, isoform-2 [Saccharomyces cerevisiae] >gi|51013515|gb|AAT93051.1| YEL039C [Saccharomyces cerevisiae] >gi|151944672|gb|EDN62931.1| iso-2-cytochrome c [Saccharomyces cerevisiae YJM789] >gi|190405527|gb|EDV08794.1| iso-2-cytochrome c [Saccharomyces cerevisiae RM11-1a] >gi|256273809|gb|EEU08732.1| Cyc7p [Saccharomyces cerevisiae JAY291] >gi|259145861|emb|CAY79121.1| Cyc7p [Saccharomyces cerevisiae EC1118] >gi|285811586|tpg|DAA07614.1| TPA: cytochrome c isoform 2 [Saccharomyces cerevisiae S288c] >gi|323305176|gb|EGA58923.1| Cyc7p [Saccharomyces cerevisiae FostersB] >gi|323333878|gb|EGA75267.1| Cyc7p [Saccharomyces cerevisiae AWRI796] >gi|323337884|gb|EGA79123.1| Cyc7p [Saccharomyces cerevisiae Vin13] >gi|323349006|gb|EGA83241.1| Cyc7p [Saccharomyces cerevisiae Lalvin QA23] >gi|349577619|dbj|GAA22787.1| K7_Cyc7p [Saccharomyces cerevisiae Kyokai no. 7] >gi|365765997|gb|EHN07498.1| Cyc7p [Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7] >gi|392299907|gb|EIW10999.1| Cyc7p [Saccharomyces cerevisiae CEN.PK113-7D] >gi|584366457|gb|EWG86451.1| Cyc7p [Saccharomyces cerevisiae R008] >gi|584371416|gb|EWG91354.1| Cyc7p [Saccharomyces cerevisiae P301] >gi|584376514|gb|EWG96371.1| Cyc7p [Saccharomyces cerevisiae R103] >gi|584477210|gb|EWH18954.1| Cyc7p [Saccharomyces cerevisiae P283] >gi|628163161|gb|AHY75514.1| Cyc7p [Saccharomyces cerevisiae YJM993] >gi|761391204|gb|AJP38229.1| Cyc7p [Saccharomyces cerevisiae YJM1078] >gi|768526875|gb|AJU39918.1| Cyc7p [Saccharomyces cerevisiae YJM693] >gi|768527130|gb|AJU40172.1| Cyc7p [Saccharomyces cerevisiae YJM969] >gi|768527387|gb|AJU40428.1| Cyc7p [Saccharomyces cerevisiae YJM972] >gi|768527648|gb|AJU40688.1| Cyc7p [Saccharomyces cerevisiae YJM975] >gi|768527907|gb|AJU40946.1| Cyc7p [Saccharomyces cerevisiae YJM978] >gi|768528135|gb|AJU41173.1| Cyc7p [Saccharomyces cerevisiae YJM981] >gi|768528390|gb|AJU41427.1| Cyc7p [Saccharomyces cerevisiae YJM984] >gi|768528645|gb|AJU41681.1| Cyc7p [Saccharomyces cerevisiae YJM987] >gi|768528904|gb|AJU41939.1| Cyc7p [Saccharomyces cerevisiae YJM990] >gi|768529163|gb|AJU42197.1| Cyc7p [Saccharomyces cerevisiae YJM996] >gi|768529419|gb|AJU42452.1| Cyc7p [Saccharomyces cerevisiae YJM1083] >gi|768529675|gb|AJU42707.1| Cyc7p [Saccharomyces cerevisiae YJM1129] >gi|768529936|gb|AJU42967.1| Cyc7p [Saccharomyces cerevisiae YJM1133] >gi|768530192|gb|AJU43222.1| Cyc7p [Saccharomyces cerevisiae YJM1190] >gi|768530449|gb|AJU43478.1| Cyc7p [Saccharomyces cerevisiae YJM1199] >gi|768530704|gb|AJU43732.1| Cyc7p [Saccharomyces cerevisiae YJM1202] >gi|768530945|gb|AJU43972.1| Cyc7p [Saccharomyces cerevisiae YJM1208] >gi|768531203|gb|AJU44229.1| Cyc7p [Saccharomyces cerevisiae YJM1242] >gi|768531463|gb|AJU44488.1| Cyc7p [Saccharomyces cerevisiae YJM1244] >gi|768531722|gb|AJU44746.1| Cyc7p [Saccharomyces cerevisiae YJM1248] >gi|768531977|gb|AJU45000.1| Cyc7p [Saccharomyces cerevisiae YJM1250] >gi|768532237|gb|AJU45259.1| Cyc7p [Saccharomyces cerevisiae YJM1615] >gi|768532492|gb|AJU45513.1| Cyc7p [Saccharomyces cerevisiae YJM1252] >gi|768532746|gb|AJU45766.1| Cyc7p [Saccharomyces cerevisiae YJM1273] >gi|768533006|gb|AJU46025.1| Cyc7p [Saccharomyces cerevisiae YJM1304] >gi|768533510|gb|AJU46527.1| Cyc7p [Saccharomyces cerevisiae YJM1311] >gi|768533762|gb|AJU46778.1| Cyc7p [Saccharomyces cerevisiae YJM1326] >gi|768534022|gb|AJU47037.1| Cyc7p [Saccharomyces cerevisiae YJM1332] >gi|768534269|gb|AJU47283.1| Cyc7p [Saccharomyces cerevisiae YJM1336] >gi|768534527|gb|AJU47540.1| Cyc7p [Saccharomyces cerevisiae YJM1338] >gi|768534787|gb|AJU47799.1| Cyc7p [Saccharomyces cerevisiae YJM1341] >gi|768535046|gb|AJU48057.1| Cyc7p [Saccharomyces cerevisiae YJM1342] >gi|768535305|gb|AJU48315.1| Cyc7p [Saccharomyces cerevisiae YJM1355] >gi|768535557|gb|AJU48566.1| Cyc7p [Saccharomyces cerevisiae YJM1356] >gi|768535817|gb|AJU48825.1| Cyc7p [Saccharomyces cerevisiae YJM1381] >gi|768536074|gb|AJU49081.1| Cyc7p [Saccharomyces cerevisiae YJM1383] >gi|768536334|gb|AJU49340.1| Cyc7p [Saccharomyces cerevisiae YJM1385] >gi|768536585|gb|AJU49590.1| Cyc7p [Saccharomyces cerevisiae YJM1386] >gi|768536839|gb|AJU49843.1| Cyc7p [Saccharomyces cerevisiae YJM1387] >gi|768537093|gb|AJU50096.1| Cyc7p [Saccharomyces cerevisiae YJM1388] >gi|768537346|gb|AJU50348.1| Cyc7p [Saccharomyces cerevisiae YJM1389] >gi|768537599|gb|AJU50600.1| Cyc7p [Saccharomyces cerevisiae YJM1399] >gi|768537851|gb|AJU50851.1| Cyc7p [Saccharomyces cerevisiae YJM1400] >gi|768538110|gb|AJU51109.1| Cyc7p [Saccharomyces cerevisiae YJM1401] >gi|768538363|gb|AJU51361.1| Cyc7p [Saccharomyces cerevisiae YJM1402] >gi|768538622|gb|AJU51619.1| Cyc7p [Saccharomyces cerevisiae YJM1415] >gi|768538880|gb|AJU51876.1| Cyc7p [Saccharomyces cerevisiae YJM1417] >gi|768539135|gb|AJU52130.1| Cyc7p [Saccharomyces cerevisiae YJM1418] >gi|768539392|gb|AJU52386.1| Cyc7p [Saccharomyces cerevisiae YJM1419] >gi|768539649|gb|AJU52642.1| Cyc7p [Saccharomyces cerevisiae YJM1433] >gi|768539907|gb|AJU52899.1| Cyc7p [Saccharomyces cerevisiae YJM1434] >gi|768540164|gb|AJU53155.1| Cyc7p [Saccharomyces cerevisiae YJM1439] >gi|768540419|gb|AJU53409.1| Cyc7p [Saccharomyces cerevisiae YJM1443] >gi|768540674|gb|AJU53663.1| Cyc7p [Saccharomyces cerevisiae YJM1444] >gi|768540925|gb|AJU53913.1| Cyc7p [Saccharomyces cerevisiae YJM1447] >gi|768541171|gb|AJU54158.1| Cyc7p [Saccharomyces cerevisiae YJM1450] >gi|768541413|gb|AJU54399.1| Cyc7p [Saccharomyces cerevisiae YJM1460] >gi|768541669|gb|AJU54654.1| Cyc7p [Saccharomyces cerevisiae YJM1463] >gi|768541925|gb|AJU54909.1| Cyc7p [Saccharomyces cerevisiae YJM1477] >gi|768542185|gb|AJU55168.1| Cyc7p [Saccharomyces cerevisiae YJM1478] >gi|768542444|gb|AJU55426.1| Cyc7p [Saccharomyces cerevisiae YJM1479] >gi|768542702|gb|AJU55683.1| Cyc7p [Saccharomyces cerevisiae YJM1526] >gi|768542962|gb|AJU55942.1| Cyc7p [Saccharomyces cerevisiae YJM1527] >gi|768543219|gb|AJU56198.1| Cyc7p [Saccharomyces cerevisiae YJM1549] >gi|768543477|gb|AJU56455.1| Cyc7p [Saccharomyces cerevisiae YJM1573] >gi|768543734|gb|AJU56711.1| Cyc7p [Saccharomyces cerevisiae YJM1574] >gi|768543991|gb|AJU56967.1| Cyc7p [Saccharomyces cerevisiae YJM1592] >gi|768816187|gb|AJV32771.1| Cyc7p [Saccharomyces cerevisiae YJM189] >gi|768816443|gb|AJV33026.1| Cyc7p [Saccharomyces cerevisiae YJM193] >gi|768816701|gb|AJV33283.1| Cyc7p [Saccharomyces cerevisiae YJM195] >gi|768816956|gb|AJV33537.1| Cyc7p [Saccharomyces cerevisiae YJM244] >gi|768817212|gb|AJV33792.1| Cyc7p [Saccharomyces cerevisiae YJM248] >gi|768817468|gb|AJV34047.1| Cyc7p [Saccharomyces cerevisiae YJM270] >gi|768817728|gb|AJV34306.1| Cyc7p [Saccharomyces cerevisiae YJM271] >gi|768817983|gb|AJV34560.1| Cyc7p [Saccharomyces cerevisiae YJM320] >gi|768818193|gb|AJV34769.1| Cyc7p [Saccharomyces cerevisiae YJM326] >gi|768818449|gb|AJV35024.1| Cyc7p [Saccharomyces cerevisiae YJM428] >gi|768818704|gb|AJV35278.1| Cyc7p [Saccharomyces cerevisiae YJM450] >gi|768818962|gb|AJV35535.1| Cyc7p [Saccharomyces cerevisiae YJM451] >gi|768819216|gb|AJV35788.1| Cyc7p [Saccharomyces cerevisiae YJM453] >gi|768819477|gb|AJV36048.1| Cyc7p [Saccharomyces cerevisiae YJM456] >gi|768819734|gb|AJV36304.1| Cyc7p [Saccharomyces cerevisiae YJM470] >gi|768819988|gb|AJV36557.1| Cyc7p [Saccharomyces cerevisiae YJM541] >gi|768820243|gb|AJV36811.1| Cyc7p [Saccharomyces cerevisiae YJM554] >gi|768820496|gb|AJV37063.1| Cyc7p [Saccharomyces cerevisiae YJM555] >gi|768820755|gb|AJV37321.1| Cyc7p [Saccharomyces cerevisiae YJM627] >gi|768821010|gb|AJV37575.1| Cyc7p [Saccharomyces cerevisiae YJM681] >gi|768821264|gb|AJV37828.1| Cyc7p [Saccharomyces cerevisiae YJM682] >gi|768821517|gb|AJV38080.1| Cyc7p [Saccharomyces cerevisiae YJM683] >gi|768821774|gb|AJV38336.1| Cyc7p [Saccharomyces cerevisiae YJM689] >gi|919304165|gb|KOH51226.1| CYC7p Cytochrome c isoform 2, expressed under hypoxic conditions [Saccharomyces sp. 'boulardii'] >gi|941963408|gb|KQC44278.1| Cytochrome c isoform 2 [Saccharomyces sp. 'boulardii'] >gi|1023944480|gb|KZV11703.1| CYC7 [Saccharomyces cerevisiae]
+MAKESTGFKPGSAKKGATLFKTRCQQCHTIEEGGPNKVGPNLHGIFGRHSGQVKGYSYTDANINKNVKWDEDSMSEYLTN
+PKKYIPGTKMAFAGLKKEKDRNDLITYMTKAAK
+>gi|188036325|pdb|3CXH|W Chain W, Structure Of Yeast Complex Iii With Isoform-2 Cytochrome C Bound And Definition Of A Minimal Core Interface For Electron Transfer. >gi|444841765|pdb|1YEA|A Chain A, Structure Determination And Analysis Of Yeast Iso-2- Cytochrome C And A Composite Mutant Protein
+AKESTGFKPGSAKKGATLFKTRCQQCHTIEEGGPNKVGPNLHGIFGRHSGQVKGYSYTDANINKNVKWDEDSMSEYLTNP
+XKYIPGTKMAFAGLKKEKDRNDLITYMTKAAK
+>gi|768533253|gb|AJU46271.1| Cyc7p [Saccharomyces cerevisiae YJM1307]
+MAKESTGFKPGSGKKGATLFKTRCQQCHTIEEGGPNKVGPNLHGIFGRHSGQVKGYSYTDANINKNVKWDEDSMSEYLTN
+PKKYIPGTKMAFAGLKKEKDRNDLITYMTKAAK
+>gi|229426|prf||721942A cytochrome c iso2
+AKESTGFKPGSAKKGATLFKTRCQQCHTVEEGGPNKVGPNLHGIFGRHSGQVVGYSYTDANINKNVKWDEDSMSEYLTNP
+XKYIPGTKMAFAGLKKEKDRNDLITYMTKAAK
+>gi|440923779|pdb|1YTC|A Chain A, Thermodynamic Cycles As Probes Of Structure-Function Relationships In Unfolded Proteins
+AKESTGFKPGSAKKGATLFKTRCQQCHTIEEGGPNKVGPNLHGIFGRHSGQVKGYSYTDAIINKNVKWDEDSMSEYLTNP
+XKYIPGTKMAFAGLKKEKDRNDLITYMTKAAK
+>gi|401626134|gb|EJS44096.1| cyc7p [Saccharomyces arboricola H-6]
+MAKESTGFKEGSAKKGATLFKTRCQQCHTIEEGGPNKVGPNLHGIFGRHSGQVKGYSYTDANINKNVMWDQDNMSEYLTN
+PKKYIPGTKMAFAGLKKEKDRNDLITYMTKAAK
+>gi|365761177|gb|EHN02847.1| Cyc7p [Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7] >gi|401840715|gb|EJT43418.1| CYC7-like protein [Saccharomyces kudriavzevii IFO 1802]
+MAKESTGSKAGSSKKGATLFKTRCQQCHTIEEGGPNKVGPNLHGIFGRHSGQVKGYSYTDANINKNVKWDESNMSEYLTN
+PKKYIPGTKMAFAGLKKEKDRNDLIAYMTKAAK
+>gi|918733991|gb|KOG99909.1| CYC7-like protein [Saccharomyces eubayanus]
+MAKESAEFKPGSGKKGATLFKTRCQQCHTIEEGGPNKVGPNLHGIFGRHSGQVKGYSYTDANIKKNVQWDENNMSEYLTN
+PKKYIPGTKMAFAGLKKEKDRNDLITYMTKAAK
+>gi|403242468|pdb|1YEB|A Chain A, Structure Determination And Analysis Of Yeast Iso-2- Cytochrome C And A Composite Mutant Protein
+TEFKAGSAKKGATLFKTRCQQCHTIEEGGPNKVGPNLHGIFGRHSGQVKGYSYTDANINKNVKWDEDSMSEYLTNPXKYI
+PGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|410729743|ref|XP_003671050.2| hypothetical protein NDAI_0G00310 [Naumovozyma dairenensis CBS 421] >gi|401779869|emb|CCD25807.2| hypothetical protein NDAI_0G00310 [Naumovozyma dairenensis CBS 421]
+MPPKKESTGFTPGSEKKGATLFKTRCLQCHTVEEGGPNKVGPNLHGIFGRTSGQAPGYSYTDANIKKNVKWDENNMSEYL
+TNPKKYIPGTKMAFGGLKKDKDRNDLITYLKKATE
+>gi|55670195|pdb|1U74|B Chain B, Electron Transfer Complex Between Cytochrome C And Cytochrome C Peroxidase >gi|55670197|pdb|1U74|D Chain D, Electron Transfer Complex Between Cytochrome C And Cytochrome C Peroxidase >gi|90108834|pdb|2BCN|B Chain B, Solvent Isotope Effects On Interfacial Protein Electron Transfer Between Cytochrome C And Cytochrome C Peroxidase
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKYI
+PGTKMAFGGLKKEKDRNDLITYLKKASE
+>gi|28374078|pdb|1NMI|A Chain A, Solution Structure Of The Imidazole Complex Of Iso-1 Cytochrome C >gi|116667861|pdb|2HV4|A Chain A, Nmr Solution Structure Refinement Of Yeast Iso-1- Ferrocytochrome C >gi|146387036|pdb|2ORL|A Chain A, Solution Structure Of The Cytochrome C- Para-Aminophenol Adduct >gi|385867589|pdb|3TYI|A Chain A, Crystal Structure Of Cytochrome C - P-Sulfonatocalix[4]arene Complexes >gi|385867590|pdb|3TYI|B Chain B, Crystal Structure Of Cytochrome C - P-Sulfonatocalix[4]arene Complexes
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKYI
+PGTKMAFGGLKKEKDRNDLITYLKKATE
+>gi|443419|pdb|2PCC|B Chain B, Crystal Structure Of A Complex Between Electron Transfer Partners, Cytochrome C Peroxidase And Cytochrome C >gi|443421|pdb|2PCC|D Chain D, Crystal Structure Of A Complex Between Electron Transfer Partners, Cytochrome C Peroxidase And Cytochrome C >gi|119389558|pdb|2GB8|B Chain B, Solution Structure Of The Complex Between Yeast Iso-1- Cytochrome C And Yeast Cytochrome C Peroxidase >gi|820957184|pdb|2N18|C Chain C, Dominant Form Of The Low-affinity Complex Of Yeast Cytochrome C And Cytochrome C Peroxidase >gi|1049305855|pdb|5CIB|B Chain B, Complex Of Yeast Cytochrome C Peroxidase (w191g) Bound To 2,4- Dimethylaniilne With Iso-1 Cytochrome C >gi|1049305857|pdb|5CIB|D Chain D, Complex Of Yeast Cytochrome C Peroxidase (w191g) Bound To 2,4- Dimethylaniilne With Iso-1 Cytochrome C >gi|1049305859|pdb|5CIC|B Chain B, Complex Of Yeast Cytochrome C Peroxidase (w191g) Bound To 3- Aminobenzotrifluoride With Iso-1 Cytochrome C >gi|1049305861|pdb|5CIC|D Chain D, Complex Of Yeast Cytochrome C Peroxidase (w191g) Bound To 3- Aminobenzotrifluoride With Iso-1 Cytochrome C >gi|1049305863|pdb|5CID|B Chain B, Complex Of Yeast Cytochrome C Peroxidase (w191g) Bound To O-toluidine With Iso-1 Cytochrome C >gi|1049305865|pdb|5CID|D Chain D, Complex Of Yeast Cytochrome C Peroxidase (w191g) Bound To O-toluidine With Iso-1 Cytochrome C >gi|1049305867|pdb|5CIE|B Chain B, Complex Of Yeast Cytochrome C Peroxidase (w191g) Bound To Aniilne With Iso-1 Cytochrome C >gi|1049305869|pdb|5CIE|D Chain D, Complex Of Yeast Cytochrome C Peroxidase (w191g) Bound To Aniilne With Iso-1 Cytochrome C >gi|1049305875|pdb|5CIG|B Chain B, Complex Of Yeast Cytochrome C Peroxidase (w191g) With Iso-1 Cytochrome C >gi|1049305877|pdb|5CIG|D Chain D, Complex Of Yeast Cytochrome C Peroxidase (w191g) With Iso-1 Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKYI
+PGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|6322508|ref|NP_012582.1| cytochrome c isoform 1 [Saccharomyces cerevisiae S288c] >gi|117901|sp|P00044.2|CYC1_YEAST RecName: Full=Cytochrome c iso-1 >gi|3627|emb|CAA24605.1| unnamed protein product [Saccharomyces cerevisiae] >gi|171258|gb|AAB59344.1| iso-1-cytochrome c [Saccharomyces cerevisiae] >gi|695795|gb|AAA62856.1| iso-1-cytochrome c [Saccharomyces cerevisiae] >gi|1015707|emb|CAA89576.1| CYC1 [Saccharomyces cerevisiae] >gi|1197077|gb|AAA88751.1| ORF; putative, partial [Saccharomyces cerevisiae] >gi|151945116|gb|EDN63367.1| iso-1-cytochrome c [Saccharomyces cerevisiae YJM789] >gi|190409525|gb|EDV12790.1| iso-1-cytochrome c [Saccharomyces cerevisiae RM11-1a] >gi|256269965|gb|EEU05218.1| Cyc1p [Saccharomyces cerevisiae JAY291] >gi|259147512|emb|CAY80764.1| Cyc1p [Saccharomyces cerevisiae EC1118] >gi|285812937|tpg|DAA08835.1| TPA: cytochrome c isoform 1 [Saccharomyces cerevisiae S288c] >gi|323304246|gb|EGA58020.1| Cyc1p [Saccharomyces cerevisiae FostersB] >gi|323332859|gb|EGA74262.1| Cyc1p [Saccharomyces cerevisiae AWRI796] >gi|323347856|gb|EGA82117.1| Cyc1p [Saccharomyces cerevisiae Lalvin QA23] >gi|323354244|gb|EGA86087.1| Cyc1p [Saccharomyces cerevisiae VL3] >gi|349579233|dbj|GAA24396.1| K7_Cyc1p [Saccharomyces cerevisiae Kyokai no. 7] >gi|365764706|gb|EHN06227.1| Cyc1p [Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7] >gi|392298472|gb|EIW09569.1| Cyc1p [Saccharomyces cerevisiae CEN.PK113-7D] >gi|584365141|gb|EWG85145.1| Cyc1p [Saccharomyces cerevisiae R008] >gi|584368005|gb|EWG87983.1| Cyc1p [Saccharomyces cerevisiae P301] >gi|584375260|gb|EWG95147.1| Cyc1p [Saccharomyces cerevisiae R103] >gi|584475847|gb|EWH17600.1| Cyc1p [Saccharomyces cerevisiae P283] >gi|628246961|gb|AHY79034.1| Cyc1p [Saccharomyces cerevisiae YJM993] >gi|761486694|gb|AJP39735.1| Cyc1p [Saccharomyces cerevisiae YJM1078] >gi|766282587|gb|AJR54000.1| Cyc1p [Saccharomyces cerevisiae YJM681] >gi|766307409|gb|AJR54330.1| Cyc1p [Saccharomyces cerevisiae YJM682] >gi|766338161|gb|AJR54664.1| Cyc1p [Saccharomyces cerevisiae YJM683] >gi|766367022|gb|AJR54992.1| Cyc1p [Saccharomyces cerevisiae YJM689] >gi|766394571|gb|AJR55301.1| Cyc1p [Saccharomyces cerevisiae YJM693] >gi|766418378|gb|AJR55627.1| Cyc1p [Saccharomyces cerevisiae YJM969] >gi|766430823|gb|AJR55957.1| Cyc1p [Saccharomyces cerevisiae YJM972] >gi|766431153|gb|AJR56284.1| Cyc1p [Saccharomyces cerevisiae YJM975] >gi|766431488|gb|AJR56611.1| Cyc1p [Saccharomyces cerevisiae YJM978] >gi|766431816|gb|AJR56937.1| Cyc1p [Saccharomyces cerevisiae YJM981] >gi|766432147|gb|AJR57264.1| Cyc1p [Saccharomyces cerevisiae YJM984] >gi|766432480|gb|AJR57595.1| Cyc1p [Saccharomyces cerevisiae YJM987] >gi|766432830|gb|AJR57923.1| Cyc1p [Saccharomyces cerevisiae YJM990] >gi|766433176|gb|AJR58251.1| Cyc1p [Saccharomyces cerevisiae YJM996] >gi|766433529|gb|AJR58576.1| Cyc1p [Saccharomyces cerevisiae YJM1083] >gi|766434213|gb|AJR59229.1| Cyc1p [Saccharomyces cerevisiae YJM1133] >gi|766434542|gb|AJR59556.1| Cyc1p [Saccharomyces cerevisiae YJM189] >gi|766434899|gb|AJR59886.1| Cyc1p [Saccharomyces cerevisiae YJM193] >gi|766435223|gb|AJR60208.1| Cyc1p [Saccharomyces cerevisiae YJM195] >gi|766435566|gb|AJR60543.1| Cyc1p [Saccharomyces cerevisiae YJM244] >gi|766435902|gb|AJR60871.1| Cyc1p [Saccharomyces cerevisiae YJM248] >gi|766436228|gb|AJR61195.1| Cyc1p [Saccharomyces cerevisiae YJM270] >gi|766436574|gb|AJR61521.1| Cyc1p [Saccharomyces cerevisiae YJM271] >gi|766436908|gb|AJR61845.1| Cyc1p [Saccharomyces cerevisiae YJM320] >gi|766437241|gb|AJR62173.1| Cyc1p [Saccharomyces cerevisiae YJM326] >gi|766437591|gb|AJR62506.1| Cyc1p [Saccharomyces cerevisiae YJM428] >gi|766437957|gb|AJR62831.1| Cyc1p [Saccharomyces cerevisiae YJM450] >gi|766438284|gb|AJR63156.1| Cyc1p [Saccharomyces cerevisiae YJM451] >gi|766438626|gb|AJR63483.1| Cyc1p [Saccharomyces cerevisiae YJM453] >gi|766438988|gb|AJR63812.1| Cyc1p [Saccharomyces cerevisiae YJM456] >gi|766439313|gb|AJR64135.1| Cyc1p [Saccharomyces cerevisiae YJM470] >gi|766439630|gb|AJR64432.1| Cyc1p [Saccharomyces cerevisiae YJM541] >gi|766439914|gb|AJR64700.1| Cyc1p [Saccharomyces cerevisiae YJM554] >gi|766440277|gb|AJR65028.1| Cyc1p [Saccharomyces cerevisiae YJM555] >gi|766440634|gb|AJR65356.1| Cyc1p [Saccharomyces cerevisiae YJM627] >gi|766440966|gb|AJR65686.1| Cyc1p [Saccharomyces cerevisiae YJM1190] >gi|766441295|gb|AJR66013.1| Cyc1p [Saccharomyces cerevisiae YJM1199] >gi|766441625|gb|AJR66341.1| Cyc1p [Saccharomyces cerevisiae YJM1202] >gi|766441953|gb|AJR66662.1| Cyc1p [Saccharomyces cerevisiae YJM1208] >gi|766442308|gb|AJR66990.1| Cyc1p [Saccharomyces cerevisiae YJM1242] >gi|766442638|gb|AJR67318.1| Cyc1p [Saccharomyces cerevisiae YJM1244] >gi|766443645|gb|AJR68270.1| Cyc1p [Saccharomyces cerevisiae YJM1252] >gi|766443985|gb|AJR68587.1| Cyc1p [Saccharomyces cerevisiae YJM1415] >gi|766444344|gb|AJR68911.1| Cyc1p [Saccharomyces cerevisiae YJM1417] >gi|766444670|gb|AJR69220.1| Cyc1p [Saccharomyces cerevisiae YJM1418] >gi|766445017|gb|AJR69551.1| Cyc1p [Saccharomyces cerevisiae YJM1419] >gi|766445376|gb|AJR69880.1| Cyc1p [Saccharomyces cerevisiae YJM1433] >gi|766445742|gb|AJR70214.1| Cyc1p [Saccharomyces cerevisiae YJM1434] >gi|766446072|gb|AJR70542.1| Cyc1p [Saccharomyces cerevisiae YJM1439] >gi|766446424|gb|AJR70874.1| Cyc1p [Saccharomyces cerevisiae YJM1443] >gi|766446775|gb|AJR71204.1| Cyc1p [Saccharomyces cerevisiae YJM1444] >gi|766447113|gb|AJR71518.1| Cyc1p [Saccharomyces cerevisiae YJM1447] >gi|766447438|gb|AJR71841.1| Cyc1p [Saccharomyces cerevisiae YJM1450] >gi|766447794|gb|AJR72171.1| Cyc1p [Saccharomyces cerevisiae YJM1460] >gi|766448127|gb|AJR72500.1| Cyc1p [Saccharomyces cerevisiae YJM1463] >gi|766448460|gb|AJR72827.1| Cyc1p [Saccharomyces cerevisiae YJM1477] >gi|766448860|gb|AJR73156.1| Cyc1p [Saccharomyces cerevisiae YJM1478] >gi|766449193|gb|AJR73487.1| Cyc1p [Saccharomyces cerevisiae YJM1479] >gi|766450229|gb|AJR74449.1| Cyc1p [Saccharomyces cerevisiae YJM1549] >gi|766450575|gb|AJR74779.1| Cyc1p [Saccharomyces cerevisiae YJM1573] >gi|766450919|gb|AJR75115.1| Cyc1p [Saccharomyces cerevisiae YJM1574] >gi|766451263|gb|AJR75443.1| Cyc1p [Saccharomyces cerevisiae YJM1592] >gi|766451595|gb|AJR75773.1| Cyc1p [Saccharomyces cerevisiae YJM1615] >gi|768900857|gb|AJV38792.1| Cyc1p [Saccharomyces cerevisiae YJM1273] >gi|768901180|gb|AJV39114.1| Cyc1p [Saccharomyces cerevisiae YJM1304] >gi|768901504|gb|AJV39437.1| Cyc1p [Saccharomyces cerevisiae YJM1307] >gi|768901837|gb|AJV39769.1| Cyc1p [Saccharomyces cerevisiae YJM1311] >gi|768902154|gb|AJV40085.1| Cyc1p [Saccharomyces cerevisiae YJM1326] >gi|768902482|gb|AJV40412.1| Cyc1p [Saccharomyces cerevisiae YJM1332] >gi|768902808|gb|AJV40737.1| Cyc1p [Saccharomyces cerevisiae YJM1336] >gi|768903137|gb|AJV41065.1| Cyc1p [Saccharomyces cerevisiae YJM1338] >gi|768903467|gb|AJV41394.1| Cyc1p [Saccharomyces cerevisiae YJM1341] >gi|768903787|gb|AJV41713.1| Cyc1p [Saccharomyces cerevisiae YJM1342] >gi|768904116|gb|AJV42041.1| Cyc1p [Saccharomyces cerevisiae YJM1355] >gi|768904772|gb|AJV42695.1| Cyc1p [Saccharomyces cerevisiae YJM1381] >gi|768905102|gb|AJV43024.1| Cyc1p [Saccharomyces cerevisiae YJM1383] >gi|768905433|gb|AJV43354.1| Cyc1p [Saccharomyces cerevisiae YJM1385] >gi|768905758|gb|AJV43678.1| Cyc1p [Saccharomyces cerevisiae YJM1386] >gi|768906088|gb|AJV44007.1| Cyc1p [Saccharomyces cerevisiae YJM1387] >gi|768906415|gb|AJV44333.1| Cyc1p [Saccharomyces cerevisiae YJM1388] >gi|768906746|gb|AJV44663.1| Cyc1p [Saccharomyces cerevisiae YJM1389] >gi|768907073|gb|AJV44989.1| Cyc1p [Saccharomyces cerevisiae YJM1399] >gi|768907401|gb|AJV45316.1| Cyc1p [Saccharomyces cerevisiae YJM1400] >gi|768908020|gb|AJV45933.1| Cyc1p [Saccharomyces cerevisiae YJM1402] >gi|919302758|gb|KOH49852.1| CYC1p Cytochrome c, isoform 1 [Saccharomyces sp. 'boulardii'] >gi|941962006|gb|KQC42934.1| Cytochrome c, isoform 1 [Saccharomyces sp. 'boulardii'] >gi|1023943055|gb|KZV10315.1| CYC1 [Saccharomyces cerevisiae] >gi|226065|prf||1409323A CYC1 locus
+MTEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKY
+IPGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|918732671|gb|KOG98632.1| CYC1-like protein [Saccharomyces eubayanus]
+MTEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVQWDENNMSDYLTNPKKY
+IPGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|766433871|gb|AJR58903.1| Cyc1p [Saccharomyces cerevisiae YJM1129] >gi|766449522|gb|AJR73805.1| Cyc1p [Saccharomyces cerevisiae YJM1526] >gi|768904445|gb|AJV42369.1| Cyc1p [Saccharomyces cerevisiae YJM1356]
+MTEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANVKKNVLWDENNMSEYLTNPKKY
+IPGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|645985753|pdb|4MU8|A Chain A, Crystal Structure Of An Oxidized Form Of Yeast Iso-1-cytochrome C At Ph 8.8 >gi|645985754|pdb|4MU8|B Chain B, Crystal Structure Of An Oxidized Form Of Yeast Iso-1-cytochrome C At Ph 8.8
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPAKYI
+PGTKMAFGGLKKEKDRNDLITYLKKASE
+>gi|157834311|pdb|1YIC|A Chain A, The Oxidized Saccharomyces Cerevisiae Iso-1-Cytochrome C, Nmr, 20 Structures
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGLKKEKDRNDLITYLKKASE
+>gi|323336944|gb|EGA78201.1| Cyc1p [Saccharomyces cerevisiae Vin13]
+MTEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKY
+IPGTKMAFGGLKKEKDRNDLITYLKKSL
+>gi|82407975|pdb|2B12|B Chain B, Crystal Structure Of The Protein-Protein Complex Between F82y Cytochrome C And Cytochrome C Peroxidase
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKYI
+PGTKMAYGGLKKEKDRNDLITYLKKACE
+>gi|194368471|pdb|2JTI|B Chain B, Solution Structure Of The Yeast Iso-1-Cytochrome C (T12a) : Yeast Cytochrome C Peroxidase Complex
+TEFKAGSAKKGATLFKARCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKYI
+PGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|425684927|pdb|2YCC|A Chain A, Oxidation State-Dependent Conformational Changes In Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGLKKEKDRNDLITYLKKATE
+>gi|401625016|gb|EJS43042.1| cyc1p [Saccharomyces arboricola H-6]
+MTEFKAGSAKKGATLFKTRCLQCHTVEAGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSDYLTNPKKY
+IPGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|323308458|gb|EGA61703.1| Cyc1p [Saccharomyces cerevisiae FostersO]
+MTEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKY
+IPGTKMAFGGLKKEKDRNDLITYLKKXL
+>gi|157834304|pdb|1YFC|A Chain A, Solution Nmr Structure Of A Yeast Iso-1-Ferrocytochrome C
+XEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGLKKEKDRNDLITYLKKASE
+>gi|20151140|pdb|1KYO|W Chain W, Yeast Cytochrome Bc1 Complex With Bound Substrate Cytochrome C >gi|188036302|pdb|3CX5|W Chain W, Structure Of Complex Iii With Bound Cytochrome C In Reduced State And Definition Of A Minimal Core Interface For Electron Transfer. >gi|413915773|pdb|1YCC|A Chain A, High-Resolution Refinement Of Yeast Iso-1-Cytochrome C And Comparisons With Other Eukaryotic Cytochromes C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|185177519|pdb|2JQR|A Chain A, Solution Model Of Crosslinked Complex Of Cytochrome C And Adrenodoxin
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKCGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKYI
+PGTKMAFGGLKKEKDRNDLITYLKKATE
+>gi|82407971|pdb|2B11|B Chain B, Crystal Structure Of The Protein-Protein Complex Between F82w Cytochrome C And Cytochrome C Peroxidase >gi|82407973|pdb|2B11|D Chain D, Crystal Structure Of The Protein-Protein Complex Between F82w Cytochrome C And Cytochrome C Peroxidase
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKYI
+PGTKMAWGGLKKEKDRNDLITYLKKACE
+>gi|367003028|ref|XP_003686248.1| hypothetical protein TPHA_0F03330 [Tetrapisispora phaffii CBS 4417] >gi|357524548|emb|CCE63814.1| hypothetical protein TPHA_0F03330 [Tetrapisispora phaffii CBS 4417]
+MAYEKGSEKKGATLFKTRCLQCHTVEEGGPNKVGPNLHGIFGRHSGQAPGFSYTDANIKKNVLWDENNMSEYLTNPKKYI
+PGTKMAFGGLKKEKDRNDLITYLVKATK
+>gi|683437206|pdb|4N0K|A Chain A, Atomic Resolution Crystal Structure Of A Cytochrome C-calixarene Complex >gi|683437207|pdb|4N0K|B Chain B, Atomic Resolution Crystal Structure Of A Cytochrome C-calixarene Complex
+TEFKAGSAKKGATLFKTECLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKYI
+PGTKMAFGGLKKEKDRNDLITYLKKATE
+>gi|820957511|pdb|4YE1|A Chain A, A Cytochrome C Plus Calixarene Structure - Alternative Ligand Binding Mode >gi|820957512|pdb|4YE1|B Chain B, A Cytochrome C Plus Calixarene Structure - Alternative Ligand Binding Mode
+TEFKAGSAKKGATLFKTECLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKYI
+PGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|82407965|pdb|2B0Z|B Chain B, Crystal Structure Of The Protein-Protein Complex Between F82i Cytochrome C And Cytochrome C Peroxidase
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKYI
+PGTKMAIGGLKKEKDRNDLITYLKKACE
+>gi|48425575|pdb|1S6V|B Chain B, Structure Of A Cytochrome C Peroxidase-Cytochrome C Site Specific Cross-Link >gi|48425577|pdb|1S6V|D Chain D, Structure Of A Cytochrome C Peroxidase-Cytochrome C Site Specific Cross-Link >gi|820957183|pdb|2N18|B Chain B, Dominant Form Of The Low-affinity Complex Of Yeast Cytochrome C And Cytochrome C Peroxidase
+AEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKYI
+PGTKMCFGGLKKEKDRNDLITYLKKATE
+>gi|334878400|pdb|1CSW|A Chain A, Replacements In A Conserved Leucine Cluster In The Hydrophobic Heme Pocket Of Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGMKKEKDRNDLITYLKKATE
+>gi|157831497|pdb|1IRV|A Chain A, Cytochrome C Isozyme 1, Reduced, Mutant With Ile 75 Replaced By Met And Cys 102 Replaced By Thr
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYM
+PGTKMAFGGLKKEKDRNDLITYLKKATE
+>gi|334878404|pdb|1CTY|A Chain A, Mutation Of Tyrosine-67 In Cytochrome C Significantly Alters The Local Heme Environment >gi|334878405|pdb|1CTZ|A Chain A, Mutation Of Tyrosine-67 In Cytochrome C Significantly Alters The Local Heme Environment
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEFLTNPXKYI
+PGTKMAFGGLKKEKDRNDLITYLKKATE
+>gi|413915769|pdb|1RAQ|A Chain A, The Structure And Function Of Omega Loop A Replacements In Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVDQGGANKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|334878387|pdb|1CHH|A Chain A, Structural Studies Of The Roles Of Residues 82 And 85 At The Interactive Face Of Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAYGGLKKEKDRNDLITYLKKATE
+>gi|403217326|emb|CCK71820.1| hypothetical protein KNAG_0I00290 [Kazachstania naganishii CBS 8797]
+MGYTPGSEKKGATLFKTRCLQCHTVEEGGPHKVGPNLHGIFGRTSGQAVGYSYTDANIKKSVQWGEDNMSEYLTNPKKYI
+PGTKMAFGGLKKEKDRNDLITYLVKATK
+>gi|766443295|gb|AJR67941.1| Cyc1p [Saccharomyces cerevisiae YJM1250]
+MTEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSGYLTNPKKY
+IPGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|29726401|pdb|1LMS|A Chain A, Structural Model For An Alkaline Form Of Ferricytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPAKYI
+PGTAMAFGGLKKEKDRNDLITYLKKATE
+>gi|700588045|pdb|2MHM|A Chain A, Solution Structure Of Cytochrome C Y67h
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEHLTNPAKYI
+PGTKMAFGGLKKEKDRNDLITYLKKATE
+>gi|82407967|pdb|2B10|B Chain B, Crystal Structure Of The Protein-Protein Complex Between F82s Cytochrome C And Cytochrome C Peroxidase >gi|82407969|pdb|2B10|D Chain D, Crystal Structure Of The Protein-Protein Complex Between F82s Cytochrome C And Cytochrome C Peroxidase
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKYI
+PGTKMASGGLKKEKDRNDLITYLKKACE
+>gi|334878399|pdb|1CSV|A Chain A, Replacements In A Conserved Leucine Cluster In The Hydrophobic Heme Pocket Of Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGFKKEKDRNDLITYLKKATE
+>gi|334878389|pdb|1CHJ|A Chain A, Structural Studies Of The Roles Of Residues 82 And 85 At The Interactive Face Of Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGAKKEKDRNDLITYLKKATE
+>gi|334878398|pdb|1CSU|A Chain A, Replacements In A Conserved Leucine Cluster In The Hydrophobic Heme Pocket Of Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGCKKEKDRNDLITYLKKATE
+>gi|574141786|dbj|BAO39579.1| cytochrome c [Kluyveromyces marxianus DMKU3-1042] >gi|693902092|dbj|BAP71068.1| cytochrome c [Kluyveromyces marxianus]
+MPAPFKKGSEKKGATLFKTRCLQCHTVEEGGPHKVGPNLHGVFGRHSGQAAGYSYTDANIKKNVLWDEQTMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLVTYMLKACK
+>gi|157831498|pdb|1IRW|A Chain A, Cytochrome C Isozyme 1, Reduced, Mutant With Asn 52 Replaced By Ala And Cys 102 Replaced By Thr
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDAAIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGLKKEKDRNDLITYLKKATE
+>gi|334878401|pdb|1CSX|A Chain A, Replacements In A Conserved Leucine Cluster In The Hydrophobic Heme Pocket Of Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGLKKEKDRNDSITYLKKATE
+>gi|433552093|pdb|1RAP|A Chain A, The Structure And Function Of Omega Loop A Replacements In Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTFDQGGANKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|359545621|pdb|2LIR|A Chain A, Nmr Solution Structure Of Yeast Iso-1-Cytochrome C Mutant P71h In Oxidized States >gi|359545622|pdb|2LIT|A Chain A, Nmr Solution Structure Of Yeast Iso-1-Cytochrome C Mutant P71h In Reduced States
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNHAKYI
+PGTKMAFGGLKKEKDRNDLITYLKKATE
+>gi|410079519|ref|XP_003957340.1| hypothetical protein KAFR_0E00510 [Kazachstania africana CBS 2517] >gi|372463926|emb|CCF58205.1| hypothetical protein KAFR_0E00510 [Kazachstania africana CBS 2517]
+MPPKKDSKPSEKKGATLFKTRCQQCHTIEEGGPHKVGPNLHGIFGRHSGQAAGYSYTDANIKKNVEWDEKNMSEYLTNPK
+KYIPGTKMAFGGLKKEKDRDDLIAYMKNAAK
+>gi|365759891|gb|EHN01651.1| Cyc1p [Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7] >gi|401840923|gb|EJT43541.1| CYC1-like protein [Saccharomyces kudriavzevii IFO 1802]
+MTEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGVFGRNSGQAEGYSYTDANIKKNVLWDENNMSDYLTNPKKY
+IPGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|783282891|pdb|4P4Q|B Chain B, Complex Of Yeast Cytochrome C Peroxidase (w191f) With Iso-1 Cytochrome C >gi|783282893|pdb|4P4Q|D Chain D, Complex Of Yeast Cytochrome C Peroxidase (w191f) With Iso-1 Cytochrome C >gi|1049305871|pdb|5CIF|B Chain B, Complex Of Yeast Cytochrome C Peroxidase (w191f) With Iso-1 Cytochrome C >gi|1049305873|pdb|5CIF|D Chain D, Complex Of Yeast Cytochrome C Peroxidase (w191f) With Iso-1 Cytochrome C >gi|1049305879|pdb|5CIH|B Chain B, Complex Of Yeast Cytochrome C Peroxidase (w191f) With Iso-1 Cytochrome C >gi|1049305881|pdb|5CIH|D Chain D, Complex Of Yeast Cytochrome C Peroxidase (w191f) With Iso-1 Cytochrome C
+GSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPKKYIPGTKM
+AFGGLKKEKDRNDLITYLKKACE
+>gi|334878394|pdb|1CRG|A Chain A, The Role Of A Conserved Internal Water Molecule And Its Associated Hydrogen Bond Network In Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDAIIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGLKKEKDRNDLITYLKKATE
+>gi|334878395|pdb|1CRH|A Chain A, The Role Of A Conserved Internal Water Molecule And Its Associated Hydrogen Bond Network In Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDAIIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|334878388|pdb|1CHI|A Chain A, Structural Studies Of The Roles Of Residues 82 And 85 At The Interactive Face Of Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAYGGAKKEKDRNDLITYLKKATE
+>gi|366988941|ref|XP_003674238.1| hypothetical protein NCAS_0A13000 [Naumovozyma castellii CBS 4309] >gi|342300101|emb|CCC67858.1| hypothetical protein NCAS_0A13000 [Naumovozyma castellii CBS 4309]
+MGEYKPGNEKKGATLFKTRCLQCHTVEEGGPHKVGPNLHGIFGRNSGQAPGYSYTDANIKKNVKWDEQKMSDYLTNPKKY
+IPGTKMAFGGLKKEKDRNDLIAYMKKACE
+>gi|334878392|pdb|1CIG|A Chain A, Structural And Functional Effects Of Multiple Mutations At Distal Sites In Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGAHSGQAEGYSYTDAIIKKNVLWDENNMSEYLTNPXKYI
+PGTKMAFGGLKKEKDRNDLITYLKKAAE
+>gi|334878391|pdb|1CIF|A Chain A, Structural And Functional Effects Of Multiple Mutations At Distal Sites In Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGAHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKMASGGLKKEKDRNDLITYLKKAAE
+>gi|334878396|pdb|1CRI|A Chain A, The Role Of A Conserved Internal Water Molecule And Its Associated Hydrogen Bond Network In Cytochrome C >gi|334878397|pdb|1CRJ|A Chain A, The Role Of A Conserved Internal Water Molecule And Its Associated Hydrogen Bond Network In Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDAIIKKNVLWDENNMSEFLTNPXKYI
+PGTKMAFGGLKKEKDRNDLITYLKKATE
+>gi|334878434|pdb|1FHB|A Chain A, Three-Dimensional Solution Structure Of The Cyanide Adduct Of A Met80ala Variant Of Saccharomyces Cerevisiae Iso-1- Cytochrome C. Identification Of Ligand-Residue Interactions In The Distal Heme Cavity
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRQSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPXKYI
+PGTKAAFGGLKKEKDRNDLITYLKKASE
+>gi|334878390|pdb|1CIE|A Chain A, Structural And Functional Effects Of Multiple Mutations At Distal Sites In Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDAIIKKNVLWDENNMSEYLTNPXKYI
+PGTKMASGGLKKEKDRNDLITYLKKAAE
+>gi|363751280|ref|XP_003645857.1| hypothetical protein Ecym_3570 [Eremothecium cymbalariae DBVPG#7215] >gi|356889491|gb|AET39040.1| Hypothetical protein Ecym_3570 [Eremothecium cymbalariae DBVPG#7215]
+MPAPFKPGNAKKGGTLFKTRCLQCHTTEQGGPHKVGPNLHGVFGRNSGQAAGYSYTDANIKKNVLWDEQSMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLITYMLKACK
+>gi|810515426|pdb|4Q5P|A Chain A, Lysine-ligated Yeast Iso-1 Cytochrome C >gi|810515427|pdb|4Q5P|B Chain B, Lysine-ligated Yeast Iso-1 Cytochrome C >gi|810515428|pdb|4Q5P|C Chain C, Lysine-ligated Yeast Iso-1 Cytochrome C
+FKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPAKYIPG
+CGMAFGGLKKEKDRNDLITYLKKASE
+>gi|366995777|ref|XP_003677652.1| hypothetical protein NCAS_0G04140 [Naumovozyma castellii CBS 4309] >gi|342303521|emb|CCC71301.1| hypothetical protein NCAS_0G04140 [Naumovozyma castellii CBS 4309]
+MPPKKESSEYKPGNEKKGATLFKTRCLQCHTVEEGGPHKVGPNLHGVFGRHSGKAPGYSYTDANVKKDVEWNEQNMSDYL
+TNPKKYIPGTKMAFGGLKKDKDRNDLITYLKKATD
+>gi|367011713|ref|XP_003680357.1| hypothetical protein TDEL_0C02570 [Torulaspora delbrueckii] >gi|359748016|emb|CCE91146.1| hypothetical protein TDEL_0C02570 [Torulaspora delbrueckii]
+MPAPYQPGSAKKGATLFKTRCLQCHTTEKGGPHKVGPNLHGVFGRHSGQAEGYSYTDANIKKNILWDEQHMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLVTYLAKACK
+>gi|365983136|ref|XP_003668401.1| hypothetical protein NDAI_0B01240 [Naumovozyma dairenensis CBS 421] >gi|343767168|emb|CCD23158.1| hypothetical protein NDAI_0B01240 [Naumovozyma dairenensis CBS 421]
+MPAAAEYKPGSEKKGATLFKTRCLQCHTVEEGGPHKVGPNLHGIFGRRSGQAVGYSYTDANIKKNVEWNVNNMSEYLTNP
+KKYIPGTKMAFGGLKKEKDRNDLITYLKKACE
+>gi|578050659|emb|CDH13991.1| Cytochrome c [Zygosaccharomyces bailii ISA1307]
+MPAPYKKGSAKKGATLFKTRCLQCHTVEKGGPNKVGPNLHGVFGRHSGHAEGYSYTDANIKANVQWDEQNMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLVTYLKKATSD
+>gi|513031094|gb|AGO11118.1| AaceriAFR360Wp [Saccharomycetaceae sp. 'Ashbya aceri']
+MPAPYKPGSEKKGATLFKTRCLQCHTTEKGGPHKVGPNLHGVFGRASGQAAGYSYTDANIKANVTWDEQSMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLITYMLKACK
+>gi|334878393|pdb|1CIH|A Chain A, Structural And Functional Effects Of Multiple Mutations At Distal Sites In Cytochrome C
+TEFKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGAHSGQAEGYSYTDAIIKKNVLWDENNMSEYLTNPXKYI
+PGTKMASGGLKKEKDRNDLITYLKKAAE
+>gi|761758820|emb|CEP63101.1| LALA0S07e02410g1_1 [Lachancea lanzarotensis]
+MPAPFKKGSEKKGATLFKTRCMQCHTIEEGGPNKVGPNLHGVFGRRSGKAEGYSYTEANIKKDVEWTEQTMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDIVTYMAKAAK
+>gi|910750626|pdb|4QAO|A Chain A, Lysine-ligated Cytochrome C With F82h >gi|910750627|pdb|4QAO|B Chain B, Lysine-ligated Cytochrome C With F82h >gi|910750628|pdb|4QAO|C Chain C, Lysine-ligated Cytochrome C With F82h
+FKAGSAKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRHSGQAEGYSYTDANIKKNVLWDENNMSEYLTNPAKYIPG
+CGMAHGGLKKEKDRNDLITYLKKASE
+>gi|51701278|sp|Q753F4.2|CYC_ASHGO RecName: Full=Cytochrome c
+MPAPYKPGSEKKGATLFKTRCLQCHTTEKGGPHKVGPNLHGVFSRQSGQVSGYSYTDAMINRNVTWDAQSMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLITYMLKACK
+>gi|45198878|ref|NP_985907.1| AFR360Wp [Eremothecium gossypii ATCC 10895] >gi|44984907|gb|AAS53731.1| AFR360Wp [Ashbya gossypii ATCC 10895] >gi|374109138|gb|AEY98044.1| FAFR360Wp [Eremothecium gossypii FDAG1]
+MTDVSGCFSCPAHLYKTHRFAAVVEHLSYFVCSQQTTAKQSHIVIMPAPYKPGSEKKGATLFKTRCLQCHTTEKGGPHKV
+GPNLHGVFSRQSGQVSGYSYTDAMINRNVTWDAQSMSDYLENPKKYIPGTKMAFGGLKKEKDRNDLITYMLKACK
+>gi|523424613|emb|CDF90965.1| ZYBA0S09-01772g1_1 [Zygosaccharomyces bailii CLIB 213] >gi|578054892|emb|CDH09730.1| Cytochrome c [Zygosaccharomyces bailii ISA1307]
+MPAPYKKGSAKKGATLFKTRCLQCHTVEKGGPNKVGPNLHGVFGRHSGHAEGYSYTDANIKANVLWDEQNMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLVTYLKKATSD
+>gi|255712179|ref|XP_002552372.1| KLTH0C03366p [Lachancea thermotolerans] >gi|238933751|emb|CAR21934.1| KLTH0C03366p [Lachancea thermotolerans CBS 6340]
+MPAPYKKGSEKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGVFGRNSGQAEGYSYTDANIKKNVQWSEQTMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLITYMVKACK
+>gi|50311629|ref|XP_455841.1| hypothetical protein [Kluyveromyces lactis NRRL Y-1140] >gi|416862|sp|P32556.1|CYC_KLULA RecName: Full=Cytochrome c >gi|2816|emb|CAA41156.1| cytochrome C [Kluyveromyces lactis] >gi|288495|emb|CAA43224.1| cytochrome C [Kluyveromyces lactis] >gi|49644976|emb|CAG98548.1| KLLA0F16929p [Kluyveromyces lactis]
+MPAPYKKGSEKKGATLFKTRCLQCHTVEAGGPHKVGPNLHGVFGRHSGKASGYSYTDANIKKNVLWDEQTMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDIVTYMLKACK
+>gi|949378460|emb|CUS21402.1| LAQU0S03e01794g1_1 [Lachancea quebecensis]
+MPAPYKKGSEKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGVFGRNSGQAEGYSYTDANIKKNVMWSEQTMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLITYMVKACK
+>gi|748549736|emb|CDO91780.1| unnamed protein product [Kluyveromyces dobzhanskii CBS 2104]
+MPAPFKKGSEKKGATLFKTRCLQCHTVEAGGPHKVGPNLHGVFGRNSGQASGYSYTDANIKKNVLWSEQTMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDIVTYMLKACK
+>gi|50289769|ref|XP_447316.1| hypothetical protein [Candida glabrata CBS 138] >gi|117967|sp|P25400.1|CYC_CANGA RecName: Full=Cytochrome c >gi|2579|emb|CAA41203.1| cytochrome C [Candida glabrata] >gi|49526626|emb|CAG60253.1| unnamed protein product [Candida glabrata] >gi|961775904|gb|KTB01478.1| Cytochrome c [Candida glabrata] >gi|961780001|gb|KTB05473.1| Cytochrome c [Candida glabrata] >gi|961780256|gb|KTB05724.1| Cytochrome c [Candida glabrata] >gi|961788115|gb|KTB13123.1| Cytochrome c [Candida glabrata] >gi|961789613|gb|KTB14542.1| Cytochrome c [Candida glabrata] >gi|961818348|gb|KTB20294.1| Cytochrome c [Candida glabrata]
+MSEKKGATLFKTRCLQCHTVEKGGPNKVGPNLHGIFGRKSGQAAGYSYTDANIKKNVTWDEDNMSDYLTNPKKYIPGTKM
+AFGGLKKEKDRKDLIAYLKKATSD
+>gi|156841630|ref|XP_001644187.1| hypothetical protein Kpol_1059p19 [Vanderwaltozyma polyspora DSM 70294] >gi|156114824|gb|EDO16329.1| hypothetical protein Kpol_1059p19 [Vanderwaltozyma polyspora DSM 70294]
+MAYTPGSEKKGATLFKTRCLQCHTVEAGGPNKVGPNLHGVFGRQTGSAAGYSYTDANIKKGIVWDENNMSDYLINPKKYI
+PGTKMAFGGLKKEKDRNDLIAYLVKACK
+>gi|254583714|ref|XP_002497425.1| ZYRO0F05258p [Zygosaccharomyces rouxii] >gi|238940318|emb|CAR28492.1| ZYRO0F05258p [Zygosaccharomyces rouxii]
+MPAPYQKGSAKKGATLFKTRCLQCHTVENGGPHKVGPNLHGVFGRHSGQAPGYSYTDANIKKGVVWEEQSMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLVTYLKSATSK
+>gi|663443269|emb|CDR37495.1| CYFA0S01e11210g1_1 [Cyberlindnera fabianii]
+MPAPYKKGSEKKGATLFKTRCLQCHTVEEGGAHKVGPNLHGVFGRQSGQAAGYSYTDANVKKAVMWDEQTMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLVTYLVKACK
+>gi|117991|sp|P00042.1|CYC_HANAN RecName: Full=Cytochrome c
+PAPFKKGSEKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRQSGKAEGYSYTDANIKKAVEWSEQTMSDYLENPKKY
+IPGTKMAFGGLKKEKDRNDLVTYLANATK
+>gi|444319498|ref|XP_004180406.1| hypothetical protein TBLA_0D03880 [Tetrapisispora blattae CBS 6284] >gi|387513448|emb|CCH60887.1| hypothetical protein TBLA_0D03880 [Tetrapisispora blattae CBS 6284]
+MAKEGKESKGGSAKKGANLFKTRCQQCHTIEKGGPHKVGPNLHGVFERHSGTMAGYSYTDANIKADVAWDEENMKAYLEN
+PKKYIPGTKMAFGGLKKQKDRDDIVAYMAKAARE
+>gi|985625523|gb|AMD21167.1| HEL113Wp [Eremothecium sinecaudum]
+MPAPYKPGSEKKGATLFKVRCALCHTTEANGPHKVGPNLHGVFGRSSGQAAGYSYTDANIKKNVTWTEQTMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLITYMVKACK
+>gi|403216610|emb|CCK71106.1| hypothetical protein KNAG_0G00490 [Kazachstania naganishii CBS 8797]
+MAKGKKGEKGGEPSAKKGATLFKTRCLQCHTVEEGGPHKVGPNLHGVFGRTSGQAPGYSYTDANIKKAVKWDTENMSEYL
+ANPKKYIPGTKMAFGGLKKQKDRDDLIAYMKDAAGNS
+>gi|117997|sp|P00041.1|CYC_ISSOR RecName: Full=Cytochrome c
+PAPFEQGSAKKGATLFKTRCAQCHTIEAGGPHKVGPNLHGIFSRHSGQAEGYSYTDANKRAGVEWAEPTMSDYLENPKKY
+IPGTKMAFGGLKKAKDRNDLVTYMLEASK
+>gi|1037324570|gb|OBA14290.1| mitochondrial cytochrome c [Ogataea polymorpha]
+MPAPYEKGSAKKGATLFKTRCLQCHTVEEGGPHKVGPNLHGVFGRKSGQAEGYSYTDANKRKGVEWNEQTMSDYLENPKK
+YIPGTKMAFGGLKKAKDRNDLVTYLVEACK
+>gi|927381641|ref|XP_013936671.1| Cytochrome c [Ogataea parapolymorpha DL-1] >gi|562976371|gb|ESX02085.1| Cytochrome c [Ogataea parapolymorpha DL-1]
+MPAPYEKGSAKKGATLFKTRCLQCHTVEEGGPHKVGPNLHGVFGRKSGQAEGYSYTDANKRKGVEWTEQTMSDYLENPKK
+YIPGTKMAFGGLKKAKDRNDLITYLVEACK
+>gi|939400156|emb|CEH13723.1| cytochrome c [Ceraceosorus bombacis]
+MGFSDGDANKGAGLFKTRCAQCHTVEKGGPNKVGPNLHGLFGRKTGQVEGFSYTAANVNKGVTWDQDTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITWLRQETK
+>gi|695112913|gb|KGK39453.1| hypothetical protein JL09_g1383 [Pichia kudriavzevii]
+MPAPFEQGSAKKGATLFKTRCAQCHTIEAGGPHKVGPNLHGIFSRHSGQAEGYSYTDANKRAGVEWAPQTMSDYLENPKK
+YIPGTKMAFGGLKKAKDRNDLVTYMLEASK
+>gi|953452709|ref|XP_014569907.1| hypothetical protein L969DRAFT_85056 [Mixia osmundae IAM 14324] >gi|658166574|gb|KEI41284.1| hypothetical protein L969DRAFT_85056 [Mixia osmundae IAM 14324]
+MGFESGDAKKGASLFKTRCAQCHTVEEGGGNKVGPNLHGLFGRKTGQVEGFSYTEANIKKGVTWEESTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNNLITYLKESTA
+>gi|164656296|ref|XP_001729276.1| hypothetical protein MGL_3743 [Malassezia globosa CBS 7966] >gi|159103166|gb|EDP42062.1| hypothetical protein MGL_3743 [Malassezia globosa CBS 7966]
+MGFSDGDAKKGAGLFKTRCAQCHTTEEGGPNKVGPNLHGIFGRKSGQAEGFSYTAANVNKGVTWDENTLFEYLENPKKYI
+PGTKMAFNGLKKDKDRNDLITFLREAC
+>gi|448524274|ref|XP_003868961.1| Cyc1 cytochrome c [Candida orthopsilosis Co 90-125] >gi|380353301|emb|CCG26057.1| Cyc1 cytochrome c [Candida orthopsilosis]
+MPAPFEKGSEKKGATLFKTRCLQCHTVEKGGPNKVGPNLHGVFGRKSGQAEGYSYTDANKKKGVTWSEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLITYLHKATSE
+>gi|754403585|ref|XP_011272195.1| Cytochrome c [Wickerhamomyces ciferrii] >gi|406602484|emb|CCH45952.1| Cytochrome c [Wickerhamomyces ciferrii]
+MPAPYKKGSEKKGATLFKTRCLQCHTVEKGGAHKVGPNLHAVFGRVSGQAPGYSYTEANIKKAVHWDEQTMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLVTYLVKACK
+>gi|906319013|emb|CEP21490.1| CYC1 [Cyberlindnera jadinii]
+MPAPYKKGSEKKGATLFKTRCLQCHTVEAGGAHKVGPNLHGVFGRASGQAAGYSYTDANIKKAVVWTEQTMSDYLENPKK
+YIPGTKMAFGGLKKEKDRNDLVTYLASACK
+>gi|598018344|ref|XP_007339593.1| cytochrome-c from the OXPHOS pathway [Auricularia subglabra TFB-10046 SS5] >gi|393245358|gb|EJD52869.1| cytochrome-c from the OXPHOS pathway [Auricularia subglabra TFB-10046 SS5]
+MGFSAGDAGKGASLFKTRCAQCHTVESGGPHKVGPNLHGVFGRKTGQADGFSYTAANVNKGITWDEDTMFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITWLKQETSK
+>gi|459371619|gb|EMG49347.1| Cytochrome c [Candida maltosa Xu316]
+MPAPFEKGSDKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGVFGRKSGQAEGYSYTDANKKKGVVWDEQSMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLVTYLKSATS
+>gi|908572635|gb|KNE02128.1| hypothetical protein QG37_00813 [Candida auris]
+MPAKFEKGSEKKGANLFKTRCLQCHTVEKGGPNKVGPNLHGVFGRQSGQAEGFSYTDANKKKGVVWTEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLITYLVKACKD
+>gi|501756414|emb|CCG80599.1| Cytochrome c [Taphrina deformans PYCC 5710]
+MGFAEGKSDKGATLFKTRCAQCHTLEEGGANKVGPNLHGLFGRQTGQVEGFSYTDANKKKAVIWGEDTLFEYLENPKKYI
+PGTKMAFGGLKKEKDRNDLITYLKEATA
+>gi|260946435|ref|XP_002617515.1| cytochrome c [Clavispora lusitaniae ATCC 42720] >gi|238849369|gb|EEQ38833.1| cytochrome c [Clavispora lusitaniae ATCC 42720]
+MPAKFEKGSEKKGATLFKTRCLQCHTVEEGGPHKVGPNLHGVFGRKSGEAAGYSYTDANKKKGVVWSEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLITYLASATK
+>gi|126136835|ref|XP_001384941.1| cytochrome c [Scheffersomyces stipitis CBS 6054] >gi|20137611|sp|O13393.3|CYC_PICST RecName: Full=Cytochrome c >gi|4416526|gb|AAB86817.3| cytochrome c [Scheffersomyces stipitis] >gi|126092163|gb|ABN66912.1| cytochrome c [Scheffersomyces stipitis CBS 6054]
+MPAPFEKGSEKKGATLFKTRCLQCHTVEEGGPHKVGPNLHGIMGRKSGQAVGYSYTDANKKKGVEWSEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLVTYLASATK
+>gi|146416415|ref|XP_001484177.1| cytochrome c [Meyerozyma guilliermondii ATCC 6260] >gi|146391302|gb|EDK39460.1| cytochrome c [Meyerozyma guilliermondii ATCC 6260]
+MPAPYEKGSEKKGATLFKTRCLQCHTVEEGAPNKVGPNLHGLIGRKSGQVEGYSYTDANKKKGVEWTEQNLSDYLENPKK
+YIPGTKMAFGGLKKAKDRNDLITYLVSATK
+>gi|388853327|emb|CCF52947.1| probable CYTOCHROME C [Ustilago hordei]
+MGFKDGDSKKGAGLFKTRCAQCHTLGAGEPNKVGPNLHGLFGRKTGSVEGFSYTQANINKGVTWDEETLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITYLREETK
+>gi|358058824|dbj|GAA95222.1| hypothetical protein E5Q_01877 [Mixia osmundae IAM 14324]
+MYDGQDSSKRPKPSIMGFESGDAKKGASLFKTRCAQCHTVEEGGGNKVGPNLHGLFGRKTGQVEGFSYTEANIKKGVTWE
+ESTLFEYLENPKKYIPGTKMAFAGLKKEKDRNNLITYAPRILLTCSID
+>gi|254572628|ref|XP_002493423.1| Cytochrome c, isoform 1 [Komagataella phaffii GS115] >gi|190351092|gb|ACE75949.1| mitochondrial cytochrome c [Komagataella pastoris] >gi|238033222|emb|CAY71244.1| Cytochrome c, isoform 1 [Komagataella phaffii GS115] >gi|328354753|emb|CCA41150.1| Cytochrome c [Komagataella phaffii CBS 7435] >gi|1050827820|gb|ANZ75570.1| BA75_03303T0 [Komagataella pastoris] >gi|1051428436|gb|AOA65085.1| GQ67_04325T0 [Komagataella phaffii] >gi|1051435557|gb|AOA70082.1| GQ68_04297T0 [Komagataella phaffii GS115]
+MPAPYEKGSEKKGATLFKTRCLQCHTVEAGGPHKVGPNLHGVFGRKSGLAEGYSYTDANKRKGVEWSEQTMSDYLENPKK
+YIPGTKMAFGGLKKAKDRNDLITYLAKATK
+>gi|149239849|ref|XP_001525800.1| cytochrome c [Lodderomyces elongisporus NRRL YB-4239] >gi|146449923|gb|EDK44179.1| cytochrome c [Lodderomyces elongisporus NRRL YB-4239]
+MPAPYEKGSSKKGATLFKTRCLQCHTTEKGGANKVGPNLHGVFGRHSGQAEGYSYTEANKKAGVLWDEQHMSDYLENPKK
+YIPGTKMAFAGLKKAKDRNDLVTYLKEATS
+>gi|74627830|sp|Q6Q4H8.3|CYC_PICPA RecName: Full=Cytochrome c >gi|45511538|gb|AAS67288.1| cytochrome c [Komagataella pastoris]
+MPAPFEKGSEKKGATLFKTRCLQCHTVEAGGPHKVGPNLHGVFGRKSGLAEGYSYTDANKRKGVEWSEQTMSDYLENPKK
+YIPGTKMAFGGLKKAKDRNDLITYLASATK
+>gi|1037337266|gb|OBA20571.1| cytochrome c [Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993]
+MPAPFEKGSEKKGATLFKTRCLQCHTVEAGGPHKVGPNLHGIFGRKSGLAEGYSYTDANKKKGVEWSEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLITYLASATK
+>gi|630359023|ref|XP_007868786.1| cytochrome c C1 [Gloeophyllum trabeum ATCC 11539] >gi|521722095|gb|EPQ52474.1| cytochrome c C1 [Gloeophyllum trabeum ATCC 11539]
+MPYSQGDAGKGASLFKTRCAQCHTVEAGGPHKVGPNLHGVFGRKTGQAEGFSYTAANVNKGITWDENTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITYLKEATA
+>gi|354548212|emb|CCE44948.1| hypothetical protein CPAR2_407500 [Candida parapsilosis]
+MPAPYEKGSEKKGATLFKTRCLQCHTVEKGGPNKVGPNLHGVFGRKSGQAEGFSYTDANKKKGVVWSEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLVTYLHKATSE
+>gi|1023186202|ref|XP_016290468.1| cytochrome c [Kalmanozyma brasiliensis GHG001] >gi|557995946|gb|EST05479.1| cytochrome c [Kalmanozyma brasiliensis GHG001]
+MGFKDGDAKKGAGLFKTRCAQCHTLGAGEPNKVGPNLHGLFGRKTGSVEGFSYTQANINKGVTWDEETLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITHLREETK
+>gi|212533879|ref|XP_002147096.1| cytochrome c [Talaromyces marneffei ATCC 18224] >gi|210072460|gb|EEA26549.1| cytochrome c [Talaromyces marneffei ATCC 18224] >gi|679996470|gb|KFX48848.1| Cytochrome c [Talaromyces marneffei PM1]
+MAKDAAKFTPGDAKKGANLFKTRCSQCHTVEAGGANKIGPNLHGLFGRSTGAVEGYSYTDANKQANVTWDENTLFDYLEN
+PKKFIPGTKMAFGGLKKPKDRNDLITYLKEETA
+>gi|531977109|gb|EQL27696.1| cytochrome c [Blastomyces dermatitidis ATCC 26199]
+MSFSPGDAAKGAGLFKTRCAQCHTLEEGGANKIGPNLHGLFGRRSGQVEGYAYTDANKQKGVVWDENTLFAYLENPKKYI
+PGTKMAFGGLKKAKDRNDLITYMKNETK
+>gi|630966536|ref|XP_007879676.1| hypothetical protein PFL1_03962 [Anthracocystis flocculosa PF-1] >gi|521584938|gb|EPQ28659.1| hypothetical protein PFL1_03962 [Anthracocystis flocculosa PF-1]
+MGFKDGDLKKGAGLFKTRCAQCHTLGAGEPNKVGPNLHGLFGRKTGSVEGFSYTQANINKGVTWDEETLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITYLRDETK
+>gi|763722263|gb|KJA19720.1| hypothetical protein HYPSUDRAFT_44006 [Hypholoma sublateritium FD-334 SS-4]
+MPFAAGDSAKGASLFKTRCAQCHTLGSGEPNKVGPNLHGIFGRKSGQVDGFSYTAANVNKGVTWDSDTLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITYLKEATA
+>gi|598066861|ref|XP_007374259.1| hypothetical protein SPAPADRAFT_60097 [Spathaspora passalidarum NRRL Y-27907] >gi|344302470|gb|EGW32744.1| hypothetical protein SPAPADRAFT_60097 [Spathaspora passalidarum NRRL Y-27907]
+MPAPYEKGSEAKGATLFKTRCLQCHTVEQGGPHKVGPNLHGVFGRQSGQAAGYSYTDANKKKGVTWTEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLVTYLASATK
+>gi|914969615|ref|XP_013241198.1| cytochrome-c from the OXPHOS pathway [Tilletiaria anomala UBC 951] >gi|639562208|gb|KDN39915.1| cytochrome-c from the OXPHOS pathway [Tilletiaria anomala UBC 951]
+MGFSDGDVKKGAGLFKTRCAQCHTVEAGGPHKVGPNLHGIFGRKTGQGEGFSYTDANVKKGITWNEDTLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITWMRENTK
+>gi|573031510|gb|ETS64729.1| cytochrome c [Moesziomyces aphidis DSM 70725]
+MGFKEGDAKKGAGLFKTRCAQCHTLGAGEPNKVGPNLHGLFGRTSGTVDGYSYTEANKNRAVEWGNDTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLVTYLAEATK
+>gi|239615526|gb|EEQ92513.1| cytochrome c [Blastomyces dermatitidis ER-3]
+MSFSPGDAAKGAGLFKTRCAQCHTLEEGGANKIGPNLHGLFGRKSGQVEGYAYTDANKQKGVVWDENTLFAYLENPKKYI
+PGTKMAFGGLKKAKDRNDLITYMKNETK
+>gi|402225031|gb|EJU05093.1| cytochrome c [Dacryopinax primogenitus]
+MSFKPGDAAKGASLFKTRCAQCHTTENGGGNKVGPNLFGIFGRKTGQVEGFSYTKANVEKGVTWDENTLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITWLKDATK
+>gi|758978052|ref|XP_011389077.1| putative cytochrome c isoform 2 [Ustilago maydis 521] >gi|757946905|gb|KIS69373.1| putative cytochrome c isoform 2 [Ustilago maydis 521]
+MGFKDGDSKKGAGLFKTRCAQCHTLGAGEPNKVGPNLHGLFGRKTGSVDGFSYTQANINKGVTWDEETLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITYLREETK
+>gi|68483347|ref|XP_714415.1| cytochrome c [Candida albicans SC5314] >gi|68483438|ref|XP_714375.1| cytochrome c [Candida albicans SC5314] >gi|1706238|sp|P53698.3|CYC_CANAL RecName: Full=Cytochrome c >gi|1373423|gb|AAB68996.1| cytochrome c [Candida albicans] >gi|46435935|gb|EAK95307.1| cytochrome c [Candida albicans SC5314] >gi|46435977|gb|EAK95348.1| cytochrome c [Candida albicans SC5314] >gi|703963219|gb|KGQ89532.1| cytochrome c [Candida albicans P94015] >gi|703966836|gb|KGQ95997.1| cytochrome c [Candida albicans P37005] >gi|703970577|gb|KGQ99691.1| cytochrome c [Candida albicans GC75] >gi|703982851|gb|KGR11846.1| cytochrome c [Candida albicans P57072] >gi|703984997|gb|KGR13982.1| cytochrome c [Candida albicans P78048] >gi|703991857|gb|KGR20821.1| cytochrome c [Candida albicans P37037] >gi|712683345|gb|KGT70384.1| cytochrome c [Candida albicans 12C] >gi|712862301|gb|KGU11296.1| cytochrome c [Candida albicans P87] >gi|712864034|gb|KGU13001.1| cytochrome c [Candida albicans 19F] >gi|712866841|gb|KGU15783.1| cytochrome c [Candida albicans L26] >gi|712881295|gb|KGU29060.1| cytochrome c [Candida albicans P34048] >gi|712885363|gb|KGU33081.1| cytochrome c [Candida albicans P75063] >gi|712887886|gb|KGU35578.1| cytochrome c [Candida albicans P57055] >gi|723164572|gb|KHC38596.1| cytochrome c [Candida albicans P76055] >gi|723166029|gb|KHC40040.1| cytochrome c [Candida albicans P76067] >gi|723170746|gb|KHC44714.1| cytochrome c [Candida albicans Ca6] >gi|723180197|gb|KHC54073.1| cytochrome c [Candida albicans P60002] >gi|723192292|gb|KHC66089.1| cytochrome c [Candida albicans P75010] >gi|723199154|gb|KHC72884.1| cytochrome c [Candida albicans P75016] >gi|723207130|gb|KHC80787.1| cytochrome c [Candida albicans P78042] >gi|723208388|gb|KHC82039.1| cytochrome c [Candida albicans SC5314] >gi|723214768|gb|KHC88360.1| cytochrome c [Candida albicans SC5314]
+MPAPFEKGSEKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGVFGRKSGLAEGYSYTDANKKKGVEWTEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLVTYLKKATS
+>gi|673527234|emb|CDI53568.1| probable CYTOCHROME C [Melanopsichium pennsylvanicum 4]
+MGFKDGDSKKGAGLFKTRCAQCHTLGAGEPNKVGPNLHGLFGRKTGSVEGFSYTQANINKGVTWSEDTLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITYLREETK
+>gi|449540460|gb|EMD31451.1| cytochrome c C1 [Gelatoporia subvermispora B]
+MPFQQGDAGKGAGLFKTRCAQCHTLGAGEPNKVGPNLHGIFGRKSGQAEGYSYTAANVNKGVTWDETTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLVTYLKEATA
+>gi|1045912556|gb|OCH89684.1| cytochrome-c from the OXPHOS pathway [Obba rivulosa]
+MPFQQGDAGKGAGLFKTRCAQCHTLGAGEPHKVGPNLHGIFGRQSGQAEGYSYTAANVNKGVHWDENTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITYLKEATA
+>gi|1023203724|gb|KZT00943.1| cytochrome-c from the OXPHOS pathway [Laetiporus sulphureus 93-53]
+MPFKQGDAGKGAGLFKTRCAQCHTVGAGEPNKVGPNLHGIFGRKSGQVEGFSYTAANVNKGVTWDEETLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLVTWLKEATA
+>gi|1037359112|gb|OBA29006.1| cytochrome c [Hanseniaspora valbyensis NRRL Y-1626]
+MAKEGSAKKGATLFKTRCLQCHTVEEGGANKVGPNLHGIFTRKAGEYSGFSYTEAVAKKGISWDKDTMSQWLENPKKFIP
+GTKMAFAGLKKEKDRNDLVAYLMKATK
+>gi|998530859|ref|XP_015467791.1| Cytochrome c [Debaryomyces fabryi] >gi|955269422|gb|KSA01689.1| Cytochrome c [Debaryomyces fabryi]
+MPAPYEKGSEKKGANLFKTRCLQCHTVEEGGPNKVGPNLHGVVGRTSGQAPGFSYTDANKKKGVEWTEQNLSDYLENPKK
+YIPGTKMAFGGLKKAKDRNDLITYLVKATK
+>gi|261199502|ref|XP_002626152.1| cytochrome c [Blastomyces gilchristii SLH14081]
+MSFSPGDAAKGAGLFKTRCAQCHTLEEGGANKIGPNLHGLFGRKSGQVEGYAYTDANKQKGVVWDENTLFAYLENPKKYI
+PGTKMAFGGLKKAKDRNDLITYMKTRPNKEIHSSRPRLMPLPLPLLLRPILT
+>gi|973330253|gb|KUL90144.1| hypothetical protein ZTR_01902 [Talaromyces verruculosus]
+MGKEAAKFAPGDASKGANLFKTRCAQCHTVEAGGANKIGPNLHGLFGRSTGSVEGYSYTDANKQANVTWDENTLFDYLEN
+PKKFIPGTKMAFGGLKKPKDRNDLITYLKENTA
+>gi|748558447|dbj|GAM35197.1| cytochrome c [Talaromyces cellulolyticus]
+MGKEAATFAPGDAKKGANLFKTRCAQCHTVEAGGANKIGPNLHGLFGRSTGSVEGYSYTDANKQANVTWNENTLFDYLEN
+PKKFIPGTKMAFGGLKKPKDRNDLITYLKEETA
+>gi|241952334|ref|XP_002418889.1| cytochrome c iso-1, putative; cytochrome c, putative [Candida dubliniensis CD36] >gi|223642228|emb|CAX44195.1| cytochrome c iso-1, putative [Candida dubliniensis CD36]
+MPAPYEKGSEKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGVFGRKSGLAEGYSYTDANKKKGVEWSEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLVTYLKKATS
+>gi|955493474|ref|XP_014657313.1| cytochrome c [Moesziomyces antarcticus] >gi|674220053|dbj|GAK64373.1| cytochrome c [Moesziomyces antarcticus]
+MGFKEGDAKKGASLFKTRCAQCHTLGAGEPNKVGPNLHGLFGRTSGTVDGYSYTEANKNRAVEWGNDTLFDYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITYLAEETK
+>gi|1023195186|gb|KZS92750.1| putative cytochrome C [Sistotremastrum niveocremeum HHB9708] >gi|1023239913|gb|KZT35789.1| cytochrome c [Sistotremastrum suecicum HHB10207 ss-3]
+MGFSAGDASKGASLFKTRCAQCHTLGEGEGNKVGPNLHGLFGRKTGQVEGFSYTAANVNKGVVWGEETLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITHLKEATK
+>gi|255725698|ref|XP_002547778.1| cytochrome c [Candida tropicalis MYA-3404] >gi|240135669|gb|EER35223.1| cytochrome c [Candida tropicalis MYA-3404]
+MPAPYEKGSEKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGVFGRKSGLAEGYSYTDANKKKGVEWTEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLVTYLKKATS
+>gi|576033918|ref|XP_006690832.1| hypothetical protein CTHT_0002850 [Chaetomium thermophilum var. thermophilum DSM 1495] >gi|341038598|gb|EGS23590.1| hypothetical protein CTHT_0002850 [Chaetomium thermophilum var. thermophilum DSM 1495]
+MGFSQGDAKKGANLFKTRCAQCHTVEAGGGNKTGPALHGLFGRKSGAVEGYAYTDANKQKGVVWDENSLFEYLENPKKYI
+PGTKMAFGGLKKEKDRNDLITYLKEATA
+>gi|749760292|gb|KII85246.1| hypothetical protein PLICRDRAFT_45432 [Plicaturopsis crispa FD-325 SS-3]
+MGFSAGDAGKGAGLFKTRCAQCHTTGAGEPNKVGPNLHGLFGRKTGQVEGFSYTAANINKGVTWDENTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITWLKDSTK
+>gi|1050855885|gb|OCW41624.1| cytochrome c [Diaporthe helianthi]
+MPFKDGDAKKGAGLFKTRCAQCHTVEAGGGNKIGPALHGLFGRHTGSVEGYSYTDANKQKGIEWKEDTLFEYLENPKKYI
+PGTKMAFGGLKKEKDRNDLITYVEPAVRKGNNPPPPSRIR
+>gi|575510871|ref|XP_006684706.1| cytochrome c [Candida tenuis ATCC 10573] >gi|575510873|ref|XP_006684707.1| hypothetical protein CANTEDRAFT_112557 [Candida tenuis ATCC 10573] >gi|344234262|gb|EGV66132.1| cytochrome c [Candida tenuis ATCC 10573] >gi|344234263|gb|EGV66133.1| hypothetical protein CANTEDRAFT_112557 [Candida tenuis ATCC 10573]
+MPAKFEKGNEKKGANLFKTRCLQCHTVEAGGPHKVGPNLNGVFGRKSGQATGYSYTDANKKKGVEWSEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLITYLAKATK
+>gi|1028555821|gb|OAJ25775.1| hypothetical protein A4X03_g1344 [Tilletia caries] >gi|1028559341|gb|OAJ28909.1| hypothetical protein A4X06_g3825 [Tilletia controversa]
+MGFSAGDLGKGASLFKTRCAQCHTVEAGGPHKVGPNLHGLFGRKTGQADGFSYTAANVNKGITWEESTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITWLKKETA
+>gi|50419415|ref|XP_458234.1| DEHA2C12848p [Debaryomyces hansenii CBS767] >gi|51704222|sp|P00043.3|CYC_DEBHA RecName: Full=Cytochrome c >gi|49653900|emb|CAG86310.1| DEHA2C12848p [Debaryomyces hansenii CBS767]
+MPAPYEKGSEKKGANLFKTRCLQCHTVEEGGPHKVGPNLHGVVGRTSGQAQGFSYTDANKKKGVEWSEQNLSDYLENPKK
+YIPGTKMAFGGLKKAKDRNDLISYLVKATK
+>gi|118028|sp|P00047.1|CYC_THELA RecName: Full=Cytochrome c
+AKGGSFEPGDASKGANLFKTRCAQCHSVEQGGANKIGPNLHGLFGRKTGSVEGYSYTDANKQAGITWNEDTLFEYLENPK
+KFIPGTKMAFGGLKKNKDRNDLITYLKEATK
+>gi|751024268|gb|KIK65967.1| hypothetical protein GYMLUDRAFT_193257 [Gymnopus luxurians FD-317 M1]
+MGFTAGDSEKGASLFKTRCAQCHTVAAGEPNKVGPNLHGLFGRKTGSVEGYSYTAANVNKGVTWGDDTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITWLKESTA
+>gi|1023226477|gb|KZT23292.1| cytochrome-c from the OXPHOS pathway [Neolentinus lepideus HHB14362 ss-1]
+MPYSQGDAGKGASLFKTRCAQCHTVEAGGPHKVGPNLHGVFGRKTGQADGYSYTAANVNKGITWEENTLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITYLKESTA
+>gi|751679842|gb|KIM30003.1| hypothetical protein M408DRAFT_100031 [Serendipita vermifera MAFF 305830]
+MPYAPGDASKGASLFKTRCAQCHTLGAGEPHKVGPNLHGVFGRHTGKAEGYSYTAANINKGIVWDENTLFEYLENPKKYI
+PGTKMAFAGLKKEKERNDLIAHLKEATK
+>gi|170095063|ref|XP_001878752.1| cytochrome c C1 [Laccaria bicolor S238N-H82] >gi|164646056|gb|EDR10302.1| cytochrome c C1 [Laccaria bicolor S238N-H82]
+MPFAAGDSAKGASLFKTRCAQCHTVGAGEPNKVGPNLHGLFGRKSGQVEGFSYTAANVNKGVTWEEETLFEYLENPKKYI
+PGTKMAFAGLKKEKDRSDLITYLKESTA
+>gi|1023255166|gb|KZT50609.1| cytochrome-c from the OXPHOS pathway [Calocera cornea HHB12733]
+MPFKSGDAAKGASLFKTRCAQCHTTEQGGGNKVGPNLHGLFGRKTGQVEGFSYTKANVEKGVTWGEETLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITWLKDATK
+>gi|242779059|ref|XP_002479365.1| cytochrome c [Talaromyces stipitatus ATCC 10500] >gi|218722984|gb|EED22402.1| cytochrome c [Talaromyces stipitatus ATCC 10500]
+MGKEAAKFAPGDASKGANLFKTRCAQCHTVEAGGANKIGPNLHGLFGRSTGSVEGYSYTDANKQAGVTWDENTLFDYLEN
+PKKFIPGTKMAFGGLKKAKDRNDLITYLKEETSK
+>gi|914264908|gb|KNZ79726.1| Cytochrome c [Termitomyces sp. J132]
+MGFSAGDAAKGAGLFKTRCAQCHTVGAGEPHKVGPNLHGIFGRKSGQGEGFSYTAANVNKGVLWEEETLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLVTYLKEATA
+>gi|242211391|ref|XP_002471534.1| predicted protein [Postia placenta Mad-698-R] >gi|242217753|ref|XP_002474673.1| cytochrome-c from the OXPHOS pathway [Postia placenta Mad-698-R] >gi|220726149|gb|EED80108.1| cytochrome-c from the OXPHOS pathway [Postia placenta Mad-698-R] >gi|220729393|gb|EED83268.1| predicted protein [Postia placenta Mad-698-R]
+MPFQAGDANKGAGLFKTRCAQCHTVGAGEPNKVGPNLHGLFGRKSGQVEGFSYTAANVNKGVVWEEETLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITWLKDSTA
+>gi|212533881|ref|XP_002147097.1| cytochrome c [Talaromyces marneffei ATCC 18224] >gi|210072461|gb|EEA26550.1| cytochrome c [Talaromyces marneffei ATCC 18224]
+MAKDAAKFTPGDAKKGANLFKTRCSQCHTVEAGGANKIGPNLHGLFGRSTGAVEGYSYTDANKQANVTWDENTLFDYLEN
+PKKFIPGTKMAFGGLKKPKDRNDLIT
+>gi|752360501|gb|KIO18546.1| hypothetical protein M407DRAFT_246455 [Tulasnella calospora MUT 4182]
+MPYSKGDVSKGASLFKTRCAQCHTLGAGEPHKVGPNLHGVFGRQSGQAEGYSYTAANVNKGVHWDENSMFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLIAYLKEATA
+>gi|238883865|gb|EEQ47503.1| cytochrome c [Candida albicans WO-1]
+MPAPFEKGSEKKGATLFKTRCLQCHTVEKGGPHKVGPNLHGVFGRKSGLAEGYSYTDANKKKGVEWTEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLVTYLKKLLLKCVETLNNNNNNQCIYVFYLQMN
+>gi|821084731|gb|KKY38111.1| putative cytochrome c [Diaporthe ampelina]
+MPFKDGDAKKGAGLFKTRCAQCHTVEAGGGNKIGPALHGLFGRHTGSVEGYAYTDANKQKGIEWKEDTLFAYLENPKKYI
+PGTKMAFGGLKKEKDRNDLITYLRESTK
+>gi|118020|sp|P19681.2|CYC_SCHOC RecName: Full=Cytochrome c >gi|4885|emb|CAA37787.1| unnamed protein product [Schwanniomyces occidentalis]
+MPAPYEKGSEKKDANLFKTRCLQCHTVEKGGPHKVGPNLHGIFGRKSGQAAGYSYTDANKKKGVEWTEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLITYLANATK
+>gi|1035636134|gb|OAX78906.1| cytochrome c [Emmonsia sp. CAC-2015a]
+MSVMTAVVWMSYAIEEQEAENEDRERRRRQARPRALQLNANLSHLSSCSGDAAKGAGLFKTRCAQCHTLEEGGANKIGPN
+LHGLFGRKSGQVEGYSYTDANKSKGVVWDENTLFTYLENPKKYIPGTKMAFGGLKKAKDRNDLITYLQKETK
+>gi|691792950|emb|CDO71812.1| hypothetical protein BN946_scf184939.g36 [Trametes cinnabarina]
+MPYSPGDASKGAGLFKTRCAQCHTLNAGEPHKVGPNLHGLFGRKTGQAEGYSYSAANVNKGVTWDENTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLIAYLKEATA
+>gi|831335253|gb|KLT44791.1| putative cytochrome c [Trichosporon oleaginosus]
+MGKDSFAPGDVGKGANLFKTRCAQCHTLEAGGAHKVGPNLHGLFGRKSGQAEGFSYTAANVNKGVVWEEQTLFEYLENPK
+KYIPGTKMAFAGLKKGKDRNDLITYMKKEC
+>gi|353234880|emb|CCA66900.1| probable cytochrome C [Serendipita indica DSM 11827]
+MPYSAGDASKGASLFKTRCAQCHTVAAGEPHKVGPNLHGVFGRHTGKAEGYSYTAANVNKGITWDEHTLFEYLENPKKYI
+PGTKMAFAGLKKEKERNDLIAYLKDATK
+>gi|751732021|gb|KIM80327.1| hypothetical protein PILCRDRAFT_822457 [Piloderma croceum F 1598]
+MPYSPGDAKKGAGLFKTRCAQCHTVGAGEPNKVGPNLHGLFGRKTGQVEGFSYTAANVNKGVTWGEDTLFDYLENPKKYI
+PGTKMAFAGLKKEKDRNDLIAWLKEETK
+>gi|584395899|emb|CDK25080.1| unnamed protein product [Kuraishia capsulata CBS 1993]
+MPAPYEKGSEKKGATLFKTRCAQCHTLEAGGPHKVGPNLHGVFGRKSGLAEGFSYTDANKRKGVLWSEQTMSDYLENPKK
+YIPGTKMAFGGLKKPKDRNDLITYLLNATK
+>gi|327303586|ref|XP_003236485.1| cytochrome c [Trichophyton rubrum CBS 118892] >gi|607870734|gb|EZF15975.1| cytochrome c [Trichophyton rubrum MR850] >gi|607902541|gb|EZF40104.1| cytochrome c [Trichophyton rubrum CBS 100081] >gi|607914654|gb|EZF50730.1| cytochrome c [Trichophyton rubrum CBS 288.86] >gi|607926686|gb|EZF61335.1| cytochrome c [Trichophyton rubrum CBS 289.86] >gi|607938655|gb|EZF71987.1| cytochrome c [Trichophyton soudanense CBS 452.61] >gi|607950656|gb|EZF82642.1| cytochrome c [Trichophyton rubrum MR1448] >gi|607962831|gb|EZF93344.1| cytochrome c [Trichophyton rubrum MR1459] >gi|607975569|gb|EZG04799.1| cytochrome c [Trichophyton rubrum CBS 735.88] >gi|607987270|gb|EZG15334.1| cytochrome c [Trichophyton rubrum CBS 202.88] >gi|633056839|gb|KDB31838.1| cytochrome c [Trichophyton rubrum D6] >gi|674806804|gb|KFL61231.1| cytochrome c [Trichophyton rubrum CBS 118892] >gi|861300373|gb|KMQ44612.1| Cytochrome c-like domain [Trichophyton rubrum]
+MAKGADSFSPGDASKGAGLFKTRCASCHTLENGGANKVGPNLSGLFGRKSGQVEGFSYTDANKEKGVTWDEQSLFEYLEN
+PKKYIPGTKMAFGGLKKAKDRNDLITFLKENTK
+>gi|1018882058|dbj|GAT50727.1| cytochrome C [Mycena chlorophos]
+MPFAPGDASKGAGLFKTRCAQCHTLGAGEPNKVGPNLHGIFGRKSGQAKDFSYTAANVNKGVTWDEQTLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLIAHLKEAEATA
+>gi|1018882059|dbj|GAT50728.1| cytochrome C [Mycena chlorophos]
+MPFAPGDASKGAGLFKTRCAQCHTLGAGEPNKVGPNLHGIFGRKSGQAKDFSYTAANVNKGVTWDEQTLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLIAHLKEATA
+>gi|51701272|sp|O93863.3|CYC_PACTA RecName: Full=Cytochrome c >gi|4105488|gb|AAD02430.1| cytochrome c [Pachysolen tannophilus]
+MPAPYEKGSAKKGATLFKTRCLQCHTTEAGGAHKVGPNLNGVFGRHSGQAEGYSYTDANKQKGALWEAQTMSDYLENPKK
+YIPGTKMAFGGLKKAKDRNDLVTYLLSATK
+>gi|1024089969|gb|KZV81622.1| cytochrome-c from the OXPHOS pathway [Exidia glandulosa HHB12029]
+MGYSAGDAGKGAGLFKTRCAQCHTVEAGGAHKVGPNLHGVFGRKTGQADGFSYTAANVNKGITWDENTMFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITWLKSETSK
+>gi|749899267|gb|KIJ66836.1| hypothetical protein HYDPIDRAFT_128204 [Hydnomerulius pinastri MD-312]
+MPFAPGDSSKGASLFKTRCAQCHNVAAGEPNKVGPNLHGLFGRKTGQVEGYQYTAANINKGVTWSEETLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITWLKESTA
+>gi|630214100|ref|XP_007856038.1| cytochrome c [Moniliophthora roreri MCA 2997] >gi|554901984|gb|ESK84663.1| cytochrome c [Moniliophthora roreri MCA 2997] >gi|961974776|gb|KTB43826.1| putative cytochrome c C1 [Moniliophthora roreri]
+MPYTDGDAAKGASLFKTRCAQCHTLGAGEPNKVGPNLHGIFGRKSGQVEGFSYTAANVNKGVVWDEHTLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITHLKEATA
+>gi|367054742|ref|XP_003657749.1| hypothetical protein THITE_2123741 [Thielavia terrestris NRRL 8126] >gi|347005015|gb|AEO71413.1| hypothetical protein THITE_2123741 [Thielavia terrestris NRRL 8126]
+MGFSAGDAKKGANLFKTRCAQCHTLEAGGGNKIGPALHGLFGRKTGSVEGYAYTDANKQKGITWDENTLFEYLENPKKYI
+PGTKMAFGGLKKDKDRNDLITYLKEATA
+>gi|2493971|sp|Q41346.1|CYC_STELP RecName: Full=Cytochrome c >gi|440586|emb|CAA79708.1| mitochondrial cytochrome c [Stellaria longipes]
+MGFKEGDAKKGANLFKTRCAQCHTLGEGEGNKIGPNLHGLFGRHTGSVEGFSYTDANKAKGIEWNKDTLFEYLENPKKYI
+PGTKMAFGGLKKDKDRNDLITFLQDSTK
+>gi|751690779|gb|KIM40769.1| hypothetical protein M413DRAFT_446151 [Hebeloma cylindrosporum h7]
+MPFAPGDSAKGASLFKTRCAQCHTLGAGEPHKVGPNLHGIFGRKSGQGEGFSYTAANVNKGVTWEENTLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLVTYLKEATA
+>gi|527304699|gb|EPT05473.1| hypothetical protein FOMPIDRAFT_1021297 [Fomitopsis pinicola FP-58527 SS1]
+MPFAQGDAGKGAGLFKTRCAQCHTLGAGEPNKVGPNLHGIFGRKSGQAEGFSYTAANVNKGVTWGEETLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITYLKDATA
+>gi|156065957|ref|XP_001598900.1| cytochrome c [Sclerotinia sclerotiorum 1980] >gi|154691848|gb|EDN91586.1| cytochrome c [Sclerotinia sclerotiorum 1980 UF-70]
+MGFKPGDAKKGANLFKTRCAQCHTLGEGEGNKIGPNLHGLFGRQTGSVEGYSYTDANKQKAITWDENTLFEYLENPKKYI
+PGTKMAFGGLKKDKDRNDLIQHLKEETK
+>gi|213406329|ref|XP_002173936.1| cytochrome c [Schizosaccharomyces japonicus yFS275] >gi|212001983|gb|EEB07643.1| cytochrome c [Schizosaccharomyces japonicus yFS275]
+MPPKKKTGPQPGDEKKGASLFKTRCAQCHTVEAGGANKVGPNLHGLFGRKTGQAPGFAYTEANRDKGITWNDDTLFTYLA
+NPKKYIPGTKMAFAGFKKDKDRNDVITYLKKATK
+>gi|1021808085|gb|KZP00374.1| hypothetical protein CALVIDRAFT_272204 [Calocera viscosa TUFC12733]
+MPFKQGDAAKGASLFKTRCAQCHTTEQGGGNKVGPNLHGLIGRKTGQVEGFSYTKANVEKGVTWGEETLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITWLKESTK
+>gi|296417825|ref|XP_002838551.1| hypothetical protein [Tuber melanosporum Mel28] >gi|295634494|emb|CAZ82742.1| unnamed protein product [Tuber melanosporum]
+MGFQEGDNAKGANLFKTRCAQCHTLEAGGANKVGPNLHGLFGRQSGQVEGFSYTDANKQKGVVWTEETLFDYLENPKKYI
+PGTKMAFGGLKKEKDRNDLITHLRKNTK
+>gi|800921350|gb|KKA02833.1| Cytochrome c iso-1 [Hanseniaspora uvarum DSM 2768]
+MAKEGSAKKGATLFKTRCLQCHTLEENGANKVGPNLHGVFGRKAGEKSGFSFTDALVSKGVEWNTETMSQWLENPKKYVP
+GTKMAFAGLKKEKDRADLIAYLVKSTK
+>gi|824363221|gb|KLJ06555.1| cytochrome c [Emmonsia parva UAMH 139]
+MSVMTAAVWMSYAVEEQEAENEERERRRRQAGRQLLQTANQYHFSCSGDAAKGAGLFKTRCAQCHTLEEGGANKIGPNLH
+GLFGRKSGQVEGYSYTDANKQKGVVWDENTLFAYLENPKKYIPGTKMAFGGLKKAKDRNDLITYMKNETK
+>gi|164428202|ref|XP_956486.2| cytochrome c [Neurospora crassa OR74A] >gi|698990408|ref|XP_009852185.1| cytochrome c [Neurospora tetrasperma FGSC 2508] >gi|118009|sp|P00048.2|CYC_NEUCR RecName: Full=Cytochrome c >gi|3010|emb|CAA29050.1| cytochrome c [Neurospora crassa] >gi|388930|gb|AAA92156.1| cytochrome c [Neurospora crassa] >gi|18376103|emb|CAD21169.1| CYTOCHROME C [Neurospora crassa] >gi|157072052|gb|EAA27250.2| cytochrome c [Neurospora crassa OR74A] >gi|336468440|gb|EGO56603.1| cytochrome c [Neurospora tetrasperma FGSC 2508] >gi|350289301|gb|EGZ70526.1| cytochrome c [Neurospora tetrasperma FGSC 2509] >gi|725975866|gb|KHE79412.1| cytochrome c [Neurospora crassa]
+MGFSAGDSKKGANLFKTRCAQCHTLEEGGGNKIGPALHGLFGRKTGSVDGYAYTDANKQKGITWDENTLFEYLENPKKYI
+PGTKMAFGGLKKDKDRNDIITFMKEATA
+>gi|1023273038|gb|KZT67920.1| cytochrome-c from the OXPHOS pathway [Daedalea quercina L-15889]
+MPFQQGDSGKGAGLFKTRCAQCHTLGAGEPNKVGPNLHGLFGRKSGQAEGFSYTAANVNKAVVWEEQTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITYLKEATA
+>gi|1028896173|gb|OAK98433.1| cytochrome c [Stagonospora sp. SRC1lsM3a]
+MGFEAGDAKKGANLFKTRCAQCHTLKEGEGNKIGPNLHGLFGRKSGQVEGFSYTDANKQKGVTWEEGSLFEYLENPKKYI
+PGTKMAFGGLKKPKDRNDLITFLQEETK
+>gi|154274964|ref|XP_001538333.1| cytochrome c [Histoplasma capsulatum NAm1] >gi|150414773|gb|EDN10135.1| cytochrome c [Histoplasma capsulatum NAm1]
+MSFSAGDSAKGANLFKTRCAQCHTLEEGGANKIGPNLHGLFGRKSGQVEGFSYTDANKSKGVVWNEETLFAYLENPKKYI
+PGTKMAFGGLKKAKDRNDLITYLKEETK
+>gi|335345768|gb|AEH41464.1| mitochondrial cytochrome c [Endocarpon pusillum]
+MPPKKSAGFKEGDVKKGAGLFKTRCEQCHTTEEGQNKIGPSLHGLFGRKTGQVEGFSYTDANKQKGIEWKEDTLFEYLEN
+PKKYIPGTKMAFGGLKKEKDRNDLITWLRENTK
+>gi|169863751|ref|XP_001838493.1| cytochrome c [Coprinopsis cinerea okayama7#130] >gi|116500399|gb|EAU83294.1| cytochrome c [Coprinopsis cinerea okayama7#130]
+MPFAPGDASKGASLFKTRCAQCHTLGNGEPHKVGPNLFGIFGRKSGTGEGYSYTAANINKGVTWTEETMWEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLVTYLKEATS
+>gi|646387810|gb|KDQ52711.1| hypothetical protein JAAARDRAFT_39998 [Jaapia argillacea MUCL 33604]
+MPYSAGDAGKGAGLFKTRCAQCHTVESGGPHKVGPNLHGLFGRKTGQAEGFSYTAANVNKGITWDEQTLFDYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITYLKSSC
+>gi|816186547|emb|CRG91860.1| Cytochrome c [Talaromyces islandicus]
+MPKEAAKFAPGDASKGANLFKTRCAQCHTTEAGGANKIGPNLHGLFGRQTGSVEGYSYTDANRQAGVTWDEDTLFNYLEN
+PKKFIPGTKMAFGGLKKGKDRNDLITWLKESTA
+>gi|796704415|gb|KJX96356.1| cytochrome c like protein [Zymoseptoria brevis]
+MAKDKDCYTPGDPKKGANLFKTRCAQCHTLKEGEPNKIGPNLHGLFGRQTGQVEGFSYTDANKQKAITWEENTLFEYLEN
+PKKYIPGTKMAFGGLKKAKDRNDLIKYLQDETK
+>gi|648164033|gb|KDR77720.1| hypothetical protein GALMADRAFT_138779 [Galerina marginata CBS 339.88]
+MPYSAGDAGKGASLFKTRCAQCHTLASGEPHKVGPNLHGLFGRQSGQAEGFSYTAANVNKKVHWEEQTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRSDLITYLKEATA
+>gi|936525729|emb|CDO56462.1| similar to Saccharomyces cerevisiae YJR048W CYC1 Cytochrome c, isoform 1 [Geotrichum candidum]
+MGYEPGNAKKGANLFKTRCLQCHTTEAGGANKVGPNLNGVFGRVSGQAPGYSYTEANKKKGVMWDENTMYDYLENPKKYI
+PGTKMAFGGLKKAKDRNDIVTYLKEACA
+>gi|807743997|ref|XP_012176793.1| predicted protein [Fibroporia radiculosa] >gi|403420072|emb|CCM06772.1| predicted protein [Fibroporia radiculosa]
+MPYAPGDTAKGAGLFKTRCAQCHTVGAGEPNKVGPNLHGLFGRKTGQVEGFSYTAANVNKGVVWQEDTLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITWLKESTA
+>gi|1000838796|gb|KXN81200.1| Cytochrome c [Leucoagaricus sp. SymC.cos]
+GDASKGAGLFKTRCAQCHTLEAGGPHKVGPNLHGIFGRKTGQADGFSYTAANVNKGITWDVGTLFEYLENPKKYIPGTKM
+AFAGLKKEKDRNDLITHLKEAVSS
+>gi|1030128319|ref|XP_016766029.1| cytochrome c [Sphaerulina musiva SO2202] >gi|453089868|gb|EMF17908.1| cytochrome c [Sphaerulina musiva SO2202]
+MGKEEFKDGDSKKGANLFKTRCAQCHNLKEGEPNKIGPNLHGLFGRHTGQVEGFAYSDANKQKGIEWNEGTLFEYLENPK
+KYIPGTKMAFGGLKKGKDRNDLITYLREETK
+>gi|636616127|ref|XP_008039198.1| cytochrome-c from the OXPHOS pathway [Trametes versicolor FP-101664 SS1] >gi|392563988|gb|EIW57166.1| cytochrome-c from the OXPHOS pathway [Trametes versicolor FP-101664 SS1]
+MSFKAGDAGKGAGLFKTRCAQCHTLGAGEPHKVGPNLHGVFGRKTGQADGYSYTAANVNKGITWTEQTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLVTYLKEATA
+>gi|813206469|dbj|GAO52157.1| hypothetical protein G7K_6243-t1 [Saitoella complicata NRRL Y-17804]
+MNFEFPRPSLTIPSCSTPQSILQSLQSPYPALSWTIEHSTPLLYLTVNRVTLLLDLKMSKSKANLKGKFQTRTTHTTFGA
+NSSHHPPSLRYTCIHCRLSKPTSQFSLTQLQKHENSGQGMHCKGCTPKQVTSLSCVVCGRRMGLERFAKSQRKNVGGMEC
+RCLECVAKHHEDPEDLFDDSDDGAGAGCGYSDGEEVFEDEPWMTAARAGSPRTTTTTAPADDSEDDTASAFPSVSGSRSA
+SFSRQAHSTSRASSTAPANGPQMAEWATVVTRKLKKGESEGGYVSGGSGAGSGKGGSAGGENSGWKDPRLTTYDGEKYNV
+PIRPSVSRPRTNYTFTLPTPRPNMGFSAGSLDKGANLFKTRCAQCHTVEEGGPHKVGPNLHGVFGRQSGQAEGYSYTDAN
+KKKGVHWDEETMWAYLENPKKYIPGTKMAFAGFKKEKDRNDIVTYLKDAC
+>gi|893697862|gb|EGE83533.2| cytochrome c [Blastomyces dermatitidis ATCC 18188]
+MSVMTAAVWMSYAIEEQEAENEERERRRRQAGRQLLQTANQYPFSSCSGDAAKGAGLFKTRCAQCHTLEEGGANKIGPNL
+HGLFGRKSGQVEGYAYTDANKQKGVVWDENTLFAYLENPKKYIPGTKMAFGGLKKAKDRNDLITYMKNETK
+>gi|915187840|ref|XP_013319115.1| cytochrome c, variant [Exophiala xenobiotica] >gi|759282029|gb|KIW58532.1| cytochrome c, variant [Exophiala xenobiotica]
+MAKGDDGFKDGDAKKGANLFKTRCAQCHTVVESEGNKIGPNLHGLFGRHTGSVEGFSYTDANKQKGIEWNENTLYEYLEN
+PKKYIPGTKMAFGGLKKGKDRNDLITWLREETKK
+>gi|630025183|ref|XP_007835378.1| Cytochrome c [Pestalotiopsis fici W106-1] >gi|573058955|gb|ETS78753.1| Cytochrome c [Pestalotiopsis fici W106-1]
+MGGFSAGDSKKGANLFKTRCAQCHTLKEGEGNKVGPALHGLFGRKSGQVEGFSYTDANKQKGVTWDEKSLFDYLENPKKY
+IPGTKMAFGGLKKEKDRNDLITFLKESTA
+>gi|1000488853|gb|KXL48868.1| hypothetical protein FE78DRAFT_76835 [Acidomyces richmondensis] >gi|1005706548|gb|KYG47543.1| hypothetical protein M433DRAFT_141867 [Acidomyces richmondensis BFW]
+MGKESFSDGDSKKGANLFKTRCAQCHTLKEGEGNKIGPNLHGLFGRHTGSVEGFSYTDANKQANVVWGEDSLFEYLENPK
+KYIPGTKMAFGGLKKAKDRNDLITFLREETK
+>gi|154305520|ref|XP_001553162.1| cytochrome c [Botrytis cinerea B05.10] >gi|347828558|emb|CCD44255.1| similar to cytochrome c [Botrytis cinerea T4] >gi|472239939|gb|EMR84726.1| putative cytochrome c protein [Botrytis cinerea BcDW1]
+MGFKAGDAKKGANLFKTRCAQCHTLGEGEGNKIGPNLHGLFGRQTGSVEGYSYTDANKQKAITWDENTLFEYLENPKKYI
+PGTKMAFGGLKKDKDRNDLIQHLKEATA
+>gi|119190097|ref|XP_001245655.1| cytochrome c [Coccidioides immitis RS] >gi|303322563|ref|XP_003071273.1| cytochrome c, putative [Coccidioides posadasii C735 delta SOWgp] >gi|240110975|gb|EER29128.1| cytochrome c, putative [Coccidioides posadasii C735 delta SOWgp] >gi|767020423|gb|EAS34072.3| cytochrome c [Coccidioides immitis RS] >gi|855535972|gb|KMM70621.1| cytochrome c [Coccidioides posadasii RMSCC 3488] >gi|859411108|gb|KMP05294.1| cytochrome c [Coccidioides immitis RMSCC 2394] >gi|875284099|gb|KMU77826.1| cytochrome c [Coccidioides immitis RMSCC 3703] >gi|875639369|gb|KMU85754.1| cytochrome c protein [Coccidioides immitis H538.4]
+MGKDGYAPGDAAKGANLFKTRCAQCHTLEKGGANKVGPNLHGLFGRKTGQAEGFSYTDANKQKGITWDHETLYVYLENPK
+KYIPGTKMAFGGLKKAKDRNDLITYMEQECTK
+>gi|258565491|ref|XP_002583490.1| cytochrome c [Uncinocarpus reesii 1704] >gi|237907191|gb|EEP81592.1| cytochrome c [Uncinocarpus reesii 1704]
+MSIAELPLVVTAIELEERWKKEMAQEQEQLANKSVQPGDAAKGANLFKTRCASCHTLEQGGANKVGPNLHGLFGRKTGQV
+EGFSYTDANKQKGITWDHNTLFTYLENPKKYIPGTKMAFGGLKKAKDRNDLITYMEQETK
+>gi|734684256|ref|XP_010762357.1| cytochrome c [Paracoccidioides brasiliensis Pb18] >gi|699748819|gb|EEH42158.2| cytochrome c [Paracoccidioides brasiliensis Pb18] >gi|719931758|gb|EEH23071.2| cytochrome c [Paracoccidioides brasiliensis Pb03]
+MSLEMTMACMVHAMLEQEELNEENERKRKLKELVRLHPELKRPTTNFTPLLNPGDAAKGAGLFKTRCAQCHTLEAGGANK
+VGPNLHGLFGRKSGTVEGYSYTDANKQRGVEWNEQSLFEYLENPKKYIPGTKMAFGGLKKPKDRNDLITYLQNETK
+>gi|50550279|ref|XP_502612.1| YALI0D09273p [Yarrowia lipolytica] >gi|74634706|sp|Q6C9Q0.1|CYC_YARLI RecName: Full=Cytochrome c >gi|49648480|emb|CAG80800.1| YALI0D09273p [Yarrowia lipolytica CLIB122]
+MGYKEGSAKKGATLFKTRCAQCHTTEAGGPHKVGPNLHGVINRHSGEAEGYSYSDANKRKGIEWTTEHLFEYLENPKKYI
+PGTKMAFGGLKKPKDRNDLITWMVENC
+>gi|1002953315|ref|XP_002792003.2| cytochrome c [Paracoccidioides lutzii Pb01] >gi|701690864|gb|EEH35221.2| cytochrome c [Paracoccidioides lutzii Pb01]
+MSLEMTMACMVYAMLEQEELNEENERKRKLKELVRLHPELKRPTTNFTPLLNPGDAAKGAGLFKTRCAQCHTLEAGGANK
+VGPNLHGLFGRKSGTVEGYSYTDANKQRGVEWNEQSLFEYLENPKKYIPGTKMAFGGLKKPKDRNDLITYLQNETK
+>gi|636579795|ref|XP_008021236.1| hypothetical protein SETTUDRAFT_25125 [Setosphaeria turcica Et28A] >gi|482814350|gb|EOA91028.1| hypothetical protein SETTUDRAFT_25125 [Setosphaeria turcica Et28A]
+MGFDHGDAKKGANLFKTRCAQCHTLKEGEGNKIGPNLHGLFGRKTGQVEGYSYTDANKQKGIEWNNDTLFEYLENPKKYI
+PGTKMAFGGLKKPKDRNDLITFLAEETK
+>gi|1046784226|gb|OCK91979.1| cytochrome c [Cenococcum geophilum 1.58]
+MAGFEEGDAKKGANLFKTRCSQCHTLKQGEGNKIGPNLHGLFGRKTGQVEGFSYTDANKQKGIEWNQDTLFEYLENPKKY
+IPGTKMAFGGLKKPKDRNDLITFLREETK
+>gi|1022787733|ref|XP_016216129.1| cytochrome c [Verruconis gallopava] >gi|759229283|gb|KIW06260.1| cytochrome c [Verruconis gallopava]
+MAGFEEGDSKKGANLFKTRCAQCHTLKEGEGNKIGPNLHGLFGRKTGQVEGFSYTDANKQKGITWDEGTLFEYLENPKKY
+IPGTKMAFGGLKKAKDRNDLITFLREETK
+>gi|727140156|emb|CEG77364.1| Putative Cytochrome c [Rhizopus microsporus]
+MAGDASAGAKLFKTRCAQCHTVEEGGPHKVGPNLHGLFGRKSGQAAGYSYTQANIDKGVTWDEQTLNDYLVNPKKYIPGT
+KMAFAGFKKEKDRADVVAYLKESC
+>gi|607893767|gb|EZF32807.1| cytochrome c [Trichophyton interdigitale H6] >gi|633043081|gb|KDB20562.1| cytochrome c [Trichophyton interdigitale MR816]
+MCATCSIWALSVIDSLVEDEKRREQQKQQDLLKEMDKANKPARLPGDASKGAGLFKTRCASCHTLEEGGANKVGPNLFGL
+FGRKSGQVEGFSYTDANKQKGVTWDENTLFEYLENPKKYIPGTKMAFGGLKKAKDRNDLVTYLKENTN
+>gi|568451685|ref|XP_006459685.1| CytC2 cytochrome C protein [Agaricus bisporus var. bisporus H97] >gi|597985085|ref|XP_007330776.1| Cythochrome C [Agaricus bisporus var. burnettii JB137-S8] >gi|409078662|gb|EKM79025.1| Cythochrome C [Agaricus bisporus var. burnettii JB137-S8] >gi|426199688|gb|EKV49613.1| CytC2 cytochrome C protein [Agaricus bisporus var. bisporus H97]
+MPYAPGDAGKGAGLFKTRCSQCHTLGQGEPHKVGPNLHGLFGRKTGQAENYSYTAANVNKGITWDETTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITHLKEATA
+>gi|336272129|ref|XP_003350822.1| hypothetical protein SMAC_02491 [Sordaria macrospora k-hell] >gi|380094986|emb|CCC07488.1| unnamed protein product [Sordaria macrospora k-hell]
+MGFSAGDSKKGANLFKTRCAQCHTLEAGGGNKIGPALHGLFGRKTGSVDGYAYTDANKQKGITWDENTLFEYLENPKKYI
+PGTKMAFGGLKKDKDRNDIITFMKEATA
+>gi|759205900|gb|KIV83319.1| cytochrome c [Exophiala sideris]
+MGKDDSFKDGDAKKGANLFKTRCAQCHTVVESEGNKIGPNLHGLFGRHTGSVEGFSYTDANKQKNIEWNENTLFEYLENP
+KKYIPGTKMAFGGLKKGKDRNDLITWLREETKK
+>gi|595769758|ref|XP_007263422.1| cytochrome c [Fomitiporia mediterranea MF3/22] >gi|393221673|gb|EJD07158.1| cytochrome c [Fomitiporia mediterranea MF3/22]
+MSEGDAKKGAGLFKTRCAQCHTVEKGGPHKVGPNLFGLFGRKTGQAEGYSYTAANVNKGITWDDTTLFEYLENPKKYIPG
+TKMAFAGLKKEKDRRDLIAYLKESDK
+>gi|648157611|gb|KDR71368.1| hypothetical protein GALMADRAFT_254144 [Galerina marginata CBS 339.88]
+MPYAAGDAGKGASLFKTRCAQCHTLGSGEPHKVGPNLHGLFGRQSGQAEGFSYTAANVNKKVHWEGETLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITYLKEATA
+>gi|448107002|ref|XP_004200883.1| Piso0_003493 [Millerozyma farinosa CBS 7064] >gi|448110013|ref|XP_004201514.1| Piso0_003493 [Millerozyma farinosa CBS 7064] >gi|359382305|emb|CCE81142.1| Piso0_003493 [Millerozyma farinosa CBS 7064] >gi|359383070|emb|CCE80377.1| Piso0_003493 [Millerozyma farinosa CBS 7064]
+MPAPFEKGSEKKGANLFKTRCLQCHTVEKGAPHKVGPNLHGIIGRKSGLAEGYSYSDANKKKGVEWSEQTLADYLENPKK
+YIPGTKMAFGGLKKPKDRNDLVTYLAKATK
+>gi|727144690|emb|CEG73061.1| Putative Cytochrome c [Rhizopus microsporus] >gi|729707451|emb|CEI96026.1| Putative Cytochrome c [Rhizopus microsporus]
+MAGDATAGAKLFKTRCAQCHTVEEGGPHKVGPNLHGLFGRKSGQAAGYSYTQANIDKGVTWDEQTLNDYLVNPKKYIPGT
+KMAFAGFKKEKDRADVVAYLKESC
+>gi|750949172|gb|KIK07049.1| hypothetical protein K443DRAFT_673625 [Laccaria amethystina LaAM-08-1]
+MPYAAGDSAKGASLFKTRCAQCHTLGAGEPNKVGPNLHGLFGRKTGQVEGFSYTAANINKGVTWDEETLFEYLENPKKYI
+PGTKMAFAGLKKGGDRNDLITYLKESTA
+>gi|1044616767|gb|OCB91327.1| cytochrome c [Sanghuangporus baumii]
+MADKGDAKKGASLFKTRCAQCHTLEKGGPHKVGPNLHGLFGRKTGQADGYSYTAANVNKGIVWDDQTLFEYLENPKKYIP
+GTKMAFAGLKKEKDRWDLIAHLKAETS
+>gi|169624810|ref|XP_001805810.1| hypothetical protein SNOG_15669 [Parastagonospora nodorum SN15] >gi|111055924|gb|EAT77044.1| hypothetical protein SNOG_15669 [Parastagonospora nodorum SN15]
+MGFENGDHKKGANLFKTRCAQCHTLKEGEGNKIGPNLHGLFGRKTGQVEGYSYTDANKQKGITWDENTLFEYLENPKKYI
+PGTKMAFGGLKKPKDRNDLITFLQEETK
+>gi|646285171|gb|KDQ07108.1| hypothetical protein BOTBODRAFT_167354 [Botryobasidium botryosum FD-172 SS1]
+MAKGEDKYAPGDAKKGSSLFTARCGQCHTVEAGGPHKVGPNLHGLFGRKTGQAEGYSYTAANVGKGIIWNEDTLFEYLEN
+PKKYIPGTKMAYTGLKKAKERNDLITYLKEATQ
+>gi|909987373|gb|KNG44991.1| cytochrome c [Stemphylium lycopersici]
+MGFSEGDAKKGANLFKTRCAQCHTLKEGEGNKIGPNLHGLFGRKSGQVEGFSYTDANKQKGVEWNHESLFEYLENPKKYI
+PGTKMAFGGLKKPKERNDLITFLAEETK
+>gi|915149167|ref|XP_013327382.1| hypothetical protein T310_5185 [Rasamsonia emersonii CBS 393.64] >gi|802091001|gb|KKA20770.1| hypothetical protein T310_5185 [Rasamsonia emersonii CBS 393.64]
+MAMEIVCMLYAIEDREAMLESLEQANKPNAKNQKADKLASPGDASKGANLFKTRCAQCHTVEAGGSNKTGPNLHGLFGRK
+TGSVEGYSYTDANKAAGLTWDENTLFEYLENPKKYIPGTKMAFGGLKKAKDRNDLITYLKEATA
+>gi|1012966702|gb|KYQ41450.1| Cytochrome c [Hypsizygus marmoreus]
+MSFSAGDSAKGASLFKTRCAQCHTLGAGEPHKVGPNLHGIFGRKSGQAEGFSYTAANVNKGVTWEVQTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLVTYLKESTA
+>gi|695550887|ref|XP_009545740.1| hypothetical protein HETIRDRAFT_458782 [Heterobasidion irregulare TC 32-1] >gi|575067881|gb|ETW83494.1| hypothetical protein HETIRDRAFT_458782 [Heterobasidion irregulare TC 32-1]
+MPYSPGDAAKGAGLFKTRCAQCHTVGAGEPHKVGPNLHGVFGRKTGQGEGFSYTAANVNKGITWDENTLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLVTWLKEATA
+>gi|1022864029|ref|XP_016270380.1| cytochrome c [Rhodotorula toruloides NP11] >gi|472581527|gb|EMS19261.1| cytochrome c [Rhodotorula toruloides NP11] >gi|647397020|emb|CDR39787.1| RHTO0S04e09450g1_1 [Rhodotorula toruloides]
+MGFESGDAAKGANLFKTRCAQCHTVESGGANKVGPNLHGLFGRQSGSVESFSYTEANKKAAVHWDENTLFDYLENPKKYI
+PGTKMAFAGLKKAKDRNDLITWLKESTA
+>gi|326469675|gb|EGD93684.1| cytochrome c [Trichophyton tonsurans CBS 112818]
+MCATCSIWALSVIDSLVEDEKRREQQKQQDLLKEMDKANKPARLPGDASKGAGLFKTRCASCHTLEEGGANKVGPNLFGL
+FGRKSGQVEGFSYTDANKQKGVTWDENTLFEYLENPKKYIPGTKMAFGGLKKTKDRNDLVTYVNSVPFVS
+>gi|729706418|emb|CEI97021.1| Putative Cytochrome c [Rhizopus microsporus]
+MAGDATAGAKLFKTRCAQCHTVEEGGPHKVGPNLHGIFGRKSGQAAGYSYTQANIDKGVVWDEQTLNDYLVNPKKYIPGT
+KMAFAGFKKDKDRADVVAYLKESC
+>gi|597927850|ref|XP_007318269.1| cytochrome C protein, CYTC2 [Serpula lacrymans var. lacrymans S7.9] >gi|336364023|gb|EGN92389.1| hypothetical protein SERLA73DRAFT_147354 [Serpula lacrymans var. lacrymans S7.3] >gi|336383101|gb|EGO24250.1| cytochrome C protein, CYTC2 [Serpula lacrymans var. lacrymans S7.9]
+MPYAAGDLDKGASLFKTRCLQCHTTGAGEPNKVGPNLHGLFGRKTGQVEGFSYTAANINKGVTWSEDTLFDYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITWLKKETA
+>gi|684173865|ref|XP_009160801.1| cytochrome c [Exophiala dermatitidis NIH/UT8656] >gi|378733881|gb|EHY60340.1| cytochrome c [Exophiala dermatitidis NIH/UT8656]
+MGKDDGFKEGDAKKGANLFKTRCAQCHTVVESEGNKIGPNLHGLFGRKTGSVEGYSYTDANKQKGITWDENSLFEYLENP
+KKYIPGTKMAFGGLKKAKDRNDLITWLRDNTK
+>gi|1027146670|gb|OAG07119.1| cytochrome c [Paraphaeosphaeria sporulosa]
+MGFEQGDAKKGANLFKTRCAQCHTLKEGEGNKIGPNLHGLFGRKSGQVEGFSYTDANKQKGCEWNNDTLFEYLENPKKYI
+PGTKMAFGGLKKPKDRNDLITFLQNETK
+>gi|225557557|gb|EEH05843.1| cytochrome c [Histoplasma capsulatum G186AR]
+MSFSAGIFTSNSFTRAHPPTAPAAERRPPAAMSIMTAVVWMSYAIEEQEAENEERERRRRQAGLQLREDANFSHFSSCSG
+DSAKGANLFKTRCAQCHTLEEGGANKIGPNLHGLFGRKSGQVEGYSYTDANKSKGVVWNEETLFAYLENPKKYIPGTKMA
+FGGLKKAKDRNDLITYLKQETK
+>gi|302509158|ref|XP_003016539.1| hypothetical protein ARB_04828 [Arthroderma benhamiae CBS 112371] >gi|291180109|gb|EFE35894.1| hypothetical protein ARB_04828 [Arthroderma benhamiae CBS 112371] >gi|1043334910|tpg|DAA78709.1| TPA_exp: Uncharacterized protein A8136_2494 [Arthroderma benhamiae CBS 112371]
+MCATCSIWALSVIDSLVEDEKRREQQKPQELLKEMDKANKPARLPGDASKGAGLFKTRCASCHTLEDGGANKVGPNLYGL
+FGRKSGQVEGFSYTDANKQKGVTWDENTLFEYLENPKKYIPGTKMAFGGLKKAKDRNDLITFLKENTK
+>gi|325096262|gb|EGC49572.1| cytochrome c [Histoplasma capsulatum H88]
+MSFSAGIFTSNSFTRAHPPTAPVAERRPPAAMSIMTAVVWMSYAIEEQEAENEERERRRRQAGLQLREDANFSHFSSCSG
+DSAKGANLFKTRCAQCHTLEEGGANKIGPNLHGLFGRKSGQVEGYSYTDANKSKGVVWNEETLFAYLENPKKYIPGTKMA
+FGGLKKAKDRNDLITYLKQETK
+>gi|1033926377|gb|OAT07231.1| cytochrome c [Blastomyces gilchristii SLH14081]
+MSVMTAAVWMSYAIEEQEAENEERERRRRQAGRDAAKGAGLFKTRCAQCHTLEEGGANKIGPNLHGLFGRKSGQVEGYAY
+TDANKQKGVVWDENTLFAYLENPKKYIPGTKMAFGGLKKAKDRNDLITYMKTRPNKEIHSSRPRLMPLPLPLLLRPILT
+>gi|682330754|gb|KFY30097.1| hypothetical protein V494_08269 [Pseudogymnoascus sp. VKM F-4513 (FW-928)]
+MPFKDGDSKKGANLFKTRCAQCHTLGEGEANKIGPNLHGLFGRQTGSVEGYSYTDANKQKAITWNTDTLFEYLENPKKYI
+PGTKMAFGGLKKEKDRNDLITFLREETK
+>gi|846915937|gb|KMK61721.1| cytochrome c [Aspergillus fumigatus Z5]
+MGKEEGFAPGDAKKGAKLFQTRCAQCHTVESGGPHKVGPNLHGLFGRKTGSAEGYAYTDANKQAGVTWDENTLFSYLENP
+KKFIPGTKMAFGGLKKAKERNDLITYLKENC
+>gi|1027164800|gb|OAG25168.1| cytochrome c [Alternaria alternata]
+MGFEKGDSKKGANLFKTRCAQCHTLKEGEGNKIGPNLHGLFGRKTGQVEGFSYTDANKQKGIEWNNDTLFEYLENPKKYI
+PGTKMAFGGLKKPKDRNDLITFLAEETK
+>gi|751061895|gb|KIK96579.1| hypothetical protein PAXRUDRAFT_825815 [Paxillus rubicundulus Ve08.2h10]
+MPFAPGDCVKGASLFKTRCAQCHTVGVGEPNKVGPNLNGLFGRKTGQVEDFQYTAANVNKGVTWDENTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLISWLKEATA
+>gi|302684993|ref|XP_003032177.1| hypothetical protein SCHCODRAFT_85197 [Schizophyllum commune H4-8] >gi|300105870|gb|EFI97274.1| hypothetical protein SCHCODRAFT_85197 [Schizophyllum commune H4-8]
+MPFTPGDASKGASLFKTRCAQCHTVGAGEPHKVGPNLHGVFGRKTGQADGYSYTAANVSKGITWDENTMFEYLENPKKYI
+PGTKMAFAGLKKDKDRDNLITWLKENC
+>gi|607870732|gb|EZF15973.1| cytochrome c [Trichophyton rubrum MR850] >gi|607902539|gb|EZF40102.1| cytochrome c [Trichophyton rubrum CBS 100081] >gi|607914652|gb|EZF50728.1| cytochrome c [Trichophyton rubrum CBS 288.86] >gi|607926684|gb|EZF61333.1| cytochrome c [Trichophyton rubrum CBS 289.86] >gi|607938653|gb|EZF71985.1| cytochrome c [Trichophyton soudanense CBS 452.61] >gi|607950654|gb|EZF82640.1| cytochrome c [Trichophyton rubrum MR1448] >gi|607962829|gb|EZF93342.1| cytochrome c [Trichophyton rubrum MR1459] >gi|607975567|gb|EZG04797.1| cytochrome c [Trichophyton rubrum CBS 735.88] >gi|607987268|gb|EZG15332.1| cytochrome c [Trichophyton rubrum CBS 202.88] >gi|633056837|gb|KDB31836.1| cytochrome c [Trichophyton rubrum D6] >gi|674806802|gb|KFL61229.1| cytochrome c [Trichophyton rubrum CBS 118892] >gi|1029997406|gb|OAL62326.1| hypothetical protein A7C99_6906 [Trichophyton rubrum]
+MCATCSIWALSVIDSLVEDEKRREQQKQQGLLKELDKANELARLPGDASKGAGLFKTRCASCHTLENGGANKVGPNLSGL
+FGRKSGQVEGFSYTDANKEKGVTWDEQSLFEYLENPKKYIPGTKMAFGGLKKAKDRNDLITFLKENTK
+>gi|597906000|ref|XP_007300299.1| cytochrome c [Stereum hirsutum FP-91666 SS1] >gi|389750455|gb|EIM91626.1| cytochrome c [Stereum hirsutum FP-91666 SS1]
+MSYAPGDAGKGAGLFKTRCAQCHTLGAGEPHKVGPNLHGVFGRKTGQAEGFSYTAANVNKGITWTEQTLFEYLENPKKYI
+PGTKMAFAGLKKEKDRNDLITHLKEATA
+>gi|361128362|gb|EHL00303.1| putative Cytochrome c [Glarea lozoyensis 74030]
+MPFKDGDTKKGANLFKTRCAQCHTLGEGEGNKIGPNLHGLFGRHTGQVEGFSYTDANKAKGIEWNTGTLFEYLENPKKYI
+PGTKMAFGGLKKEKDRNDLITFLREETK
+>gi|751175927|gb|KIL61918.1| hypothetical protein M378DRAFT_187476 [Amanita muscaria Koide BX008]
+MPFTSGDAAKGASLFKTRCAQCHTLAAGESHKVGPNLHGVFGRKTGQAEGFSYTAANVNKGVVWNEQTLFEYLENPKKYI
+PGTKMAFAGLKKDKDRNDLITYLKEATA
+>gi|682271528|gb|KFX95342.1| hypothetical protein V490_03908 [Pseudogymnoascus sp. VKM F-3557] >gi|682345170|gb|KFY38656.1| hypothetical protein V495_06443 [Pseudogymnoascus sp. VKM F-4514 (FW-929)] >gi|682380041|gb|KFY63428.1| hypothetical protein V497_02002 [Pseudogymnoascus sp. VKM F-4516 (FW-969)]
+MPFKDGDSKKGANLFKTRCAQCHTLGDGEANKIGPNLFGLFGRQTGSVEGYSYTDANKQKAITWDESTLFEYLENPKKYI
+PGTKMAFGGLKKEKDRNDLITYLRESTK
+>gi|972541498|gb|KUJ18118.1| putative cytochrome c [Phialocephala scopiformis]
+MPFKDGDAKKGANLFKTRCAQCHTLGEGEGNKIGPNLHGLFGRHTGSVPGFSYTDANKAKGIEWNTDTLFEYLENPKKYI
+PGTKMAFGGLKKDKDRNDLITFLREETK
+>gi|1003331680|emb|CDU22688.1| probable CYTOCHROME C [Sporisorium scitamineum]
+MGYKPGDATKGASLFKSRCAQCHTLGEGEPHKVGPNLHGLFGRKTGQAPGYSYSAANVNKGIEWSGETLFEYLENPKRYI
+PGTKMAFGGLKKDKDRNDLIAHLEEATK
+>gi|936530348|emb|CDO52166.1| similar to Saccharomyces cerevisiae YJR048W CYC1 Cytochrome c, isoform 1 [Geotrichum candidum]
+MAPFEKGNSKKGANLFKTRCLQCHTTEEGGANKVGPNLHGVFGRTSGNAPGYSYTEANKKKGVMWDEQTMHDYLENPKKY
+IPGTKMAFGGLKKVKDRNDIVTYLKEACS

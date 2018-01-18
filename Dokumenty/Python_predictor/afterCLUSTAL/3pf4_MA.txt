@@ -1,0 +1,500 @@
+>gi|1054044140|ref|WP_066137954.1| cold-shock protein [Bacillus lentus]
+-------------------------------------MQNGKVKWFNNEKGFGFLEIEGGDDVFVHFSAILGEGFKSLEEGEEVSFEIVEGNRGPQAANVTKLS--
+>gi|497879622|ref|WP_010193778.1| cold-shock protein [Bacillus sp. m3-13]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAITGDGFKSLEEGEEVSFEVVEGNRGPQAANVTKL---
+>gi|1025826853|ref|WP_063560739.1| cold-shock protein [Bacillus horikoshii]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAITGEGFKSLEEGDEVSFEIVEGNRGPQAANVTKL---
+>gi|1031481012|ref|WP_064097350.1| cold-shock protein [Bacillus horikoshii]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGEDVFVHFSAITGEGFKSLEEGQEVSFEIVEGNRGPQAANVSKL---
+>gi|983511726|ref|WP_060663892.1| cold-shock protein [Bacillus sp. CHD6a] >gi|928238158|gb|KPB06599.1| cold-shock protein [Bacillus sp. CHD6a]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAITGEGFKSLEEGQEVSFEIVEGNRGPQAANVSKL---
+>gi|651534854|ref|WP_026563856.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|699062343|gb|KGM45895.1| cold-shock protein [Bacillus niacini]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAITGEGFKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|654944228|ref|WP_028394394.1| cold-shock protein [Bacillus sp. FJAT-14578]
+--------------------------------------MQGKVKWFNGEKGFGFISVEGGDDVFVHFTAIQGEGFKTLEEGQDVSFDIVEGNRGPQAANVVKL---
+>gi|1011184283|ref|WP_062104851.1| cold-shock protein [Bacillus niameyensis]
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGEDIFVHFTAIQGEGFKTLEEGQAVSFEIVEGNRGPQAANVVKQS--
+>gi|517537006|ref|WP_018707214.1| cold-shock protein [Bacillus fordii]
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVFVHFTAIQGEGFKTLEEGEEVSFEIVEGNRGPQAANVNKVSSI
+>gi|503625114|ref|WP_013859190.1| cold-shock protein [Bacillus coagulans] >gi|335367343|gb|AEH53294.1| cold-shock DNA-binding domain protein [Bacillus coagulans 
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVFVHFTAIQGEGFKTLEEGQAVSFDIVEGNRGPQAANVTKLS--
+>gi|1054356237|ref|WP_066232576.1| cold-shock protein [Bacillus sporothermodurans] >gi|1004893420|gb|KYD03265.1| hypothetical protein B4102_3428 [Bacillus sporoth
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVFVHFTAIQSEGFKTLEEGQEVSFEIVEGNRGPQAANVTKK---
+>gi|953356471|ref|WP_058006427.1| cold-shock protein [Bacillus farraginis]
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVFVHFTAIQGEGFKTLEEGQEVSFEIVEGNRGPQAANVTKK---
+>gi|1054451874|ref|WP_066262946.1| cold-shock protein [Bacillus acidicola]
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVFVHFSAIQGEGFKTLEEGQEVSFEIVEGNRGPQAANVTKLPQ-
+>gi|944527961|ref|WP_055739493.1| cold-shock protein [Bacillus shackletonii] >gi|944290168|gb|KQL53757.1| cold-shock protein [Bacillus shackletonii]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFTAIQGEGFKTLEEGQEVSFEIVEGNRGPQAANVTKLS--
+>gi|517489678|ref|WP_018660255.1| cold-shock protein [Bacillus acidiproducens]
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVFVHFTAIQGEGFKTLEEGQEVSFEIVEGNRGPQAANVTKLS--
+>gi|647283032|ref|WP_025728250.1| cold-shock protein [Bacillus ginsengihumi] >gi|724793356|gb|KHD86066.1| cold-shock protein [Bacillus ginsengihumi]
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVFVHFTAIQGEGFKTLEEGQEVSFEIVEGNRGPQAANVTKL---
+>gi|516365390|ref|WP_017755423.1| cold-shock protein [Bacillus sp. ZYK]
+-------------------------------------MQNGKVKWFNAEKGFGFIEVEGGDDVFVHFSAIQSEGFKTLEEGQEVSFEIVEGARGPQAANVVKL---
+>gi|1011015403|ref|WP_061971998.1| cold-shock protein [Fictibacillus enclensis] >gi|959352855|gb|KSU83202.1| cold-shock protein [Fictibacillus enclensis] >gi|1049
+-------------------------------------MQNGKVKWFNAEKGFGFIEVEGGDDVFVHFSAIQSEGFKSLDEGQEVSFEIVEGARGPQAANVTKL---
+>gi|654952818|ref|WP_028402769.1| cold-shock protein [Bacillus panaciterrae]
+--------------------------------------MQGKVKWFNNEKGFGFIEVEGGNDVFVHFSAIQGEGFKSLEEGQEVSFDIVEGNRGPQAANVVRV---
+>gi|558636775|ref|WP_023511604.1| cold-shock protein [Sporolactobacillus laevolacticus] >gi|558501175|gb|EST10438.1| cold-shock protein [Sporolactobacillus laevo
+-------------------------------------MQNGKVKWFNAEKGYGFIEVEGGNDVFVHYSAIEGDGFKTLEEGQEVSFDIVEGNRGPQAANVTKL---
+>gi|497709817|ref|WP_010024001.1| MULTISPECIES: cold-shock protein [Sporolactobacillus] >gi|823094141|gb|KLI03759.1| cold-shock protein [Sporolactobacillus inuli
+-------------------------------------MQNGKVKWFNAEKGYGFIEVEGGNDVFVHYSAIEGEGFKTLEEGQEVSFDIVEGNRGPQAANVVKL---
+>gi|501041912|ref|WP_012093819.1| cold-shock protein [Bacillus cytotoxicus] >gi|152023878|gb|ABS21648.1| putative cold-shock DNA-binding domain protein [Bacillus
+--------------------------------------MQGKVKWFNNEKGFGFIEIEGADDVFVHFTAIQGEGYKSLEEGQEVSFDIVEGNRGPQAANVVKL---
+>gi|16974807|pdb|1HZC|A Chain A, Bacillus Caldolyticus Cold-Shock Protein Mutants To Study Determinants Of Protein Stability >gi|16974808|pdb|1HZC|B Ch
+-------------------------------------MQEGKVKWFNNEKGYGFIEVEGGSDVFVHFTAIQGEGFKTLEEGQAVSFEIVQGNRGPQAANVVKE---
+>gi|16974803|pdb|1HZA|A Chain A, Bacillus Caldolyticus Cold-Shock Protein Mutants To Study Determinants Of Protein Stability >gi|16974804|pdb|1HZA|B Ch
+-------------------------------------MQRGKVKWFNNEKGYGFIEVEGGSDVFVHFTAIQGEGFKTLEEGQEVSFEIVQGNRGPQAANVTKEA--
+>gi|16974805|pdb|1HZB|A Chain A, Bacillus Caldolyticus Cold-Shock Protein Mutants To Study Determinants Of Protein Stability >gi|16974806|pdb|1HZB|B Ch
+-------------------------------------MQRGKVKWFNNEKGYGFIEVEGGSDVFVHFTAIQGEGFKTLEEGQEVSFEIVQGNRGPQAANVVKE---
+>gi|506343868|ref|WP_015863587.1| MULTISPECIES: cold-shock protein [Geobacillus] >gi|239807051|gb|ACS24116.1| cold-shock DNA-binding domain protein [Geobacillus 
+-------------------------------------MQHGKVKWFNNEKGYGFIEVEGGSDVFVHFTAIQGEGFKTLEEGQEVSFEIVQGNRGPQAANVVKL---
+>gi|16974809|pdb|1I5F|A Chain A, Bacillus Caldolyticus Cold-Shock Protein Mutants To Study Determinants Of Protein Stability >gi|16974810|pdb|1I5F|B Ch
+-------------------------------------MQEGKVKWFNNEKGYGFIEVEGGSDVFVHFTAIQGEGFKTLEEGQEVSFEIVQGNRGPQAANVVKL---
+>gi|16974801|pdb|1HZ9|A Chain A, Bacillus Caldolyticus Cold-Shock Protein Mutants To Study Determinants Of Protein Stability >gi|16974802|pdb|1HZ9|B Ch
+-------------------------------------MQRGKVKWFNNEKGYGFIEVEGGSDVFVHFTAIQGEGFKTLEEGQAVSFEIVQGNRGPQAANVVKL---
+>gi|489344324|ref|WP_003251474.1| MULTISPECIES: cold-shock protein CspB [Bacillaceae] >gi|729217|sp|P41016.1|CSPB_BACCL RecName: Full=Cold shock protein CspB >gi
+-------------------------------------MQRGKVKWFNNEKGYGFIEVEGGSDVFVHFTAIQGEGFKTLEEGQEVSFEIVQGNRGPQAANVVKL---
+>gi|502821199|ref|WP_013056175.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|294348171|gb|ADE68500.1| cold shock protein [Bacillus megaterium QM B1551] >gi|
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGSDVFVHFSAIQSEGYKSLEEGQEVSFEIVEGNRGPQAANVTKLS--
+>gi|489494007|ref|WP_003398931.1| MULTISPECIES: cold-shock protein [Bacillaceae] >gi|212560796|gb|ACJ33851.1| Cold shock protein, CspA family [Anoxybacillus flav
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVFVHFTAIQGEGYKTLEEGQAVSFEIVQGNRGPQAANVVKL---
+>gi|1021812202|ref|WP_063389667.1| MULTISPECIES: cold-shock protein [Bacillaceae] >gi|1020971235|gb|KZM54405.1| cold-shock protein [Geobacillus sp. 8] >gi|1021576
+------------------------------------MQQNGKVKWFNNEKGYGFIEVEGGDDVFVHFTAIQGEGFKTLEEGQAVSFEIVQGNRGPQAANVVKL---
+>gi|768727244|ref|WP_044896306.1| cold-shock protein [Bacillus alveayuensis]
+------------------------------------MQQNGKVKWFNNEKGYGFIEVEGGDDVFVHFTAIQGEGFKSLEEGQAVSFEIVQGNRGPQAANVVKL---
+>gi|489449700|ref|WP_003355070.1| cold-shock protein [Bacillus smithii] >gi|363623422|gb|EHL74543.1| cold shock protein CspD [Bacillus smithii 7_3_47FAA] >gi|873
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVFVHFTAIQGDGYKSLEEGQAVSFEIVEGNRGPQAANVVKL---
+>gi|751622178|ref|WP_041090059.1| cold-shock protein [Jeotgalibacillus soli Cunha et al. 2012] >gi|751157044|gb|KIL44147.1| cold-shock protein [Jeotgalibacillus 
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVFVHFTAVQGDGYKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|1011459800|ref|WP_062356553.1| cold-shock protein [bacterium SIT5]
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVFVHYTAIQGDGYKSLEEGQEVSFEVVEGNRGPQAANVVKL---
+>gi|727678919|ref|WP_033828667.1| MULTISPECIES: cold-shock protein [Bacillus]
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGNDVFVHYSAIQGDGYKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|953346246|ref|WP_057997294.1| cold-shock protein [Bacillus humi]
+-------------------------------------MQNGKVKWFNGEKGFGFIEVQGGDDVFVHFSAIQGDGFKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|850298635|ref|WP_048005834.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|848283202|gb|KMK93552.1| cold-shock protein [Bacillus marisflavi] >gi|848291273
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAIQGDGFKSLEEGQDVSFDIVEGNRGPQAANVVKL---
+>gi|654945428|ref|WP_028395593.1| cold-shock protein [Bacillus sp. FJAT-14578]
+-------------------------------------MQNGKVKWFNAEKGFGFIEVEGGDDVFVHFSSIQGEGFKSLEEGQEVSFEIVEGNRGPQAANVVKK---
+>gi|497969647|ref|WP_010283803.1| cold-shock protein [Bacillus timonensis]
+-------------------------------------MQNGKVKWFNSEKGFGFIEVQGGDDVFVHFSAIQGEGFKTLEEGQEVSFEIVEGNRGPQASNVVKL---
+>gi|751629044|ref|WP_041096853.1| MULTISPECIES: cold-shock protein CspD [Bacillus] >gi|751189891|gb|KIL75072.1| Cold shock protein CspD [Bacillus badius] >gi|751
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFTAIEGDGYKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|497969813|ref|WP_010283969.1| cold-shock protein [Bacillus timonensis]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFTAIQGEGYKSLEEGQEVSFEVVEGNRGPQAANVVKL---
+>gi|489308351|ref|WP_003215784.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|157681456|gb|ABV62600.1| cold-shock protein [Bacillus pumilus SAFR-032] >gi|194
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFTAIEGDGYKSLEEGQEVSFEIVEGNRGPQAANVTKI---
+>gi|637153332|ref|WP_024422747.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|660806762|gb|KEP29783.1| cold-shock protein [Bacillus safensis] >gi|731484709|g
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFTAIEGDGYKSLEEGQEVSFEIVEGNRGPQAANVTKL---
+>gi|817169189|ref|WP_046524220.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|816385293|gb|KKK37659.1| cold-shock protein [Bacillus campisalis]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFTAIQGEGYKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|817540339|ref|WP_046590248.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|815865461|gb|KKI88710.1| cold-shock protein [Bacillus sp. SA1-12] >gi|103389075
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFTAIQGDGYKSLEEGQEVSFEIVEGNRGPQAANVTKL---
+>gi|651529199|ref|WP_026562601.1| cold-shock protein [Bacillus sp. J37]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFTAIQGEGYKSLEEGQEVSFEIVEGNRGPQAANVTKL---
+>gi|1054357086|ref|WP_066232846.1| cold-shock protein [Bacillus fastidiosus]
+-------------------------------------MQNGKVKWFNNEKGFGFIEIEGGDDVFVHFTAIQGEGYKSLEEGQEVSFEIVEGNRGPQAANVTKL---
+>gi|763051278|ref|WP_043933662.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|695915081|emb|CEG27576.1| cold shock protein [Bacillus sp. B-jedd] >gi|92518721
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGEDVFVHFSAIQGDGFKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|737432905|ref|WP_035413557.1| cold-shock protein [Bacillus sp. SJS] >gi|1024739481|gb|KZZ82548.1| cold-shock protein [Bacillus sp. SJS]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGEDVFVHFTAIQGDGFKSLEEGQEVSFEIVEGNRGPQASNVTKL---
+>gi|490570069|ref|WP_004435089.1| cold-shock protein [Bacillus methanolicus] >gi|387590899|gb|EIJ83218.1| Cold shock protein, CspA family [Bacillus methanolicus 
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVLVHFSAIQGEGFKSLEEGQEVSFEIVQGNRGPQAANVVKL---
+>gi|505407580|ref|WP_015594682.1| cold-shock protein [Bacillus sp. 1NLA3E] >gi|484577832|gb|AGK54630.1| Cold shock protein CspD [Bacillus sp. 1NLA3E]
+-------------------------------------MQNGKVKWFNNEKGFGFIEIEGGDDVFVHFSAIQGEGYKALEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|736754958|ref|WP_034758543.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|933905180|gb|KPL59837.1| cold-shock protein [Bacillus vietnamensis]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAIQGEGFKSLEEGQEVSFDVVEGNRGPQAANVVKL---
+>gi|857572900|emb|CRK83854.1| cold-shock protein [Bacillus sp. LF1]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAITGDGFKSLEEGQEVSFEIVEGNRGPQAANVAKL---
+>gi|567924417|ref|WP_024027115.1| cold-shock protein [Bacillus vireti] >gi|566071205|gb|ETI70061.1| cold-shock protein, molecular chaperone, RNA-helicase co-fact
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAITGDGFKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|951396343|ref|WP_057771282.1| MULTISPECIES: cold-shock protein [Bacillus]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFTAITGDGFKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|924339113|ref|WP_053476725.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|923190284|gb|KOP83160.1| cold-shock protein [Bacillus sp. FJAT-21945] >gi|94425
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFTAITGEGFKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|657037256|ref|WP_029280415.1| MULTISPECIES: cold-shock protein CspD [Bacillus] >gi|666910759|gb|KEZ50636.1| cold-shock protein [Bacillus indicus LMG 22858] >
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAIEGDGYKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|517985707|ref|WP_019155915.1| cold-shock protein [Bacillus massiliosenegalensis]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFTAIQGDGFKSLEEGQEVSFEIVEGNRGPQASNVVKL---
+>gi|653070824|ref|WP_027321996.1| cold-shock protein [Bacillus sp. URHB0009]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAISGDGFKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|497477551|ref|WP_009791749.1| MULTISPECIES: cold-shock protein [Bacillales] >gi|89084011|gb|EAR63193.1| cold-shock protein [Bacillus sp. NRRL B-14911] >gi|54
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFTAIQGDGFKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|1031445907|ref|WP_064091392.1| cold-shock protein [Bacillus aquimaris]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAISGEGFKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|755106902|ref|WP_042457673.1| cold-shock protein [Bacillus sp. FF4]
+-------------------------------------MQTGKVKWFNNEKGFGFIEVEGGDDVFVHFSAIQGDGYKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|654946461|ref|WP_028396624.1| cold-shock protein [Bacillus sp. FJAT-14578]
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVFVHFTAIQGEGFKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|560441287|ref|WP_023627628.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|559166612|gb|ESU30259.1| cold-shock protein [Bacillus sp. 17376] >gi|571146897|
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAIQGDGYKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|740750465|ref|WP_038535749.1| cold-shock protein [Bacillus sp. X1(2014)] >gi|675843703|gb|AIM15374.1| cold-shock protein [Bacillus sp. X1(2014)]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAIQGEGYKSLEEGQEVSFEIVQGNRGPQAANVVKL---
+>gi|496691111|ref|WP_009332654.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|317397036|gb|EFV77744.1| cold shock protein cspD [Bacillus sp. 2_A_57_CT2] >gi|
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFTAIQGEGFKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|1053740865|ref|WP_066047720.1| cold-shock protein [Bacillus korlensis]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAIQGEGFKSLEEGQEVSFEIVEGNRGPQASNVVKL---
+>gi|490572151|ref|WP_004437171.1| cold-shock protein [Bacillus methanolicus] >gi|387586270|gb|EIJ78594.1| cold shock protein, CspA family [Bacillus methanolicus 
+-------------------------------------MQNGKVKWFNNEKGYGFIEVEGGDDVFVHFSAIQGEGFKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|1054616978|ref|WP_066384856.1| cold-shock protein [Bacillus mesonae]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAIQGEGYKSLEEGQEVSFEIVEGNRGPQAANVVKI---
+>gi|494145049|ref|WP_007084796.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|409932570|gb|EKN69528.1| cold shock protein cspD [Bacillus bataviensis LMG 2183
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAIQGEGFKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|1054600927|ref|WP_066369177.1| cold-shock protein [Bacillus fumarioli]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAIQGEGYKTLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|755001928|ref|WP_042355328.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|761634635|gb|KIY22238.1| cold-shock protein [Bacillus subterraneus]
+-------------------------------------MQNGKVKWFNNEKGFGFIEVEGGDDVFVHFSAIQGEGYKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|516364565|ref|WP_017754598.1| cold-shock protein [Bacillus sp. ZYK]
+-------------------------------------MQNGKVKWFNAEKGFGFIEVDGGDDVFVHFSAIQGDGFKTLEEGQSVEFEIVEGNRGPQAANVVKR---
+>gi|490566734|ref|WP_004431754.1| cold-shock protein [Bacillus azotoformans] >gi|409926154|gb|EKN63350.1| cold shock protein CspD [Bacillus azotoformans LMG 9581
+-------------------------------------MQTGKVKWFNAEKGFGFIEVEGGDDVFVHFSAIQGEGFKSLEEGQNVEFEIVEGNRGPQAANVVKR---
+>gi|489427014|ref|WP_003332663.1| cold-shock protein [Bacillus azotoformans] >gi|409926578|gb|EKN63738.1| cold shock protein CspD [Bacillus azotoformans LMG 9581
+-------------------------------------MQNGKVKWFNAEKGFGFIEVEGGDDVFVHFSAIQSEGFKTLEEGQEVTFEIVEGARGPQAANVNKA---
+>gi|852222380|ref|WP_048309367.1| cold-shock protein [Anaerobacillus macyae] >gi|850322590|gb|KMM38270.1| cold-shock protein [Anaerobacillus macyae]
+-------------------------------------MQNGKVKWFNAEKGFGFIEVEGGDDVFVHFSAINGEGFKTLDEGQEVNFEIVEGNRGPQAANVTKA---
+>gi|924831195|gb|KOS29080.1| cold-shock protein [Bacillus anthracis] >gi|924831779|gb|KOS29657.1| cold-shock protein [Bacillus anthracis]
+--------------------------------------MQGKVKWFNSEKGFGFIEVEGGDDVFVHFSAIQGDGFKSLEEGQEVTFDIVEGNRGPQAANVVKL---
+>gi|924827115|gb|KOS25041.1| cold-shock protein [Bacillus anthracis] >gi|924827531|gb|KOS25454.1| cold-shock protein [Bacillus anthracis]
+-------------------------------------MQTGKVKWFNSEKGFGFIEVEGGDDVFVHFSAIQGDGFKSLEEGQEVTFEIEEGNRGPQAANVVKK---
+>gi|501044109|ref|WP_012095952.1| cold-shock protein [Bacillus cytotoxicus] >gi|152025933|gb|ABS23703.1| putative cold-shock DNA-binding domain protein [Bacillus
+-------------------------------------MQTGKVKWFNSEKGFGFIEVEGGDDVFVHFSAIQSEGFKTLEEGQEVSFEIVEGNRGPQAANVTKN---
+>gi|447115794|ref|WP_001193050.1| cold-shock protein CspD [Bacillus cereus] >gi|401656015|gb|EJS73539.1| cold shock-like protein CspD [Bacillus cereus BAG2X1-1] 
+-------------------------------------MQTGKVKWFNGEKGFGFIEVEGGDDVFVHFSAIQGEGFKTLEEGQEVSFEIVEGNRGPQAANVTKN---
+>gi|727215029|ref|WP_033676249.1| cold-shock protein CspD [Bacillus gaemokensis] >gi|659909267|gb|KEK23010.1| cold-shock protein [Bacillus gaemokensis] >gi|10055
+-------------------------------------MQTGKVKWFNGEKGFGFIEVEGGDDVFVHFSAIQGEGFKTLEEGQEVSFEIVDGNRGPQAANVTKN---
+>gi|518905493|ref|WP_020061368.1| cold-shock protein [Bacillus sp. 123MFChir2]
+-------------------------------------MQTGKVKWFNGEKGFGFIEVEGGEDVFVHFSAIQGDGFKTLEEGQEVSFEIVEGNRGPQAANVTKK---
+>gi|737452269|ref|WP_035432508.1| cold-shock protein [Bacillus sp. UNC322MFChir4.1]
+-------------------------------------MQTGKVKWFNGEKGFGFIEVEGGEDVFVHFSAIQGEGFKTLEEGQEVSFEIVEGNRGPQAANVTKK---
+>gi|447115797|ref|WP_001193053.1| MULTISPECIES: cold-shock protein CspD [Bacillus] >gi|228665182|gb|EEL20668.1| Cold shock protein cspB [Bacillus cereus Rock1-3]
+-------------------------------------MQTGKVKWFNGEKGFGFIEVEGGEDVFVHFSAIQGEGFKTLEEGQEVSFEIVEGNRGPQAANVTKN---
+>gi|447115795|ref|WP_001193051.1| MULTISPECIES: cold-shock protein CspD [Bacillus cereus group] >gi|2493764|sp|Q45099.1|CSPD_BACCE RecName: Full=Cold shock-like 
+-------------------------------------MQTGKVKWFNGEKGFGFIEVEGGEDVFVHFSAIQGDGFKTLEEGQEVSFEIVDGNRGPQAANVTKN---
+>gi|447115796|ref|WP_001193052.1| MULTISPECIES: cold-shock protein CspD [Bacillus] >gi|218540595|gb|ACK92989.1| cold shock protein CspD [Bacillus cereus G9842] >
+-------------------------------------MQTGKVKWFNGEKGFGFIEVEGGEDVFVHFSAIQGDGFKTLEEGQEVSFEIVEGNRGPQAANVTKN---
+>gi|447115793|ref|WP_001193049.1| MULTISPECIES: cold-shock protein CspD [Bacillus] >gi|228619604|gb|EEK76489.1| Cold shock protein cspB [Bacillus cereus R309803]
+-------------------------------------MQTGKVKWFNGEKGFGFIEVEGGDDVFVHFSAIQGDGFKTLEEGQEVSFEIVEGNRGPQAANVTKN---
+>gi|447115798|ref|WP_001193054.1| MULTISPECIES: cold-shock protein CspD [Bacilli] >gi|30022927|ref|NP_834558.1| cold shock protein [Bacillus cereus ATCC 14579] >
+-------------------------------------MQTGKVKWFNSEKGFGFIEVEGGDDVFVHFSAIQGDGFKTLEEGQEVSFEIVEGNRGPQAANVTKN---
+>gi|757747516|ref|WP_042969862.1| cold-shock protein [Bacillus thuringiensis] >gi|661911948|gb|AIE36133.1| cold shock protein CspD [Bacillus thuringiensis serova
+-------------------------------------MQTGKVKWFNSEKGFGLIEVEGGDDVFVHFSAIQGDGFKTLEEGQEVSFEIVEGNRGPQAANVTKN---
+>gi|827086772|ref|WP_047184109.1| cold-shock protein [Oceanobacillus caeni] >gi|808691116|gb|KKE80217.1| cold-shock protein [Bacilli bacterium VT-13-104] >gi|930
+-------------------------------------MNKGSVKWFNAEKGFGFIEVEGGDDVFVHFSAIQGDGFKTLEEGQEVSFDIEEGNRGPQAANVTKL---
+>gi|1057312160|ref|WP_068673386.1| cold-shock protein [Oceanobacillus sp. Castelsardo]
+-------------------------------------MNKGSVKWFNAEKGFGFIEVEGGDDVFVHFSAIQGEGFKTLEEGQEVSFDIEEGNRGPQAANVVKL---
+>gi|1016782361|emb|CZQ94820.1| cold shock protein signature [Trichococcus palustris]
+-------------------------------------MEQGKVKWFNGEKGFGFIEVEGKDDVFVHFSAIQGEGFKTLEEGQEVEFEIVEGNRGPQAANVVKL---
+>gi|1057253210|ref|WP_068623222.1| cold-shock protein [Trichococcus ilyis] >gi|1016794009|emb|CZR01742.1| cold shock protein signature [Trichococcus ilyis]
+-------------------------------------MEQGKVKWFNGEKGFGFIEVEGKDDVFVHFSAIQGEGFKTLEEGQEVEFEIVDGNRGPQAANVVKL---
+>gi|847256085|ref|WP_047970483.1| cold-shock protein [Bacillus sp. LL01] >gi|845001871|gb|KMJ58250.1| cold-shock protein [Bacillus sp. LL01]
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGDGFKSLEEGQEVSFEIVEGARGPQAANVTK----
+>gi|497878194|ref|WP_010192350.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|928235500|gb|KPB04020.1| cold-shock protein [Bacillus sp. CHD6a]
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQEVSFEIVEGARGPQAANVTK----
+>gi|1031496235|ref|WP_064100611.1| cold-shock protein [Bacillus horikoshii]
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGDGFKTLEEGQEVSFEIVEGARGPQAANVTK----
+>gi|497858524|ref|WP_010172680.1| cold-shock protein [Bacillus coahuilensis] >gi|974387811|gb|KUP06839.1| cold-shock protein [Bacillus coahuilensis p1.1.43] >gi|
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKSLEEGQEVSFEIVEGNRGPQAANVTK----
+>gi|518223206|ref|WP_019393414.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|868707657|gb|AKO92058.1| cold-shock protein [Bacillus endophyticus] >gi|1005529
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQEVSFEIVEGNRGPQAANVQK----
+>gi|502822901|ref|WP_013057877.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|294349873|gb|ADE70202.1| cold shock protein [Bacillus megaterium QM B1551] >gi|
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQEVTFEIVEGNRGPQAANVQK----
+>gi|495624482|ref|WP_008349061.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|388424932|gb|EIL82769.1| major cold shock protein [Bacillus sp. M 2-6] >gi|5940
+-------------------------------------MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQSVSFEIVEGNRGPQAANVNKA---
+>gi|498019355|ref|WP_010333511.1| MULTISPECIES: cold-shock protein CspB [Bacillaceae] >gi|974722108|gb|KUP31397.1| cold-shock protein [[Brevibacterium] halotoler
+-------------------------------------MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQSVSFEIVEGNRGPQAANVTKEA--
+>gi|518573536|ref|WP_019743743.1| cold-shock protein [Bacillus pumilus]
+-------------------------------------MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQSVSFEIVEGNRGPQ----------
+>gi|490565007|ref|WP_004430034.1| MULTISPECIES: cold-shock protein [Bacillus subtilis group] >gi|310867910|gb|ADP31385.1| CspB [Bacillus atrophaeus 1942] >gi|388
+-------------------------------------MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQTVSFEIVEGNRGPQAANVTKA---
+>gi|489247219|ref|WP_003155376.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|52002594|gb|AAU22536.1| major cold-shock protein [Bacillus licheniformis DSM 13
+-------------------------------------MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQSVSFEIVEGNRGPQAANVTKA---
+>gi|765089906|gb|KJD52698.1| cold-shock protein [Bacillus amyloliquefaciens]
+------------------------------------------VKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQSVSFEIVEGNRGPQAANVTKA---
+>gi|456238|emb|CAA51842.1| cold shock protein, partial [Bacillus subtilis] >gi|740007|prf||2004289D cold shock protein [Bacillus subtilis subsp. globigii]
+------------------------------------------VKWFNSEKGFGLIEVEGQDDVFVHFSAIQGEGFKTLEESQAVSFEIVEGNRGPQAAN-------
+>gi|729219|sp|P41018.1|CSPB_SPOGL RecName: Full=Cold shock protein CspB >gi|456240|emb|CAA51791.1| major cold shock protein (CspB), partial [Sporosarcina globisp
+------------------------------------------IKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKCLEEGQAVSFEIVEGNRGPQAAN-------
+>gi|1018192963|gb|AMY26731.1| cold shock protein B [synthetic construct] >gi|1025818184|gb|ANC67969.1| cold shock protein B [synthetic construct]
+-------------------------------------MVEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQAVSFEIVEGNRGPQAANVTKEA--
+>gi|489304835|ref|WP_003212277.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|194014002|gb|EDW23567.1| conserved domain protein [Bacillus pumilus ATCC 7061] 
+-------------------------------------MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQAVSFEIVEGNRGPQAANVNKA---
+>gi|1018192961|gb|AMY26730.1| cold shock protein B [Bacillus subtilis]
+-------------------------------------MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQAVSFEIVEGNRGPQAANVAKEA--
+>gi|402480320|gb|AFQ56829.1| Major cold-shock protein, RNA helicase co-factor,RNA [Bacillus subtilis QB928]
+MFELSLRRKFCKSFRLESLLRARIVNLSVMIALGGNFMLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQAVSFEIVEGNRGPQAANVTKEA--
+>gi|489316719|ref|WP_003224086.1| MULTISPECIES: cold-shock protein CspB [Bacillales] >gi|16077975|ref|NP_388791.1| cold shock protein CspB [Bacillus subtilis sub
+-------------------------------------MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQAVSFEIVEGNRGPQAANVTKEA--
+>gi|351470146|gb|EHA30322.1| major cold shock protein [Bacillus subtilis subsp. subtilis str. SC-8] >gi|449027531|gb|AGE62770.1| major cold shock protein [B
+-----------------------------MIALGGNFMLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQAVSFEIVEGNRGPQAANVTKEA--
+>gi|742328049|ref|WP_038829225.1| cold-shock protein [Bacillus subtilis]
+-------------------------------------MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQAVSFEIVEGNRGPQA---------
+>gi|497988827|ref|WP_010302983.1| cold-shock protein [Kurthia sp. JC8E]
+-------------------------------------MEKGTVKWFNAEKGFGFIEVEGGDDVFVHFSAIQGEGFKSLDEGQAVEFEVTEGNRGPQAANVTKL---
+>gi|1011553519|ref|WP_062446130.1| cold-shock protein [Thalassobacillus sp. TM-1]
+-------------------------------------MKNGTVKWFNAEKGFGFIEVQGEDDVFVHFSAIQGEGFKTLEEGQAVEFEITEGNRGPQAANVVKL---
+>gi|655377793|ref|WP_028782948.1| cold-shock protein [Thalassobacillus devorans]
+-------------------------------------MKNGTVKWFNAEKGFGFIEVQGEDDVFVHFSAIEGEGFKTLEEGQAVEFEITEGNRGPQAANVVKL---
+>gi|966452130|ref|WP_058485701.1| cold-shock protein [Defluviitalea phaphyphila]
+-------------------------------------MKKGTVKWFNAEKGFGFISVEGEDDVFVHFSAIQGEGFKTLEEGQAVEFEVVEGARGPQAANVSKL---
+>gi|918985079|ref|WP_052651506.1| cold-shock protein [Planomicrobium sp. ES2] >gi|695910714|emb|CEG22702.1| Cold shock protein CspB [Planomicrobium sp. ES2]
+-------------------------------------MQQGTVKWFNSEKGFGFIEVEGGDDVFVHFSAIQGEGFKTLDEGQKVEFEVEEGNRGPQATNVTKL---
+>gi|721319289|ref|WP_033541967.1| MULTISPECIES: cold-shock protein [Planococcus] >gi|961575779|gb|ALS73951.1| cold-shock protein [Planococcus rifietoensis] >gi|1
+-------------------------------------MQEGTVKWFNSEKGFGFIEVEGGDDVFVHFSAIQGEGFKTLDEGQRVEFEVEEGNRGPQATNVTKL---
+>gi|495703805|ref|WP_008428384.1| MULTISPECIES: cold-shock protein [Planococcus] >gi|323398325|gb|EGA91118.1| cold shock protein [Planococcus donghaensis MPA1U2]
+-------------------------------------MQEGTVKWFNSEKGFGFIEVEGGDDVFVHFSAIQGEGFKTLDEGQRVEFEVEEGNRGPQATNVTKV---
+>gi|963417748|ref|WP_058385256.1| cold-shock protein [Planococcus kocurii] >gi|961580428|gb|ALS78597.1| cold-shock protein [Planococcus kocurii]
+-------------------------------------MQEGTVKWFNSEKGFGFIEVEGGDDVFVHFSAIQGDGFKTLDEGQRVEFEVEEGNRGPQATNVTKA---
+>gi|740918743|ref|WP_038703990.1| cold-shock protein [Planococcus sp. PAMC 21323] >gi|723612194|gb|AIY05569.1| cold shock protein [Planococcus sp. PAMC 21323]
+-------------------------------------MQQGTVKWFNSEKGFGFIEVEGGDDVFVHFSAIQGEGFKTLDEGQRVEFEVEEGNRGPQATNVTKA---
+>gi|497971655|ref|WP_010285811.1| cold-shock protein [Kurthia massiliensis]
+-------------------------------------MKQGTVKWFNAEKGFGFIEVEGENDVFVHFSAIQGEGFKTLDEGQAVEFEVEEGNRGPQATNVTKL---
+>gi|639196265|ref|WP_024534722.1| cold-shock protein [Sporosarcina sp. EUR3 2.2.2]
+-------------------------------------MKQGTVKWFNSEKGFGFIEIDGGDDVFVHFSAIQGDGFKTLDEGQKVEFEVVDGNRGPQAANVTKI---
+>gi|495682669|ref|WP_008407248.1| MULTISPECIES: cold-shock protein [Solibacillus] >gi|327440173|dbj|BAK16538.1| cold shock protein [Solibacillus silvestris StLB0
+-------------------------------------MKQGTVKWFNSEKGFGFIELEGEDDVFVHFSAIQGEGFKTLEEGQKVEFEVVDGNRGPQASNVIKL---
+>gi|1055036557|ref|WP_066787382.1| cold-shock protein [Rummeliibacillus stabekisii] >gi|1016267963|gb|AMW99094.1| cold-shock protein [Rummeliibacillus stabekisii]
+-------------------------------------MKQGTVKWFNSEKGFGFLEVQGEDDVFVHFSAIQGEGFKTLEEGQKVEFEVVEGNRGPQAANVVKL---
+>gi|495573785|ref|WP_008298364.1| cold-shock protein [Bhargavaea cecembensis] >gi|470233790|gb|EMR06748.1| Cold shock protein CspA [Bhargavaea cecembensis DSE10]
+-------------------------------------MKQGTVKWFNAEKGFGFIEVEGEDDVFVHFSAIQGEGFKTLDEGQQVEFEVVEGNRGPQAANVVKL---
+>gi|749605034|ref|WP_040228597.1| cold-shock protein [Bhargavaea cecembensis]
+-------------------------------------MKQGTVKWFNAEKGFGFIEVEGEDDVFVHFSAIQGEGFKTLDEGQQVEFEVVDGNRGPQAANVVKL---
+>gi|512480354|ref|WP_016427303.1| cold-shock protein [Paenisporosarcina sp. HGH0030] >gi|512054407|gb|EPD53969.1| cold shock-like protein CspD [Paenisporosarcina
+-------------------------------------MKQGTVKWFNSEKGFGFIEIEGENDVFVHFSAIQGDGFKTLDEGQKVEFEVVDGNRGPQAANVTKV---
+>gi|740352983|ref|WP_038189357.1| MULTISPECIES: cold-shock protein [Viridibacillus] >gi|573583179|gb|ETT81470.1| cold shock protein [Viridibacillus arenosi FSL R
+-------------------------------------MKQGTVKWFNSEKGFGFIEVEGENDVFVHFSAIQGDGFKTLDEGQKVEFEVVEGNRGPQAANVTKL---
+>gi|738190667|ref|WP_036146725.1| cold-shock protein [Lysinibacillus sp. BF-4] >gi|674647512|emb|CEA00130.1| Cold shock protein CspA [Lysinibacillus sp. 13S34_ai
+-------------------------------------MKQGTVKWFNSEKGFGFIEVDGENDVFVHFSAIQGDGFKTLDEGQKVEFEVVEGNRGPQAANVTKL---
+>gi|1054698376|ref|WP_066464223.1| cold-shock protein [Caryophanon latum] >gi|1049946133|gb|OCS90806.1| cold-shock protein [Caryophanon latum]
+-------------------------------------MKQGTVKWFNSEKGFGFIEVEGESDVFVHFSAIQGEGFKTLDEGQQVEFEVVDGNRGPQAANVTKL---
+>gi|515285054|ref|WP_016839225.1| cold-shock protein [Ureibacillus thermosphaericus]
+-------------------------------------MKQGTVKWFNSEKGFGFIEVEGENDVFVHFSAIQGEGFKTLDEGQKVEFEVVEGNRGPQAANVVKL---
+>gi|738224238|ref|WP_036179813.1| MULTISPECIES: cold-shock protein [Lysinibacillus] >gi|704820421|gb|KGR76929.1| cold-shock protein [Lysinibacillus sinduriensis 
+-------------------------------------MKQGTVKWFNSEKGFGFIEVEGENDVFVHFSAIQGEGFKTLDEGQKVEFEVVDGNRGPQAANVVKL---
+>gi|738202881|ref|WP_036158806.1| cold-shock protein [Lysinibacillus odysseyi] >gi|704825495|gb|KGR81836.1| cold-shock protein [Lysinibacillus odysseyi 34hs-1 = 
+-------------------------------------MKQGTVKWFNSEKGFGFIEVEGENDVFVHFSAIQGEGFKTLDEGQKVEFEVVDGNRGPQAANVIKL---
+>gi|490350315|ref|WP_004230088.1| MULTISPECIES: cold-shock protein [Bacillaceae] >gi|126589048|gb|EAZ83279.1| cold shock protein [Bacillus sp. B14905] >gi|168992
+-------------------------------------MKQGTVKWFNSEKGFGFIEVEGENDVFVHFSAIQGEGFKTLDEGQKVEFEVVDGNRGPQAANVTKL---
+>gi|1054778948|ref|WP_066542581.1| cold-shock protein [Caryophanon tenue] >gi|1049943992|gb|OCS88719.1| cold-shock protein [Caryophanon tenue]
+-------------------------------------MKQGTVKWFNSEKGFGFIEVDGENDVFVHFSAIQGEGFKTLDEGQKVEFEVVDGNRGPQAANVTKL---
+>gi|1054157336|ref|WP_066172510.1| cold-shock protein [Bacillus sp. NC2-31] >gi|1028407487|gb|OAI38410.1| cold-shock protein [Bacillus sp. NC2-31]
+-------------------------------------MQNGKVKWFNAEKGFGFIEVEGGDDVFVHFSAINGEGFKTLEEGEDVNFEIVEGNRGPQAANVTRG---
+>gi|746177927|ref|WP_039237616.1| cold-shock protein [Bacillus thermotolerans] >gi|805309796|gb|KKB33831.1| Cold shock protein CspD [Bacillus thermotolerans] >gi
+-------------------------------------MLQGKVKWFNSEKGYGFIEAEGQDDVFVHFSAIQGEGYKTLEEGQSVSFEIVEGPRGPQAANVEKQ---
+>gi|751633219|ref|WP_041101023.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|751187485|gb|KIL72682.1| Cold shock protein CspD [Bacillus badius] >gi|75119201
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGYKTLEEGQSVSFEVVEGPRGPQAANVEKQ---
+>gi|902791443|ref|WP_049661945.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|899717181|gb|KMY53896.1| cold-shock protein [Bacillus sp. FJAT-27231] >gi|10435
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGDGYKTLEEGQSVSFEVVEGPRGPQAANVEKQ---
+>gi|517204050|ref|WP_018392868.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|1028003046|gb|OAH57850.1| cold-shock protein [[Bacillus] aminovorans] >gi|10280
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGYKSLEEGQSVTFEVVEGPRGPQAANVEKN---
+>gi|797184942|ref|WP_045851116.1| cold-shock protein [Domibacillus enclensis]
+-------------------------------------MLEGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGYKSLEEGQSVTFEVVEGPRGPQAANVEKH---
+>gi|806817381|ref|WP_046176144.1| MULTISPECIES: cold-shock protein [Domibacillus]
+-------------------------------------MLEGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGYKSLEEGQNVTFEVVEGPRGPQAANVEKH---
+>gi|806832237|ref|WP_046181024.1| cold-shock protein [Domibacillus tundrae]
+-------------------------------------MLEGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGYKSLEEGQTVKFEVVEGPRGPQAANVEKN---
+>gi|738929268|ref|WP_036815887.1| cold-shock protein [Pontibacillus yanchengensis] >gi|701593431|gb|KGP74236.1| cold-shock protein [Pontibacillus yanchengensis Y
+-------------------------------------MNQGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQEEGFKTLEEGQTVTFDIVEGNRGPQADNVVKN---
+>gi|737534670|ref|WP_035508406.1| MULTISPECIES: cold-shock protein [Halobacillus] >gi|635344056|emb|CDQ27441.1| Major cold shock protein [Halobacillus trueperi] 
+-------------------------------------MLQGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEENEQVTFEVVEGDRGPQAANVQK----
+>gi|654483771|ref|WP_027953723.1| cold-shock protein [Halobacillus kuroshimensis]
+-------------------------------------MLQGNVKWFNESKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEENQTVTFEIVEGDRGPQAANVQK----
+>gi|738931698|ref|WP_036818015.1| cold-shock protein [Pontibacillus yanchengensis] >gi|701592438|gb|KGP73265.1| cold-shock protein [Pontibacillus yanchengensis Y
+-------------------------------------MLQGNVKWFNAEKGFGFIEVEGQDDVFVHFSAIQEEGFKTLEENQTVTFDIVEGNRGPQAANVQK----
+>gi|737571175|ref|WP_035543224.1| cold-shock protein [Halobacillus sp. BBL2006] >gi|725820525|gb|KHE72493.1| cold-shock protein [Halobacillus sp. BBL2006]
+-------------------------------------MLQGNVKWFNESKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEENETVSFEIVEGNRGPQAANVQK----
+>gi|495909271|ref|WP_008633850.1| MULTISPECIES: cold-shock protein [Bacillaceae] >gi|432191059|gb|ELK48040.1| cold shock protein [Halobacillus sp. BAB-2008]
+-------------------------------------MLQGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEENETVSFEIVEGDRGPQAANVQK----
+>gi|504454730|ref|WP_014641832.1| cold-shock protein [Halobacillus halophilus] >gi|384072435|emb|CCG43925.1| cold shock protein [Halobacillus halophilus DSM 2266
+-------------------------------------MLQGNVKWFNAEKGFGFIEVEGQDDVFVHFSAIQSEGFKTLEENETVSFEIVEGNRGPQAANVQR----
+>gi|737582138|ref|WP_035553249.1| cold-shock protein [Halobacillus sp. BBL2006] >gi|725812990|gb|KHE66820.1| cold-shock protein [Halobacillus sp. BBL2006]
+-------------------------------------MLQGNVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEENETVTFEIVEGNRGPQAANVQK----
+>gi|655377275|ref|WP_028782438.1| MULTISPECIES: cold-shock protein [Thalassobacillus]
+-------------------------------------MLQGNVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEENETVSFEIVEGNRGPQAANVQK----
+>gi|504454729|ref|WP_014641831.1| cold-shock protein [Halobacillus halophilus] >gi|384072434|emb|CCG43924.1| cold shock protein [Halobacillus halophilus DSM 2266
+-------------------------------------MLQGNVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEENETVSFEIVEGNRGPQAANVQR----
+>gi|738949064|ref|WP_036833629.1| cold-shock protein [Pontibacillus litoralis] >gi|717927834|gb|KGX87165.1| cold-shock protein [Pontibacillus litoralis JSM 07200
+-------------------------------------MNQGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQEEGFKTLEEGQAVSFEIVEGNRGPQAANVTKS---
+>gi|738894931|ref|WP_036781972.1| cold-shock protein [Pontibacillus chungwhensis] >gi|701633040|gb|KGP91870.1| cold-shock protein [Pontibacillus chungwhensis BH0
+-------------------------------------MLQGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQEEGFKTLEEGQAVSFEVVEGDRGPQAANVQK----
+>gi|652405184|ref|WP_026800953.1| cold-shock protein [Pontibacillus halophilus] >gi|717931850|gb|KGX91087.1| cold-shock protein [Pontibacillus halophilus JSM 076
+-------------------------------------MLQGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQEEGFKTLEENQTVNFEIVEGDRGPQAANVTKQ---
+>gi|738932107|ref|WP_036818395.1| cold-shock protein [Pontibacillus yanchengensis] >gi|701592237|gb|KGP73070.1| cold-shock protein [Pontibacillus yanchengensis Y
+-------------------------------------MLQGNVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQQVSFEIVEGNRGPQAANVSK----
+>gi|495863605|ref|WP_008588184.1| cold-shock protein [Salimicrobium jeotgali] >gi|407019686|gb|EKE32401.1| cold shock protein [Salimicrobium jeotgali] >gi|817637
+-------------------------------------MLQGNVKWFNAEKGYGFIEVEGQDDVFVHFSAIQDEGFKTLEEGQTVSFEIVEGNRGPQAANVQK----
+>gi|653240560|ref|WP_027446191.1| MULTISPECIES: cold-shock protein [Pontibacillus] >gi|701633000|gb|KGP91830.1| cold-shock protein [Pontibacillus chungwhensis BH
+-------------------------------------MLQGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQDEGFKTLEENQTVSFEIVEGNRGPQAANVQK----
+>gi|1054648355|ref|WP_066415852.1| cold-shock protein [Bacillus cohnii]
+-------------------------------------MLQGTVKWFNSEKGFGFIEREGGDDVFVHFSAIQGEGFKSLEEGQKVTFEIVQGNRGDQAANVTKA---
+>gi|736759997|ref|WP_034763568.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|933906742|gb|KPL61367.1| cold-shock protein [Bacillus vietnamensis]
+-------------------------------------MLEGTVKWFNAEKGFGFIEREGGDDVFVHFSAIQGEGFKTLEEGQKVSFEIVQGNRGDQAANVTKA---
+>gi|1031446823|ref|WP_064092308.1| cold-shock protein [Bacillus aquimaris]
+-------------------------------------MLQGTVKWFNAEKGFGFIEREGGDDVFVHFSAIQGEGFKTLEEGQKVSFEIVQGNRGDQAANVTKA---
+>gi|294653627|gb|ADF28646.1| cold shock protein [Bacillus subtilis]
+-----------------------------------MNLGNFKVKWFNSEKGFGFIEVEGGSDVFVHFSAIQGEGFKTLEEGQAVSFEIVEGNRGPQAANVTKE---
+>gi|806499962|ref|WP_046132989.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|805639105|gb|KKB71615.1| cold-shock protein [Bacillus sp. TH008] >gi|1049468865
+-------------------------------------MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQSVTFEIVEGNRGPQASNVVKA---
+>gi|860242060|ref|WP_048353492.1| cold-shock protein [Bacillus glycinifermentans] >gi|855288419|gb|KMM63627.1| cold-shock protein [Bacillus glycinifermentans] >g
+-------------------------------------MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQSVTFEIVEGNRGPQASNVEKA---
+>gi|149242121|pdb|2I5M|X Chain X, Crystal Structure Of Bacillus Subtilis Cold Shock Protein Cspb Variant A46k S48r
+-------------------------------------MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQKVRFEIVEGNRGPQAANVTKEA--
+>gi|149242120|pdb|2I5L|X Chain X, Crystal Structure Of Bacillus Subtilis Cold Shock Protein Variant Bs-Cspb M1rE3KK65I
+-------------------------------------RLKGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQAVSFEIVEGNRGPQAANVTIEA--
+>gi|1057178873|ref|WP_068560061.1| cold-shock protein [Trichococcus sp. ES5] >gi|1016789306|emb|CZQ85954.1| cold shock protein signature [Trichococcus collinsii] 
+-------------------------------------MEQGKVKWFNGEKGFGFIEVDGKDDVFVHFSAIQGEGFKTLEEGQDVEFEIVDGNRGPQAANVVKL---
+>gi|835195591|ref|WP_047390081.1| cold-shock protein [Carnobacterium sp. ZWU0011]
+-------------------------------------MEKGTVKWFNAEKGFGFIEVEGGDDVFVHFSAITGEGFKTLEEGQPVEFEIVEGNRGPQAANVVKL---
+>gi|1011512715|ref|WP_062407120.1| cold-shock protein [Paenibacillus naphthalenovorans] >gi|961442790|gb|ALS20991.1| cold-shock protein [Paenibacillus naphthaleno
+--------------------------------------MKGTVKWFNAEKGYGFIQVEGGDDVFVHFSAIQGEGFKTLEEGQSVEFEIVEGNRGPQAANVQKL---
+>gi|647573570|ref|WP_025851661.1| cold-shock protein [Paenibacillus ehimensis]
+--------------------------------------MKGTVKWFNAEKGYGFIQVEGGDDVFVHFSAIQGEGFKTLEEGQAVEFEIVQGNRGPQAANVHKL---
+>gi|497784538|ref|WP_010098722.1| cold-shock protein [Ornithinibacillus scapharcae]
+-------------------------------------MNKGSVKWFNAEKGFGFIEVEGGDDVFVHFSAIQGDGFKTLEEGQEVTFEITEGNRGPQAANVQKA---
+>gi|849057690|ref|WP_047986024.1| cold-shock protein [Ornithinibacillus californiensis]
+-------------------------------------MNTGSVKWFNAEKGFGFIEVEGGDDVFVHFSAIQGDGFKTLEEGQQVSFEITEGNRGPQAANVTKI---
+>gi|652511632|ref|WP_026905872.1| MULTISPECIES: cold-shock protein [Paucisalibacillus]
+-------------------------------------MNKGSVKWFNAEKGFGFIEVEGGDDVFVHFSAIQDEGFKTLEEGQQVSFEITEGNRGPQAANVTKL---
+>gi|1057364000|ref|WP_068724189.1| cold-shock protein [Tepidibacillus decaturensis] >gi|995930793|gb|KXG43549.1| cold-shock protein [Tepidibacillus decaturensis] 
+--------------------------------------MQGKVKWFNSEKGFGFIEVDGGDDVFVHFSAIQGDGFKTLEEGQKVTFDIVEGNRGPQAANVIKL---
+>gi|497969901|ref|WP_010284057.1| cold-shock protein [Bacillus timonensis]
+-------------------------------------MAQGKVKWFNSEKGFGFIEVEGGDDVFVHFSAIQGDGFKTLEEGQEVTFDIEEGSRGPQAANVQKA---
+>gi|1021811759|ref|WP_063389535.1| MULTISPECIES: cold-shock protein [Bacillaceae] >gi|1020975002|gb|KZM57807.1| cold-shock protein [Geobacillus sp. 8] >gi|1021577
+-------------------------------------MNTGKVKWFNSEKGFGFIEVDGGDDVFVHFSAIQGDGFKTLEEGQTVKFEIVEGQRGPQAANVQKN---
+>gi|873895462|ref|WP_048601910.1| cold-shock protein [Bacillaceae bacterium mt6]
+-------------------------------------MNTGKVKWFNAEKGFGFIEVEGGDDVFVHFSAIQSDGFKTLEEGQTVTFDIVEGNRGPQAANVQKA---
+>gi|499377843|ref|WP_011065421.1| MULTISPECIES: cold-shock protein [Oceanobacillus] >gi|22776700|dbj|BAC12975.1| cold shock protein [Oceanobacillus iheyensis HTE
+-------------------------------------MNTGSVKWFNAEKGFGFIEVEGGDDVFVHFSAIQGEGFKTLEEGQSVSFDIEEGNRGPQAANVVKN---
+>gi|497859985|ref|WP_010174141.1| cold-shock protein [Bacillus coahuilensis] >gi|974386703|gb|KUP05757.1| cold-shock protein [Bacillus coahuilensis p1.1.43] >gi|
+-------------------------------------MNTGKVKWFNAEKGFGFIEVEGGDDVFVHFSAIQGEGFKTLEEGQSVTFDIEEGNRGPQATNVNKA---
+>gi|835195624|ref|WP_047390096.1| cold-shock protein [Carnobacterium sp. ZWU0011]
+-------------------------------------MEQGTVKWFNAEKGFGFIEREGADDVFVHFSAIQGEGFKTLEEGQAVSFDVEEGNRGPQAANVVKL---
+>gi|754864500|ref|WP_042225130.1| cold-shock protein [Oceanobacillus manasiensis]
+-------------------------------------MQQGTVKWFNADKGFGFIEVEGGDDVFVHFSAIQGEGFKTLDEGQAVSFEIEEGQRGPQATNVTKN---
+>gi|489569767|ref|WP_003474236.1| cold-shock protein [Gracilibacillus halophilus] >gi|477567638|gb|ENH95662.1| cold-shock DNA-binding domain-containing protein [
+-------------------------------------MVQGTVKWFNSEKGFGFIEVEGQDDVFVHFSAIQEEGFKTLEDGQQVSFDIEQGNRGPQAANVEKN---
+>gi|921279478|ref|WP_053217568.1| cold-shock protein [Virgibacillus sp. SK-1]
+-------------------------------------MTNGTVKWFNADKGFGFIEVEGGDDVFVHFSAIQGEGFKTLDEGQAVSFDIEEGNRGPQAANVVKA---
+>gi|651561602|ref|WP_026570561.1| MULTISPECIES: cold-shock protein [Bacillaceae]
+-------------------------------------MAQGKVKWFNADKGFGFIEVEGQDDVFVHFSAIQEEGFKTLEEGQEVTFDVEEGNRGPQAANVVKA---
+>gi|921282064|ref|WP_053219883.1| cold-shock protein [Virgibacillus sp. SK-1]
+-------------------------------------MAQGKVKWFNADKGFGFIEVEGQDDVFVHFSAIQEEGFKTLEEGQEVTFDVEEGNRGPQAANVVKN---
+>gi|1011410422|ref|WP_062322196.1| cold-shock protein [Halolactibacillus sp. JCM 19043]
+-------------------------------------MAQGTVKWFNADKGFGFIEVEGQDDVFVHFSAIQGDGFKTLEEGQAVTFDIEEGNRGPQAANVEKN---
+>gi|504823309|ref|WP_015010411.1| cold-shock protein [Amphibacillus xylanus] >gi|407727821|dbj|BAM47819.1| cold shock protein [Amphibacillus xylanus NBRC 15112]
+-------------------------------------MAQGTVKWFNADKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQSVTFDIEEGNRGPQAANVVKA---
+>gi|1056397332|ref|WP_067840020.1| cold-shock protein [Amphibacillus sediminis]
+-------------------------------------MAQGTVKWFNADKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQSVTFDIEEGNRGPQAANVVKN---
+>gi|516041088|ref|WP_017471671.1| cold-shock protein [Amphibacillus jilinensis] >gi|811047211|emb|CQR47909.1| Cold shock protein CspB [Paraliobacillus sp. PM-2]
+-------------------------------------MAQGTVKWFNADKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQSVTFDIEEGNRGPQAANVEKN---
+>gi|517764161|ref|WP_018934369.1| MULTISPECIES: cold-shock protein [Gracilibacillus]
+-------------------------------------MVQGTVKWFNADKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQSVTFDIEEGNRGPQAANVVKN---
+>gi|737757801|ref|WP_035726336.1| MULTISPECIES: cold-shock protein [Gracilibacillus] >gi|575081806|dbj|GAE95452.1| cold shock protein CspD [Gracilibacillus borac
+-------------------------------------MVQGTVKWFNADKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQSVTFDIEEGNRGPQAANVEKN---
+>gi|651935953|ref|WP_026672072.1| cold-shock protein [Bacillus bogoriensis]
+-------------------------------------MVQGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKSLEEGQTVTFEIEQGQRGPQAANVQK----
+>gi|651972336|ref|WP_026689653.1| cold-shock protein [Bacillus aurantiacus]
+-------------------------------------MVEGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKSLDEGQTVTFEIEQGQRGPQAANVQK----
+>gi|651991010|ref|WP_026698473.1| cold-shock protein [Bacillus chagannorensis]
+-------------------------------------MTEGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQEEGFKTLEEGQTVSFEIEQGQRGPQAANVQKQ---
+>gi|502938373|ref|WP_013173349.1| cold-shock protein [[Bacillus] selenitireducens] >gi|297143170|gb|ADH99927.1| cold-shock DNA-binding domain protein [ [[Bacillu
+-------------------------------------MTQGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQAVTFDIEQGQRGPQAANVQK----
+>gi|1011550865|ref|WP_062443511.1| cold-shock protein [Thalassobacillus sp. TM-1]
+-------------------------------------MVEGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQAVTFDIEEGQRGPQAANVQK----
+>gi|655379367|ref|WP_028784442.1| cold-shock protein [Thalassobacillus devorans]
+-------------------------------------MVEGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQTVTFDIEEGQRGPQAANVQK----
+>gi|495910123|ref|WP_008634702.1| MULTISPECIES: cold-shock protein [Bacillaceae] >gi|432190606|gb|ELK47623.1| major cold-shock protein [Halobacillus sp. BAB-2008
+-------------------------------------MVEGTVKWFNAEKGFGFIEVEGQDDVFVHFSAIQEEGFKTLEEGQVVTFEIEEGQRGPQAANVQK----
+>gi|737699500|ref|WP_035668410.1| cold-shock protein [Bacillus akibai] >gi|568810681|dbj|GAE37520.1| cold shock protein CspA [Bacillus akibai JCM 9157]
+-------------------------------------MTEGKVKWFNAEKGFGFIEVEGSDDVFVHFSAIQGEGFKSLEEGQTVTFEIEQGARGPQAANVQK----
+>gi|847254587|ref|WP_047969830.1| cold-shock protein [Bacillus sp. LL01] >gi|845002424|gb|KMJ58773.1| cold-shock protein [Bacillus sp. LL01]
+-------------------------------------MLEGKVKWFNAEKGFGFIEVDGQDDVFVHFSAIQGDGFKSLEEGQTVTFEIEQGARGPQATNVQK----
+>gi|983513417|ref|WP_060665583.1| cold-shock protein [Bacillus sp. CHD6a] >gi|928236310|gb|KPB04802.1| cold-shock protein [Bacillus sp. CHD6a]
+-------------------------------------MLEGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKSLEEGQTVTFEIEQGARGPQATNVQK----
+>gi|497882219|ref|WP_010196375.1| MULTISPECIES: cold-shock protein [Bacillus]
+-------------------------------------MLEGKVKWFNAEKGFGFIEVDGQDDVFVHFSAIQGEGFKSLEEGQTVTFEIEQGARGPQATNVQK----
+>gi|953353179|ref|WP_058003138.1| cold-shock protein [Bacillus farraginis]
+-------------------------------------MVTGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQTVTFEIEEGARGPQATNVQKA---
+>gi|944530760|ref|WP_055742292.1| cold-shock protein [Bacillus shackletonii] >gi|944287071|gb|KQL50689.1| cold-shock protein [Bacillus shackletonii]
+-------------------------------------MVTGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQTVTFEIEQGARGPQATNVQKQ---
+>gi|651516642|ref|WP_026558957.1| cold-shock protein [Bacillus sp. J37]
+-------------------------------------MLQGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGDGFKTLEEGQTVTFEVEQGARGPQAANVQK----
+>gi|1054560981|ref|WP_066330280.1| cold-shock protein [Bacillus litoralis] >gi|1033891773|gb|OAS87081.1| cold-shock protein [Bacillus litoralis]
+-------------------------------------MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQTVTFEVEQGARGPQAANVQK----
+>gi|817537705|ref|WP_046587614.1| cold-shock protein [Bacillus sp. SA1-12] >gi|815866744|gb|KKI89939.1| cold-shock protein [Bacillus sp. SA1-12]
+-------------------------------------MLQGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQTVTFEVEQGARGPQAANVQK----
+>gi|654943122|ref|WP_028393295.1| MULTISPECIES: cold-shock protein [Bacillales] >gi|701524552|emb|CEG31170.1| cold shock protein [Bacillus simplex] >gi|899711927
+-------------------------------------MVQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQEVSFEIEQGARGPQAANVQK----
+>gi|654946517|ref|WP_028396679.1| cold-shock protein [Bacillus sp. FJAT-14578]
+-------------------------------------MVQGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGDGFKTLEEGQTVSFEIEQGARGPQAANVQK----
+>gi|647635508|ref|WP_025908246.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|959358462|gb|KSU88673.1| cold-shock protein [Bacillus sp. SGD-V-76] >gi|1016045
+-------------------------------------MVQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGDGFKTLEEGQDVSFEIEQGARGPQAANVQK----
+>gi|1054454559|ref|WP_066264337.1| cold-shock protein [Bacillus acidicola]
+-------------------------------------MTQGTVKWFNSEKGFGFIEVEGGSDVFVHFSAIQGEGFKTLEEGQKVSFDIEEGARGPQAANVTKEA--
+>gi|1020136772|ref|WP_063260082.1| cold-shock protein [Bacillus cereus] >gi|1017081445|gb|KZD71183.1| Cold shock protein CspD [Bacillus cereus]
+-------------------------------------MLQGKVKWFNAEKGFGFIETDGHDDVFVHFSAIQGDGFKSLEEGQEVTFEIVEGNRGPQAANVQK----
+>gi|502820713|ref|WP_013055689.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|294347685|gb|ADE68014.1| cold shock protein [Bacillus megaterium QM B1551] >gi|
+-------------------------------------MVQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKSLEEGQEVTFEIEDGARGPQAANVQK----
+>gi|657038858|ref|WP_029281940.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|666912716|gb|KEZ52591.1| cold-shock protein [Bacillus indicus LMG 22858] >gi|66
+-------------------------------------MLQGKVKWFNAEKGFGFIEAEGQEDVFVHFSAIQGEGFKSLEEGQEVTFEIVEGARGPQAANVQK----
+>gi|652404578|ref|WP_026800351.1| cold-shock protein [Pontibacillus halophilus] >gi|717933348|gb|KGX92538.1| cold-shock protein [Pontibacillus halophilus JSM 076
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEENQEVTFEIVEGNRGPQAANVQK----
+>gi|647637245|ref|WP_025909909.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|959358153|gb|KSU88371.1| cold-shock protein [Bacillus sp. SGD-V-76] >gi|1016046
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQEVTFEIVEGARGPQAANVQK----
+>gi|1054645021|ref|WP_066412518.1| cold-shock protein [Bacillus cohnii]
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGFKSLEEGQEVTFEIVEGARGPQAANVQK----
+>gi|922998126|ref|WP_053399568.1| cold-shock protein [Bacillus koreensis] >gi|922884691|gb|KOO50415.1| cold-shock protein [Bacillus koreensis]
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGREDVFVHFSAIQGEGYKTLEEGQTVSFEIVDGARGPQAANVTK----
+>gi|493891136|ref|WP_006837153.1| cold-shock protein [Bacillus sp. SG-1] >gi|148850179|gb|EDL64346.1| CspB [Bacillus sp. SG-1]
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQEDVFVHFSAIQGEGFKTLEEGQTVSFEIEDGARGPQAANVTK----
+>gi|654949842|ref|WP_028399962.1| cold-shock protein [Bacillus panaciterrae]
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGDGFKSLEEGQTVTFEITQGPRGAQAANVQK----
+>gi|494376456|ref|WP_007201157.1| cold-shock protein [Fictibacillus macauensis] >gi|391877761|gb|EIT86352.1| CspA family cold shock protein [Fictibacillus macaue
+-------------------------------------MLQGKVKWFNAEKGFGFIEVDGQDDVFVHFSAIQGDGFKTLEEGQDVSFEITEGARGPQAANVTKA---
+>gi|922736101|ref|WP_053354963.1| MULTISPECIES: cold-shock protein [Bacillaceae] >gi|959354344|gb|KSU84668.1| cold-shock protein [Fictibacillus enclensis] >gi|10
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGDGFKSLEEGQDVTFEITEGARGPQAANVQK----
+>gi|518223542|ref|WP_019393750.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|868706973|gb|AKO91374.1| cold-shock protein [Bacillus endophyticus] >gi|1005535
+-------------------------------------MLEGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGYKTLEEGQAVTFEIVEGARGPQAANVQK----
+>gi|947875734|ref|WP_056536105.1| cold-shock protein [Bacillus sp. Leaf406] >gi|945403434|gb|KQU59928.1| cold-shock protein [Bacillus sp. Leaf406]
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGDGYKSLEEGQDVTFEIVEGARGPQAANVQK----
+>gi|692165383|ref|WP_032088076.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|933903162|gb|KPL57892.1| cold-shock protein [Bacillus vietnamensis] >gi|9593328
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGYKSLEEGQDVTFEIVEGARGPQAANVQK----
+>gi|923032901|ref|WP_053426876.1| cold-shock protein [Bacillus marisflavi] >gi|922808381|gb|KON91687.1| cold-shock protein [Bacillus marisflavi]
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGEGYKTLEEGQDVTFEIVEGARGPQAANVQK----
+>gi|850292806|ref|WP_048003814.1| cold-shock protein [Bacillus marisflavi] >gi|848287082|gb|KMK97416.1| cold-shock protein [Bacillus marisflavi] >gi|848296798|gb
+-------------------------------------MLQGKVKWFNAEKGFGFIEVEGQDDVFVHFSAIQGDGYKTLEEGQDVTFEIVEGARGPQAANVQK----
+>gi|768727182|ref|WP_044896244.1| cold-shock protein [Bacillus alveayuensis]
+-------------------------------------MQTGKVKWFNSEKGYGFIQVDGGDDVFVHYTAIQSNGFKTLEEGQAVSFEIVDGNRGPQAANVQKIY--
+>gi|503420984|ref|WP_013655645.1| cold-shock protein [Cellulosilyticum lentocellum] >gi|326540485|gb|ADZ82344.1| cold-shock DNA-binding domain protein [Clostridi
+--------------------------------------MTGKVKWFNAEKGFGFIEREGGDDVFVHFTAIQGDGFKTLEEGQEVNFDIVEGNRGPQAANVTKA---
+>gi|737454771|ref|WP_035434932.1| cold-shock protein [Bacillus sp. UNC322MFChir4.1]
+--------------------------------------MQGKVKWFNSEKGFGFIEVEGAEDIFVHFTAIQGEGYKSLEEGQEVSFEIVEGNRGPQAANVVKL---
+>gi|488099830|ref|WP_002171227.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|401249432|gb|EJR55738.1| cold shock protein CspD [Bacillus cereus VD107] >gi|85
+--------------------------------------MQGKVKWFNNEKGFGFIEMEGSDDVFVHFSAIQGDGYKALEEGQEVSFDITEGNRGPQAANVVKL---
+>gi|74492830|gb|EAO55963.1| Cold shock protein [Bacillus thuringiensis serovar israelensis ATCC 35646]
+--------------------------MKIVNAFRRNCNMQGKVKWFNNEKGFGFIEMEGADDVFVHFSAIQGDGYKALEEGQEVSFDITEGNRGPQAANVVKL---
+>gi|489288937|ref|WP_003196492.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|228756753|gb|EEM06058.1| Cold shock-like protein cspB [Bacillus mycoides Rock1-
+--------------------------------------MQGKVKWFNNEKGFGFIEIEGADDVFVHFTAIQGEGYKALEEGQEVSFDIVEGNRGPQAANVVKL---
+>gi|727212862|ref|WP_033674105.1| MULTISPECIES: cold-shock protein [Bacillus cereus group] >gi|659911013|gb|KEK24740.1| cold-shock protein [Bacillus gaemokensis]
+--------------------------------------MQGKVKWFNNEKGFGFIEIEGADDVFVHFTAIQGEGYKALEEGQEVSFDITEGNRGPQAANVVKL---
+>gi|447084470|ref|WP_001161726.1| cold-shock protein [Bacillus cereus] >gi|228698586|gb|EEL51306.1| Cold shock-like protein cspB [Bacillus cereus Rock3-44]
+--------------------------------------MQGKVKWFNNEKGFGFIEIEGADDVFVHFSAIQGDGYKALEEGQEVSFDIVEGNRGPQAANVVKL---
+>gi|447084469|ref|WP_001161725.1| cold-shock protein [Bacillus cereus] >gi|228622845|gb|EEK79677.1| Cold shock-like protein cspB [Bacillus cereus R309803] >gi|10
+--------------------------------------MQGKVKWFNNEKGFGFIEIEGADDVFVHFSAIQGDGYKALEEGQEVSFDITEGNRGPQAANVVKL---
+>gi|447084471|ref|WP_001161727.1| MULTISPECIES: cold-shock protein [Bacillus] >gi|42736714|gb|AAS40649.1| cold shock protein CspB [Bacillus cereus ATCC 10987] >g
+--------------------------------------MQGKVKWFNNEKGFGFIEIEGADDVFVHFSAIQGEGYKALEEGQEVSFDITEGNRGPQAANVVKL---
+>gi|228731937|gb|EEL82834.1| Cold shock-like protein cspB [Bacillus cereus AH1271]
+--------------------------MKKANVFRRNCNMQGKVKWFNNEKGFGFIEMEGADDVFVHFSAIQGDGYKALEEGQEVSFDITEGNRGPQAANVVKL---
+>gi|118416363|gb|ABK84782.1| cold-shock DNA-binding protein family [Bacillus thuringiensis str. Al Hakam] >gi|228826585|gb|EEM72356.1| Cold shock-like prote
+--------------------------MKKANVFRRNCNMQGKVKWFNNEKGFGFIEMEGADDVFVHFSAIQGEGYKALEEGQEVSFDITEGNRGPQAANVVKL---
+>gi|228662096|gb|EEL17705.1| Cold shock-like protein cspB [Bacillus cereus 95/8201]
+--------------------------MKKANVLRRNCNMQGKVKWFNNEKGFGFIEMEGADDVFVHFSAIQGEGYKALEEGQEVSFDITEGNRGPQAANVVKL---
+>gi|447084476|ref|WP_001161732.1| MULTISPECIES: cold-shock protein [Bacillus cereus group] >gi|30261699|ref|NP_844076.1| cold shock protein CspB [Bacillus anthra
+--------------------------------------MQGKVKWFNNEKGFGFIEMEGADDVFVHFSAIQGEGYKALEEGQEVSFDITEGNRGPQAANVVKL---
+>gi|727678971|ref|WP_033828691.1| MULTISPECIES: cold-shock protein [Bacillus]
+-------------------------------------MNQGKVKWFNTEKGFGFIEVEGGNDVFVHYSAIQGDGFKTLEEGQSVSFEIVEGNRGPQASNVTKL---
+>gi|736767037|ref|WP_034770502.1| cold-shock protein [Bacillus thermoamylovorans] >gi|678287132|emb|CEE01782.1| hypothetical protein BT1A1_1960 [Bacillus thermoa
+-------------------------------------MNQGKVKWFNTEKGFGFIEVDGGNDVFVHYSAIQGDGFKTLEEGQSVSFDIVEGNRGPQAANVVRL---
+>gi|503625360|ref|WP_013859436.1| cold-shock protein [Bacillus coagulans] >gi|335367592|gb|AEH53543.1| cold-shock DNA-binding domain protein [Bacillus coagulans 
+-------------------------------------MEQGKVKWFNSEKGYGFIEREGGSDVFVHFSAIQGEGFKTLEEGQSVSFDIEEGNRGPQAANVSKL---

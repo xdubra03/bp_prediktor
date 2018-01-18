@@ -1,0 +1,1638 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>1AZP:A|PDBID|CHAIN|SEQUENCE</BlastOutput_query-def>
+  <BlastOutput_query-len>66</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>1AZP:A|PDBID|CHAIN|SEQUENCE</Iteration_query-def>
+  <Iteration_query-len>66</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|73535470|pdb|1WVL|A</Hit_id>
+  <Hit_def>Chain A, Crystal Structure Of Multimeric Dna-Binding Protein Sac7d- Gcn4 With Dna Decamer &gt;gi|73535471|pdb|1WVL|B Chain B, Crystal Structure Of Multimeric Dna-Binding Protein Sac7d- Gcn4 With Dna Decamer</Hit_def>
+  <Hit_accession>1WVL_A</Hit_accession>
+  <Hit_len>80</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.339</Hsp_bit-score>
+      <Hsp_score>329</Hsp_score>
+      <Hsp_evalue>1.26198e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>66</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>66</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_hseq>
+      <Hsp_midline>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|499596259|ref|WP_011276993.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Sulfolobus acidocaldarius] &gt;gi|729353|sp|P13123.3|DN71_SULAC RecName: Full=DNA-binding protein 7d; AltName: Full=7 kDa DNA-binding protein d; AltName: Full=Sac7d; Contains: RecName: Full=DNA-binding protein 7a; AltName: Full=7 kDa DNA-binding protein a; AltName: Full=Sac7a; Contains: RecName: Full=DNA-binding protein 7b; AltName: Full=7 kDa DNA-binding protein b; AltName: Full=Sac7b &gt;gi|4389340|pdb|1AZQ|A Chain A, Hyperthermophile Chromosomal Protein Sac7d Bound With Kinked Dna Duplex &gt;gi|4389363|pdb|1AZP|A Chain A, Hyperthermophile Chromosomal Protein Sac7d Bound With Kinked Dna Duplex &gt;gi|7245655|pdb|1CA5|A Chain A, Intercalation Site Of Hyperthermophile Chromosomal Protein Sso7dSAC7D Bound To Dna &gt;gi|7245658|pdb|1CA6|A Chain A, Intercalation Site Of Hyperthermophile Chromosomal Protein Sso7dSAC7D Bound To Dna &gt;gi|51248004|pdb|1WD0|A Chain A, Crystal Structures Of The Hyperthermophilic Chromosomal Protein Sac7d In Complex With Dna Decamers &gt;gi|51248007|pdb|1WD1|A Chain A, Crystal Structures Of The Hyperthermophilic Chromosomal Protein Sac7d In Complex With Dna Decamers &gt;gi|152933|gb|AAA80315.1| DNA-binding protein [Sulfolobus sp.] &gt;gi|68566563|gb|AAY79492.1| conserved DNA-binding protein 7e [Sulfolobus acidocaldarius DSM 639] &gt;gi|449034615|gb|AGE70041.1| DNA-binding protein 7e [Sulfolobus acidocaldarius N8] &gt;gi|449036891|gb|AGE72316.1| DNA-binding protein 7e [Sulfolobus acidocaldarius Ron12/I] &gt;gi|566046703|gb|AHC50588.1| DNA-binding protein [Sulfolobus acidocaldarius SUSAZ] &gt;gi|969873674|gb|ALU29532.1| DNA-binding protein [Sulfolobus acidocaldarius] &gt;gi|969876405|gb|ALU32262.1| DNA-binding protein [Sulfolobus acidocaldarius]</Hit_def>
+  <Hit_accession>WP_011276993</Hit_accession>
+  <Hit_len>66</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.568</Hsp_bit-score>
+      <Hsp_score>327</Hsp_score>
+      <Hsp_evalue>1.71884e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>66</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>66</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_hseq>
+      <Hsp_midline>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|61680259|pdb|1WTW|A</Hit_id>
+  <Hit_def>Chain A, Hyperthermophile Chromosomal Protein Sac7d Single Mutant V26a In Complex With Dna Gcgatcgc &gt;gi|61680262|pdb|1WTX|A Chain A, Hyperthermophile Chromosomal Protein Sac7d Single Mutant V26a In Complex With Dna Gtaattac</Hit_def>
+  <Hit_accession>1WTW_A</Hit_accession>
+  <Hit_len>66</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>129.028</Hsp_bit-score>
+      <Hsp_score>323</Hsp_score>
+      <Hsp_evalue>6.07948e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>65</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>66</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>MVKVKFKYKGEEKEVDTSKIKKVWRAGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_hseq>
+      <Hsp_midline>MVKVKFKYKGEEKEVDTSKIKKVWR GKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|61680244|pdb|1WTP|A</Hit_id>
+  <Hit_def>Chain A, Hyperthermophile Chromosomal Protein Sac7d Single Mutant M29f In Complex With Dna Gcga(Ubr)cgc &gt;gi|61680245|pdb|1WTP|B Chain B, Hyperthermophile Chromosomal Protein Sac7d Single Mutant M29f In Complex With Dna Gcga(Ubr)cgc &gt;gi|61680250|pdb|1WTQ|A Chain A, Hyperthermophile Chromosomal Protein Sac7d Single Mutant M29f In Complex With Dna Gtaattac</Hit_def>
+  <Hit_accession>1WTP_A</Hit_accession>
+  <Hit_len>66</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>128.257</Hsp_bit-score>
+      <Hsp_score>321</Hsp_score>
+      <Hsp_evalue>1.22797e-37</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>65</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>66</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKFVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_hseq>
+      <Hsp_midline>MVKVKFKYKGEEKEVDTSKIKKVWRVGK VSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|157833778|pdb|1SAP|A</Hit_id>
+  <Hit_def>Chain A, Hyperthermophile Protein, Relaxation Matrix Refinement Structure</Hit_def>
+  <Hit_accession>1SAP_A</Hit_accession>
+  <Hit_len>66</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>128.257</Hsp_bit-score>
+      <Hsp_score>321</Hsp_score>
+      <Hsp_evalue>1.24153e-37</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>65</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>65</Hsp_align-len>
+      <Hsp_qseq>VKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>VKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_hseq>
+      <Hsp_midline>VKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|61680253|pdb|1WTR|A</Hit_id>
+  <Hit_def>Chain A, Hyperthermophile Chromosomal Protein Sac7d Single Mutant M29a In Complex With Dna Gcgatcgc &gt;gi|61680256|pdb|1WTV|A Chain A, Hyperthermophile Chromosomal Protein Sac7d Single Mutant M29a In Complex With Dna Gtaattac</Hit_def>
+  <Hit_accession>1WTR_A</Hit_accession>
+  <Hit_len>66</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>128.257</Hsp_bit-score>
+      <Hsp_score>321</Hsp_score>
+      <Hsp_evalue>1.43211e-37</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>65</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>66</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKAVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_hseq>
+      <Hsp_midline>MVKVKFKYKGEEKEVDTSKIKKVWRVGK VSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|61680458|pdb|1XX8|A</Hit_id>
+  <Hit_def>Chain A, Nmr Structure Of The W24a Mutant Of The Hyperthermophile Sac7d Protein</Hit_def>
+  <Hit_accession>1XX8_A</Hit_accession>
+  <Hit_len>66</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.102</Hsp_bit-score>
+      <Hsp_score>318</Hsp_score>
+      <Hsp_evalue>4.29572e-37</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>65</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>66</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>MVKVKFKYKGEEKEVDTSKIKKVARVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_hseq>
+      <Hsp_midline>MVKVKFKYKGEEKEVDTSKIKKV RVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|61680469|pdb|1XYI|A</Hit_id>
+  <Hit_def>Chain A, Hyperthermophile Chromosomal Protein Sac7d Double Mutant Val26alaMET29ALA IN COMPLEX WITH DNA GCGATCGC</Hit_def>
+  <Hit_accession>1XYI_A</Hit_accession>
+  <Hit_len>66</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>126.716</Hsp_bit-score>
+      <Hsp_score>317</Hsp_score>
+      <Hsp_evalue>5.29268e-37</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>66</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>MVKVKFKYKGEEKEVDTSKIKKVWRAGKAVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_hseq>
+      <Hsp_midline>MVKVKFKYKGEEKEVDTSKIKKVWR GK VSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|61680241|pdb|1WTO|A</Hit_id>
+  <Hit_def>Chain A, Hyperthermophile Chromosomal Protein Sac7d Double Mutant V26fM29F IN COMPLEX WITH DNA GCGATCGC</Hit_def>
+  <Hit_accession>1WTO_A</Hit_accession>
+  <Hit_len>66</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>126.716</Hsp_bit-score>
+      <Hsp_score>317</Hsp_score>
+      <Hsp_evalue>5.47e-37</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>66</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>MVKVKFKYKGEEKEVDTSKIKKVWRFGKFVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_hseq>
+      <Hsp_midline>MVKVKFKYKGEEKEVDTSKIKKVWR GK VSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|499596546|ref|WP_011277280.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Sulfolobus acidocaldarius] &gt;gi|729355|sp|P13125.2|DN72_SULAC RecName: Full=DNA-binding protein 7e; AltName: Full=7 kDa DNA-binding protein e; AltName: Full=Sac7e &gt;gi|152931|gb|AAA80316.1| DNA-binding protein [Sulfolobus acidocaldarius] &gt;gi|68566849|gb|AAY79778.1| DNA-bindign protein 7e [Sulfolobus acidocaldarius DSM 639] &gt;gi|449034910|gb|AGE70336.1| DNA-bindign protein 7e [Sulfolobus acidocaldarius N8] &gt;gi|449037186|gb|AGE72611.1| DNA-bindign protein 7e [Sulfolobus acidocaldarius Ron12/I] &gt;gi|969873407|gb|ALU29265.1| DNA-binding protein [Sulfolobus acidocaldarius] &gt;gi|969876137|gb|ALU31994.1| DNA-binding protein [Sulfolobus acidocaldarius]</Hit_def>
+  <Hit_accession>WP_011277280</Hit_accession>
+  <Hit_len>65</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>122.865</Hsp_bit-score>
+      <Hsp_score>307</Hsp_score>
+      <Hsp_evalue>1.91169e-35</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>65</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>65</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>65</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREK</Hsp_qseq>
+      <Hsp_hseq>MAKVRFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELMDMLARAEKKK</Hsp_hseq>
+      <Hsp_midline>M KV+FKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKEL+DMLARAE++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|566046975|gb|AHC50860.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Sulfolobus acidocaldarius SUSAZ]</Hit_def>
+  <Hit_accession>AHC50860</Hit_accession>
+  <Hit_len>65</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>122.094</Hsp_bit-score>
+      <Hsp_score>305</Hsp_score>
+      <Hsp_evalue>3.13391e-35</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>65</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>65</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>65</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREK</Hsp_qseq>
+      <Hsp_hseq>MAKVRFKYKGEEKEVDTSKIKKVWRVGKMVSFTFDDNGKTGRGAVSEKDAPKELLDMLARAEKKK</Hsp_hseq>
+      <Hsp_midline>M KV+FKYKGEEKEVDTSKIKKVWRVGKMVSFT+DDNGKTGRGAVSEKDAPKELLDMLARAE++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1011529481|ref|WP_062423175.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Sulfolobus acidocaldarius]</Hit_def>
+  <Hit_accession>WP_062423175</Hit_accession>
+  <Hit_len>71</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>114.775</Hsp_bit-score>
+      <Hsp_score>286</Hsp_score>
+      <Hsp_evalue>3.85842e-32</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>65</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>71</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>57</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>61</Hsp_align-len>
+      <Hsp_qseq>KFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREK</Hsp_qseq>
+      <Hsp_hseq>KTKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELMDMLARAEKKK</Hsp_hseq>
+      <Hsp_midline>K KYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKEL+DMLARAE++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|499287331|ref|WP_010978621.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Sulfolobus tokodaii] &gt;gi|20137892|sp|Q96X56.3|DN7_SULTO RecName: Full=DNA-binding protein 7; AltName: Full=Sto7 &gt;gi|15621644|dbj|BAB65638.1| DNA-binding protein 7d [Sulfolobus tokodaii str. 7] &gt;gi|15623210|dbj|BAB67199.1| DNA-binding protein 7d [Sulfolobus tokodaii str. 7]</Hit_def>
+  <Hit_accession>WP_010978621</Hit_accession>
+  <Hit_len>64</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>111.309</Hsp_bit-score>
+      <Hsp_score>277</Hsp_score>
+      <Hsp_evalue>6.76156e-31</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>61</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>61</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>61</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARA</Hsp_qseq>
+      <Hsp_hseq>MVTVKFKYKGEEKEVDISKIKKVWRVGKMISFTYDDNGKTGRGAVSEKDAPKELLQMLEKS</Hsp_hseq>
+      <Hsp_midline>MV VKFKYKGEEKEVD SKIKKVWRVGKM+SFTYDDNGKTGRGAVSEKDAPKELL ML ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|503542970|ref|WP_013777046.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Acidianus hospitalis] &gt;gi|1160578013|sp|F4B9I5.1|DN7B_ACIHW RecName: Full=DNA-binding protein 7b; AltName: Full=7 kDa DNA-binding protein b; AltName: Full=Aho7b &gt;gi|332695664|gb|AEE95131.1| DNA-binding 7 kDa protein [Acidianus hospitalis W1]</Hit_def>
+  <Hit_accession>WP_013777046</Hit_accession>
+  <Hit_len>62</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>107.457</Hsp_bit-score>
+      <Hsp_score>267</Hsp_score>
+      <Hsp_evalue>1.93113e-29</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>61</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>53</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>59</Hsp_align-len>
+      <Hsp_qseq>VKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLAR</Hsp_qseq>
+      <Hsp_hseq>TKVKFKYKGEEKEVDISKIKKVWRVGKMISFTYDDNGKTGRGAVSEKDAPKELLDKLEK</Hsp_hseq>
+      <Hsp_midline> KVKFKYKGEEKEVD SKIKKVWRVGKM+SFTYDDNGKTGRGAVSEKDAPKELLD L +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|503541685|ref|WP_013775761.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Acidianus hospitalis] &gt;gi|1160578015|sp|F4B8X5.1|DN7C_ACIHW RecName: Full=DNA-binding protein 7c; AltName: Full=7 kDa DNA-binding protein c; AltName: Full=Aho7c &gt;gi|332694378|gb|AEE93845.1| DNA-binding 7 kDa protein [Acidianus hospitalis W1]</Hit_def>
+  <Hit_accession>WP_013775761</Hit_accession>
+  <Hit_len>60</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.531</Hsp_bit-score>
+      <Hsp_score>262</Hsp_score>
+      <Hsp_evalue>1.00605e-28</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>58</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>59</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>52</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>57</Hsp_align-len>
+      <Hsp_qseq>VKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDML</Hsp_qseq>
+      <Hsp_hseq>TKVKFKYKGEEKEVDISKIKKVWRVGKMISFTYDDNGKTGRGAVSEKDAPKELLEKL</Hsp_hseq>
+      <Hsp_midline> KVKFKYKGEEKEVD SKIKKVWRVGKM+SFTYDDNGKTGRGAVSEKDAPKELL+ L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|583848277|gb|EWG07971.1|</Hit_id>
+  <Hit_def>DNA-binding 7 kDa protein [Sulfolobales archaeon AZ1]</Hit_def>
+  <Hit_accession>EWG07971</Hit_accession>
+  <Hit_len>61</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>2.13121e-28</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>61</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>59</Hsp_align-len>
+      <Hsp_qseq>VKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLAR</Hsp_qseq>
+      <Hsp_hseq>TKVKFKYKGEEKEVDISKIKKVWRVGKMISFTYDDNGKTGRGAVSEKDAPKELLEKIKK</Hsp_hseq>
+      <Hsp_midline> KVKFKYKGEEKEVD SKIKKVWRVGKM+SFTYDDNGKTGRGAVSEKDAPKELL+ + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|502114487|ref|WP_012712662.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Sulfolobus islandicus] &gt;gi|3913486|sp|O59632.3|DN72_SULSH RecName: Full=DNA-binding protein 7b; AltName: Full=7 kDa DNA-binding protein B; AltName: Full=Ssh7b &gt;gi|3138797|dbj|BAA28275.1| Ssh7b [Sulfolobus shibatae] &gt;gi|227458164|gb|ACP36851.1| DNA-binding 7 kDa protein [Sulfolobus islandicus L.S.2.15] &gt;gi|227460773|gb|ACP39459.1| DNA-binding 7 kDa protein [Sulfolobus islandicus M.14.25] &gt;gi|228011389|gb|ACP47151.1| DNA-binding 7 kDa protein [Sulfolobus islandicus Y.G.57.14] &gt;gi|228014243|gb|ACP50004.1| DNA-binding 7 kDa protein [Sulfolobus islandicus Y.N.15.51] &gt;gi|228021235|gb|ACP56642.1| DNA-binding 7 kDa protein [Sulfolobus islandicus M.16.27] &gt;gi|238382240|gb|ACR43328.1| DNA-binding 7 kDa protein [Sulfolobus islandicus M.16.4] &gt;gi|323476087|gb|ADX86693.1| DNA-binding 7 kDa protein [Sulfolobus islandicus REY15A] &gt;gi|323478810|gb|ADX84048.1| DNA-binding 7 kDa protein [Sulfolobus islandicus HVE10/4]</Hit_def>
+  <Hit_accession>WP_012712662</Hit_accession>
+  <Hit_len>64</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.375</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>4.40605e-28</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>64</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>53</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>MVTVKFKYKGEEKEVDTSKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLEKQKK</Hsp_hseq>
+      <Hsp_midline>MV VKFKYKGEEKEVDTSKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML + ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|502718396|ref|WP_012953380.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Sulfolobus islandicus] &gt;gi|284447169|gb|ADB88671.1| DNA-binding 7 kDa protein [Sulfolobus islandicus L.D.8.5]</Hit_def>
+  <Hit_accession>WP_012953380</Hit_accession>
+  <Hit_len>64</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.605</Hsp_bit-score>
+      <Hsp_score>257</Hsp_score>
+      <Hsp_evalue>8.51528e-28</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>64</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>52</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>MVTVKFKYKGEEKQVDTSKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLEKQKK</Hsp_hseq>
+      <Hsp_midline>MV VKFKYKGEEK+VDTSKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML + ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|505394631|ref|WP_015581733.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Sulfolobus islandicus] &gt;gi|478755458|gb|AGJ64030.1| DNA-binding 7 kDa protein [Sulfolobus islandicus LAL14/1]</Hit_def>
+  <Hit_accession>WP_015581733</Hit_accession>
+  <Hit_len>64</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>102.449</Hsp_bit-score>
+      <Hsp_score>254</Hsp_score>
+      <Hsp_evalue>1.87747e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>64</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>52</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>MVTVKFKYKGEDKEVDTSKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLEKQKK</Hsp_hseq>
+      <Hsp_midline>MV VKFKYKGE+KEVDTSKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML + ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|14277999|pdb|1C8C|A</Hit_id>
+  <Hit_def>Chain A, Crystal Structures Of The Chromosomal Proteins Sso7dSAC7D Bound To Dna Containing T-G Mismatched Base Pairs</Hit_def>
+  <Hit_accession>1C8C_A</Hit_accession>
+  <Hit_len>64</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>102.064</Hsp_bit-score>
+      <Hsp_score>253</Hsp_score>
+      <Hsp_evalue>3.04375e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>64</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>MATVKFKYKGEEKQVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLAKQKK</Hsp_hseq>
+      <Hsp_midline>M  VKFKYKGEEK+VD SKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL MLA+ ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|504325098|ref|WP_014512200.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Sulfolobus islandicus] &gt;gi|1160578014|sp|F0NJT3.1|DN7B_SULIH RecName: Full=DNA-binding protein 7b; AltName: Full=7 kDa DNA-binding protein b; AltName: Full=Sis7b &gt;gi|323474145|gb|ADX84751.1| DNA-binding 7 kDa protein [Sulfolobus islandicus REY15A] &gt;gi|323476782|gb|ADX82020.1| DNA-binding 7 kDa protein [Sulfolobus islandicus HVE10/4] &gt;gi|478753593|gb|AGJ62165.1| Hypothetical Protein SiL_0707 [Sulfolobus islandicus LAL14/1]</Hit_def>
+  <Hit_accession>WP_014512200</Hit_accession>
+  <Hit_len>64</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>102.064</Hsp_bit-score>
+      <Hsp_score>253</Hsp_score>
+      <Hsp_evalue>3.25104e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>64</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>MTTVKFKYKGEEKQVDTSKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLEKQKK</Hsp_hseq>
+      <Hsp_midline>M  VKFKYKGEEK+VDTSKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML + ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|1062516306|ref|WP_069283757.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Sulfolobus sp. A20] &gt;gi|1062067113|gb|AOL16910.1| DNA-binding protein [Sulfolobus sp. A20]</Hit_def>
+  <Hit_accession>WP_069283757</Hit_accession>
+  <Hit_len>64</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>102.064</Hsp_bit-score>
+      <Hsp_score>253</Hsp_score>
+      <Hsp_evalue>3.39702e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>64</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>MATVRFKYKGEEKSVDTSKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLDMLEKQKK</Hsp_hseq>
+      <Hsp_midline>M  V+FKYKGEEK VDTSKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELLDML + ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|13815854|gb|AAK42679.1|</Hit_id>
+  <Hit_def>7 KD DNA-binding protein (SSO7D) (SSH7A) (ssh7A /Sso7d-1) [Sulfolobus solfataricus P2] &gt;gi|1016811993|emb|SAI86231.1| DNA-binding protein [Sulfolobus solfataricus]</Hit_def>
+  <Hit_accession>AAK42679</Hit_accession>
+  <Hit_len>68</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.908</Hsp_bit-score>
+      <Hsp_score>250</Hsp_score>
+      <Hsp_evalue>1.00372e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>68</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>56</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>MATVKFKYKGEEKEVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLEKQKK</Hsp_hseq>
+      <Hsp_midline>M  VKFKYKGEEKEVD SKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML + ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|497675935|ref|WP_009990119.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Sulfolobus solfataricus] &gt;gi|14424430|sp|P39476.2|DN72_SULSO RecName: Full=DNA-binding protein 7d; AltName: Full=7 kDa DNA-binding protein d; AltName: Full=Sso7d &gt;gi|3891427|pdb|1BNZ|A Chain A, Sso7d Hyperthermophile ProteinDNA COMPLEX &gt;gi|261601045|gb|ACX90648.1| DNA-binding 7 kDa protein [Sulfolobus solfataricus 98/2] &gt;gi|800900592|gb|AKA72775.1| DNA-binding protein [Sulfolobus solfataricus] &gt;gi|800903292|gb|AKA75474.1| DNA-binding protein [Sulfolobus solfataricus] &gt;gi|800905986|gb|AKA78167.1| DNA-binding protein [Sulfolobus solfataricus]</Hit_def>
+  <Hit_accession>WP_009990119</Hit_accession>
+  <Hit_len>64</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.523</Hsp_bit-score>
+      <Hsp_score>249</Hsp_score>
+      <Hsp_evalue>1.20094e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>64</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>56</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>MATVKFKYKGEEKEVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLEKQKK</Hsp_hseq>
+      <Hsp_midline>M  VKFKYKGEEKEVD SKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML + ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|502117183|ref|WP_012713334.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Sulfolobus islandicus] &gt;gi|1160578012|sp|D2PHL8.1|DN7A_SULID RecName: Full=DNA-binding protein 7a; AltName: Full=7 kDa DNA-binding protein a; AltName: Full=Sis7a &gt;gi|227456269|gb|ACP34956.1| DNA-binding 7 kDa protein [Sulfolobus islandicus L.S.2.15] &gt;gi|238380277|gb|ACR41365.1| DNA-binding 7 kDa protein [Sulfolobus islandicus M.16.4] &gt;gi|284444994|gb|ADB86496.1| DNA-binding 7 kDa protein [Sulfolobus islandicus L.D.8.5]</Hit_def>
+  <Hit_accession>WP_012713334</Hit_accession>
+  <Hit_len>64</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>99.7525</Hsp_bit-score>
+      <Hsp_score>247</Hsp_score>
+      <Hsp_evalue>2.27044e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>64</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>56</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>MTTVKFKYKGEEKQVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLEKQKK</Hsp_hseq>
+      <Hsp_midline>M  VKFKYKGEEK+VD SKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML + ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|497677837|ref|WP_009992021.1|</Hit_id>
+  <Hit_def>MULTISPECIES: DNA-binding protein [Sulfolobus] &gt;gi|48428877|sp|P61990.2|DN7A_SULSH RecName: Full=DNA-binding protein 7a; AltName: Full=7 kDa DNA-binding protein a; AltName: Full=Ssh7a &gt;gi|48428878|sp|P61991.2|DN71_SULSO RecName: Full=DNA-binding protein 7a; AltName: Full=7 kDa DNA-binding protein a; AltName: Full=Endoribonuclease P2; AltName: Full=p7ss &gt;gi|3138795|dbj|BAA28274.1| Ssh7a [Sulfolobus shibatae] &gt;gi|13815162|gb|AAK42090.1| 7 KD DNA-binding protein (SSO7D) (SSH7A) (ssh7A /Sso7d-2) [Sulfolobus solfataricus P2] &gt;gi|13815306|gb|AAK42212.1| 7 KD DNA-binding protein (SSO7D) (SSH7A) (ssh7A /Sso7d-3) [Sulfolobus solfataricus P2] &gt;gi|227458854|gb|ACP37540.1| DNA-binding 7 kDa protein [Sulfolobus islandicus M.14.25] &gt;gi|228009488|gb|ACP45250.1| DNA-binding 7 kDa protein [Sulfolobus islandicus Y.G.57.14] &gt;gi|228013194|gb|ACP48955.1| DNA-binding 7 kDa protein [Sulfolobus islandicus Y.N.15.51] &gt;gi|228019276|gb|ACP54683.1| DNA-binding 7 kDa protein [Sulfolobus islandicus M.16.27] &gt;gi|261603187|gb|ACX92790.1| DNA-binding 7 kDa protein [Sulfolobus solfataricus 98/2] &gt;gi|800902609|gb|AKA74792.1| DNA-binding protein [Sulfolobus solfataricus] &gt;gi|800905306|gb|AKA77488.1| DNA-binding protein [Sulfolobus solfataricus] &gt;gi|800907997|gb|AKA80178.1| DNA-binding protein [Sulfolobus solfataricus] &gt;gi|1016811331|emb|SAI85569.1| uncharacterised protein [Sulfolobus solfataricus] &gt;gi|1016811479|emb|SAI85717.1| DNA-binding protein [Sulfolobus solfataricus]</Hit_def>
+  <Hit_accession>WP_009992021</Hit_accession>
+  <Hit_len>64</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>99.7525</Hsp_bit-score>
+      <Hsp_score>247</Hsp_score>
+      <Hsp_evalue>2.39858e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>64</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>56</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>MATVKFKYKGEEKQVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLEKQKK</Hsp_hseq>
+      <Hsp_midline>M  VKFKYKGEEK+VD SKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML + ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|939151960|ref|WP_054838413.1|</Hit_id>
+  <Hit_def>MULTISPECIES: DNA-binding protein [Sulfolobus]</Hit_def>
+  <Hit_accession>WP_054838413</Hit_accession>
+  <Hit_len>62</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>99.3673</Hsp_bit-score>
+      <Hsp_score>246</Hsp_score>
+      <Hsp_evalue>3.30718e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>58</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>59</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>59</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDML</Hsp_qseq>
+      <Hsp_hseq>MVMVKFKYKGEEKEVDTSKIKKVWKVGKMISFTYDEGGGKTGRGAVSEKDAPKELQNML</Hsp_hseq>
+      <Hsp_midline>MV VKFKYKGEEKEVDTSKIKKVW+VGKM+SFTYD+  GKTGRGAVSEKDAPKEL +ML</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|1002166879|ref|YP_009230321.1|</Hit_id>
+  <Hit_def>7 kDa DNA binding protein [Acidianus tailed spindle virus] &gt;gi|989000996|gb|AME30091.1| 7 kDa DNA binding protein [Acidianus tailed spindle virus]</Hit_def>
+  <Hit_accession>YP_009230321</Hit_accession>
+  <Hit_len>60</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>98.9821</Hsp_bit-score>
+      <Hsp_score>245</Hsp_score>
+      <Hsp_evalue>5.09274e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>58</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>58</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDML</Hsp_qseq>
+      <Hsp_hseq>MVSIKFKYKGEEKEVDISKIKKVWKVGNMVSFTYDDNGKTGRGALSLKEAPQELLQKL</Hsp_hseq>
+      <Hsp_midline>MV +KFKYKGEEKEVD SKIKKVW+VG MVSFTYDDNGKTGRGA+S K+AP+ELL  L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|5542098|pdb|1BF4|A</Hit_id>
+  <Hit_def>Chain A, Chromosomal Dna-Binding Protein Sso7dD(GCGAACGC) COMPLEX</Hit_def>
+  <Hit_accession>1BF4_A</Hit_accession>
+  <Hit_len>63</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>98.9821</Hsp_bit-score>
+      <Hsp_score>245</Hsp_score>
+      <Hsp_evalue>5.6248e-26</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>63</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>61</Hsp_align-len>
+      <Hsp_qseq>VKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>VKFKYKGEEKEVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLEKQKK</Hsp_hseq>
+      <Hsp_midline>VKFKYKGEEKEVD SKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML + ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|636665614|pdb|4CJ1|B</Hit_id>
+  <Hit_def>Chain B, Crystal Structure Of Celd In Complex With Affitin H3</Hit_def>
+  <Hit_accession>4CJ1_B</Hit_accession>
+  <Hit_len>81</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>99.3673</Hsp_bit-score>
+      <Hsp_score>246</Hsp_score>
+      <Hsp_evalue>5.64912e-26</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>77</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>52</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>65</Hsp_align-len>
+      <Hsp_qseq>VKVKFKYKGEEKEVDTSKIKKVWRV----GKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAE</Hsp_qseq>
+      <Hsp_hseq>VKVKFHQIGEEKEVDTSKIKKVWRINTRLGMRVAFTYDDNGKTGRGMVPEKDAPKELLDMLARAE</Hsp_hseq>
+      <Hsp_midline>VKVKF   GEEKEVDTSKIKKVWR+    G  V+FTYDDNGKTGRG V EKDAPKELLDMLARAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|1062516791|ref|WP_069284107.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Sulfolobus sp. A20] &gt;gi|1062067380|gb|AOL17177.1| DNA-binding protein [Sulfolobus sp. A20]</Hit_def>
+  <Hit_accession>WP_069284107</Hit_accession>
+  <Hit_len>64</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>98.5969</Hsp_bit-score>
+      <Hsp_score>244</Hsp_score>
+      <Hsp_evalue>6.44371e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>64</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>MATVKFKYKGEEKSVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLEKQKK</Hsp_hseq>
+      <Hsp_midline>M  VKFKYKGEEK VD SKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML + ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|3891959|pdb|1BBX|C</Hit_id>
+  <Hit_def>Chain C, Non-Specific Protein-Dna Interactions In The Sso7d-Dna Complex, Nmr, 1 Structure &gt;gi|3891960|pdb|1BBX|D Chain D, Non-Specific Protein-Dna Interactions In The Sso7d-Dna Complex, Nmr, 1 Structure</Hit_def>
+  <Hit_accession>1BBX_C</Hit_accession>
+  <Hit_len>63</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>98.2117</Hsp_bit-score>
+      <Hsp_score>243</Hsp_score>
+      <Hsp_evalue>1.09901e-25</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>63</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>61</Hsp_align-len>
+      <Hsp_qseq>VKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>VKFKYKGEEKQVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLEKQKK</Hsp_hseq>
+      <Hsp_midline>VKFKYKGEEK+VD SKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML + ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|157831549|pdb|1JIC|A</Hit_id>
+  <Hit_def>Chain A, Solution Nmr Structure Of Recombinant Sso7d With Rnase Activity, Minimized Average Structure &gt;gi|157833857|pdb|1SSO|A Chain A, Solution Structure And Dna-Binding Properties Of A Thermostable Protein From The Archaeon Sulfolobus Solfataricus &gt;gi|264480|gb|AAB25172.1| ribonuclease p2 [Sulfolobus solfataricus, MT-4, ATCC 49155, Peptide, 62 aa] &gt;gi|444867|prf||1908252A ribonuclease</Hit_def>
+  <Hit_accession>1JIC_A</Hit_accession>
+  <Hit_len>62</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.8265</Hsp_bit-score>
+      <Hsp_score>242</Hsp_score>
+      <Hsp_evalue>1.33386e-25</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>60</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>53</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>58</Hsp_align-len>
+      <Hsp_qseq>VKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLAR</Hsp_qseq>
+      <Hsp_hseq>VKFKYKGEEKQVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLEK</Hsp_hseq>
+      <Hsp_midline>VKFKYKGEEK+VD SKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|503541724|ref|WP_013775800.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Acidianus hospitalis] &gt;gi|1160578011|sp|F4B991.1|DN7A_ACIHW RecName: Full=DNA-binding protein 7a; AltName: Full=7 kDa DNA-binding protein a; AltName: Full=Aho7a &gt;gi|332694417|gb|AEE93884.1| DNA-binding 7 kDa protein [Acidianus hospitalis W1]</Hit_def>
+  <Hit_accession>WP_013775800</Hit_accession>
+  <Hit_len>61</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.4413</Hsp_bit-score>
+      <Hsp_score>241</Hsp_score>
+      <Hsp_evalue>2.03912e-25</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>51</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>51</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>51</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAP</Hsp_qseq>
+      <Hsp_hseq>MTTVKFKYKGEEKEVDISKIKKVWRVGKMISFTYDDNGKTGRGAVSEKDAP</Hsp_hseq>
+      <Hsp_midline>M  VKFKYKGEEKEVD SKIKKVWRVGKM+SFTYDDNGKTGRGAVSEKDAP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|1009083441|pdb|5B02|A</Hit_id>
+  <Hit_def>Chain A, Structure Of Prenyltransferase With A Fusion Protein In Apo-form &gt;gi|1009083442|pdb|5B02|B Chain B, Structure Of Prenyltransferase With A Fusion Protein In Apo-form &gt;gi|1009083443|pdb|5B02|C Chain C, Structure Of Prenyltransferase With A Fusion Protein In Apo-form &gt;gi|1009083444|pdb|5B02|D Chain D, Structure Of Prenyltransferase With A Fusion Protein In Apo-form &gt;gi|1009083445|pdb|5B03|A Chain A, Structure Of Prenyltransferase With A Protein Tag And Its Ligand &gt;gi|1009083446|pdb|5B03|B Chain B, Structure Of Prenyltransferase With A Protein Tag And Its Ligand &gt;gi|1009083447|pdb|5B03|C Chain C, Structure Of Prenyltransferase With A Protein Tag And Its Ligand &gt;gi|1009083448|pdb|5B03|D Chain D, Structure Of Prenyltransferase With A Protein Tag And Its Ligand &gt;gi|1009083449|pdb|5B0I|A Chain A, Structure Of Prenyltransferase With A Fusion Tag In Complex With Octyl Glucoside &gt;gi|1009083450|pdb|5B0I|B Chain B, Structure Of Prenyltransferase With A Fusion Tag In Complex With Octyl Glucoside &gt;gi|1009083451|pdb|5B0I|C Chain C, Structure Of Prenyltransferase With A Fusion Tag In Complex With Octyl Glucoside &gt;gi|1009083452|pdb|5B0I|D Chain D, Structure Of Prenyltransferase With A Fusion Tag In Complex With Octyl Glucoside &gt;gi|1009083453|pdb|5B0J|A Chain A, Structure Of Prenyltransferase With A Fusion Protein Tag In Complex With Undecylmaltoside &gt;gi|1009083454|pdb|5B0J|B Chain B, Structure Of Prenyltransferase With A Fusion Protein Tag In Complex With Undecylmaltoside &gt;gi|1009083455|pdb|5B0J|C Chain C, Structure Of Prenyltransferase With A Fusion Protein Tag In Complex With Undecylmaltoside &gt;gi|1009083456|pdb|5B0J|D Chain D, Structure Of Prenyltransferase With A Fusion Protein Tag In Complex With Undecylmaltoside &gt;gi|1009083457|pdb|5B0K|A Chain A, Structure Of Prenyltransferase With A Fusion Protein Tag In Complex With Decylmaltoside &gt;gi|1009083458|pdb|5B0K|B Chain B, Structure Of Prenyltransferase With A Fusion Protein Tag In Complex With Decylmaltoside &gt;gi|1009083459|pdb|5B0K|C Chain C, Structure Of Prenyltransferase With A Fusion Protein Tag In Complex With Decylmaltoside &gt;gi|1009083460|pdb|5B0K|D Chain D, Structure Of Prenyltransferase With A Fusion Protein Tag In Complex With Decylmaltoside &gt;gi|1009083461|pdb|5B0L|A Chain A, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Nonylglucoside &gt;gi|1009083462|pdb|5B0L|B Chain B, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Nonylglucoside &gt;gi|1009083463|pdb|5B0L|C Chain C, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Nonylglucoside &gt;gi|1009083464|pdb|5B0L|D Chain D, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Nonylglucoside &gt;gi|1009083465|pdb|5B0L|E Chain E, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Nonylglucoside &gt;gi|1009083466|pdb|5B0L|F Chain F, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Nonylglucoside &gt;gi|1009083467|pdb|5B0L|G Chain G, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Nonylglucoside &gt;gi|1009083468|pdb|5B0L|H Chain H, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Nonylglucoside &gt;gi|1009083469|pdb|5B0M|A Chain A, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Dodecyl-maltoside &gt;gi|1009083470|pdb|5B0M|B Chain B, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Dodecyl-maltoside &gt;gi|1009083471|pdb|5B0M|C Chain C, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Dodecyl-maltoside &gt;gi|1009083472|pdb|5B0M|D Chain D, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Dodecyl-maltoside &gt;gi|1009083473|pdb|5B0M|E Chain E, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Dodecyl-maltoside &gt;gi|1009083474|pdb|5B0M|F Chain F, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Dodecyl-maltoside &gt;gi|1009083475|pdb|5B0M|G Chain G, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Dodecyl-maltoside &gt;gi|1009083476|pdb|5B0M|H Chain H, Structure Of A Prenyltransferase With A Fusion Protein Tag In Complex With Dodecyl-maltoside</Hit_def>
+  <Hit_accession>5B02_A</Hit_accession>
+  <Hit_len>343</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.219</Hsp_bit-score>
+      <Hsp_score>256</Hsp_score>
+      <Hsp_evalue>7.21172e-25</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>280</Hsp_hit-from>
+      <Hsp_hit-to>343</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>67</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>MATVKFKYKGEEKEVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQML---EKQKK</Hsp_hseq>
+      <Hsp_midline>M  VKFKYKGEEKEVD SKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML   E++KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|1094959|prf||2107210A</Hit_id>
+  <Hit_def>RNase</Hit_def>
+  <Hit_accession>2107210A</Hit_accession>
+  <Hit_len>75</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.9005</Hsp_bit-score>
+      <Hsp_score>237</Hsp_score>
+      <Hsp_evalue>1.04554e-24</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>59</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>59</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>57</Hsp_align-len>
+      <Hsp_qseq>VKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLA</Hsp_qseq>
+      <Hsp_hseq>VKFKYKGEEKQVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMMP</Hsp_hseq>
+      <Hsp_midline>VKFKYKGEEK+VD SKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL M+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|1011526650|ref|WP_062420421.1|</Hit_id>
+  <Hit_def>hypothetical protein [Sulfolobus acidocaldarius]</Hit_def>
+  <Hit_accession>WP_062420421</Hit_accession>
+  <Hit_len>47</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.1301</Hsp_bit-score>
+      <Hsp_score>235</Hsp_score>
+      <Hsp_evalue>1.09723e-24</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>47</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>47</Hsp_align-len>
+      <Hsp_qseq>IKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>MKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_hseq>
+      <Hsp_midline>+KKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|114793650|pdb|2CVR|A</Hit_id>
+  <Hit_def>Chain A, Nmr Solution Structure Of Sso7d Mutant, K12l, 12 Conformers</Hit_def>
+  <Hit_accession>2CVR_A</Hit_accession>
+  <Hit_len>62</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.5153</Hsp_bit-score>
+      <Hsp_score>236</Hsp_score>
+      <Hsp_evalue>1.14757e-24</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>60</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>58</Hsp_align-len>
+      <Hsp_qseq>VKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLAR</Hsp_qseq>
+      <Hsp_hseq>VKFKYKGEELQVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQMLEK</Hsp_hseq>
+      <Hsp_midline>VKFKYKGEE +VD SKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|636665612|pdb|4CJ0|B</Hit_id>
+  <Hit_def>Chain B, Crystal Structure Of Celd In Complex With Affitin E12</Hit_def>
+  <Hit_accession>4CJ0_B</Hit_accession>
+  <Hit_len>81</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.5153</Hsp_bit-score>
+      <Hsp_score>236</Hsp_score>
+      <Hsp_evalue>1.62189e-24</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>77</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>65</Hsp_align-len>
+      <Hsp_qseq>VKVKFKYKGEEKEVDTSKIKKVWR----VGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAE</Hsp_qseq>
+      <Hsp_hseq>VKVKFVSSGEEKEVDTSKIKKVWRNLTKYGTIVQFTYDDNGKTGRGYVRELDAPKELLDMLARAE</Hsp_hseq>
+      <Hsp_midline>VKVKF   GEEKEVDTSKIKKVWR     G +V FTYDDNGKTGRG V E DAPKELLDMLARAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|157830173|pdb|1B4O|A</Hit_id>
+  <Hit_def>Chain A, Nmr Study Of Sso7d Mutant (F31a) Minimized Average Structure</Hit_def>
+  <Hit_accession>1B4O_A</Hit_accession>
+  <Hit_len>62</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>94.7449</Hsp_bit-score>
+      <Hsp_score>234</Hsp_score>
+      <Hsp_evalue>2.58612e-24</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>58</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>56</Hsp_align-len>
+      <Hsp_qseq>VKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDML</Hsp_qseq>
+      <Hsp_hseq>VKFKYKGEEKQVDISKIKKVWRVGKMISATYDEGGGKTGRGAVSEKDAPKELLQML</Hsp_hseq>
+      <Hsp_midline>VKFKYKGEEK+VD SKIKKVWRVGKM+S TYD+  GKTGRGAVSEKDAPKELL ML</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|1130619536|pdb|5U1C|A</Hit_id>
+  <Hit_def>Chain A, Structure Of Tetrameric Hiv-1 Strand Transfer Complex Intasome &gt;gi|1130619537|pdb|5U1C|B Chain B, Structure Of Tetrameric Hiv-1 Strand Transfer Complex Intasome &gt;gi|1130619541|pdb|5U1C|C Chain C, Structure Of Tetrameric Hiv-1 Strand Transfer Complex Intasome &gt;gi|1130619542|pdb|5U1C|D Chain D, Structure Of Tetrameric Hiv-1 Strand Transfer Complex Intasome</Hit_def>
+  <Hit_accession>5U1C_A</Hit_accession>
+  <Hit_len>383</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>101.679</Hsp_bit-score>
+      <Hsp_score>252</Hsp_score>
+      <Hsp_evalue>4.72967e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>84</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>67</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDD-NGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>MATVKFKYKGEEKEVDISKIKKVWRVGKMISFTYDEGGGKTGRGAVSEKDAPKELLQML---EKQKK</Hsp_hseq>
+      <Hsp_midline>M  VKFKYKGEEKEVD SKIKKVWRVGKM+SFTYD+  GKTGRGAVSEKDAPKELL ML   E++KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|636665617|pdb|4CJ2|C</Hit_id>
+  <Hit_def>Chain C, Crystal Structure Of Hewl In Complex With Affitin H4 &gt;gi|636665618|pdb|4CJ2|D Chain D, Crystal Structure Of Hewl In Complex With Affitin H4</Hit_def>
+  <Hit_accession>4CJ2_C</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>94.3597</Hsp_bit-score>
+      <Hsp_score>233</Hsp_score>
+      <Hsp_evalue>5.04736e-24</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>77</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>53</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>65</Hsp_align-len>
+      <Hsp_qseq>VKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>VKVKFFWNGEEKEVDTSKIVWVKRAGKSVLFIYDDNGKNGYGDVTEKDAPKELLDMLARAEREKK</Hsp_hseq>
+      <Hsp_midline>VKVKF + GEEKEVDTSKI  V R GK V F YDDNGK G G V+EKDAPKELLDMLARAEREKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|1011526648|ref|WP_062420419.1|</Hit_id>
+  <Hit_def>hypothetical protein [Sulfolobus acidocaldarius]</Hit_def>
+  <Hit_accession>WP_062420419</Hit_accession>
+  <Hit_len>50</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.8189</Hsp_bit-score>
+      <Hsp_score>229</Hsp_score>
+      <Hsp_evalue>1.02217e-23</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVS</Hsp_qseq>
+      <Hsp_hseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVS</Hsp_hseq>
+      <Hsp_midline>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|339961193|pdb|2XIW|A</Hit_id>
+  <Hit_def>Chain A, Crystal Structure Of The Sac7d-derived Igg1-binder C3-c24s &gt;gi|339961194|pdb|2XIW|B Chain B, Crystal Structure Of The Sac7d-derived Igg1-binder C3-c24s</Hit_def>
+  <Hit_accession>2XIW_A</Hit_accession>
+  <Hit_len>79</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.0485</Hsp_bit-score>
+      <Hsp_score>227</Hsp_score>
+      <Hsp_evalue>3.90517e-23</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>66</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>77</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>65</Hsp_align-len>
+      <Hsp_qseq>VKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREKK</Hsp_qseq>
+      <Hsp_hseq>VKVKFLLNGEEKEVDTSKIRDVSRQGKNVKFLYNDNGKYGAGNVDEKDAPKELLDXLARAEREKK</Hsp_hseq>
+      <Hsp_midline>VKVKF   GEEKEVDTSKI+ V R GK V F Y+DNGK G G V EKDAPKELLD LARAEREKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|1011534392|ref|WP_062428033.1|</Hit_id>
+  <Hit_def>hypothetical protein [Sulfolobus acidocaldarius]</Hit_def>
+  <Hit_accession>WP_062428033</Hit_accession>
+  <Hit_len>50</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.5077</Hsp_bit-score>
+      <Hsp_score>223</Hsp_score>
+      <Hsp_evalue>7.62745e-23</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVS</Hsp_qseq>
+      <Hsp_hseq>MAKVRFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVS</Hsp_hseq>
+      <Hsp_midline>M KV+FKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|1011534389|ref|WP_062428030.1|</Hit_id>
+  <Hit_def>hypothetical protein [Sulfolobus acidocaldarius]</Hit_def>
+  <Hit_accession>WP_062428030</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7373</Hsp_bit-score>
+      <Hsp_score>221</Hsp_score>
+      <Hsp_evalue>1.58902e-22</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>65</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>IKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLARAEREK</Hsp_qseq>
+      <Hsp_hseq>MKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELMDMLARAEKKK</Hsp_hseq>
+      <Hsp_midline>+KKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKEL+DMLARAE++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|1188287912|gb|ARM76167.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Acidianus manzaensis]</Hit_def>
+  <Hit_accession>ARM76167</Hit_accession>
+  <Hit_len>61</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.4925</Hsp_bit-score>
+      <Hsp_score>197</Hsp_score>
+      <Hsp_evalue>8.83611e-19</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>60</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>MVKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLAR</Hsp_qseq>
+      <Hsp_hseq>MTTIKFKYKGEEKEVDLSKVKKVWKVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDKLEK</Hsp_hseq>
+      <Hsp_midline>M  +KFKYKGEEKEVD SK+KKVW+VGKMVSFTYDDNGKTGRGAVSEKDAPKELLD L +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|1188286807|gb|ARM75062.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Acidianus manzaensis]</Hit_def>
+  <Hit_accession>ARM75062</Hit_accession>
+  <Hit_len>62</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.1073</Hsp_bit-score>
+      <Hsp_score>196</Hsp_score>
+      <Hsp_evalue>1.45257e-18</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>61</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>59</Hsp_align-len>
+      <Hsp_qseq>VKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLAR</Hsp_qseq>
+      <Hsp_hseq>TKIKFKYKGEEKEVDLSKVKKVWKVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDKLEK</Hsp_hseq>
+      <Hsp_midline> K+KFKYKGEEKEVD SK+KKVW+VGKMVSFTYDDNGKTGRGAVSEKDAPKELLD L +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|851188152|ref|WP_048100318.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Candidatus Acidianus copahuensis] &gt;gi|612165067|gb|EZQ01742.1| DNA-binding protein [Candidatus Acidianus copahuensis] &gt;gi|612165599|gb|EZQ02250.1| DNA-binding protein [Candidatus Acidianus copahuensis]</Hit_def>
+  <Hit_accession>WP_048100318</Hit_accession>
+  <Hit_len>61</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.7962</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>1.20395e-17</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>61</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>59</Hsp_align-len>
+      <Hsp_qseq>VKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLAR</Hsp_qseq>
+      <Hsp_hseq>TKVKFKYKGEEKEVDISKVKKVWKVGKMVSFTYDDNGKTGRGAVSEKDAPKELVEKLGK</Hsp_hseq>
+      <Hsp_midline> KVKFKYKGEEKEVD SK+KKVW+VGKMVSFTYDDNGKTGRGAVSEKDAPKEL++ L +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|496362324|ref|WP_009071314.1|</Hit_id>
+  <Hit_def>MULTISPECIES: DNA-binding protein [Metallosphaera] &gt;gi|1160578017|sp|A4YEA2.1|DN7_METS5 RecName: Full=DNA-binding protein 7; AltName: Full=7 kDa DNA-binding protein; AltName: Full=Mse7 &gt;gi|145701612|gb|ABP94754.1| nucleoid protein Sul7d [Metallosphaera sedula DSM 5348] &gt;gi|373525781|gb|EHP70561.1| 7kD DNA-binding domain protein [Metallosphaera yellowstonensis MK1] &gt;gi|676315109|gb|AIM26741.1| nucleoid protein Sul7d [Metallosphaera sedula] &gt;gi|914685727|gb|AKV73697.1| DNA-binding protein [Metallosphaera sedula] &gt;gi|914687968|gb|AKV75937.1| DNA-binding protein [Metallosphaera sedula] &gt;gi|914690220|gb|AKV78188.1| DNA-binding protein [Metallosphaera sedula] &gt;gi|914692466|gb|AKV80433.1| DNA-binding protein [Metallosphaera sedula] &gt;gi|914694714|gb|AKV82680.1| DNA-binding protein [Metallosphaera sedula]</Hit_def>
+  <Hit_accession>WP_009071314</Hit_accession>
+  <Hit_len>62</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.0258</Hsp_bit-score>
+      <Hsp_score>188</Hsp_score>
+      <Hsp_evalue>2.81121e-17</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>61</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>59</Hsp_align-len>
+      <Hsp_qseq>VKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLAR</Hsp_qseq>
+      <Hsp_hseq>TKIKFKYKGQDLEVDISKVKKVWKVGKMVSFTYDDNGKTGRGAVSEKDAPKELLNMIGK</Hsp_hseq>
+      <Hsp_midline> K+KFKYKG++ EVD SK+KKVW+VGKMVSFTYDDNGKTGRGAVSEKDAPKELL+M+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>51</Hit_num>
+  <Hit_id>gi|503503393|ref|WP_013738054.1|</Hit_id>
+  <Hit_def>DNA-binding protein [Metallosphaera cuprina] &gt;gi|1160578016|sp|F4FYY6.1|DN7_METCR RecName: Full=DNA-binding protein 7; AltName: Full=7 kDa DNA-binding protein; AltName: Full=Mcu7 &gt;gi|329567451|gb|AEB95556.1| conserved hypothetical protein [Metallosphaera cuprina Ar-4]</Hit_def>
+  <Hit_accession>WP_013738054</Hit_accession>
+  <Hit_len>62</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>76.2554</Hsp_bit-score>
+      <Hsp_score>186</Hsp_score>
+      <Hsp_evalue>5.55062e-17</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>61</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>59</Hsp_align-len>
+      <Hsp_qseq>VKVKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDAPKELLDMLAR</Hsp_qseq>
+      <Hsp_hseq>TKIKFKYKGQDLEVDISKVKKVWKVGKMVSFTYDDNGKTGRGAVSEKDAPKELLSMIGK</Hsp_hseq>
+      <Hsp_midline> K+KFKYKG++ EVD SK+KKVW+VGKMVSFTYDDNGKTGRGAVSEKDAPKELL M+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>52</Hit_num>
+  <Hit_id>gi|1227483497|pdb|5UFE|B</Hit_id>
+  <Hit_def>Chain B, Wild-type K-ras(gnp)/r11.1.6 Complex &gt;gi|1227483500|pdb|5UFQ|C Chain C, K-rasg12d(gnp)/r11.1.6 Complex &gt;gi|1227483501|pdb|5UFQ|D Chain D, K-rasg12d(gnp)/r11.1.6 Complex</Hit_def>
+  <Hit_accession>5UFE_B</Hit_accession>
+  <Hit_len>61</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>67.0106</Hsp_bit-score>
+      <Hsp_score>162</Hsp_score>
+      <Hsp_evalue>2.36219e-13</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>58</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>58</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>56</Hsp_align-len>
+      <Hsp_qseq>VKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYD-DNGKTGRGAVSEKDAPKELLDML</Hsp_qseq>
+      <Hsp_hseq>VKFTHQGEEKQVDISKIKWVIRWGQYIWFKYDEDGGAKGWGYVSEKDAPKELLQML</Hsp_hseq>
+      <Hsp_midline>VKF ++GEEK+VD SKIK V R G+ + F YD D G  G G VSEKDAPKELL ML</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>53</Hit_num>
+  <Hit_id>gi|913749|gb|AAB33737.1|</Hit_id>
+  <Hit_def>p7ss=7.147 kda in vitro ribosylatable DNA-binding protein {N-terminal} [Sulfolobus solfataricus, Peptide Partial, 39 aa]</Hit_def>
+  <Hit_accession>AAB33737</Hit_accession>
+  <Hit_len>39</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.151</Hsp_bit-score>
+      <Hsp_score>139</Hsp_score>
+      <Hsp_evalue>4.00561e-10</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>37</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>36</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>34</Hsp_align-len>
+      <Hsp_qseq>VKFKYKGEEKEVDTSKIKKVWRVGKMVSFTYDDN</Hsp_qseq>
+      <Hsp_hseq>VKFKYKGEEKQVDISKIKKVXRVGKMISFTYDEG</Hsp_hseq>
+      <Hsp_midline>VKFKYKGEEK+VD SKIKKV RVGKM+SFTYD+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>54</Hit_num>
+  <Hit_id>gi|583847759|gb|EWG07456.1|</Hit_id>
+  <Hit_def>hypothetical protein ASUL_03069, partial [Sulfolobales archaeon AZ1]</Hit_def>
+  <Hit_accession>EWG07456</Hit_accession>
+  <Hit_len>25</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>43.8986</Hsp_bit-score>
+      <Hsp_score>102</Hsp_score>
+      <Hsp_evalue>0.0001365</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>25</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>20</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>DNGKTGRGAVSEKDAPKELLDMLAR</Hsp_qseq>
+      <Hsp_hseq>DNGKTGRGAVSEKDAPKELLEKVGK</Hsp_hseq>
+      <Hsp_midline>DNGKTGRGAVSEKDAPKELL+ + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>55</Hit_num>
+  <Hit_id>gi|928063168|ref|XP_013881139.1|</Hit_id>
+  <Hit_def>PREDICTED: Na(+)/H(+) exchanger beta-like [Austrofundulus limnaeus]</Hit_def>
+  <Hit_accession>XP_013881139</Hit_accession>
+  <Hit_len>759</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>39.2762</Hsp_bit-score>
+      <Hsp_score>90</Hsp_score>
+      <Hsp_evalue>0.108439</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>669</Hsp_hit-from>
+      <Hsp_hit-to>720</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>KEVDTSKIKKVWRVGKMVSFTYDDNGK-TGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>KRQETPSVRKVWFEPEHKVFTYDDNSESTGGGATRQKPRPPDAVDLVDESSR</Hsp_hseq>
+      <Hsp_midline>K  +T  ++KVW   +   FTYDDN + TG GA  +K  P + +D++  + R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>56</Hit_num>
+  <Hit_id>gi|928080725|ref|XP_013855160.1|</Hit_id>
+  <Hit_def>PREDICTED: Na(+)/H(+) exchanger beta-like [Austrofundulus limnaeus]</Hit_def>
+  <Hit_accession>XP_013855160</Hit_accession>
+  <Hit_len>299</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.039</Hsp_bit-score>
+      <Hsp_score>79</Hsp_score>
+      <Hsp_evalue>3.84398</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>209</Hsp_hit-from>
+      <Hsp_hit-to>260</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>KEVDTSKIKKVWRVGKMVSFTYDDNGK-TGRGAVSEKDAPKELLDMLARAER</Hsp_qseq>
+      <Hsp_hseq>KRQETPSVRKVWFEPEHKVFTYDDNSESTGGGATRQKPRPPDAVDLVDESSR</Hsp_hseq>
+      <Hsp_midline>K  +T  ++KVW   +   FTYDDN + TG GA  +K  P + +D++  + R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>57</Hit_num>
+  <Hit_id>gi|1176623792|ref|WP_082450773.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [Pseudomonas]</Hit_def>
+  <Hit_accession>WP_082450773</Hit_accession>
+  <Hit_len>1583</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>34.6538</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>5.64718</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>422</Hsp_hit-from>
+      <Hsp_hit-to>465</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>16</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>VKFKYKGEEKEVDTSKIKKV-WRVGKMVSFTYDDNGKTGRGAVS</Hsp_qseq>
+      <Hsp_hseq>VTYEYGNDPKEAAYWQITKVIWQDGSSISYLYNEAGMTGTGSIS</Hsp_hseq>
+      <Hsp_midline>V ++Y  + KE    +I KV W+ G  +S+ Y++ G TG G++S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>129982254</Statistics_db-num>
+      <Statistics_db-len>47686739643</Statistics_db-len>
+      <Statistics_hsp-len>38</Statistics_hsp-len>
+      <Statistics_eff-space>1197762567008</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

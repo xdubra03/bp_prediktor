@@ -1,0 +1,605 @@
+>gi|157881472|pdb|2CI2|I Chain I, Crystal And Molecular Structure Of The Serine Proteinase Inhibitor Ci-2 From Barley Seeds >gi|157884130|pdb|2SNI|I Chain I, Structural Comparison Of Two Serine Proteinase-Protein Inhibitor Complexes. Eglin-C-Subtilisin Carlsberg And Ci-2- Subtilisin Novo
+SSVEKKPEGVNTGAGDRHNLKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAEVP
+RVG
+>gi|124122|sp|P01053.2|ICI2_HORVU RecName: Full=Subtilisin-chymotrypsin inhibitor-2A; Short=CI-2A >gi|18951|emb|CAA28988.1| unnamed protein product [Hordeum vulgare subsp. vulgare] >gi|158529887|gb|ABW71682.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. vulgare] >gi|158529897|gb|ABW71687.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529908|gb|ABW71691.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529912|gb|ABW71693.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529914|gb|ABW71694.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529916|gb|ABW71695.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529920|gb|ABW71697.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529924|gb|ABW71699.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529936|gb|ABW71705.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. vulgare] >gi|158529942|gb|ABW71708.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. vulgare] >gi|158529944|gb|ABW71709.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529948|gb|ABW71711.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529950|gb|ABW71712.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529955|gb|ABW71714.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529961|gb|ABW71717.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. vulgare] >gi|158529986|gb|ABW71728.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529998|gb|ABW71734.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530004|gb|ABW71737.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530008|gb|ABW71739.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530044|gb|ABW71757.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530060|gb|ABW71765.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530082|gb|ABW71776.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530100|gb|ABW71785.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530119|gb|ABW71794.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSVEKKPEGVNTGAGDRHNLKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQV
+PRVG
+>gi|158530106|gb|ABW71788.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSVEKKPEGMNTGAGDRHNLKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQV
+PRVG
+>gi|158530074|gb|ABW71772.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSMEKKPEGVNTGAGDRHNLKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQV
+PRVG
+>gi|158529972|gb|ABW71721.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529974|gb|ABW71722.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529976|gb|ABW71723.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530026|gb|ABW71748.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530052|gb|ABW71761.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530056|gb|ABW71763.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530064|gb|ABW71767.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530110|gb|ABW71790.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530123|gb|ABW71796.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530127|gb|ABW71798.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSVEKKPEGVNTGAGDRHNLKTEWPELVGKSVEEAQKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQV
+PRVG
+>gi|158529910|gb|ABW71692.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529940|gb|ABW71707.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. vulgare]
+MSSVEKKPEGVNTGAGDRHNLKTEWPELVGKSVEEAKKVTLQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQV
+PRVG
+>gi|158529906|gb|ABW71690.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum]
+MSSVEKKPEGVNTGAGDRHNLKTEWPELVGKSVEEAKKVILQDKPEGQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQV
+PRVG
+>gi|158529980|gb|ABW71725.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum]
+MSSMEKKPEGVNTGAGDRHNLKTEWPELVGKSVEEAQKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQV
+PRVG
+>gi|158529964|gb|ABW71718.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. vulgare]
+MSSVEKKPEGVNTGAGDRHNLKTEWPELVGKSVEEAKKVILQDKSEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQV
+PRVG
+>gi|158530121|gb|ABW71795.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSVEKKPEGVNTGAGDRHNLKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRPFVDKLDNIAQV
+PRVG
+>gi|158530014|gb|ABW71742.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum]
+MSSVEKKPEGVNTGAGDRHNLKTEWPELVGKSVEEAQKVILQDKPEAQIIVLSVGTIVTMEYRIDRVRLFVDKLDNIAQV
+PRVG
+>gi|158529895|gb|ABW71686.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum]
+MSSVEKKPEGVNTGAGDRHNLKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVCLFVDKLNNIAQV
+PRVG
+>gi|158529957|gb|ABW71715.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum]
+MSSVEKKPEGVNTGAGDRHNLKTEWPELVGKSVEEAKKVILQDKPEGQIIVLPVGTIVTMGYRIDRVRLFVDRLDNIAQV
+PRVG
+>gi|158530080|gb|ABW71775.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530117|gb|ABW71793.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530129|gb|ABW71799.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQV
+PRVG
+>gi|158529889|gb|ABW71683.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. vulgare]
+MNSMEKKPEGVNTGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDRLDNIAQV
+PRVG
+>gi|158529893|gb|ABW71685.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529902|gb|ABW71688.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529904|gb|ABW71689.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529922|gb|ABW71698.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529934|gb|ABW71704.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. vulgare] >gi|158529952|gb|ABW71713.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530002|gb|ABW71736.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530006|gb|ABW71738.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530016|gb|ABW71743.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530018|gb|ABW71744.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530030|gb|ABW71750.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530032|gb|ABW71751.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530034|gb|ABW71752.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530036|gb|ABW71753.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530038|gb|ABW71754.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530040|gb|ABW71755.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530046|gb|ABW71758.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530050|gb|ABW71760.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530058|gb|ABW71764.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530062|gb|ABW71766.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530066|gb|ABW71768.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530070|gb|ABW71770.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530076|gb|ABW71773.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530084|gb|ABW71777.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530088|gb|ABW71779.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530092|gb|ABW71781.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530094|gb|ABW71782.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530096|gb|ABW71783.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530098|gb|ABW71784.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDRLDNIAQV
+PRVG
+>gi|158530000|gb|ABW71735.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPMGTIVTMEYRIDRVRLFVDRLDNIAQV
+PRVG
+>gi|158530078|gb|ABW71774.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKRVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDRLDNIAQV
+PRVG
+>gi|158530054|gb|ABW71762.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAQKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDRLDNIAQV
+PRVG
+>gi|158530028|gb|ABW71749.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDXLDNIAQV
+PRVG
+>gi|149900511|gb|ABR32186.1| chymotrypsin inhibitor CI-2 [synthetic construct]
+EGELSSVEKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTMEYRIDRVRLFVDRLDNI
+AQVPRVG
+>gi|158529932|gb|ABW71703.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. vulgare]
+MSSMEEKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDRLDNIAQV
+PRVG
+>gi|19005|emb|CAA40350.1| chymotrypsin inhibitor 2 [Hordeum vulgare subsp. vulgare] >gi|158529946|gb|ABW71710.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|228413|prf||1803525A chymotrypsin inhibitor 2 [Hordeum vulgare]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTMEYRIDRVRLFVDRLDNIAQV
+PRVG
+>gi|158529938|gb|ABW71706.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. vulgare] >gi|158529968|gb|ABW71719.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529970|gb|ABW71720.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529978|gb|ABW71724.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529984|gb|ABW71727.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529992|gb|ABW71731.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529994|gb|ABW71732.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529996|gb|ABW71733.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530010|gb|ABW71740.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530022|gb|ABW71746.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530048|gb|ABW71759.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530072|gb|ABW71771.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530090|gb|ABW71780.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530102|gb|ABW71786.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530104|gb|ABW71787.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530108|gb|ABW71789.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530112|gb|ABW71791.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530125|gb|ABW71797.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530131|gb|ABW71800.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon] >gi|158530133|gb|ABW71801.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTIEYRIDRVRLFVDRLDNIAQV
+PRVG
+>gi|158530086|gb|ABW71778.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDRLDNIAQV
+PRDG
+>gi|158530042|gb|ABW71756.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVCLFVDRLDNIAQV
+PRVG
+>gi|158529988|gb|ABW71729.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTIEYRIDRVRLFVDRLDDIAQV
+PRVG
+>gi|158530012|gb|ABW71741.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum]
+MSSMGKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTIEYRIDRVRLFVDRLDNIAQV
+PRVG
+>gi|158529982|gb|ABW71726.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum]
+MSSMEKKPGGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTIEYRIDRVRLFVDRLDNIAQV
+PRVG
+>gi|158529990|gb|ABW71730.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158530020|gb|ABW71745.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum]
+MSSVEKKPEGVNIGAGDHQNQKTEWPELVGKSVEEAKKVILQDKPGAQIIVLPVGTIVTMEYRIDRVRLFVDRIDNIAQV
+PRVG
+>gi|158530024|gb|ABW71747.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVEEAKKVILQDKPEAQIIVPPVGTIVTIEYRIDRVRLFVDRLDNIAQV
+PRVG
+>gi|20513865|gb|AAM22826.1|AF427791_17 CI2F [Hordeum vulgare subsp. vulgare] >gi|158529959|gb|ABW71716.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. vulgare]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVQEAKKVILQDKPEAQIIVLPMGTIVTIEYRIDHVRLFVDRLDNIAQV
+PRVG
+>gi|158530068|gb|ABW71769.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSVEKKPEGVNIGAGDHQNQKTEWPELVGKSVEEAKKVILQNKPGAQIIVLPVGTIVTMEYRIDRVRLFVDRIDNIAQV
+PRVG
+>gi|158529918|gb|ABW71696.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529926|gb|ABW71700.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529928|gb|ABW71701.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum] >gi|158529930|gb|ABW71702.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. spontaneum]
+MSSMEKKLEGVNIGAGDHQNQKTEWPELVGKSVEESKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDRLDNIAQV
+PRVG
+>gi|158530114|gb|ABW71792.1| chymotrypsin inhibitor-2 [Hordeum vulgare f. agriocrithon]
+MSSMEKKPEGVNIGAGDRQSQKTKWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTIEYRIDRVRLFVDRLDNIAPV
+PRVG
+>gi|158529891|gb|ABW71684.1| chymotrypsin inhibitor-2 [Hordeum vulgare subsp. vulgare]
+MSSMEKKPEGVNIGAGDRQNQKTEWPELVGKSVQEAKKVILQDKPEAQIIVLPMGTIVTIEYRIDHVRLFVDRLGNIAQV
+PRVG
+>gi|1028909510|pdb|5FBZ|B Chain B, Structure Of Subtilase Subhal From Bacillus Halmapalus - Complex With Chymotrypsin Inhibitor Ci2a >gi|1028909512|pdb|5FBZ|D Chain D, Structure Of Subtilase Subhal From Bacillus Halmapalus - Complex With Chymotrypsin Inhibitor Ci2a
+TGAGDRHNLKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAEVPRVG
+>gi|1028909527|pdb|5FFN|I Chain I, Complex Of Subtilase Subty From Bacillus Sp. Ty145 With Chymotrypsin Inhibitor Ci2a
+TGAGDRHNLKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQVPRVG
+>gi|475334864|gb|EMT00336.1| Subtilisin-chymotrypsin inhibitor WSCI [Aegilops tauschii]
+MSSVEKKLEGGNTDTGDHHNQKTEWPELVGKSVEEAKKVILQDKPEARIVVLPVGTIVTMEYRIDRVRLFVDSLDNIGQV
+PRVG
+>gi|122065237|sp|P82977.2|ICIW_WHEAT RecName: Full=Subtilisin-chymotrypsin inhibitor WSCI; Flags: Precursor >gi|474097078|gb|EMS55107.1| Subtilisin-chymotrypsin inhibitor WSCI [Triticum urartu]
+MSSVVKKPLGGNTDTGDHHNQKTEWPELVGKSVEEAKKVILQDKSEAQIVVLPVGTIVTMEYRIDRVRLFVDSLDKIAQV
+PRVG
+>gi|154101366|gb|ABS58503.1| serine proteinase inhibitor-like allergen [Triticum aestivum]
+MSPVVKKPEGGNTDTGDHHNQKTEWPELVGKSVEEAKKVIMQDKSEAQIVVLPVGTIVTMEYRIDRVRLFVDSLDKIAQV
+PRVG
+>gi|403213259|emb|CCK33471.1| wheat serine proteinase inhibitor like antigen [Triticum aestivum]
+MSPVVKKPEGRNTDTSDHHNQKTEWPELVGKSVEEAKKVILQDKSEAQIVVLPVGTIVTMEYRIDRVRLFVDSLDKIAQV
+PRVG
+>gi|66356278|gb|AAY45744.1| WSCI proteinase inhibitor precursor [Triticum aestivum]
+MSSVVKKPLGGNTDTGDHHNQKTEWPELVGKSVEEAKKVILQDKSEAQIVILPVGTIVTMEYRIDRVCLFVDSLDKIAQV
+PRVG
+>gi|473941537|gb|EMS50345.1| Subtilisin-chymotrypsin inhibitor WSCI [Triticum urartu]
+MSSVEKKPEGGNTDTSDHHNQKIEWPELVGKSVEEAKKVILQDKPEARIIVLPVGRIVTMEYRIDRVRLFVDCLGNIAQV
+PMVG
+>gi|475480553|gb|EMT02842.1| Subtilisin-chymotrypsin inhibitor-2A [Aegilops tauschii]
+MKIEHILMHTDVKGSCSANFKEASITRISSVDKKPEGGNTGTGYHNQKTEWPELVGKSVDEAKKVILQDKPEAWIVVLPV
+GTIVTMEYRIYRVHLFVDRLDTIAQVPRAG
+>gi|159164871|pdb|3CI2|A Chain A, Refinement Of The Three-Dimensional Solution Structure Of Barley Serine Proteinase Inhibitor 2 And Comparison With The Structures In Crystals
+HNLKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQVPRVG
+>gi|474222547|gb|EMS59334.1| Subtilisin-chymotrypsin inhibitor WSCI [Triticum urartu]
+MSSVDKKPEGGNTGTGDHNQKTEWPELVGKSVEEAKKWNTDTGDHHNQKTEWPELVGKSVEEAKKVILQDKSEAWIVVLP
+VGTIVTMEYRIDRVRLFVDSLDKIAQVPRIG
+>gi|19572726|emb|CAD19324.1| WSCI proteinase inhibitor [Triticum aestivum]
+TDTGDHHNQKTEWPELVGKSVEEAKKVILQDKSEAQIVVLPVGTIVTMEYRIDRVRLFVDSLDKIAQVPRVG
+>gi|493947|pdb|1COA|I Chain I, The Effect Of Cavity Creating Mutations In The Hydrophobic Core Of Chymotrypsin Inhibitor 2
+MKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNVAEVPRVG
+>gi|124123|sp|P08626.1|ICI3_HORVU RecName: Full=Subtilisin-chymotrypsin inhibitor-2B; Short=CI-2B >gi|18953|emb|CAA28989.1| chymotrypsin inhibitor (AA 1-72), partial [Hordeum vulgare subsp. vulgare]
+DCLCDCQNQKTEWPELVEKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDRLDNIAQVPRVG
+>gi|23200377|pdb|1LW6|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 At 1.5 Angstrom Resolution
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQVPRVG
+>gi|56966077|pdb|1TM1|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTMEYRIDRVRLFVDRLDNIAQVPRVG
+>gi|494716|pdb|1YPC|I Chain I, Direct Observation Of Better Hydration At The N-Terminus Of An Alpha-Helix With Glycine Rather Than Alanine As N-Cap
+MKTEWPELVGKSVAAAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQVPRVG
+>gi|67464218|pdb|1Y3B|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 E60s Mutant
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTMSYRIDRVRLFVDRLDNIAQVPRVG
+>gi|67464214|pdb|1Y34|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 E60a Mutant
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTMAYRIDRVRLFVDRLDNIAQVPRVG
+>gi|67464210|pdb|1Y1K|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 T58a Mutant
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVAMEYRIDRVRLFVDRLDNIAQVPRVG
+>gi|494714|pdb|1YPA|I Chain I, Direct Observation Of Better Hydration At The N-Terminus Of An Alpha-Helix With Glycine Rather Than Alanine As N-Cap
+MKTEWPELVGKAVAAAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQVPRVG
+>gi|56966087|pdb|1TMG|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 M59f Mutant
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTFEYRIDRVRLFVDRLDNIAQVPRVG
+>gi|67464222|pdb|1Y3D|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 R67a Mutant
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTMEYRIDRVALFVDRLDNIAQVPRVG
+>gi|67464226|pdb|1Y48|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 R65a Mutant
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTMEYRIDAVRLFVDRLDNIAQVPRVG
+>gi|67464220|pdb|1Y3C|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 R62a Mutant
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTMEYAIDRVRLFVDRLDNIAQVPRVG
+>gi|56966083|pdb|1TM5|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 M59a Mutant
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTAEYRIDRVRLFVDRLDNIAQVPRVG
+>gi|56966085|pdb|1TM7|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 M59y Mutant
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTYEYRIDRVRLFVDRLDNIAQVPRVG
+>gi|494715|pdb|1YPB|I Chain I, Direct Observation Of Better Hydration At The N-Terminus Of An Alpha-Helix With Glycine Rather Than Alanine As N-Cap
+MKTEWPELVGKGVAAAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAQVPRVG
+>gi|67464212|pdb|1Y33|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 T58p Mutant
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVPMEYRIDRVRLFVDRLDNIAQVPRVG
+>gi|56966079|pdb|1TM3|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 M59k Mutant >gi|56966091|pdb|1TO2|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 M59k, In Ph 9 Cryosoak
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTKEYRIDRVRLFVDRLDNIAQVPRVG
+>gi|67464224|pdb|1Y3F|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 F69a Mutant
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTMEYRIDRVRLAVDRLDNIAQVPRVG
+>gi|56966089|pdb|1TO1|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 Y61a Mutant
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTMEARIDRVRLFVDRLDNIAQVPRVG
+>gi|56966081|pdb|1TM4|I Chain I, Crystal Structure Of The Complex Of Subtilsin Bpn'with Chymotrypsin Inhibitor 2 M59g Mutant
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTGEYRIDRVRLFVDRLDNIAQVPRVG
+>gi|67464230|pdb|1Y4A|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 M59r/e60s Mutant >gi|67464232|pdb|1Y4D|I Chain I, Crystal Structure Of The Complex Of Subtilisin Bpn' With Chymotrypsin Inhibitor 2 M59rE60S MUTANT
+MKTEWPELVGKSVEEAKKVILQDKPAAQIIVLPVGTIVTRSYRIDRVRLFVDRLDNIAQVPRVG
+>gi|475541142|gb|EMT09725.1| hypothetical protein F775_42829 [Aegilops tauschii]
+MGKIGSTPFKVVDRDLARSDGRRHDAGDGETKGRKEASVTSMSSVVKKPEGGNTDTGGHHNQKTEWPELVGKKVILQDKS
+EARIVVLPMGTIVTMEYRIDRVHLFVDSLDKIAQVPRVG
+>gi|159162164|pdb|1CIS|A Chain A, Context Dependence Of Protein Secondary Structure Formation. The Three-Dimensional Structure And Stability Of A Hybrid Between Chymotrypsin Inhibitor 2 And Helix E From Subtilisin Carlsberg
+MKTEWPELVGKSVEEAKKVILQDKPEAQIIVLEKQAVDNAYAEYRIDRVRLAVDKLDNIAQVPRVG
+>gi|242089211|ref|XP_002440438.1| hypothetical protein SORBIDRAFT_09g001020 [Sorghum bicolor] >gi|241945723|gb|EES18868.1| hypothetical protein SORBI_009G009500 [Sorghum bicolor]
+MSSTATAAPECGGAKTSWPEVVGKSVEEAKKVILKDKPDADIVVLPVGSPVTMDYRTNRVRIFVDTVAQTPHVG
+>gi|326492437|dbj|BAK02002.1| predicted protein [Hordeum vulgare subsp. vulgare]
+MGGQKGPAAGVSVILVGVLLILGLATAAMSSSEKVATGEKTSWPEVVGRSVEEAKKIILKDKPEADIVVLPVGSMVTMEY
+NPHRVRVFVDTVAEIPHAG
+>gi|357134613|ref|XP_003568911.1| PREDICTED: subtilisin-chymotrypsin inhibitor-2A-like [Brachypodium distachyon] >gi|944071966|gb|KQK07450.1| hypothetical protein BRADI_2g35540 [Brachypodium distachyon]
+MSSFSSVDGVACGGGKKTSWPEVVGLSVEEAKKAILKDKPDADIIVLPVGTPVTADFRPNRVRIFIDTVAEIPRVG
+>gi|242089213|ref|XP_002440439.1| hypothetical protein SORBIDRAFT_09g001030 [Sorghum bicolor]
+MSSTATAADCGGAKTSWPEVVGKSVEEAKKVILKDKPDADIVVLPVGTIVTADFVPSRVRIFVDTVAQTPHIG
+>gi|48093360|gb|AAT40058.1| MPI [Zea diploperennis] >gi|48093362|gb|AAT40059.1| MPI [Zea diploperennis] >gi|48093364|gb|AAT40060.1| MPI [Zea diploperennis] >gi|48093366|gb|AAT40061.1| MPI [Zea diploperennis] >gi|48093368|gb|AAT40062.1| MPI [Zea diploperennis] >gi|48093372|gb|AAT40064.1| MPI [Zea diploperennis] >gi|48093374|gb|AAT40065.1| MPI [Zea diploperennis] >gi|48093376|gb|AAT40066.1| MPI [Zea diploperennis] >gi|48093380|gb|AAT40068.1| MPI [Zea diploperennis] >gi|48093382|gb|AAT40069.1| MPI [Zea diploperennis] >gi|48093384|gb|AAT40070.1| MPI [Zea diploperennis] >gi|48093388|gb|AAT40072.1| MPI [Zea perennis] >gi|48093390|gb|AAT40073.1| MPI [Zea perennis] >gi|48093392|gb|AAT40074.1| MPI [Zea perennis] >gi|48093394|gb|AAT40075.1| MPI [Zea perennis] >gi|48093400|gb|AAT40078.1| MPI [Zea perennis] >gi|48093404|gb|AAT40080.1| MPI [Zea perennis] >gi|48093406|gb|AAT40081.1| MPI [Zea perennis] >gi|48093408|gb|AAT40082.1| MPI [Zea perennis] >gi|48093410|gb|AAT40083.1| MPI [Zea perennis] >gi|48093416|gb|AAT40086.1| MPI [Zea perennis]
+MSSTECGGGGGAKTSWPEVVGLSVEEAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHVG
+>gi|48093418|gb|AAT40087.1| MPI [Tripsacum dactyloides]
+MSSTAAAAPECGGGAKTSWPEVVGLSVEEAKKVILKDKPDADIVVLPVGSVVTADYRPDRVRIFVDIVAQTPHIG
+>gi|992157673|gb|KXG21069.1| hypothetical protein SORBI_009G009600 [Sorghum bicolor]
+MSSTAAVTTAPGSGGAKTSWPEVVGLSIEEAKKVILKDKPDADIVVLPVGSKVTGDYLPDRVRVFVDTVAETPHVVSIRD
+RQPTTMSSTATAADCGGAKTSWPEVVGKSVEEAKKVILKDKPDADIVVLPVGTIVTADFVPSRVRIFVDTVAQTPHIG
+>gi|48093370|gb|AAT40063.1| MPI [Zea diploperennis]
+MSSTECGGGGGAKTSWPEVVGLSVEEAKKVILKDKPDADIVVLPIGSVVTADYRPNRVRIFVDIVAQTPHVG
+>gi|226503924|ref|NP_001151896.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|350540668|ref|NP_001232818.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|195604566|gb|ACG24113.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|195622486|gb|ACG33073.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|195650739|gb|ACG44837.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|413942342|gb|AFW74991.1| subtilisin-chymotrypsin inhibitor CI-1B isoform 1 [Zea mays] >gi|413942343|gb|AFW74992.1| subtilisin-chymotrypsin inhibitor CI-1B isoform 2 [Zea mays] >gi|413942344|gb|AFW74993.1| subtilisin-chymotrypsin inhibitor CI-1B isoform 3 [Zea mays]
+MSSTGGGDDGAKKSWPEVVGLSLEEAKRVILCDKPDADIVVLPVGTPVTMDFRPNRVRIFVDTVAEAPHIG
+>gi|944056290|gb|KQJ91928.1| hypothetical protein BRADI_4g40616 [Brachypodium distachyon]
+MEVGGATASGGSAGAKNSWPEVVGMLSEEAKKKIIEDKPEASVQVIPAGSFVTMDYNTGRVRLFVDSNDKVSKAPRIG
+>gi|195608698|gb|ACG26179.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]
+MSSTGGGDDGAKKSWPEVVGLSLEEAKRVILCDKPDADIVVLPVGTPVTMDFRPNRVRIFIDTVAEAPHIG
+>gi|214015195|gb|ACJ62214.1| maize proteinase inhibitor [Zea mays subsp. parviglumis]
+MSSTECGGGGGAKTSWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHIG
+>gi|48093378|gb|AAT40067.1| MPI [Zea diploperennis] >gi|48093386|gb|AAT40071.1| MPI [Zea perennis] >gi|48093402|gb|AAT40079.1| MPI [Zea perennis]
+MSSTECGGGGAKTSWPEVVGLSVEEAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHVG
+>gi|944249140|gb|KQL13403.1| hypothetical protein SETIT_023875mg [Setaria italica]
+MSSSTEQVRCAGGGKTSWPEVVGMSVEEAKKVILKDKPDADIVVLPVGSPVTLDLRLDRVRIFVDTVSQTPHVG
+>gi|48093396|gb|AAT40076.1| MPI [Zea perennis] >gi|48093398|gb|AAT40077.1| MPI [Zea perennis] >gi|48093412|gb|AAT40084.1| MPI [Zea perennis] >gi|48093414|gb|AAT40085.1| MPI [Zea perennis]
+MSSTECGGGGGGGAKTSWPEVVGLSVEEAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHVG
+>gi|108862602|gb|ABA98006.2| expressed protein [Oryza sativa Japonica Group]
+MNSTSHFVAISFFHHQLDQTRRGKMSSSAKTSWPEVVGLSIEEAKKVILKDKPDADIVVLPFGTAVPEDFRFNRVRIFVD
+TVAETPRVG
+>gi|58396945|gb|AAW72833.1| subitilisin-chymotrypsin inhibitor [Oryza sativa Japonica Group] >gi|113649194|dbj|BAF29706.1| Os12g0437800 [Oryza sativa Japonica Group] >gi|164375527|gb|ABY52931.1| subitilisin-chymotrypsin inhibitor [Oryza sativa Japonica Group] >gi|937942054|dbj|BAT16966.1| Os12g0437800 [Oryza sativa Japonica Group]
+MSSSAKTSWPEVVGLSIEEAKKVILKDKPDADIVVLPFGTAVPEDFRFNRVRIFVDTVAETPRVG
+>gi|214015219|gb|ACJ62226.1| maize proteinase inhibitor [Zea mays subsp. parviglumis]
+MSSTECGGGGAKTSWPEVVGLSVEEAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHIG
+>gi|242089209|ref|XP_002440437.1| hypothetical protein SORBIDRAFT_09g001010 [Sorghum bicolor] >gi|241945722|gb|EES18867.1| hypothetical protein SORBI_009G009400 [Sorghum bicolor]
+MSSTAAAPESGGAKTSWPELVGLNVEEAKKVILKDKPDADIVVLPVGSPVTRDYRPNRVRIFVDIVAEAPHVG
+>gi|214015177|gb|ACJ62205.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015189|gb|ACJ62211.1| maize proteinase inhibitor [Zea mays subsp. parviglumis]
+MSSTECGGAKTSWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHVG
+>gi|214015093|gb|ACJ62163.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015103|gb|ACJ62168.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015109|gb|ACJ62171.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015111|gb|ACJ62172.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015121|gb|ACJ62177.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015129|gb|ACJ62181.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015137|gb|ACJ62185.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015139|gb|ACJ62186.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015141|gb|ACJ62187.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015149|gb|ACJ62191.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015205|gb|ACJ62219.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015211|gb|ACJ62222.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015213|gb|ACJ62223.1| maize proteinase inhibitor [Zea mays subsp. parviglumis]
+MSSTECGGGGAKTSWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHVG
+>gi|75994161|gb|ABA34116.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|214015217|gb|ACJ62225.1| maize proteinase inhibitor [Zea mays subsp. parviglumis]
+MSSTECGGGAKTSWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHVG
+>gi|75994159|gb|ABA34115.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|75994165|gb|ABA34118.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|75994169|gb|ABA34120.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|214015101|gb|ACJ62167.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015115|gb|ACJ62174.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015153|gb|ACJ62193.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015157|gb|ACJ62195.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015163|gb|ACJ62198.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015169|gb|ACJ62201.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015187|gb|ACJ62210.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015215|gb|ACJ62224.1| maize proteinase inhibitor [Zea mays subsp. parviglumis]
+MSSTECGGGGGGAKTSWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHVG
+>gi|75994157|gb|ABA34114.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|214015133|gb|ACJ62183.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015207|gb|ACJ62220.1| maize proteinase inhibitor [Zea mays subsp. parviglumis]
+MSSTECGGGGVKTSWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHIG
+>gi|473786981|gb|EMS46242.1| Subtilisin-chymotrypsin inhibitor-2A [Triticum urartu]
+MSSSDDTCGKKASWPELVGKSIEEAKKIIMKDRPDVKIIEVFPVGTAVTEDFRPDRVRIFVDTVAEIPRIG
+>gi|214015183|gb|ACJ62208.1| maize proteinase inhibitor [Zea mays subsp. parviglumis]
+MSSTECGGGGGAAKTSWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHIG
+>gi|960467220|ref|XP_014754372.1| PREDICTED: subtilisin-chymotrypsin inhibitor-2A-like [Brachypodium distachyon] >gi|944071963|gb|KQK07447.1| hypothetical protein BRADI_2g35500 [Brachypodium distachyon]
+MSSFSSVDGVACGGGKKTSWPEVVGLSVEEAKKAILKDKPDADIIVLPVGAPVTEDLRPNRVRIFIDTVAQIPRVG
+>gi|75994143|gb|ABA34107.1| maize protease inhibitor [Zea mays subsp. parviglumis]
+MSSTECGGGAKTSWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHIG
+>gi|75994153|gb|ABA34112.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|214015155|gb|ACJ62194.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015159|gb|ACJ62196.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015161|gb|ACJ62197.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015165|gb|ACJ62199.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015167|gb|ACJ62200.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015171|gb|ACJ62202.1| maize proteinase inhibitor [Zea mays subsp. parviglumis]
+MSSTECGGGGAKTSWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHIG
+>gi|242089215|ref|XP_002440440.1| hypothetical protein SORBIDRAFT_09g001040 [Sorghum bicolor]
+MSSTAAVTTAPGSGGAKTSWPEVVGLSIEEAKKVILKDKPDADIVVLPVGSKVTGDYLPDRVRVFVDTVAETPHVG
+>gi|162460972|ref|NP_001105449.1| subtilisin-chymotrypsin inhibitor homolog 1 [Zea mays] >gi|475253|emb|CAA55588.1| proteinase inhibitor [Zea mays] >gi|475922|emb|CAA49593.1| proteinase inhibitor [Zea mays] >gi|559538|emb|CAA57677.1| substilin /chymotrypsin-like inhibitor [Zea mays] >gi|75994139|gb|ABA34105.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|75994147|gb|ABA34109.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|75994149|gb|ABA34110.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|75994151|gb|ABA34111.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|75994155|gb|ABA34113.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|75994163|gb|ABA34117.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|75994167|gb|ABA34119.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|75994171|gb|ABA34121.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|195609620|gb|ACG26640.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|195609830|gb|ACG26745.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|195617100|gb|ACG30380.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|214015091|gb|ACJ62162.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015095|gb|ACJ62164.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015097|gb|ACJ62165.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015099|gb|ACJ62166.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015105|gb|ACJ62169.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015107|gb|ACJ62170.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015113|gb|ACJ62173.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015117|gb|ACJ62175.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015119|gb|ACJ62176.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015123|gb|ACJ62178.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015125|gb|ACJ62179.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015127|gb|ACJ62180.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015131|gb|ACJ62182.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015135|gb|ACJ62184.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015143|gb|ACJ62188.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015145|gb|ACJ62189.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015147|gb|ACJ62190.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015151|gb|ACJ62192.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015173|gb|ACJ62203.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015175|gb|ACJ62204.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015179|gb|ACJ62206.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015181|gb|ACJ62207.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015185|gb|ACJ62209.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015191|gb|ACJ62212.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015193|gb|ACJ62213.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015197|gb|ACJ62215.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015209|gb|ACJ62221.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015221|gb|ACJ62227.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015223|gb|ACJ62228.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015225|gb|ACJ62229.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015227|gb|ACJ62230.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|413950243|gb|AFW82892.1| subtilisin-chymotrypsin inhibitor-like protein isoform 1 [Zea mays] >gi|413950244|gb|AFW82893.1| subtilisin-chymotrypsin inhibitor-like protein isoform 2 [Zea mays]
+MSSTECGGGGGGAKTSWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHIG
+>gi|214015229|gb|ACJ62231.1| maize proteinase inhibitor [Zea mays subsp. parviglumis]
+MSSTECGGGGGGGAKTSWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHIG
+>gi|1002311702|ref|XP_015619221.1| PREDICTED: uncharacterized protein LOC4352127 [Oryza sativa Japonica Group]
+MVLVATVVVAATPLRSTEKMVKATGALIAREAENGIHNPMKGRHRTFSVESPVRFSVRSKAMQRRGKMSSSAKTSWPEVV
+GLSIEEAKKVILKDKPDADIVVLPFGTAVPEDFRFNRVRIFVDTVAETPRVG
+>gi|75994141|gb|ABA34106.1| maize protease inhibitor [Zea mays subsp. parviglumis] >gi|75994145|gb|ABA34108.1| maize protease inhibitor [Zea mays subsp. parviglumis]
+MSSTECGGGGGGAKTTWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHIG
+>gi|669027842|emb|CDM81426.1| unnamed protein product [Triticum aestivum] >gi|669027844|emb|CDM81428.1| unnamed protein product [Triticum aestivum]
+MSSSDDACGKKASWPELVGKSIEEAKKIIMKDRPDVKIIEVFPVGTAVTEDFRPDRVRIFVDTVAETPRIG
+>gi|218186770|gb|EEC69197.1| hypothetical protein OsI_38185 [Oryza sativa Indica Group]
+MVLVATVVVAATPLRSTEKMVKVTGALIAREAENGIHNPMKAVSTAGDAIFGNIASVVERDAKGRERSDLLFSTASFITN
+SIRPQRRGKMSSSAKTSWPEVVGLSIEEAKKVILKDKPDADIVVLPFGTAVPEDFRFNRVRIFVDTVAETPRVG
+>gi|226493001|ref|NP_001147325.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|195609018|gb|ACG26339.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|195609958|gb|ACG26809.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|413942345|gb|AFW74994.1| subtilisin-chymotrypsin inhibitor CI-1B isoform 1 [Zea mays] >gi|413942346|gb|AFW74995.1| subtilisin-chymotrypsin inhibitor CI-1B isoform 2 [Zea mays]
+MSSTGGDDGAKKSWPEVVGLSLEEAKRVILCDKPDADIVVLPVGTPVTMDFRPNRVRIFVDTVAEAPHIG
+>gi|20513869|gb|AAM22830.1|AF427791_21 CI2C [Hordeum vulgare subsp. vulgare]
+MSCAAPKAPAGEEKKTSWPEVVGKSIEEAKEIILKDMPEADIVVLPAGSPVTLDFRTNRVRIFVDTVASIPHIG
+>gi|242089219|ref|XP_002440442.1| hypothetical protein SORBIDRAFT_09g001060 [Sorghum bicolor] >gi|241945727|gb|EES18872.1| hypothetical protein SORBI_009G009800 [Sorghum bicolor]
+MSSSAEAERGGAKKQSWPEVVGLSVEEAKKVILKDKPDADIFVLPVGSPVTRDFRPNRVRIFVDTVAETPRVG
+>gi|350536017|ref|NP_001232814.1| subtilisin-chymotrypsin inhibitor homolog 1 [Zea mays] >gi|195617232|gb|ACG30446.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]
+MSSTECGGGGGGAKTSWPEVVGLSVKDAKKVILKDKPDADIVVLPVGSVVTADYRPNRVRIFVDIVAQTPHIG
+>gi|473941538|gb|EMS50346.1| Subtilisin-chymotrypsin inhibitor-2B [Triticum urartu]
+MSYGAAPRCLASEEEKKTSWPELVGKSIEEAREVILKDMPEADIVVLPTGSAVTMDLRSNRVRIFVDTVATAPTIG
+>gi|214015199|gb|ACJ62216.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015201|gb|ACJ62217.1| maize proteinase inhibitor [Zea mays subsp. parviglumis] >gi|214015203|gb|ACJ62218.1| maize proteinase inhibitor [Zea mays subsp. parviglumis]
+MSSTECGGGGGGAKTSWPEVVGLSVEDAKKVILKDKPDADIVVLPVGSVVTADYRPNCVRIFVDIVAQTPHIG
+>gi|6729928|pdb|1CQ4|A Chain A, Ci2 Mutant With Tetraglutamine (mgqqqqgm) Replacing Met59
+MKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMGQQQQGM
+>gi|15667361|emb|CAB71340.2| putative proteinase inhibitor [Hordeum vulgare subsp. vulgare]
+MSCAAPKAPAGEEKKTSWPEVAGKSIEEAKEIILKDMPEADIVVLPAGSPVTLDFRTNRVRIFVDTVASTPHIG
+>gi|1421564|pdb|1CIQ|A Chain A, Complex Of Two Fragments Of Ci2, Residues 1-40 And 41-64
+MKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTM
+>gi|475595133|gb|EMT22929.1| Subtilisin-chymotrypsin inhibitor-2A [Aegilops tauschii]
+MGGQKGLAAIMVGVLLILGLATAAMSSSEKVATGGKTSWPEVVGLSAEEAKKIILKDKPDADIVVLPAGSMVTMDYNPRR
+VRVFVDTVDETPYAG
+>gi|326511567|dbj|BAJ91928.1| predicted protein [Hordeum vulgare subsp. vulgare]
+MSSSDDSCGKKASWPELVGMSIEEAKKIIMKDRPDVKIIEVFPVGTAVTEDLRFDRVRIFVNTVAEIPRIG
+>gi|475595135|gb|EMT22931.1| Subtilisin-chymotrypsin inhibitor-2A [Aegilops tauschii]
+MGFQKGPAGVSAIMVGLIIVIMATAAMSCSEKVATDEKTSWPEVVGLSVEKAKEIILKDKPDADIVVLPVGSPVTKDYRS
+ERVRIFIDTVAEIPHTG
+>gi|944249136|gb|KQL13399.1| hypothetical protein SETIT_025146mg [Setaria italica]
+LASMNTTTEETSGWTSWPEVVGMSVEEAKKVILKDKSDADIVVLPVGSPVALDLRLDRVRIFVDTVAQTPHVG
+>gi|357135009|ref|XP_003569105.1| PREDICTED: subtilisin-chymotrypsin inhibitor CI-1C-like [Brachypodium distachyon]
+MSSSVDAVACGSGGEKTSWPEVVGLSVEAAKKVILKDRPDADIHIVPVGSMVTTDFIPNRVRVFVDTVAEIPRVG
+>gi|944072571|gb|KQK08055.1| hypothetical protein BRADI_2g39290 [Brachypodium distachyon] >gi|944072572|gb|KQK08056.1| hypothetical protein BRADI_2g39290 [Brachypodium distachyon]
+MSSTDATTAAAAGAPCASEQLRSWPELVGLSIEEAKKVILKDMPDASIVVLPAGSATTRDLRRDRVRIFVDTVAEIPRVG
+>gi|475550706|gb|EMT11499.1| Subtilisin-chymotrypsin inhibitor-2A [Aegilops tauschii] >gi|670018069|emb|CDJ26677.1| unnamed protein product [Triticum aestivum]
+MSSSDDTCGKKASWPELVGKSIEEAKKTIMKDRPDVKNIEVFPVGTPVTGDFRPDRVRIFVDTVAETPRIG
+>gi|226508758|ref|NP_001152630.1| uncharacterized protein LOC100286271 [Zea mays] >gi|195658339|gb|ACG48637.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|413942339|gb|AFW74988.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]
+MSSVVLGATGRENKTSWPEVVGMSIKEAREIILKDMPNANIQVLPVGSLVTQDFRPDRVRIFVDIVAQTPTVG
+>gi|944072569|gb|KQK08053.1| hypothetical protein BRADI_2g39280 [Brachypodium distachyon]
+MSSMEEKKPAIQGAAGDGGVAPPRFDDPIKLKSWPELVGKSVDEAKKVILRDMPEAKIEVLPVDAMVTEDLQYDRVRIFV
+AVADVPRVG
+>gi|1002309384|ref|XP_015618062.1| PREDICTED: subtilisin-chymotrypsin inhibitor-2A [Oryza sativa Japonica Group] >gi|77556084|gb|ABA98880.1| Subtilisin-chymotrypsin inhibitor CI-1B, putative, expressed [Oryza sativa Japonica Group] >gi|125536941|gb|EAY83429.1| hypothetical protein OsI_38643 [Oryza sativa Indica Group] >gi|125579647|gb|EAZ20793.1| hypothetical protein OsJ_36417 [Oryza sativa Japonica Group] >gi|215768660|dbj|BAH00889.1| unnamed protein product [Oryza sativa Japonica Group] >gi|255670380|dbj|BAH95728.1| Os12g0548450 [Oryza sativa Japonica Group] >gi|937942637|dbj|BAT17549.1| Os12g0548401 [Oryza sativa Japonica Group]
+MAGVVRSAACSGGEGERKTSWPEVVGLSAEEAKKVILKDMPDADIVVLPAGSPVTLDFRSNRVRIFVDTVAGTPTIG
+>gi|1310891|pdb|1CIR|A Chain A, Complex Of Two Fragments Of Ci2 [(1-40)(Dot)(41-64)]
+MKTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTX
+>gi|474434016|gb|EMS68098.1| Subtilisin-chymotrypsin inhibitor-2A [Triticum urartu]
+MGGQKGPAAIMVGVLLILGLATAAMSSSEKVATGEKTSWPEVVGLCAEEAKKIILKDKPDANIVVLPAGSMVTMDYDPLR
+VRIFVDTVAKAPHTG
+>gi|242085092|ref|XP_002442971.1| hypothetical protein SORBIDRAFT_08g005570 [Sorghum bicolor] >gi|241943664|gb|EES16809.1| hypothetical protein SORBI_008G067200 [Sorghum bicolor]
+MATSGPNADGGAAAAAAPKNSWPELVGKSSEEAKKKIKEDKPGADVQVVPADAFVTLDYRTGRVRVFVDSDDKVARAPQI
+G
+>gi|944235022|gb|KQK99384.1| hypothetical protein SETIT_011928mg [Setaria italica]
+MATSGPSAAGGAAAAKDSWPELVGLSSEEAKKKIKEDKPDADVQVVPADAFVTMDYNTGRVRVFVDSNDKVAKAPRIG
+>gi|514804580|ref|XP_004977162.1| PREDICTED: subtilisin inhibitor-like [Setaria italica]
+MPRCKPLPKTEHICSLPQSPAQNYCEYTLQKRKITISSQMATSGPSAAGGAAAAKDSWPELVGLSSEEAKKKIKEDKPDA
+DVQVVPADAFVTMDYNTGRVRVFVDSNDKVAKAPRIG
+>gi|20513866|gb|AAM22827.1|AF427791_18 CI2E [Hordeum vulgare subsp. vulgare]
+MSSSGAAVGECKKTSWPEVVGLTIKEAKEIILKDKPEADIVVVPVGSAVTEDFRPNRVRIFVGTVVETPHVG
+>gi|473884724|gb|EMS48066.1| Subtilisin-chymotrypsin inhibitor-2A [Triticum urartu]
+MLTESRMSCAAPKVPAGEEKKTSWPEVVGKSIEEAKEIILKDMPDADIDVLPAGSAMTLDFRTNRVRIIVDTIATTPSIG
+>gi|944072567|gb|KQK08051.1| hypothetical protein BRADI_2g39260 [Brachypodium distachyon]
+MSSSSVGEVTKSWPEVVGLSIKEAKKVILKDKPDADIVVLPVGAKVTDDFLPNRVRIFVDTVAEIPRAG
+>gi|902228143|gb|KNA20992.1| hypothetical protein SOVF_047430 [Spinacia oleracea]
+MSSECQGHGKNAWPELVGRDGHETARIIESENPDVQATVLPVGSMVTLDFRCDRVRVWVDSYNNVNAIPRIG
+>gi|992157674|gb|KXG21070.1| hypothetical protein SORBI_009G009700 [Sorghum bicolor]
+MSSSTMAGGTEKTSWPEVVGLSVEKAKKTILKDKPDADIIVLPVGTPVPKDFQPNRVRIFVDIVVETPHVG
+>gi|475593518|gb|EMT22407.1| Subtilisin inhibitor 1 [Aegilops tauschii]
+MAEWASMARMEEVGSADTEQGRRHGCEKGRADMRERAVNLVGLVNFNGFEAMEAGGATAGVGAEKNSWPEVVGLSSEEAK
+KKIIQHKPDASVHVVPADSFVTMDYNTGRVRVFVDSNDKVTKAPRIG
+>gi|242089217|ref|XP_002440441.1| hypothetical protein SORBIDRAFT_09g001050 [Sorghum bicolor]
+MAGGTEKTSWPEVVGLSVEKAKKTILKDKPDADIIVLPVGTPVPKDFQPNRVRIFVDIVVETPHVG
+>gi|670387770|ref|XP_008674421.1| PREDICTED: subtilisin inhibitor-like [Zea mays] >gi|414878382|tpg|DAA55513.1| TPA: hypothetical protein ZEAMMB73_431437 [Zea mays]
+MATSGPSAAAAAPKDSWPEVVGMSSEEAKKKIKEDKPGADVQVVPADAFVTMDYSTGRVRVFVDSNDKVAKAPRIG
+>gi|242089223|ref|XP_002440444.1| hypothetical protein SORBIDRAFT_09g001080 [Sorghum bicolor] >gi|241945729|gb|EES18874.1| hypothetical protein SORBI_009G010000 [Sorghum bicolor] >gi|992157675|gb|KXG21071.1| hypothetical protein SORBI_009G010000 [Sorghum bicolor]
+MSSIVMGATGDKNKTSWPEVVGMSINEATDIILKDMLNAHIEILPIGSIVTQDFRLDRVRIFVDIVAETPIVG
+>gi|475542502|gb|EMT09967.1| Subtilisin-chymotrypsin inhibitor-2A [Aegilops tauschii]
+MSSSDNVAAGEKTRWPEVVGLCAEEAKKIILADKPDADIIVLPVGTPVTKDFRPERVRVFVHDTPSIG
+>gi|475542503|gb|EMT09968.1| Subtilisin-chymotrypsin inhibitor CI-1B [Aegilops tauschii]
+MSSSDDVASGCKRTSWPEVVGLTIKEAKEIILMDKPDADIVVVPVGSAVTEDFRPNRVRIFVGTVAEIPHVG
+>gi|723708701|ref|XP_010322583.1| PREDICTED: subtilisin inhibitor-like [Solanum lycopersicum]
+MSEDSKKLSDELPTESPPAPLPILDLSSPPAGKMSWPELLGVTAEEAERKIKEEKPELKIHIIPPNSMVTMDYRLDRVRL
+FVDESGKVAQEPRLG
+>gi|475525583|gb|EMT07182.1| hypothetical protein F775_43790 [Aegilops tauschii]
+MACRIDDEASSRKAWPPEATAAGGLFVEETKAWPEVVGKSIKEAREIILKDKPEADIVVLPAGAPVTLDLRPNRVRIFVD
+TVAETPFTG
+>gi|473941536|gb|EMS50344.1| Subtilisin-chymotrypsin inhibitor-2A [Triticum urartu] >gi|474097079|gb|EMS55108.1| Subtilisin-chymotrypsin inhibitor-2A [Triticum urartu]
+MSSSDDVAGGCKKTSWPEVVGLTIKEAKEIIIKDKPDADIVVVPVGSAVTEDFRPNRVRIFVGTVADIPHVG
+>gi|195649357|gb|ACG44146.1| hypothetical protein [Zea mays] >gi|413950242|gb|AFW82891.1| hypothetical protein ZEAMMB73_869830 [Zea mays]
+MSASSAKPATGGKTSWPEVVGLSVEEAKKVILADKPNADIVVLPTTTQAVTSDFGFDRVRVFVGTVAQTPHVG
+>gi|944249137|gb|KQL13400.1| hypothetical protein SETIT_024175mg [Setaria italica]
+MSSAVDTTGGENKKTSWPEVVGLPVKEAKEIILKDMPRADIVVLPVGTFVTQELNPNRVRIFVDTVAQTP
+>gi|970034438|ref|XP_015078543.1| PREDICTED: subtilisin inhibitor-like [Solanum pennellii]
+MSEDSKKLSDELPTESPPAPLPILDWSSPPAGKMSWPELLGVTAEEAERKIKEEKPELKIHTIPPNSMVTMDYRLDRVRL
+FLDESGKVAQEPRLG
+>gi|226507138|ref|NP_001152692.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|195659061|gb|ACG48998.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays] >gi|413942340|gb|AFW74989.1| subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]
+MLHHIVDCITKHIVVGSEMMSSVVVDAAATSSSEKKTSWPEVVGMSIKEATETILKDMPNAYIQVLPVGSPVTLDLRPDR
+VRIFVDTVAMTPTVG
+>gi|226529998|ref|NP_001147170.1| subtilisin-chymotrypsin inhibitor CI-1C [Zea mays] >gi|195607942|gb|ACG25801.1| subtilisin-chymotrypsin inhibitor CI-1C [Zea mays] >gi|195616334|gb|ACG29997.1| subtilisin-chymotrypsin inhibitor CI-1C [Zea mays] >gi|413948997|gb|AFW81646.1| subtilisin-chymotrypsin inhibitor CI-1C [Zea mays]
+MSHSHSTKTSWPEVEGMPAEVAKRKIQEDRPDIQVILVPVDSAVTDDFNTKRVRVFFDKAGNVAQVPKIG
+>gi|944072568|gb|KQK08052.1| hypothetical protein BRADI_2g39271 [Brachypodium distachyon]
+MSSSVDAVACGSGGEKTSWPEVVGLSVEAAKKVILKDRPDADIHIVPVGSMVTTDFIPNRVRVFVDTVAEIPPCSSSNSC
+AIARINMSSSSDKVVVDGGGEKKSWPEVVGLCTDEAKKIILKDKPDADIIVLPMGSPVPKDFRPERVFVFVDIVAQTPSV
+G
+>gi|413945052|gb|AFW77701.1| hypothetical protein ZEAMMB73_213799 [Zea mays]
+MSGSRSKKSWPEVEGLPSEVAKQKILADRPDVQVVVLPDGSFVTTDFNDKRVRVFVDNADNVAKVPKIG
+>gi|1617121|emb|CAA69915.1| subtilisin-chymotrypsin inhibitor 2 [Hordeum vulgare subsp. vulgare] >gi|30025166|gb|AAP04433.1| putative protease inhibitor [Hordeum vulgare]
+MSKSCDGAKTEWPELVGCTIKEAKEKIKADRPDLKVVIVPVGSIVTQEIDLNRVRVWVDKVAKVPKIG
+>gi|20513870|gb|AAM22831.1|AF427791_22 CI2B [Hordeum vulgare subsp. vulgare]
+MSSLDAATTRCPAGEEKKSSWPELVGKSIEDAREVILKDMPEADIKVLPANSVVAADWRSNRVRVLVDTVATTPHIG
+>gi|242089221|ref|XP_002440443.1| hypothetical protein SORBIDRAFT_09g001070 [Sorghum bicolor] >gi|241945728|gb|EES18873.1| hypothetical protein SORBI_009G009900 [Sorghum bicolor]
+MSSIVMDVTSGEKKTSWPEVLGMSIKEATEIILKDMPNAYIQVLPVGSPVTLDIRPDRVRIFVDTVAKTPTVG
+>gi|566175290|ref|XP_006381208.1| hypothetical protein POPTR_0006s08920g [Populus trichocarpa] >gi|550335819|gb|ERP59005.1| hypothetical protein POPTR_0006s08920g [Populus trichocarpa]
+MTEENQQIKSPQEPPADQAVPPLPRMYGLGSNPAAKTTWPELVGLTAEEAERKIKEEKPGAQIQVVQLDCFVTMDFRQNR
+VRLHVDSLGKIERAPRIG
+>gi|14719327|gb|AAK73145.1|AC079022_18 putative proteinase inhibitor [Oryza sativa] >gi|125550547|gb|EAY96256.1| hypothetical protein OsI_18155 [Oryza sativa Indica Group] >gi|222629931|gb|EEE62063.1| hypothetical protein OsJ_16847 [Oryza sativa Japonica Group]
+MGGGVRSAAAKRSWPEVVGMTMEEAKAAILKDKPDADIVVLPVGAPMTRDLRPNRVRIFGSATVAETPRVG
+>gi|944252071|gb|KQL16334.1| hypothetical protein SETIT_023911mg [Setaria italica] >gi|944252072|gb|KQL16335.1| hypothetical protein SETIT_023911mg [Setaria italica]
+MSGDSGKSSWPEVVGLSGDAAKQKILADRPDVQVFLVPVGSMVTTDFDTKRVRVFVNTAGYVAEVPNIG
+>gi|37904392|gb|AAR04781.1| serine proteinase inhibitor [Brachypodium distachyon]
+MSSSSVGEVTKSWPEVVGLSIKEAKKVILKDKPDADIVALPVGGKVTDDFLSNRVRIFVDTGGEIPRAG
+>gi|566175278|ref|XP_006381202.1| hypothetical protein POPTR_0006s08880g [Populus trichocarpa] >gi|566252799|ref|XP_006387088.1| hypothetical protein POPTR_1896s00200g [Populus trichocarpa] >gi|550304815|gb|ERP46002.1| hypothetical protein POPTR_1896s00200g [Populus trichocarpa] >gi|550335813|gb|ERP58999.1| hypothetical protein POPTR_0006s08880g [Populus trichocarpa]
+MTEENQQIKSPQEPPADQAVPPLPRMYGLGSNPAAKTTWPELVGFTAEEAERRIKEEKPGAQIQVVQPDCFVTMDFRQNR
+VRLHVDSLGKIQRAPRIG
+>gi|50403685|sp|P83472.2|ICI_LUMTE RecName: Full=Chymotrypsin inhibitor; Short=LTCI; Flags: Precursor [Lumbricus terrestris] >gi|54610713|gb|AAV35366.1| chymotrypsin inhibitor precursor [Lumbricus terrestris]
+MKLLFAIVALLALAFLCADISAVKTSWPELVGETLEEAKAQILEDRPDAVIKVQPEHSPVTYDYRPSRVIIFVNKDGNVA
+ETPAAG
+>gi|326513016|dbj|BAK03415.1| predicted protein [Hordeum vulgare subsp. vulgare]
+MSCADPKAPAGEEKKSSWPELVGKTIEDAREVILKDMPEADIEVLPTDSVVSADWRSNRVRILVDTVATTPHIG
+>gi|331087367|gb|AEC53453.1| chymotrypsin inhibitor-2 [Actinosynnema pretiosum subsp. auranticum]
+MFSERGGAVSRSEWPELVGASADQVVAAIRAEHPGREVVVVPEGSFVTMDYREDRVRVFVTADGRVAEVPRIG
+>gi|474097080|gb|EMS55109.1| Subtilisin-chymotrypsin inhibitor WSCI [Triticum urartu]
+MFREVREQLLPTERILALQEEIARFLLDQLTESRMSCAAPKAPTGEEKKTSWPEVVGKSIEEAKEIILKDMRDADIDVLP
+LGSAMTLDFRTNRVRIIVDTVATTPSIG
+>gi|124129|sp|P01054.1|ICIC_HORVU RecName: Full=Subtilisin-chymotrypsin inhibitor CI-1C >gi|223569|prf||0901223A inhibitor CI1,Ser protease [Hordeum vulgare subsp. vulgare]
+YPEPTEGSIGASGAKTSWPEVVGMSAEKAKEIILRDKPNAQIEVIPVDAMVPLNFNPNRVFVLVHKATTVAZVSRVG
+>gi|566175296|ref|XP_006381211.1| hypothetical protein POPTR_0006s08950g [Populus trichocarpa] >gi|550335822|gb|ERP59008.1| hypothetical protein POPTR_0006s08950g [Populus trichocarpa]
+MTEENQQIKSPQEPPADQAVPPLPRMYGLGSNPAAKTTWPELVGLTAEEAERRIKEEKPGAQIQVVQPDCFVTMDFRQNR
+VRLHVDSLGKIERAPRIG
+>gi|506282239|ref|WP_015802014.1| proteinase inhibitor I13 potato inhibitor I [Actinosynnema mirum] >gi|255921614|gb|ACU37125.1| proteinase inhibitor I13 potato inhibitor I [Actinosynnema mirum DSM 43827]
+MFSERGGAVGKSEWPELVGASADQVVASIRAELPGREVVVVPEGSFVTMDYREDRVRVFVTADGRVAEVPRVG
+>gi|475528990|gb|EMT07702.1| Subtilisin-chymotrypsin inhibitor-2A [Aegilops tauschii]
+MSKPGNGPKTEWPELVGRMIKEAKEKIKADRPNLKVRIVPVGSIVTADFDLNRVRVWVDTVAEVPKIG
+>gi|474301515|gb|EMS61614.1| Subtilisin-chymotrypsin inhibitor-2A [Triticum urartu]
+MSKPCDAKTEWPELVGRTIKEAEEKIKADRPDLKVIIVPVGSFVTTDVDLNRVRVWVDTVAEVPKIG
+>gi|145476715|ref|XP_001424380.1| hypothetical protein [Paramecium tetraurelia strain d4-2] >gi|124391444|emb|CAK56982.1| unnamed protein product [Paramecium tetraurelia]
+MNFHLPQGKQSWPECVGKTAEEAKQIILADNAELHVQLLPENSMVTMDYRTDRVRVFHDENGVVKQAPHIA
+>gi|870858826|gb|KMT10314.1| hypothetical protein BVRB_5g120650 [Beta vulgaris subsp. vulgaris]
+MASSQEKTQWPELVGENGKEAAKIIEKENPSLHTIVLLIGSPVTKDYRTDRVRIFVDCKGIVGPIPRIG
+>gi|357456991|ref|XP_003598776.1| subtilisin inhibitor 1 [Medicago truncatula] >gi|355487824|gb|AES69027.1| subtilisin inhibitor 1 [Medicago truncatula]
+MTEEKQGQGTNPPHEQPNESLLRTYNQRLRRNNPTKTSWPELVGVTVEEAKRKIKEEMSEVKIEVVSPGSCVTFDLRYDR
+VRLYVDEFNNVFSTPKIG
+>gi|474219306|gb|EMS59164.1| Subtilisin-chymotrypsin inhibitor-2A [Triticum urartu] >gi|475595132|gb|EMT22928.1| Subtilisin-chymotrypsin inhibitor-2A [Aegilops tauschii]
+MSSSEEKTSWPEVVGLPVEEAKAIILRDKPGADILVLPVGSSSDTQFIANRVRIFVNGTTVAETPIVG
+>gi|242090221|ref|XP_002440943.1| hypothetical protein SORBIDRAFT_09g017500 [Sorghum bicolor] >gi|241946228|gb|EES19373.1| hypothetical protein SORBI_009G108300 [Sorghum bicolor]
+MSQNTKTSWPEVKGLPAEVAKHKIQDDRPDVEVILVRVGSVVTDDFNTMRVRVFFDKVGNVAEVPKIG
+>gi|1035911759|gb|OAY41353.1| hypothetical protein MANES_09G094800 [Manihot esculenta]
+MAENQETKLSQQHPPESNPSLLPSAKTTWPELVGLTAEEAERKIKEDFPRAEIQVILPDCFVTMDFKQDRVRLYVDGFGK
+VARIPRIG
+>gi|125534072|gb|EAY80620.1| hypothetical protein OsI_35801 [Oryza sativa Indica Group]
+MSSDKSSWPEVVGLPAEAAKYIILNDRPDVHVVVLRVGSIVTTEVDPKRVRVFVNNSATVAQVPKIG
+>gi|1026763087|gb|OAE24223.1| hypothetical protein AXG93_3083s1010 [Marchantia polymorpha subsp. polymorpha]
+MSDDSEPSRQVLVVNTANFKKSGVTKDIPLPHRTDRGDEMASTGPRKSWPHLVGQNAEEAKKKIQEDHPHLQVVILPQDS
+FMTMDYNLRRVRIFKDADQKVAKVPMLG
+>gi|357135011|ref|XP_003569106.1| PREDICTED: subtilisin-chymotrypsin inhibitor CI-1B-like [Brachypodium distachyon]
+MSSSSDKVVVDGGGEKKSWPEVVGLCTDEAKKIILKDKPDADIIVLPMGSPVPKDFRPERVFVFVDIVAQTPSVG
+>gi|475556419|gb|EMT12645.1| Subtilisin-chymotrypsin inhibitor-2A [Aegilops tauschii]
+MSTPGDGPKTEWPELVGRTIKEAKEKIKADRPDLKVRIVPVGSTIVTADFDLNRVRVWVDTVAEVPKIG
+>gi|870858827|gb|KMT10315.1| hypothetical protein BVRB_5g120660 [Beta vulgaris subsp. vulgaris]
+MASCQEKTQWPELVGENGNEAAKIIEKENPCLHAIVLLIGSIVTHDYRADRVRIFVDCNGIVGPIPIIG
+>gi|145551115|ref|XP_001461235.1| hypothetical protein [Paramecium tetraurelia strain d4-2] >gi|124429068|emb|CAK93862.1| unnamed protein product [Paramecium tetraurelia]
+MVGEQRTYDNIEDQIVVITGASSGIGMEAAREFAKLKATVIFACRDQDVTENIIQELVQETKNNKLHFIFLDLEQTDSVI
+SFVEQFKQKFKYLNILINNSGIADFDQENVSGIEKIVKVNQIGWVLLTHQLIDYFNERGRIINIVSHMYTWIGEEIDILK
+AFKGDLDYRYAISQYFKVSSSLYLQQLLKDQNKDIKVLLVAPGAVNTEIFEKSLKNQVILRSLVRVMKVIMDPFLLTPNE
+ASQTYLYAALRPYDQIKDEELYNFNIVSKLNEDVIRFNQGQEIYETSLKLGFKDMELPSIKISKLHYNQIGNNQKTSWPE
+CVGKTIQQAIQIIKKDGPNLQIQVLPEGSIVTMDYRRDRVRIFHNPKGIVIQIPSIG
+>gi|944251616|gb|KQL15879.1| hypothetical protein SETIT_023913mg [Setaria italica]
+MGDNRKTSWPEVEGLPAEVAKQKILADRADVKVVVLPDGSFVTTDFDIKRVRVFVDRAGIVAKVPKVG
+>gi|944077989|gb|KQK13341.1| hypothetical protein BRADI_1g09487 [Brachypodium distachyon]
+MGDAKSSWPEVLGAPAEAAKQTILRDRPDVQVFIVPPGNSVTGDFNNKRVRVFVDSSNKVVKVPKIG
+>gi|697189791|ref|XP_009603954.1| PREDICTED: glu S.griseus protease inhibitor-like [Nicotiana tomentosiformis]
+MACQGKSSWPELVGENGQTAKETIERENPLVTANVAPVGSSGTTDFRCDRVRVFVDRDNNVAQVPVIG
+>gi|224447|prf||1105220A inhibitor,subtilisin
+RTSWPELVGVSAEEARKIKEEKPEAEIQVVPQGSFVTADYKFQRVRLYVDESNKVVRAAPIG
+>gi|20513868|gb|AAM22829.1|AF427791_20 CI2D [Hordeum vulgare subsp. vulgare]
+MSCADPKAPAGEEKKSSWPELVGKSIEDAREVILKDMPEVDIEVHPTDSVVSADWRSNRVRILVDTVATTPHIG
+>gi|125526847|gb|EAY74961.1| hypothetical protein OsI_02858 [Oryza sativa Indica Group]
+MSSSETPKTEWPELVCRTIKEAKEKIKADRPDLKIEVVPVGTIVTQEFDENRVRIWVDTVAKTPTIG
+>gi|473884725|gb|EMS48067.1| Subtilisin-chymotrypsin inhibitor-2A [Triticum urartu]
+MSSTEVPVGTGDLTGESWQKSWPEVVGKSIKGVTEIILKDKPDADIVVLPAGSPVTRDLKPNRVRIFVDTVADTPFTG
+>gi|54290293|dbj|BAD61238.1| putative subtilisin-chymotrypsin inhibitor 2 [Oryza sativa Japonica Group]
+MCKTPKTEWPELVCRTIKEAKEKIKADRPDLKIEVVPVGTIVTQEFDENRVRIWVDTVAKTPTIG
+>gi|475616047|gb|EMT29637.1| hypothetical protein F775_42796 [Aegilops tauschii]
+MSKPCDGAKTEWPELVGRTIKEAEEKIKADRPDLKVRIVPVGSIVTHDEDLNRVRVWVDMVAEVPKIG
+>gi|255673461|dbj|BAH91193.1| Os01g0615050, partial [Oryza sativa Japonica Group] >gi|937897175|dbj|BAS73155.1| Os01g0615050 [Oryza sativa Japonica Group]
+TPKTEWPELVCRTIKEAKEKIKADRPDLKIEVVPVGTIVTQEFDENRVRIWVDTVAKTPTIG
+>gi|474301514|gb|EMS61613.1| Subtilisin-chymotrypsin inhibitor-2B [Triticum urartu]
+MSTPCDGPKTEWPELVGRTIKEAEEKIKADRPDLTVDVVPVGTNVMGEFNENRVRVWVDTVAEVPRIG
+>gi|475414585|gb|EMT00963.1| Subtilisin-chymotrypsin inhibitor-2A [Aegilops tauschii]
+MGDAKSSWPEVLGAPSEVAKRKILSDRPDVRVFVAPVGSVVTTDFDDKRVRVFVSTRGDVAQVPNIG
+>gi|54290294|dbj|BAD61239.1| protease inhibitor-like [Oryza sativa Japonica Group] >gi|58396947|gb|AAW72834.1| subitilisin-chymotrypsin inhibitor [Oryza sativa Japonica Group] >gi|113533102|dbj|BAF05485.1| Os01g0615100 [Oryza sativa Japonica Group] >gi|125526848|gb|EAY74962.1| hypothetical protein OsI_02859 [Oryza sativa Indica Group] >gi|125571172|gb|EAZ12687.1| hypothetical protein OsJ_02604 [Oryza sativa Japonica Group] >gi|215692921|dbj|BAG88341.1| unnamed protein product [Oryza sativa Japonica Group] >gi|937897176|dbj|BAS73156.1| Os01g0615100 [Oryza sativa Japonica Group]
+MSSSDSKPCGGLKTEWPELVGLTIEQAKAKIKADRPDLQVEVLPVGTIILGVVVPNRVILWVDTVAEIPKIG
+>gi|695018764|ref|XP_009396358.1| PREDICTED: glu S.griseus protease inhibitor-like [Musa acuminata subsp. malaccensis]
+MDQCTGKSSWPELVGVKGETAVTTIESENPTVKAVIVEVGTIVTGDFLCDRVRVWVDKAGIVAEIPRIG
+>gi|58396949|gb|AAW72835.1| subitilisin-chymotrypsin inhibitor [Oryza sativa Japonica Group]
+MSSSWTPKTEWPELVCRMIKEAKEKIKADRPDLKIEVVPVGTIVTQEFDENRVRIWVDTVAKTPTIG
+>gi|47678120|emb|CAE53111.1| protease inhibitor [Oryza sativa Indica Group]
+MSSSDSKPCGGLKTEWPELVGLTIEQAKAKIKADRPDLQVEVLPVGTIILGVVVPNRVILWVNTVAEIPKIG
+>gi|50262213|gb|AAT72726.1| putative chymotrypsin protease inhibitor [Cucurbita maxima]
+MLEKSSWPELVGKDGEEAVKIIQQENPSLDVILMPRGQNWATLDYRPNRVRVFNDESGKVNSIPRIG
+>gi|225440436|ref|XP_002269887.1| PREDICTED: subtilisin inhibitor CLSI-I [Vitis vinifera] >gi|297740333|emb|CBI30515.3| unnamed protein product [Vitis vinifera]
+MADENQRTELPQERPQQSTTIPQEQPHQSTILLPGSVGHPSGVEVAPKTTWPEVVGMTVEEAERKIREDMPRVQFQVVPP
+NCFVTMDFNTRRVRLHVDSEGKVSRAPRIG
+>gi|743877151|ref|XP_010907808.1| PREDICTED: subtilisin inhibitor CLSI-I-like [Elaeis guineensis]
+MAEESKESRHPQDGKAPVQQMAEQDGFKMNASPKEAWPDLVGLDAAEAEKRIKNDRPGIRIQVVPPDHFVTMDFDVGRVR
+LYIDSSDKIAKLPRIG
+>gi|1035935632|gb|OAY64308.1| Subtilisin inhibitor 1 [Ananas comosus]
+MNSVRGMNNPNNKTMSEMVTEILVPAYNIITEATYNIASKIQDAGPRYEAGAKQMWDKGIAVKEYLVHKLEPGEDDRALC
+EVITEAVSPRSDGRNQAEEKGSFVEKMRVAASSLHGQEESQGSPIPVSTNPYTEGEKEVKASAPRHSWPEVVGLTTEEAE
+KRIRQDKPDARFQVVPPDHFVTMDYDTGRVRIFIDSSGKVAKTPLVG
+>gi|1035965360|gb|OAY85648.1| Subtilisin inhibitor 1 [Ananas comosus]
+MNSVRGMNNPNNKTMSEMVTEILVPAYNIITEATYNIASKIQDAGPRYEAGAKQMWDKGIAVKEYLVHKLEPGEDDRALC
+EVITEAVSPRSDGCNQAEEKGSFVEKMRVAASSLHGQEESQGSPIPVSTNPYTEGEKEVQASAPRHSWPEVVGLTTEEAE
+KRIRQDKPDARFQVVPPDHFVTMDYDTGRVRIFIDSSGKVAKTPLVG
+>gi|871246046|ref|XP_012940436.1| PREDICTED: chymotrypsin inhibitor-like [Aplysia californica]
+MSDQDQQQQQPKTSWPEAVGKTFEEAEEMIKTDNPFVKQILKVPENSPVTMDYRPDRVRVFVNEAGVTVDVPRTG
+>gi|595791661|ref|XP_007199579.1| hypothetical protein PRUPE_ppb023174mg [Prunus persica] >gi|462394979|gb|EMJ00778.1| hypothetical protein PRUPE_ppb023174mg [Prunus persica]
+MEKDKTLVTCDVSANETSFNFFKINTIANIYYIFMYQTEKTETDESVSEGERRMASAYCPGKSSWPEIVGEDGEVAAAKI
+EQEKPDVHAIVIPEGTIITQELRCNRVRVWVDENGVVTTVPRVG
+>gi|475414584|gb|EMT00962.1| hypothetical protein F775_43049 [Aegilops tauschii]
+MQELPHRDSAGSETPLATATDAATHRPKSSWPELLGASSEVAKQKILSDRPDVRVFVVPVGNNVTGDFNDKRVHVFVNTH
+GDVARVASIG
+>gi|641826015|gb|KDO45261.1| hypothetical protein CISIN_1g033055mg [Citrus sinensis]
+MKSSLPALALFFFLLAFAAKPSLAARHEPCLTDGKELGSEVIVSALKGVVEDGPNLVMSAFDCPRKSSWPELVGKNGEVA
+AAIIEKENPCVHAIVLLEGTPVTRDYRIDRVRVWVNKKGKVIRVPRIG
+>gi|26224744|gb|AAN76363.1| type I proteinase inhibitor-like protein [Citrus x paradisi]
+MKSSLPALALFFFLLAFAAKPSLAARHEPCLTDGKELGSEVIVSALKGVVEDGPNLVTSAFDCPRKSSWPELVGKNGEVA
+AAIIEKENPCVHAIVLLEGTPVTKDYRIDRVRVWVNKKGKVIRVPRIG
+>gi|568874134|ref|XP_006490176.1| PREDICTED: inhibitor of trypsin and hageman factor-like [Citrus sinensis]
+MKSSLPALALFFFLLAFAAKPSLAARHEPCLTDGKELGSEVIVSALKGVVEDGPNLVMSAFDCPRKSSWPELVGKNGEVA
+AAIIEKENPCVHAIVLLEGTPVTKDYRIDRVRVWVNKKGKVIRVPRIG
+>gi|567857790|ref|XP_006421578.1| hypothetical protein CICLE_v10006212mg [Citrus clementina] >gi|557523451|gb|ESR34818.1| hypothetical protein CICLE_v10006212mg [Citrus clementina]
+MKSSLPALALFFFLLAFAAKPSLAARHEPCLTDGKELRSEVIVSALKGVVEDGPNLVMSAFDCPRKSSWPELVGKNGEVA
+AAIIEKENPCVHAIVLLEGTPVTRDYRIDRVRVWVNKKGKVIRVPRIG
+>gi|1040860003|ref|XP_017240723.1| PREDICTED: subtilisin inhibitor-like [Daucus carota subsp. sativus] >gi|1021043886|gb|KZN01667.1| hypothetical protein DCAR_010421 [Daucus carota subsp. sativus]
+MAGEDNRAAELPQEPLPRSFDSLLGGNRGRKTWPEVVGMTGEEAKKQIEEESPGISVHIVPQNSFVTMDFRTNRVRVYVD
+SSGKVANAPKVG
+>gi|992157678|gb|KXG21074.1| hypothetical protein SORBI_009G010200 [Sorghum bicolor]
+MSSTTGVQSTGGVWSWPNIIGFTMEDAMIIILRDKPDADIVFLPVGSPVTTNDFRPNRVRIFLDTIVSPPRVG
+>gi|472906999|gb|EMS35770.1| Subtilisin-chymotrypsin inhibitor-2A [Triticum urartu]
+MSWPDVAATREEKTSWPELVGKSLEEVREVILKDMPEADTVVLPACSVVFADWRSNRLEFFHFWSNNYFVINYYSGQAFP
+RESVI
+>gi|475379737|gb|EMT00630.1| Subtilisin-chymotrypsin inhibitor WSCI [Aegilops tauschii]
+MKQLTESRMSCAAPKAPAGEEKKTSWPEVVVKSIEEAKEIILKDMLDADIDVLPAGSAMTRDFRANRVRIIVDTVTTTHS
+IG
+>gi|326508680|dbj|BAJ95862.1| predicted protein [Hordeum vulgare subsp. vulgare]
+KRSNRRGTYRAGVNCRLSHFVSNMSKPCDGPKTEWPELVGRTIEEAREKIKADRPDLTVNPVPVGDAVPLDFNEKRVWLW
+VDTVAEVPRIG
+>gi|675886660|ref|XP_009028832.1| hypothetical protein HELRODRAFT_69476 [Helobdella robusta] >gi|555689798|gb|ESN93030.1| hypothetical protein HELRODRAFT_69476 [Helobdella robusta]
+MADSKTSWPELVGKCGEEAKAIVLRERPDLSEVEVIRDNSPVTMDYREDRVRIFTDEHGKVSCPPSCG
+>gi|242089227|ref|XP_002440446.1| hypothetical protein SORBIDRAFT_09g001086 [Sorghum bicolor]
+GVWSWPNIIGFTMEDAMIIILRDKPDADIVFLPVGSPVTTNDFRPNRVRIFLDTIVSPPRVG
+>gi|676434830|ref|XP_009047357.1| hypothetical protein LOTGIDRAFT_230585 [Lottia gigantea] >gi|556113547|gb|ESP02199.1| hypothetical protein LOTGIDRAFT_230585 [Lottia gigantea]
+MSKTEWPELVGLPAQEAEAKIKEENSNLTVHILPELSPVTMDYREDRVRIFTNAENKVSQVPRTG
+>gi|567899842|ref|XP_006442409.1| hypothetical protein CICLE_v10022906mg [Citrus clementina] >gi|557544671|gb|ESR55649.1| hypothetical protein CICLE_v10022906mg [Citrus clementina]
+MKNTVLALAFFVFLFAFAAKPSLAARHEPLVLHSDGQQLLTATSNCDIVTQFECNGKSSWPELVGVNGEIAAATIQKENP
+NVHAIIILEGTPVTQDFRCDRVRVVVDKYEKVVQVPRIG
+>gi|593329905|ref|XP_007138379.1| hypothetical protein PHAVU_009G203600g [Phaseolus vulgaris] >gi|561011466|gb|ESW10373.1| hypothetical protein PHAVU_009G203600g [Phaseolus vulgaris]
+MSSYCKGKRSWPELVGINGETATQIIVKENPRVEALTVPEGSFVSTDFRCDRVRVFVNYKNTVTRVPNIG
+>gi|568885896|ref|XP_006495465.1| PREDICTED: inhibitor of trypsin and hageman factor-like [Citrus sinensis]
+MKNTVLALAFFVFLFAFAAKPSLAARHEPLVLHSDGQELLMATSNCDIVTQFECNGKSSWPELVGVNGEIAAATIQKENP
+NVHAIIILEGTPVTQDFRCDRVRVVVDKYEKVVQVPRIG
+>gi|475594767|gb|EMT22809.1| Subtilisin inhibitor 1 [Aegilops tauschii]
+MRWKRWWTTIRRLRAPAARSASKVVASRMFRCFQASRQWKRRGATASVGAREEFMAGGQEVVGLSEEEAKKKITEHKPDP
+SVHVVPSDAFVTMDYNTGRVRVFVDSNNKITKAPRIG
+>gi|566194907|ref|XP_006377750.1| hypothetical protein POPTR_0011s11170g, partial [Populus trichocarpa] >gi|566253262|ref|XP_006387186.1| hypothetical protein POPTR_1585s00210g, partial [Populus trichocarpa] >gi|550305579|gb|ERP46100.1| hypothetical protein POPTR_1585s00210g, partial [Populus trichocarpa] >gi|550328150|gb|ERP55547.1| hypothetical protein POPTR_0011s11170g [Populus trichocarpa]
+AGKSSWPELVGINGEVAAKIIVRENPKVRAGIVKEGMMVTMDFRCDRVRVWVDKYGIVKDIPQIG
+>gi|443723183|gb|ELU11714.1| hypothetical protein CAPTEDRAFT_21329 [Capitella teleta]
+MATKEQWPELAGKTGAEAQAAVKADRPDVEVQVMDEGSPCTMDYRTDRVRIFVNTDGKVSGTPMCG
+>gi|567857788|ref|XP_006421577.1| hypothetical protein CICLE_v10006203mg [Citrus clementina] >gi|557523450|gb|ESR34817.1| hypothetical protein CICLE_v10006203mg [Citrus clementina]
+MKSSLPALALFFFLLAFDAFAAKPSLAARHEPCLTDGKELRSEVIVSALKGVVEDGPNLVTSAFDCPRKSSWPELVGKNG
+KVAAAIIEKENPCVHAIVLLEGTPVTKDYRIDRVRVWVNKKGKVIRVPRIG
+>gi|567857786|ref|XP_006421576.1| hypothetical protein CICLE_v10006211mg [Citrus clementina] >gi|557523449|gb|ESR34816.1| hypothetical protein CICLE_v10006211mg [Citrus clementina]
+MKSSLPALALFFFLLAFAAKPSLAARHEPCLTDGKELRSEVIVSALKGVVEDGPNLVTSAFDCPRKSSWPELVGKNGKVA
+AAIIEKENPCVHAIVLLEGTPVTKDYRIDRVRVWVNKKGKVIRVPRIG
+>gi|224117044|ref|XP_002317460.1| hypothetical protein POPTR_0011s11140g [Populus trichocarpa] >gi|222860525|gb|EEE98072.1| hypothetical protein POPTR_0011s11140g [Populus trichocarpa]
+MTDVCPDAGKSSWPELVGINGEVAAKIIVRENPKVRAGIVKEGMMVTMDFRCDRVRVWVDKYGIVKDIPQIG
+>gi|226581|prf||1602257B chymotrypsin inhibitor 1B [Hordeum vulgare subsp. vulgare]
+MRSMEGSVPKYPEPTEGSIGASSAKRSWPEVVGMSAEKAKEIILRDKPDAQIEVIPVDAMVPLDFNPNRIFILVAVARTP
+TVG
+>gi|944231994|gb|KQK96356.1| hypothetical protein SETIT_011531mg [Setaria italica] >gi|944231995|gb|KQK96357.1| hypothetical protein SETIT_011531mg [Setaria italica]
+MSSPADSKACDAPKTEWPELVGCTIKVAKERIKADRPDLNVVVTPIGTMVDQMIDPNRVRLRVDTVAEVPKIG
+>gi|124131|sp|P08820.1|ICIS_VICFA RecName: Full=Subtilisin inhibitor [Vicia faba]
+RTSWPELVGVSAEEARKIKEEMPEAEIQVVPQDSFVTADYKFQRVRLYVDESNKVVRAAPIG
+>gi|1021486945|ref|XP_016186495.1| PREDICTED: glu S.griseus protease inhibitor [Arachis ipaensis]
+MELQCPAKNSWPELVGTKGEKAAERIEGENPHVRAIVVLVGTVVTMDYRCDRVWVWVNKHGLVTRVPRRG
+>gi|1011949467|ref|WP_062757182.1| hypothetical protein [Streptomyces sp. WAC04657] >gi|1005795799|gb|KYG52010.1| hypothetical protein AWI43_22095 [Streptomyces sp. WAC04657]
+MKKTLLAALAAASATALIAPAVATAAPEPADVAATTATAVPAALAAAALPGAPAADHAGTRTQWPETLGLPKAWAEKVIL
+RDRPDLEIEHIPEGALVTMDYREDRVRIVHNALGLVSQVPAIG
+>gi|887420|emb|CAA57307.1| Pumpkin fruit trypsin inhibitor [Cucurbita maxima]
+MAEKLSWPELVGKDGEEAVKIIQQENPSLDVILMPRGQNWATKDYRPNRVRVFNDDSGKVNSIPRIG
+>gi|695044518|ref|XP_009410013.1| PREDICTED: subtilisin inhibitor-like [Musa acuminata subsp. malaccensis]
+MTEENRQFRQSHRTELGGDEERRALKNAWPEVVGLTAEDAEKRIKDDKPESHVQVVPPNHFVTADYNEGRVRIFIDLSGR
+VLKAPVIG
+>gi|145485532|ref|XP_001428774.1| hypothetical protein [Paramecium tetraurelia strain d4-2] >gi|124395862|emb|CAK61376.1| unnamed protein product [Paramecium tetraurelia]
+MQADKKEWPEAVGKTVEEAKQLILADDAGIMIQVLAEGSPTTRDFRMNRVRIFHNDKNIVVQLPRRG
+>gi|124125|sp|P16062.1|ICIA_HORVU RecName: Full=Subtilisin-chymotrypsin inhibitor CI-1A >gi|167022|gb|AAA32945.1| chymotrypsin inhibitor [Hordeum vulgare]
+MSSMEGSVLKYPEPTEGSIGASSAKTSWPEVVGMSAEKAKEIILRDKPNAQVEVIPVDAMVHLNFDPNRVFVLVAVARTP
+TVG
+>gi|124127|sp|P16063.1|ICIB_HORVU RecName: Full=Subtilisin-chymotrypsin inhibitor CI-1B >gi|167024|gb|AAA32946.1| chymotrypsin inhibitor [Hordeum vulgare]
+MRSMEGSVPKYPEPTEGSIGASGAKRSWPEVVGMSAEKAKEIILRDKPDAQIEVIPVDAMVPLDFNPNRIFILVAVARTP
+TVG
+>gi|148908995|gb|ABR17601.1| unknown [Picea sitchensis]
+MFVAEMECRGKQEWPELVGSNAEDAKEVIESENMYVIGIILPKGTIVTTDYNCRRVWIFVESDTANVAYVPKVG
+>gi|902228146|gb|KNA20995.1| hypothetical protein SOVF_047460 [Spinacia oleracea]
+MSSCQEKMSMSCQGKKSWPELVGKDGNEAAGIIKSENCSVKNVVVLPEGSPVTKDYRTDRVRVFVDTCGKVSSTPYIG
+>gi|474431924|gb|EMS68019.1| Subtilisin-chymotrypsin inhibitor-2A [Triticum urartu]
+MSSTGNVAGGGKKVSWPEVVGLPAGEAKAVILKDKPDADVIFVPFGAGVQQDLSLNRVRVFVGTIASVVTVVLAPKVG
+>gi|585102229|gb|EWM21885.1| subtilisin inhibitor [Nannochloropsis gaditana]
+MPYSHFRLYRVLGLLLLCSVACADFPFPSSQGPSSSSSVPATSGSGGVPSESMTDKDNKGGGGAFDPKDLAFKMPTQSKD
+EIFSDKPPKSWPELVGMDGEDAKKQITADMPGLNVIVLPKNSPCTMDYRLERVRVFVDEEGKVVVAPSQG
+>gi|902228882|gb|KNA21308.1| hypothetical protein SOVF_043940 [Spinacia oleracea]
+MSSCQENISMCQGKKSWPELVGKDGNKAAEIIKSENCFVKQTPVLPEGSKVTMDYRCDRVRVFVDACGKVVQTPNIG
+>gi|226580|prf||1602257A chymotrypsin inhibitor 1A [Hordeum vulgare subsp. vulgare]
+MSSMEGSVLKYPEPTEGSIGASGAKTSWPEVVGMSAEKAKEIILRDKPNAQVEVIPVDAMVHLNFDPNRVFVLVAVARTP
+TVG
+>gi|502094374|ref|XP_004490203.1| PREDICTED: glu S.griseus protease inhibitor-like [Cicer arietinum]
+MSNCKGKKTWPELVGINGEAASQIIMRENTRVTASTLPQESVVTTDFRCDRVRVFVDNQDIVTRVPNIG
+>gi|694399281|ref|XP_009374774.1| PREDICTED: glu S.griseus protease inhibitor-like [Pyrus x bretschneideri]
+MSSECEGKDSWPELVGAKGKDAKAIIESENRLVHVVIVKEGLFVTMDYRCDRVRVWVDKHDIVTKIPQSG
+>gi|357487727|ref|XP_003614151.1| inhibitor of trypsin and hageman factor-like protein [Medicago truncatula] >gi|355515486|gb|AES97109.1| inhibitor of trypsin and hageman factor-like protein [Medicago truncatula]
+MSSCKGKKTWPELVGVNGEAAAQIIMSENSLVTASTLPEDSVFTADFRCDRVRVFVDKQDVVTRVPKIG
+>gi|77556087|gb|ABA98883.1| Subtilisin-chymotrypsin inhibitor CI-1B, putative, expressed [Oryza sativa Japonica Group] >gi|113649480|dbj|BAF29992.1| Os12g0548700 [Oryza sativa Japonica Group] >gi|215765093|dbj|BAG86790.1| unnamed protein product [Oryza sativa Japonica Group] >gi|222617244|gb|EEE53376.1| hypothetical protein OsJ_36419 [Oryza sativa Japonica Group] >gi|937942639|dbj|BAT17551.1| Os12g0548700 [Oryza sativa Japonica Group]
+MSSGGEEGKTSWPEVVGLRAEEAKKVILKDMPDADIVVVPVGTPVTMDFRPNRVRIFVDTVAGTPTIG
+>gi|567899828|ref|XP_006442402.1| hypothetical protein CICLE_v10022909mg [Citrus clementina] >gi|557544664|gb|ESR55642.1| hypothetical protein CICLE_v10022909mg [Citrus clementina]
+MKNSVLALAFFVFLFAFAAKPSLAARHEPLVLHSDGQELLTATSNCDIVTPFECNGKSSWPELVGVNGEIAAATIQIENP
+NVHAIIILKGTPVTPDFRCDRVRVVVDKYEKVVQVPRIG
+>gi|585102228|gb|EWM21884.1| subtilisin inhibitor [Nannochloropsis gaditana]
+MPYSHFRLYRVLGLLLLCSVACADFPFPSSQGPSSSSSVPATSGSGGVPSESMTDKDNKGGGGAFDPKDLAFKMPTQSKD
+EIFSDKPPKSWPELVGMDGEDAKKQITADMPGLNVIVLPKNSPTTRDYRLNRVRVFVHEDNKVAVVPHQG
+>gi|255559973|ref|XP_002521005.1| PREDICTED: inhibitor of trypsin and hageman factor [Ricinus communis] >gi|223539842|gb|EEF41422.1| Inhibitor of trypsin and hageman factor, putative [Ricinus communis]
+MADICTDPGKRSWPELVGIKGEVAVEIIVQENPKVGATIVKEGMMVTMDFRCDRVRVWVDKYGIVKDVPHIG

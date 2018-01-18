@@ -1,0 +1,500 @@
+>gi|133149|sp|P00648.2|RNBR_BACAMRecName: Full=Ribonuclease; AltName: Full=Barnase; AltName: Full=RNase Ba; Flags: Precursor >gi|224925|prf||1204204A barnase
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|328913540|gb|AEB65136.1|Ribonuclease [Bacillus amyloliquefaciens LL3] >gi|341829459|gb|AEK90710.1| ribonuclease [Bacillus amyloliquefaciens XH7] >gi|1004889268|gb|KYC99133.1| hypothetical protein B425_3603 [Bacillus amyloliquefaciens]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|503119040|ref|WP_013353722.1|MULTISPECIES: ribonuclease [Bacillus subtilis group] >gi|307608074|emb|CBI44445.1| putative ribonuclease RBAM_031940 [Bacillus amyloliquefaciens DSM 7] >gi|328555182|gb|AEB25674.1| ribonuclease [Bacillus amyloliquefaciens TA208] >gi|703582954|gb|AIW35315.1| ribonuclease [Bacillus subtilis] >gi|1039350464|gb|OBR32096.1| Ribonuclease [Bacillus amyloliquefaciens] >gi|1201058380|gb|ARW40673.1| Ribonuclease [Bacillus amyloliquefaciens] >gi|1219699974|gb|OXL20992.1| ribonuclease [Bacillus amyloliquefaciens]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|551694|gb|AAA86441.1|barnase (RNase) precursor [Bacillus amyloliquefaciens]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|30984052|gb|AAP41137.1|barnase ribonuclease precursor [Cloning vector pHRBar-6]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|780197567|ref|WP_045512245.1|ribonuclease [Bacillus amyloliquefaciens] >gi|1044620746|gb|OCB95275.1| Ribonuclease [Bacillus amyloliquefaciens] >gi|1099382276|gb|OIK21583.1| ribonuclease [Bacillus amyloliquefaciens]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|1439559|gb|AAC53661.1|barnase [synthetic construct] >gi|73697468|gb|AAZ81406.1| barnase [pFN6A (HQ) Flexi Vector] >gi|73697471|gb|AAZ81408.1| barnase [pFN6K Flexi Vector] >gi|73697474|gb|AAZ81410.1| barnase [pFC7A (HQ) Flexi Vector] >gi|73697477|gb|AAZ81412.1| barnase [pFC7K (HQ) Flexi Vector] >gi|73697480|gb|AAZ81414.1| barnase [Cloning vector pFC8A] >gi|73697483|gb|AAZ81416.1| barnase [Cloning vector pFC8K] >gi|108741851|gb|ABG01694.1| barnase [Flexi vector pFN10A (ACT)] >gi|108741856|gb|ABG01698.1| barnase [Flexi vector pFN11A (BIND)] >gi|109900615|gb|ABG47801.1| barnase [Flexi vector pF5A CMV-neo] >gi|109900619|gb|ABG47804.1| barnase [Flexi vector pF5K CMV-neo] >gi|114054346|gb|ABI49755.1| barnase [CMV hRluc-neo Flexi Vector pF9A] >gi|117571415|gb|ABK40091.1| barnase [Mammalian expression vector pF12A RM Flexi] >gi|117571418|gb|ABK40093.1| barnase [Mammalian expression vector pF12K RM Flexi] >gi|157091288|gb|ABV21783.1| barnase [CMV Flexi Vector pFC14A (HaloTag 7)] >gi|157091291|gb|ABV21785.1| barnase [CMV Flexi Vector pFC14K (HaloTag 7)] >gi|163943734|gb|ABY48990.1| barnase [CMVd1 Flexi Vector pFC15A (HaloTag 7)] >gi|163943736|gb|ABY48991.1| barnase [CMVd1 Flexi Vector pFC15K (HaloTag 7)] >gi|163943740|gb|ABY48994.1| barnase [CMVd2 Flexi Vector pFC16A (HaloTag 7)] >gi|163943742|gb|ABY48995.1| barnase [CMVd2 Flexi Vector pFC16K (HaloTag 7)] >gi|163943746|gb|ABY48998.1| barnase [CMVd3 Flexi Vector pFC17A (HaloTag 7)] >gi|163943748|gb|ABY48999.1| barnase [CMVd3 Flexi Vector pFC17K (HaloTag 7)] >gi|186470148|gb|ACC85622.1| barnase [T7 Flexi Vector pFN18A (HaloTag 7)] >gi|186470150|gb|ACC85623.1| barnase [T7 Flexi Vector pFN18K (HaloTag 7)] >gi|186470154|gb|ACC85626.1| barnase [T7 SP6 Flexi Vector pFN19A (HaloTag 7)] >gi|186470156|gb|ACC85627.1| barnase [T7 SP6 Flexi Vector pFN19K (HaloTag 7)] >gi|186470160|gb|ACC85630.1| barnase [T7 SP6 Flexi Vector pFC20A (HaloTag 7)] >gi|186470162|gb|ACC85631.1| barnase [T7 SP6 Flexi Vector pFC20K (HaloTag 7)] >gi|193870785|gb|ACF22983.1| barnase [CMV Flexi Vector pFN21A (HaloTag 7)] >gi|193870787|gb|ACF22984.1| barnase [CMV Flexi Vector pFN21K (HaloTag 7)] >gi|193870791|gb|ACF22987.1| barnase [CMVd1 Flexi Vector pFN22A (HaloTag 7)] >gi|193870793|gb|ACF22988.1| barnase [CMVd1 Flexi Vector pFN22K (HaloTag 7)] >gi|193870797|gb|ACF22991.1| barnase [CMVd2 Flexi Vector pFN23A (HaloTag 7)] >gi|193870799|gb|ACF22992.1| barnase [CMVd2 Flexi Vector pFN23K (HaloTag 7)] >gi|193870803|gb|ACF22995.1| barnase [CMVd3 Flexi Vector pFN24A (HaloTag 7)] >gi|193870805|gb|ACF22996.1| barnase [CMVd3 Flexi Vector pFN24K (HaloTag 7)] >gi|194716693|gb|ACF93189.1| barnase [Flexi vector pF25A/BR610] >gi|194716696|gb|ACF93191.1| barnase [Flexi vector pF25K ICE T7] >gi|254028441|gb|ACT53140.1| barnase [Cloning vector pFN26A (BIND) hRluc-neo] >gi|340784728|gb|AEK70320.1| barnase [Flexi vector pFC27A HaloTag CMV-neo] >gi|340784733|gb|AEK70324.1| barnase [Flexi vector pFC27K HaloTag CMV-neo] >gi|340784735|gb|AEK70325.1| barnase [Flexi vector pFN28A HaloTag(R) CMV-neo] >gi|340784739|gb|AEK70328.1| barnase [Flexi vector pFN28K HaloTag(R) CMV-neo] >gi|576890553|gb|AHH41344.1| barnase [NanoLuc CMV-Hygro luciferase vector pFN31A] >gi|576890557|gb|AHH41347.1| barnase [NanoLuc Luciferase Flexi Vector pFN31K] >gi|576890562|gb|AHH41351.1| barnase [NLuc CMV-Hygro Flexi Vector pFC32A] >gi|576890567|gb|AHH41355.1| barnase [NLuc CMV-Neo Flexi Vector pFC32K] >gi|918465867|gb|ALA09743.1| barnase [synthetic construct]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|1053185211|ref|WP_065982410.1|ribonuclease [Bacillus amyloliquefaciens] >gi|1052482233|gb|AOC92571.1| Ribonuclease [Bacillus amyloliquefaciens]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|493893|pdb|1BRN|LChain L, Subsite Binding In An Rnase: Structure Of A Barnase- Tetranucleotide Complex At 1.76 Angstroms Resolution >gi|493894|pdb|1BRN|M Chain M, Subsite Binding In An Rnase: Structure Of A Barnase- Tetranucleotide Complex At 1.76 Angstroms Resolution >gi|515086|pdb|1BGS|A Chain A, Recognition Between A Bacterial Ribonuclease, Barnase, And Its Natural Inhibitor, Barstar >gi|515087|pdb|1BGS|B Chain B, Recognition Between A Bacterial Ribonuclease, Barnase, And Its Natural Inhibitor, Barstar >gi|515088|pdb|1BGS|C Chain C, Recognition Between A Bacterial Ribonuclease, Barnase, And Its Natural Inhibitor, Barstar >gi|576024|pdb|1BRS|A Chain A, Protein-Protein Recognition: Crystal Structural Analysis Of A Barnase-Barstar Complex At 2.0-A Resolution >gi|576025|pdb|1BRS|B Chain B, Protein-Protein Recognition: Crystal Structural Analysis Of A Barnase-Barstar Complex At 2.0-A Resolution >gi|576026|pdb|1BRS|C Chain C, Protein-Protein Recognition: Crystal Structural Analysis Of A Barnase-Barstar Complex At 2.0-A Resolution >gi|1127175|pdb|1BNJ|A Chain A, Barnase Wildtype Structure At Ph 9.0 >gi|1127176|pdb|1BNJ|B Chain B, Barnase Wildtype Structure At Ph 9.0 >gi|1127177|pdb|1BNJ|C Chain C, Barnase Wildtype Structure At Ph 9.0 >gi|1127178|pdb|1BNI|A Chain A, Barnase Wildtype Structure At Ph 6.0 >gi|1127179|pdb|1BNI|B Chain B, Barnase Wildtype Structure At Ph 6.0 >gi|1127180|pdb|1BNI|C Chain C, Barnase Wildtype Structure At Ph 6.0 >gi|3212268|pdb|1A2P|A Chain A, Barnase Wildtype Structure At 1.5 Angstroms Resolution >gi|3212269|pdb|1A2P|B Chain B, Barnase Wildtype Structure At 1.5 Angstroms Resolution >gi|3212270|pdb|1A2P|C Chain C, Barnase Wildtype Structure At 1.5 Angstroms Resolution >gi|4139697|pdb|1B2X|A Chain A, Barnase Wildtype Structure At Ph 7.5 From A Cryo_cooled Crystal At 100k >gi|4139698|pdb|1B2X|B Chain B, Barnase Wildtype Structure At Ph 7.5 From A Cryo_cooled Crystal At 100k >gi|4139699|pdb|1B2X|C Chain C, Barnase Wildtype Structure At Ph 7.5 From A Cryo_cooled Crystal At 100k >gi|4139778|pdb|1B27|A Chain A, Structural Response To Mutation At A Protein-Protein Interface >gi|4139779|pdb|1B27|B Chain B, Structural Response To Mutation At A Protein-Protein Interface >gi|4139780|pdb|1B27|C Chain C, Structural Response To Mutation At A Protein-Protein Interface >gi|66360379|pdb|1X1U|A Chain A, Water-Mediate Interaction At Aprotein-Protein Interface >gi|66360380|pdb|1X1U|B Chain B, Water-Mediate Interaction At Aprotein-Protein Interface >gi|66360381|pdb|1X1U|C Chain C, Water-Mediate Interaction At Aprotein-Protein Interface >gi|66360385|pdb|1X1W|A Chain A, Water-Mediate Interaction At Aprotein-Protein Interface >gi|66360386|pdb|1X1W|B Chain B, Water-Mediate Interaction At Aprotein-Protein Interface >gi|66360387|pdb|1X1W|C Chain C, Water-Mediate Interaction At Aprotein-Protein Interface >gi|66360391|pdb|1X1X|A Chain A, Water-Mediate Interaction At Aprotein-Protein Interface >gi|66360392|pdb|1X1X|B Chain B, Water-Mediate Interaction At Aprotein-Protein Interface >gi|66360393|pdb|1X1X|C Chain C, Water-Mediate Interaction At Aprotein-Protein Interface >gi|157834336|pdb|1YVS|A Chain A, Trimeric Domain Swapped Barnase >gi|253722747|pdb|1BNR|A Chain A, Barnase >gi|290790115|pdb|3KCH|A Chain A, Baranase Crosslinked By Glutaraldehyde >gi|290790116|pdb|3KCH|B Chain B, Baranase Crosslinked By Glutaraldehyde >gi|290790117|pdb|3KCH|C Chain C, Baranase Crosslinked By Glutaraldehyde >gi|39310|emb|CAA31365.1| barnase, partial [Bacillus amyloliquefaciens]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|493899|pdb|1BSA|AChain A, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase >gi|493900|pdb|1BSA|B Chain B, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase >gi|493901|pdb|1BSA|C Chain C, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSVGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|493905|pdb|1BSC|AChain A, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase >gi|493906|pdb|1BSC|B Chain B, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase >gi|493907|pdb|1BSC|C Chain C, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRVLYSSDWLIYKTTDHYQTFTKIR
+>gi|493902|pdb|1BSB|AChain A, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase >gi|493903|pdb|1BSB|B Chain B, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase >gi|493904|pdb|1BSB|C Chain C, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADVNYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|493908|pdb|1BSD|AChain A, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase >gi|493909|pdb|1BSD|B Chain B, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase >gi|493910|pdb|1BSD|C Chain C, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLVYKTTDHYQTFTKIR
+>gi|530338909|emb|CDG27389.1|Ribonuclease [Bacillus velezensis UCMB5113] >gi|1131830842|emb|SIQ80948.1| ribonuclease [Bacillus amyloliquefaciens]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKMR
+>gi|505200553|ref|WP_015387655.1|MULTISPECIES: ribonuclease [Bacillus] >gi|449849132|gb|AGF26124.1| Ribonuclease [Bacillus amyloliquefaciens IT-45] >gi|544267063|gb|ERK84698.1| ribonuclease [Bacillus amyloliquefaciens UASWS BA1] >gi|924021149|emb|CUB44091.1| Ribonuclease precursor [Bacillus amyloliquefaciens] >gi|966560665|gb|KTF61280.1| ribonuclease [Bacillus amyloliquefaciens] >gi|1004326108|gb|AMP33421.1| ribonuclease [Bacillus amyloliquefaciens] >gi|1058358559|gb|ODB69040.1| ribonuclease [Bacillus velezensis] >gi|1073862490|gb|AOU02442.1| ribonuclease [Bacillus velezensis] >gi|1101471528|gb|APB83706.1| ribonuclease [Bacillus amyloliquefaciens] >gi|1148959485|gb|AQS45593.1| ribonuclease [Bacillus velezensis] >gi|1209167523|gb|OWP59390.1| ribonuclease [Bacillus velezensis]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKMR
+>gi|385150864|gb|EIF14801.1|ribonuclease [Bacillus sp. 5B6]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKMR
+>gi|442651|pdb|1BAN|AChain A, The Contribution Of Buried Hydrogen Bonds To Protein Stability: The Crystal Structures Of Two Barnase Mutants >gi|442652|pdb|1BAN|B Chain B, The Contribution Of Buried Hydrogen Bonds To Protein Stability: The Crystal Structures Of Two Barnase Mutants >gi|442653|pdb|1BAN|C Chain C, The Contribution Of Buried Hydrogen Bonds To Protein Stability: The Crystal Structures Of Two Barnase Mutants
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYASDWLIYKTTDHYQTFTKIR
+>gi|442654|pdb|1BAO|AChain A, The Contribution Of Buried Hydrogen Bonds To Protein Stability: The Crystal Structures Of Two Barnase Mutants >gi|442655|pdb|1BAO|B Chain B, The Contribution Of Buried Hydrogen Bonds To Protein Stability: The Crystal Structures Of Two Barnase Mutants >gi|442656|pdb|1BAO|C Chain C, The Contribution Of Buried Hydrogen Bonds To Protein Stability: The Crystal Structures Of Two Barnase Mutants
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINFTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|112146878|gb|ABI13485.1|LacZ/MRS/barnase fusion protein [PCR cloning vector pAnti-Kit-Barnase]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|1212738904|ref|WP_088613515.1|ribonuclease [Bacillus amyloliquefaciens] >gi|1211161130|gb|ASF30247.1| ribonuclease [Bacillus amyloliquefaciens]
+AQVINTFDGVADYLQAYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|493911|pdb|1BSE|AChain A, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase >gi|493912|pdb|1BSE|B Chain B, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase >gi|493913|pdb|1BSE|C Chain C, Crystal Structural Analysis Of Mutations In The Hydrophobic Cores Of Barnase
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRIVYSSDWLIYKTTDHYQTFTKIR
+>gi|4139700|pdb|1B2Z|AChain A, Deletion Of A Buried Salt Bridge In Barnase >gi|4139701|pdb|1B2Z|B Chain B, Deletion Of A Buried Salt Bridge In Barnase >gi|4139702|pdb|1B2Z|C Chain C, Deletion Of A Buried Salt Bridge In Barnase
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSNWLIYKTTDHYQTFTKIR
+>gi|576011|pdb|1BNS|AChain A, Structural Studies Of Barnase Mutants >gi|576012|pdb|1BNS|B Chain B, Structural Studies Of Barnase Mutants >gi|576013|pdb|1BNS|C Chain C, Structural Studies Of Barnase Mutants
+AQVINTFDGVADYLQTYHKLPDNYIAKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|1065224|pdb|1BRK|AChain A, Barnase Mutant With Ile 96 Replaced By Ala >gi|1065225|pdb|1BRK|B Chain B, Barnase Mutant With Ile 96 Replaced By Ala >gi|1065226|pdb|1BRK|C Chain C, Barnase Mutant With Ile 96 Replaced By Ala
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLAYKTTDHYQTFTKIR
+>gi|1065209|pdb|1BRI|AChain A, Barnase Mutant With Ile 76 Replaced By Ala >gi|1065210|pdb|1BRI|B Chain B, Barnase Mutant With Ile 76 Replaced By Ala >gi|1065211|pdb|1BRI|C Chain C, Barnase Mutant With Ile 76 Replaced By Ala
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADANYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|1065216|pdb|1BRJ|AChain A, Barnase Mutant With Ile 88 Replaced By Ala >gi|1065217|pdb|1BRJ|B Chain B, Barnase Mutant With Ile 88 Replaced By Ala >gi|1065218|pdb|1BRJ|C Chain C, Barnase Mutant With Ile 88 Replaced By Ala
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRALYSSDWLIYKTTDHYQTFTKIR
+>gi|253722854|pdb|1FW7|AChain A, Nmr Structure Of 15n-Labeled Barnase
+QVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|1065202|pdb|1BRH|AChain A, Barnase Mutant With Leu 14 Replaced By Ala >gi|1065203|pdb|1BRH|B Chain B, Barnase Mutant With Leu 14 Replaced By Ala >gi|1065204|pdb|1BRH|C Chain C, Barnase Mutant With Leu 14 Replaced By Ala
+AQVINTFDGVADYAQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|4139683|pdb|1B2S|AChain A, Structural Response To Mutation At A Protein-Protein Interface >gi|4139684|pdb|1B2S|B Chain B, Structural Response To Mutation At A Protein-Protein Interface >gi|4139685|pdb|1B2S|C Chain C, Structural Response To Mutation At A Protein-Protein Interface >gi|4139689|pdb|1B2U|A Chain A, Structural Response To Mutation At A Protein-Protein Interface >gi|4139690|pdb|1B2U|B Chain B, Structural Response To Mutation At A Protein-Protein Interface >gi|4139691|pdb|1B2U|C Chain C, Structural Response To Mutation At A Protein-Protein Interface
+AQVINTFDGVADYLQTYHKLPDNYITASEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|188595921|pdb|2ZA4|AChain A, Crystal Structural Analysis Of Barnase-barstar Complex >gi|188595923|pdb|2ZA4|C Chain C, Crystal Structural Analysis Of Barnase-barstar Complex
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYATTDHYQTFTKIR
+>gi|489243297|ref|WP_003151497.1|MULTISPECIES: ribonuclease [Bacillus] >gi|371569906|emb|CCF06756.1| Ribonuclease Barnase [Bacillus velezensis CAU B946] >gi|407076095|gb|EKE49079.1| Ribonuclease Barnase [Bacillus velezensis M27] >gi|566058011|gb|AHC43759.1| ribonuclease [Bacillus amyloliquefaciens LFB112] >gi|641404127|gb|KDN92145.1| ribonuclease [Bacillus amyloliquefaciens] >gi|700304784|gb|AIU75664.1| ribonuclease [Bacillus subtilis] >gi|753767600|gb|AJH25484.1| ribonuclease [Bacillus amyloliquefaciens] >gi|808205410|gb|AKD23613.1| ribonuclease [Bacillus amyloliquefaciens] >gi|808335070|gb|AKD31453.1| ribonuclease [Bacillus velezensis NJN-6] >gi|817159662|gb|AKF32188.1| ribonuclease [Bacillus velezensis] >gi|857285441|gb|KMN58020.1| ribonuclease [Bacillus sp. LK7] >gi|895760660|emb|COC83865.1| Ribonuclease precursor [Streptococcus pneumoniae] >gi|971165093|gb|ALV02828.1| ribonuclease [Bacillus amyloliquefaciens] >gi|975828398|emb|CUX94998.1| Ribonuclease [Bacillus velezensis] >gi|1017172515|gb|KZE60282.1| ribonuclease [Bacillus amyloliquefaciens] >gi|1063661871|gb|ODS09024.1| Ribonuclease [Bacillus velezensis] >gi|1063806683|gb|AOO63066.1| ribonuclease [Bacillus velezensis] >gi|1111288545|gb|APH48687.1| ribonuclease [Bacillus amyloliquefaciens] >gi|1154365767|gb|OPD44656.1| ribonuclease [Bacillus amyloliquefaciens] >gi|1175611918|gb|OQV44569.1| ribonuclease [Bacillus velezensis] >gi|1211450081|gb|ASF56585.1| ribonuclease [Bacillus velezensis]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPVKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKMR
+>gi|983522118|ref|WP_060674010.1|ribonuclease [Bacillus amyloliquefaciens] >gi|928548832|gb|KPD37956.1| ribonuclease [Bacillus amyloliquefaciens]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLAEVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKMR
+>gi|1065148|pdb|1BNE|AChain A, Barnase A43cS80C DISULFIDE MUTANT >gi|1065149|pdb|1BNE|B Chain B, Barnase A43cS80C DISULFIDE MUTANT >gi|1065150|pdb|1BNE|C Chain C, Barnase A43cS80C DISULFIDE MUTANT
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLCDVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTCGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|4139770|pdb|1B20|AChain A, Deletion Of A Buried Salt-Bridge In Barnase >gi|4139771|pdb|1B20|B Chain B, Deletion Of A Buried Salt-Bridge In Barnase >gi|4139772|pdb|1B20|C Chain C, Deletion Of A Buried Salt-Bridge In Barnase
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGSTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|66360399|pdb|1X1Y|AChain A, Water-Mediate Interaction At Aprotein-Protein Interface >gi|66360400|pdb|1X1Y|B Chain B, Water-Mediate Interaction At Aprotein-Protein Interface >gi|66360401|pdb|1X1Y|C Chain C, Water-Mediate Interaction At Aprotein-Protein Interface
+AAVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|154353445|gb|ABS75524.1|ribonuclease precursor (Barnase) [Bacillus velezensis FZB42] >gi|530335250|emb|CDG31297.1| Ribonuclease [Bacillus velezensis UCMB5033] >gi|556020988|gb|AGZ58016.1| ribonuclease [Bacillus amyloliquefaciens CC178] >gi|631802822|gb|AHZ17487.1| ribonuclease precursor (Barnase) [Bacillus velezensis SQR9] >gi|700311004|gb|AIU83367.1| Ribonuclease precursor [Bacillus velezensis] >gi|1004881480|gb|KYC91457.1| hypothetical protein B4140_3412 [Bacillus amyloliquefaciens] >gi|1086497736|emb|SDJ47000.1| ribonuclease [Bacillus velezensis] >gi|1131857001|emb|SIR99233.1| ribonuclease [Bacillus sp. RUPDJ]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKMR
+>gi|1229062155|gb|ASS63225.1|Ribonuclease [Bacillus velezensis]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKMR
+>gi|1065151|pdb|1BNF|AChain A, Barnase T70cS92C DISULFIDE MUTANT >gi|1065152|pdb|1BNF|B Chain B, Barnase T70cS92C DISULFIDE MUTANT >gi|1065153|pdb|1BNF|C Chain C, Barnase T70cS92C DISULFIDE MUTANT
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRCWREADINYTSGFRNSDRILYSCDWLIYKTTDHYQTFTKIR
+>gi|766627756|ref|WP_044801891.1|ribonuclease [Bacillus velezensis] >gi|765096670|gb|KJD58768.1| ribonuclease [Bacillus amyloliquefaciens] >gi|1175621972|gb|OQV51164.1| ribonuclease [Bacillus velezensis]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKMR
+>gi|494649475|ref|WP_007407419.1|MULTISPECIES: ribonuclease [Bacillus] >gi|380500358|emb|CCG51396.1| Ribonuclease Barnase [Bacillus velezensis YAU B9601-Y2] >gi|393808158|gb|EJD69467.1| ribonuclease [Bacillus sp. 916] >gi|429488359|gb|AFZ92283.1| Ribonuclease [Bacillus velezensis AS43.3] >gi|542004306|gb|ERH50257.1| ribonuclease [Bacillus amyloliquefaciens EGD-AQ14] >gi|549063289|emb|CDH97163.1| Ribonuclease [Bacillus velezensis NAU-B3] >gi|589093939|gb|AHK50691.1| ribonuclease [Bacillus velezensis TrigoCor1448] >gi|597505697|gb|EYB36320.1| ribonuclease [Bacillus amyloliquefaciens EBL11] >gi|672872570|gb|KFI14998.1| ribonuclease [Bacillus subtilis] >gi|679908500|gb|KFX37630.1| ribonuclease [Bacillus amyloliquefaciens] >gi|703575497|gb|AIW31386.1| ribonuclease [Bacillus subtilis] >gi|703586559|gb|AIW38919.1| ribonuclease [Bacillus subtilis] >gi|749174285|gb|AJE80140.1| ribonuclease [Bacillus sp. BH072] >gi|755963221|gb|AJK66880.1| ribonuclease [Bacillus amyloliquefaciens KHG19] >gi|756873801|gb|KIR07647.1| ribonuclease [Bacillus velezensis] >gi|778488668|gb|KJR68185.1| ribonuclease [Bacillus velezensis] >gi|817594639|gb|AKF75217.1| ribonuclease [Bacillus velezensis] >gi|829579633|gb|AKL77926.1| Ribonuclease [Bacillus velezensis] >gi|914788595|gb|KOC25891.1| ribonuclease [Bacillus velezensis] >gi|914789946|gb|KOC27237.1| ribonuclease [Bacillus velezensis] >gi|916374476|gb|KOC81461.1| ribonuclease [Bacillus velezensis] >gi|924009541|emb|CUB25913.1| Ribonuclease precursor [Bacillus amyloliquefaciens] >gi|949331762|gb|KRQ90552.1| ribonuclease [Bacillus velezensis] >gi|951624115|gb|KRT31904.1| ribonuclease [Bacillus velezensis] >gi|959998587|gb|KSW00826.1| ribonuclease [Bacillus velezensis] >gi|960000047|gb|KSW01462.1| ribonuclease [Bacillus velezensis] >gi|960000480|gb|KSW01893.1| ribonuclease [Bacillus velezensis] >gi|966557444|gb|KTF58206.1| ribonuclease [Bacillus velezensis] >gi|974731749|gb|KUP40975.1| ribonuclease [Bacillus velezensis] >gi|1007407983|gb|AMQ69205.1| ribonuclease [Bacillus amyloliquefaciens UMAF6639] >gi|1007410790|gb|AMQ71879.1| ribonuclease [Bacillus amyloliquefaciens UMAF6614] >gi|1024402608|gb|ANB85162.1| ribonuclease [Bacillus velezensis] >gi|1030047303|gb|OAL88616.1| ribonuclease [Bacillus velezensis] >gi|1039352023|gb|OBR33645.1| Ribonuclease [Bacillus velezensis] >gi|1043709327|gb|ANS39805.1| ribonuclease [Bacillus velezensis] >gi|1044623883|gb|OCB98375.1| Ribonuclease [Bacillus velezensis] >gi|1045031574|gb|ANU31563.1| ribonuclease [Bacillus velezensis] >gi|1046157370|gb|OCJ73250.1| ribonuclease [Bacillus velezensis] >gi|1058351198|gb|ODB62077.1| ribonuclease [Bacillus velezensis] >gi|1095447157|gb|APA04274.1| ribonuclease [Bacillus velezensis] >gi|1111277112|gb|APH37259.1| ribonuclease [Bacillus subtilis] >gi|1125817365|gb|APQ51229.1| ribonuclease [Bacillus amyloliquefaciens] >gi|1146061568|gb|AQP96827.1| ribonuclease [Bacillus sp. 275] >gi|1158417254|emb|SLC34635.1| Ribonuclease precursor [Mycobacterium abscessus subsp. massiliense] >gi|1162852488|gb|AQZ71947.1| ribonuclease [Bacillus velezensis] >gi|1168998895|gb|ARB34763.1| ribonuclease [Bacillus velezensis] >gi|1175624129|gb|OQV53319.1| ribonuclease [Bacillus velezensis] >gi|1175626154|gb|OQV55342.1| ribonuclease [Bacillus velezensis] >gi|1175631726|gb|OQV60833.1| ribonuclease [Bacillus velezensis] >gi|1175632794|gb|OQV61900.1| ribonuclease [Bacillus velezensis] >gi|1184817678|gb|ARJ76543.1| ribonuclease [Bacillus velezensis] >gi|1187406431|gb|ARM29311.1| ribonuclease [Bacillus vallismortis] >gi|1189039793|gb|ARN86013.1| ribonuclease [Bacillus velezensis] >gi|1206156319|gb|ARZ59697.1| ribonuclease [Bacillus velezensis] >gi|1208628075|gb|ASB54771.1| Ribonuclease [Bacillus velezensis] >gi|1208636544|gb|ASB67272.1| Ribonuclease [Bacillus velezensis] >gi|1215218060|gb|ASK59925.1| ribonuclease [Bacillus velezensis] >gi|1226101791|gb|ASP24160.1| ribonuclease [Bacillus velezensis] >gi|1229287580|gb|OYD10753.1| ribonuclease [Bacillus velezensis]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKMR
+>gi|387174206|gb|AFJ63667.1|Ribonuclease [Bacillus amyloliquefaciens Y2] >gi|1030033598|gb|ANF38239.1| ribonuclease [Bacillus velezensis]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKMR
+>gi|1141010520|ref|WP_076851303.1|ribonuclease [Bacillus sp. GZB] >gi|1137672604|gb|OMQ05231.1| ribonuclease [Bacillus sp. GZB]
+AQVINTFDGVANYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKMR
+>gi|696289724|ref|WP_032865384.1|ribonuclease [Bacillus velezensis]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKMR
+>gi|56406595|gb|AAV87646.1|barnase [Flexi vector pF1A T7] >gi|56406598|gb|AAV87648.1| barnase [Flexi vector pF1K T7] >gi|56406602|gb|AAV87651.1| barnase [Flexi vector pFN2A (GST)] >gi|56406606|gb|AAV87654.1| barnase [Flexi vector pFN2K (GST)] >gi|56406609|gb|AAV87656.1| barnase [Flexi vector pF4A (CMV)] >gi|56406612|gb|AAV87658.1| barnase [Flexi vector pF4K (CMV)] >gi|62275797|gb|AAX78235.1| barnase [Flexi vector pF3A WG (BYDV)] >gi|62275820|gb|AAX78237.1| barnase [Flexi vector pF3K WG (BYDV)]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLQGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|1004344138|ref|WP_061521683.1|ribonuclease [Bacillus nakamurai] >gi|1004088131|gb|KXZ17335.1| ribonuclease [Bacillus nakamurai] >gi|1004096250|gb|KXZ20198.1| ribonuclease [Bacillus nakamurai]
+AQVINTFDGVADYLQTYHKLPDNYITKAEAQALGWVASKGNLADVAPGKSIGGDIFTNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTRIR
+>gi|752856607|ref|WP_041482220.1|MULTISPECIES: ribonuclease [Bacillus amyloliquefaciens group] >gi|912473902|gb|KNX32602.1| ribonuclease [Bacillus amyloliquefaciens] >gi|1148000123|gb|OOI00407.1| ribonuclease [Bacillus velezensis]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKMR
+>gi|4139703|pdb|1B3S|AChain A, Structural Response To Mutation At A Protein-Protein Interface >gi|4139704|pdb|1B3S|B Chain B, Structural Response To Mutation At A Protein-Protein Interface >gi|4139705|pdb|1B3S|C Chain C, Structural Response To Mutation At A Protein-Protein Interface >gi|270346280|pdb|2KF3|A Chain A, Barnase, Low Pressure Reference Nmr Structure >gi|270346281|pdb|2KF4|A Chain A, Barnase High Pressure Structure >gi|270346282|pdb|2KF5|A Chain A, Barnase Bound To D(Cgac), Low Pressure >gi|270346283|pdb|2KF6|A Chain A, Barnase Bound To D(Cgac) High Pressure
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDAYQTFTKIR
+>gi|723597964|ref|WP_033575190.1|MULTISPECIES: ribonuclease [Bacillus] >gi|1030051980|gb|OAL93189.1| ribonuclease [Bacillus velezensis] >gi|1226574285|gb|OXS82335.1| ribonuclease [Bacillus sp. LYLB4]
+AQVINTFDGVADYLQTYHRLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKMR
+>gi|989016133|ref|WP_060964189.1|ribonuclease [Bacillus sp. SDLI1] >gi|987471881|gb|AME07308.1| ribonuclease [Bacillus sp. SDLI1]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKMR
+>gi|230301|pdb|1RNB|AChain A, Crystal Structure Of A Barnase-D(GpC) Complex At 1.9 Angstroms Resolution >gi|229427|prf||721946A RNase
+AQVINTFDGVADYLQTYHKLPNDYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|4139773|pdb|1B21|AChain A, Deletion Of A Buried Salt Bridge In Barnase >gi|4139774|pdb|1B21|B Chain B, Deletion Of A Buried Salt Bridge In Barnase >gi|4139775|pdb|1B21|C Chain C, Deletion Of A Buried Salt Bridge In Barnase
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGSTWREADINYTSGFRNSDRILYSSNWLIYKTTDHYQTFTKIR
+>gi|83754638|pdb|2C4B|AChain A, Inhibitor Cystine Knot Protein Mcoeeti Fused To The Catalytically Inactive Barnase Mutant H102a >gi|83754639|pdb|2C4B|B Chain B, Inhibitor Cystine Knot Protein Mcoeeti Fused To The Catalytically Inactive Barnase Mutant H102a
+QVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDAYQTFTKIR
+>gi|99032161|pdb|2F4Y|AChain A, Barnase Cross-Linked With Glutaraldehyde >gi|99032162|pdb|2F4Y|B Chain B, Barnase Cross-Linked With Glutaraldehyde >gi|99032163|pdb|2F4Y|C Chain C, Barnase Cross-Linked With Glutaraldehyde >gi|99032179|pdb|2F56|A Chain A, Barnase Cross-Linked With Glutaraldehyde Soaked In 6m Urea >gi|99032180|pdb|2F56|B Chain B, Barnase Cross-Linked With Glutaraldehyde Soaked In 6m Urea >gi|99032181|pdb|2F56|C Chain C, Barnase Cross-Linked With Glutaraldehyde Soaked In 6m Urea >gi|99032182|pdb|2F5M|A Chain A, Cross-Linked Barnase Soaked In Bromo-Ethanol >gi|99032183|pdb|2F5M|B Chain B, Cross-Linked Barnase Soaked In Bromo-Ethanol >gi|99032184|pdb|2F5M|C Chain C, Cross-Linked Barnase Soaked In Bromo-Ethanol >gi|99032185|pdb|2F5W|A Chain A, Cross-Linked Barnase Soaked In 3 M Thiourea >gi|99032186|pdb|2F5W|B Chain B, Cross-Linked Barnase Soaked In 3 M Thiourea >gi|99032187|pdb|2F5W|C Chain C, Cross-Linked Barnase Soaked In 3 M Thiourea
+VINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|1065155|pdb|1BNG|AChain A, Barnase S85cH102C DISULFIDE MUTANT >gi|1065156|pdb|1BNG|B Chain B, Barnase S85cH102C DISULFIDE MUTANT >gi|1065157|pdb|1BNG|C Chain C, Barnase S85cH102C DISULFIDE MUTANT
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNCDRILYSSDWLIYKTTDCYQTFTKIR
+>gi|1036317081|gb|OAZ60428.1|Ribonuclease [Bacillus siamensis]
+AQVINTFDGVADYLLTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKIR
+>gi|515504572|ref|WP_016937826.1|MULTISPECIES: ribonuclease [Bacillus]
+AQVINTFDGVADYLLTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKIR
+>gi|452081354|emb|CCP23121.1|Ribonuclease [Bacillus velezensis UCMB5036]
+AQVINTFDGVADYLQTYHRLPDNYIKKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKMR
+>gi|667756689|ref|WP_031378294.1|MULTISPECIES: ribonuclease [Bacillus] >gi|743683851|gb|AJC25983.1| ribonuclease [Bacillus sp. Pc3] >gi|857390079|gb|KMO06284.1| ribonuclease [Bacillus amyloliquefaciens] >gi|924900775|gb|KOS49690.1| ribonuclease [Bacillus amyloliquefaciens] >gi|1024254623|gb|ANB48076.1| ribonuclease [Bacillus velezensis] >gi|1058358119|gb|ODB68635.1| ribonuclease [Bacillus velezensis]
+AQVINTFDGVADYLQTYHRLPDNYIKKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKMR
+>gi|576021|pdb|1BRG|AChain A, Crystallographic Analysis Of Phe->leu Substitution In The Hydrophobic Core Of Barnase >gi|576022|pdb|1BRG|B Chain B, Crystallographic Analysis Of Phe->leu Substitution In The Hydrophobic Core Of Barnase >gi|576023|pdb|1BRG|C Chain C, Crystallographic Analysis Of Phe->leu Substitution In The Hydrophobic Core Of Barnase
+VINTLDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|464661|sp|P35078.1|RN_BACCIRecName: Full=Ribonuclease; AltName: Full=RNase Bci >gi|439832|gb|AAB28825.1| RNase Bci=extracellular ribonuclease {EC 3.1.27.1} [Bacillus circulans, BCF 247, Peptide, 110 aa] >gi|544849|gb|AAB29635.1| RNase=extracellular ribonuclease [Bacillus circulans, Peptide, 110 aa] >gi|739922|prf||2004243A RNase
+AQVINTFDGVADYLLTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKIR
+>gi|752856518|ref|WP_041482131.1|ribonuclease [Bacillus velezensis]
+AQVINTFDGVADYLQTYHRLPDNYIKKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYKTFTKMR
+>gi|42741003|gb|AAS44581.1|barnase [Gene trapping vector pEU334AN] >gi|42741012|gb|AAS44589.1| barnase [Gene trapping vector pEU334bn] >gi|81238231|gb|ABB59978.1| barnase [Gene trapping Ds/T-DNA vector pNU435] >gi|81238232|gb|ABB59979.1| barnase [Gene trapping Ds/T-DNA vector pNU435]
+VINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIVGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|452374|emb|CAA82734.1|ribonuclease, partial [Bacillus circulans]
+AQVINTFDGVADYLLTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPAKSGRTWREADINYTSGSRNSDRILYSSDWLIYKTTHHYKTFTKIR
+>gi|374074104|pdb|3Q3F|AChain A, Engineering Domain-swapped Binding Interfaces By Mutually Exclusive Folding: Insertion Of Ubiquitin Into Position 103 Of Barnase
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYGGQIFVK
+>gi|1177697048|ref|WP_082786636.1|ribonuclease [Bacillus vallismortis] >gi|1004896546|gb|KYD06340.1| hypothetical protein B4144_3637 [Bacillus vallismortis]
+AQVINTFDGVADYLLTYKKLPDNYITKAQAQALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPAKSGRTWREADINYTSGFRNADRLLYSSDWLIYKTTDHYETFTRIR
+>gi|489421063|ref|WP_003326799.1|MULTISPECIES: ribonuclease [Bacillus subtilis group] >gi|310870497|gb|ADP33972.1| ribonuclease precursor (Barnase) [Bacillus atrophaeus 1942] >gi|388474282|gb|EIM11012.1| ribonuclease [Bacillus atrophaeus C89] >gi|673980617|gb|AIK47313.1| ribonuclease [Bacillus atrophaeus subsp. globigii] >gi|674583916|gb|KFK84092.1| ribonuclease [Bacillus subtilis subsp. niger] >gi|751417742|gb|AJF86529.1| ribonuclease [Bacillus atrophaeus]
+AQVINTFDGVADYLLTYKKLPDNYITKAQAQALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPAKSGRTWREADINYTSGFRNADRLLYSSDWLIYKTTDHYETFTRIR
+>gi|498488335|ref|WP_010790023.1|ribonuclease [Bacillus atrophaeus] >gi|830326684|gb|AKL86458.1| ribonuclease [Bacillus atrophaeus UCMB-5137]
+AQVINTFDGVADYLLTYKKLPDNYITKAQAQALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPAKSGRTWREADINYTSGFRNADRLLYSSDWLIYKTTDHYETFTRIR
+>gi|1207763222|ref|WP_088118033.1|ribonuclease [Bacillus atrophaeus] >gi|1200923177|gb|ARW08417.1| Ribonuclease [Bacillus atrophaeus]
+AQVINTFDGVADYLLTYKKLPDNYITKAQAQALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPAKSGRTWREADINYTSGFRNADRLLYSSDWLIYKTTDHYETFTRIR
+>gi|1004096031|gb|KXZ19983.1|ribonuclease [Bacillus atrophaeus] >gi|1009291551|gb|AMR64649.1| ribonuclease [Bacillus subtilis subsp. globigii]
+AQVINTFDGVADYLLTYKKLPDNYITKAQAQALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPAKSGRTWREADINYTSGFRNADRLLYSSDWLIYKTTDHYETFTRIR
+>gi|1229387929|ref|WP_094232831.1|ribonuclease [Bacillus atrophaeus] >gi|1229071664|gb|ASS72731.1| ribonuclease [Bacillus atrophaeus]
+AQVINTFNGVADYLLTYKKLPDNYITKAQAQALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPAKSGRTWREADINYTSGFRNADRLLYSSDWLIYKTTDHYETFTRIR
+>gi|1167816925|ref|WP_080130132.1|ribonuclease [Bacillus velezensis] >gi|1167490308|gb|OQC80477.1| ribonuclease [Bacillus velezensis]
+AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPVKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDH
+>gi|495636497|ref|WP_008361076.1|ribonuclease [Bacillus xiamenensis] >gi|407412384|gb|EKF34191.1| guanine-specific ribonuclease [Bacillus xiamenensis] >gi|1095432089|gb|AOZ89215.1| ribonuclease [Bacillus xiamenensis]
+VINTFDGVADYLISYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|637156927|ref|WP_024423547.1|MULTISPECIES: ribonuclease [Bacillus] >gi|635184295|gb|KDE28213.1| guanine-specific ribonuclease [Bacillus safensis FO-36b] >gi|660807486|gb|KEP30465.1| ribonuclease [Bacillus safensis] >gi|751114336|gb|KIL14525.1| hypothetical protein B4107_3250 [Bacillus pumilus] >gi|807223195|gb|KKD41364.1| ribonuclease [Bacillus safensis] >gi|946368187|gb|KRE19024.1| ribonuclease [Bacillus sp. Root920] >gi|999802528|gb|KXI32084.1| ribonuclease [Bacillus sp. P003] >gi|1129018119|gb|APT45209.1| ribonuclease [Bacillus safensis] >gi|1172640320|gb|ARD57621.1| ribonuclease [Bacillus safensis] >gi|1194954243|gb|OUE33695.1| ribonuclease [Bacillus safensis]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDIFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|751620246|ref|WP_041088138.1|ribonuclease [Bacillus pumilus] >gi|751113006|gb|KIL13200.1| hypothetical protein B4129_3489 [Bacillus pumilus] >gi|923997544|emb|CUB16883.1| Ribonuclease precursor [Bacillus pumilus]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDIFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|1207611554|ref|WP_087977349.1|ribonuclease [Bacillus safensis] >gi|1195978320|gb|OUL01874.1| ribonuclease [Bacillus safensis]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDIFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|764359025|ref|WP_044334262.1|ribonuclease [Bacillus safensis] >gi|763483700|gb|KIZ54023.1| ribonuclease [Bacillus safensis] >gi|1112970688|gb|APJ12599.1| ribonuclease [Bacillus safensis]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDIFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|751648729|ref|WP_041115611.1|MULTISPECIES: ribonuclease [Bacillus] >gi|751124352|gb|KIL24453.1| hypothetical protein B4134_3267 [Bacillus pumilus] >gi|1041739164|gb|OBW50921.1| ribonuclease [Bacillus safensis]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDIFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|637174816|ref|WP_024427678.1|ribonuclease [Bacillus pumilus]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDIFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|953534553|ref|WP_058013621.1|ribonuclease [Bacillus pumilus] >gi|953093544|gb|KRU17938.1| ribonuclease [Bacillus pumilus] >gi|1002187774|gb|AMM98793.1| ribonuclease [Bacillus pumilus]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDIFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|746115824|ref|WP_039181638.1|MULTISPECIES: ribonuclease [Bacillus] >gi|731485774|gb|AIZ61609.1| ribonuclease [Bacillus sp. WP8] >gi|846989889|gb|KMK69483.1| ribonuclease [Bacillus pumilus] >gi|970402548|gb|KUF26076.1| ribonuclease [Bacillus sp. G1(2015b)]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDIFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|1140996851|ref|WP_076840105.1|ribonuclease [Bacillus sp. I-2] >gi|1137298646|gb|OMP28330.1| ribonuclease [Bacillus sp. I-2]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDIFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|1130444242|ref|WP_075611969.1|ribonuclease [Bacillus safensis] >gi|1129023922|gb|APT51009.1| ribonuclease [Bacillus safensis] >gi|1129025632|gb|APT52718.1| ribonuclease [Bacillus safensis]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDIFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|851972545|ref|WP_048237505.1|ribonuclease [Bacillus pumilus] >gi|848300981|gb|KML11110.1| ribonuclease [Bacillus pumilus] >gi|848344070|gb|KML53043.1| ribonuclease [Bacillus pumilus] >gi|857309854|gb|KMN79485.1| ribonuclease [Bacillus pumilus] >gi|1230888479|gb|OYN64136.1| ribonuclease [Bacillus safensis]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDIFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|763277563|ref|WP_044139011.1|ribonuclease [Bacillus pumilus] >gi|1350819|sp|P48068.1|RN_BACPU RecName: Full=Ribonuclease; AltName: Full=RNase Bp; Flags: Precursor >gi|532528|gb|AAA75288.1| ribonuclease precursor [Bacillus pumilus] >gi|751125587|gb|KIL25679.1| hypothetical protein B4127_3534 [Bacillus pumilus]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|736225637|ref|WP_034317411.1|ribonuclease [Bacillus zhangzhouensis] >gi|660776832|gb|KEP28044.1| ribonuclease [Bacillus zhangzhouensis]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|1040472313|ref|WP_065097975.1|ribonuclease [Bacillus pumilus] >gi|1040309137|gb|OBS86131.1| ribonuclease [Bacillus pumilus]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|489305202|ref|WP_003212642.1|ribonuclease [Bacillus pumilus] >gi|194012558|gb|EDW22124.1| ribonuclease (RNase Bp) [Bacillus pumilus ATCC 7061] >gi|1231668348|emb|SNV14455.1| guanine-specific ribonuclease [Bacillus pumilus]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|736652777|ref|WP_034660072.1|ribonuclease [Bacillus pumilus] >gi|133245|sp|P00649.3|RN_BACIN RecName: Full=Ribonuclease; AltName: Full=Binase; AltName: Full=RNase Bi; Flags: Precursor >gi|39500|emb|CAA37735.1| RNase (binase) [Bacillus intermedius] >gi|635275974|gb|KDE53721.1| ribonuclease [Bacillus pumilus] >gi|660483967|gb|KEO48886.1| ribonuclease [Bacillus pumilus] >gi|1052165970|gb|AOC58671.1| ribonuclease [Bacillus pumilus]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|500859943|ref|WP_012011354.1|ribonuclease [Bacillus pumilus] >gi|157682620|gb|ABV63764.1| ribonuclease [Bacillus pumilus SAFR-032] >gi|897414387|gb|KMY20822.1| ribonuclease [Bacillus pumilus] >gi|1201091199|gb|OUZ11444.1| ribonuclease [Bacillus pumilus]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|495623543|ref|WP_008348122.1|MULTISPECIES: ribonuclease [Bacillus] >gi|388425327|gb|EIL83161.1| guanine-specific ribonuclease [Bacillus sp. M 2-6] >gi|910000729|gb|AKU30249.1| ribonuclease [Bacillus pumilus] >gi|987301744|emb|CVN15798.1| Ribonuclease precursor [Streptococcus pneumoniae] >gi|1120765263|gb|APP15585.1| ribonuclease [Bacillus pumilus]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|960293490|ref|WP_058213571.1|MULTISPECIES: ribonuclease [Bacillus] >gi|959344181|gb|KSU74568.1| ribonuclease [Bacillus cellulasensis] >gi|1049601425|emb|SCB82246.1| ribonuclease [Bacillus sp. nio-1130] >gi|1172768754|gb|OQP21123.1| ribonuclease [Bacillus stratosphericus]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|515937522|ref|WP_017368105.1|MULTISPECIES: ribonuclease [Bacillus] >gi|594024928|gb|AHL72932.1| ribonuclease [Bacillus pumilus] >gi|807221134|gb|AKC67462.1| ribonuclease [Bacillus pumilus] >gi|848294478|gb|KML04686.1| ribonuclease [Bacillus stratosphericus] >gi|848305705|gb|KML15746.1| ribonuclease [Bacillus stratosphericus] >gi|848345488|gb|KML54434.1| ribonuclease [Bacillus stratosphericus] >gi|848354587|gb|KML63361.1| ribonuclease [Bacillus stratosphericus] >gi|857257145|gb|KMN32920.1| ribonuclease [Bacillus stratosphericus] >gi|857305316|gb|KMN75135.1| ribonuclease [Bacillus sp. LK10] >gi|945358561|gb|KQU15714.1| ribonuclease [Bacillus sp. Leaf49] >gi|984717593|gb|AMB91158.1| ribonuclease [Bacillus pumilus] >gi|1044509373|gb|ANT58063.1| ribonuclease [Bacillus pumilus] >gi|1104027526|emb|SFX90840.1| ribonuclease [Bacillus sp. ru9509.4] >gi|1162246500|gb|OPX01964.1| ribonuclease [Bacillus altitudinis] >gi|1215990732|emb|SNS44661.1| ribonuclease [Bacillus sp. RU27A]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|460148460|gb|EMI12858.1|barnase [Bacillus stratosphericus LAMA 585]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|515927323|ref|WP_017357906.1|MULTISPECIES: ribonuclease [Bacillus] >gi|635188285|gb|KDE32187.1| guanine-specific ribonuclease [Bacillus altitudinis 41KF2b] >gi|751128141|gb|KIL28193.1| hypothetical protein B4133_3195 [Bacillus pumilus] >gi|766989076|gb|KJF49393.1| ribonuclease [Bacillus altitudinis] >gi|816326054|gb|KKK08468.1| ribonuclease [Bacillus sp. L_1B0_12] >gi|837640991|gb|KLV24017.1| ribonuclease [Bacillus altitudinis] >gi|914452992|gb|KOA81909.1| ribonuclease [Bacillus stratosphericus] >gi|944278872|gb|KQL42561.1| ribonuclease [Bacillus sp. FJAT-21955] >gi|946722293|gb|ALM27807.1| ribonuclease [Bacillus pumilus] >gi|947260005|gb|ALM44348.1| ribonuclease [Bacillus pumilus] >gi|953237194|gb|KRV44344.1| ribonuclease [Bacillus sp. TH007] >gi|1050173448|gb|ANY95823.1| ribonuclease [Bacillus pumilus] >gi|1113072945|gb|OJT65865.1| ribonuclease [Bacillus altitudinis] >gi|1134004358|emb|SIT68396.1| ribonuclease [Bacillus sp. RRD69]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|983546835|ref|WP_060698390.1|ribonuclease [Bacillus australimaris] >gi|937238329|gb|KPN14673.1| ribonuclease [Bacillus australimaris]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|253722754|pdb|1BUJ|AChain A, Structure Of Binase In Solution
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|1002969792|ref|WP_061420270.1|ribonuclease [Bacillus pumilus] >gi|1002179434|gb|AMM90456.1| ribonuclease [Bacillus pumilus]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGHLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|985593086|ref|WP_060832677.1|ribonuclease [Bacillus pumilus] >gi|951290812|dbj|BAT50307.1| ribonuclease [Bacillus pumilus]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVSSKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|85001421|gb|ABC68392.1|ribonuclease precursor [Bacillus pumilus]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDIFSNREGRLPSASGRTWREADINYVSGFRNADRHVYSSDWLIYKTTDHYATFTRIR
+>gi|746103025|ref|WP_039169094.1|ribonuclease [Bacillus altitudinis] >gi|985280631|gb|KWZ66458.1| ribonuclease [Bacillus altitudinis]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFARIR
+>gi|980954673|ref|WP_059376623.1|ribonuclease [Bacillus sp. AM 13(2015)] >gi|975014971|gb|KUR60331.1| ribonuclease [Bacillus sp. AM 13(2015)]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDIFSNREGRLPSASDRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|585908|sp|P37203.1|RN_BACCORecName: Full=Ribonuclease; AltName: Full=RNase Bco >gi|440951|gb|AAB28799.1| extracellular ribonuclease [Bacillus coagulans, Peptide, 109 aa] >gi|453003|gb|AAB28984.1| extracellular ribonuclease [Bacillus thuringiensis, Peptide, 109 aa]
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFARIR
+>gi|1129138595|gb|OLP65301.1|Ribonuclease precursor [Bacillus pumilus]
+VINTFDGVADYLIRYKRLPDNYITKSQATALGWVASKGNLAVVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYASFTRIR
+>gi|1942120|pdb|2RBI|AChain A, Structure Of Binase Mutant His 101 Asn >gi|1942121|pdb|2RBI|B Chain B, Structure Of Binase Mutant His 101 Asn
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAEVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGFRNADRLVYSSDWLIYKTTDNYATFTRIR
+>gi|409107482|pdb|4HAA|AChain A, Structure Of Ribonuclease Binase Glu43ala/phe81ala Mutant >gi|409107483|pdb|4HAA|B Chain B, Structure Of Ribonuclease Binase Glu43ala/phe81ala Mutant >gi|409107484|pdb|4HAA|C Chain C, Structure Of Ribonuclease Binase Glu43ala/phe81ala Mutant >gi|409107485|pdb|4HAA|D Chain D, Structure Of Ribonuclease Binase Glu43ala/phe81ala Mutant
+VINTFDGVADYLIRYKRLPDNYITKSQASALGWVASKGNLAAVAPGKSIGGDVFSNREGRLPSASGRTWREADINYVSGARNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|17942905|pdb|1GOY|AChain A, Hydrolase(endoribonuclease)ribonuclease Bi(g Specific Endonuclease) (e.c.3.1.27.-) Complexed With Guanosine-3'-phosphate (3'-gmp) >gi|17942906|pdb|1GOY|B Chain B, Hydrolase(endoribonuclease)ribonuclease Bi(g Specific Endonuclease) (e.c.3.1.27.-) Complexed With Guanosine-3'-phosphate (3'-gmp) >gi|17942907|pdb|1GOV|A Chain A, Ribonuclease Bi(G Specific Endonuclease) Complexed With Sulfate Ions >gi|17942908|pdb|1GOV|B Chain B, Ribonuclease Bi(G Specific Endonuclease) Complexed With Sulfate Ions >gi|17942909|pdb|1GOU|A Chain A, Ribonuclease Binase (G Specific Endonuclease) Unliganded Form >gi|17942910|pdb|1GOU|B Chain B, Ribonuclease Binase (G Specific Endonuclease) Unliganded Form
+AAVINTFDGVADYLIRYKRLPNDYITKSQASALGWVASKGDLAEVAPGKSIGGDVFSNREGRLPSAGSRTWREADINYVSGFRNADRLVYSSDWLIYKTTDHYATFTRIR
+>gi|1198959913|ref|WP_087071305.1|ribonuclease [Paenibacillus bovis]
+CTIINTFTGVANYLSANGKLPCNFITKSQAGALGWVSSKGNLAEVAPGKSIGGDVFSNREGLLPTASGRTWREADINYTSGFRNSDRILYSSDGLIYKTTDHYASFTRMK
+>gi|1031373027|gb|ANF96409.1|ribonuclease [Paenibacillus bovis]
+CTIINTFTGVANYLSANGKLPCNFITKSQAGALGWVSSKGNLAEVAPGKSIGGDVFSNREGLLPTASGRTWREADINYTSGFRNSDRILYSSDGLIYKTTDHYASFTRMK
+>gi|1160849729|ref|WP_079694640.1|ribonuclease [Paenibacillus sp. RU5A] >gi|1158490410|emb|SLJ97011.1| ribonuclease [Paenibacillus sp. RU5A]
+IINTFTGVANYLSANGQLPSNYITKAQATALGWVSSQGNLATVAPGKSIGGDVFSNREGLLPAASGRTWREADINYTSGFRNSDRILYSSDGLIYKTTDHYASFTRLK
+>gi|808064075|ref|WP_046225307.1|ribonuclease [Paenibacillus dauci]
+CAIINTFTGVANYLSANGKLPCNFITKSQAGSLGWVSSKGNLAEVAPGKSIGGDVFSNREGLLPTASGRTWREADINYTSGFRNSDRILYSSDGLIYKTTDHYASFTRMK
+>gi|808053830|ref|WP_046215260.1|ribonuclease [Paenibacillus wulumuqiensis]
+CTIINTFTGVANYLSANGKLPCNFITKSQASALGWVSSKGNLAEVAPGKSIGGDVFSNREGLLPAASGRTWREADINYVSGFRNSDRILYSNDGLIYKTTDHYASFTRMK
+>gi|1025829408|ref|WP_063563233.1|ribonuclease [Paenibacillus sp. O199]
+CTIINTFTGVANYLSANGQLPCNYITKAQATALGWVSSQGNLATVAPGKSIGGDVFSNREGLLPAASGRTWREADINYTSGFRNSDRILYSSDGLIYKTTDHYASFTRLK
+>gi|1222852087|ref|WP_090896217.1|ribonuclease [Paenibacillus sp. OK076] >gi|1095185961|emb|SEN32067.1| ribonuclease [Paenibacillus sp. OK076]
+CTIINTFTGVANYLSANGKLPCNYITKAQATALGWVSSQGNLATVAPGKSIGGDVFSNREGLLPAASGRTWREADINYTSGFRNSDRILYSNDGLIYKTTDHYASFTRLK
+>gi|1035847967|ref|WP_064639004.1|MULTISPECIES: ribonuclease [Paenibacillus] >gi|1035446306|gb|OAX49458.1| Ribonuclease [Paenibacillus sp. AD87] >gi|1087470909|emb|SDJ99146.1| ribonuclease [Paenibacillus sp. OK060] >gi|1089387270|emb|SEA30151.1| ribonuclease [Paenibacillus sp. 276b] >gi|1110504990|emb|SHN53763.1| ribonuclease [Paenibacillus sp. ov031]
+CTIINTFTGVANYLSANGQLPCNYITKAQATALGWVSSQGNLATVAPGKSIGGDVFSNREGLLPAASGRTWREADINYTSGFRNSDRILYSSDGLIYKTTDHYASFTRLK
+>gi|927084054|ref|WP_053783898.1|ribonuclease [Paenibacillus sp. A59] >gi|926568060|gb|KOY13576.1| ribonuclease [Paenibacillus sp. A59]
+CTIINTFTGVANYLSANGKLPCNYITKAQATALGWVSSQGNLATVAPGKSIGGDVFSNREGLLPAASGRTWREADINYTSGFRNSDRILYSNDGLIYKTTDHYASFTRLK
+>gi|1011414516|ref|WP_062326158.1|ribonuclease [Paenibacillus pabuli]
+CTIINTFTGVANYLSANGKLPCNYITKAQATALGWVSSQGNLATVAPGKSIGGDVFSNREGLIPAASGRTWREADINYTSGFRNSDRILYSNDGLIYKTTDHYASFTRLK
+>gi|516424487|ref|WP_017813885.1|hypothetical protein [Paenibacillus sp. A9]
+CAIINTFTGVANYLSANGKLPCNFITKSQAGSLGWVSSKGNLAEVAPGKSIGGDVFSNREGLLPTASGRTWREADINYVSGFRNSDRILYSSDGLIYKTTDHYASFTRMK
+>gi|1222951296|ref|WP_090993640.1|ribonuclease [Paenibacillus sp. OK003] >gi|1095123841|emb|SEK24460.1| ribonuclease [Paenibacillus sp. OK003]
+CTIINTFTGVANYLSANGQLPCNYITKAQATALGWVSSQGNLATVAPGKSIGGDVFSNREGLLPAASGRTWREADINYTSGFRNSDRILYSNDGLIYKTTDHYASFTRLK
+>gi|1133916246|ref|WP_076289582.1|ribonuclease [Paenibacillus pabuli] >gi|1133191857|gb|OME81856.1| ribonuclease [Paenibacillus pabuli]
+CTIINTFTGVANYLSANGQLPCNYITKAQATALGWVSSQGNLATVAPGKSIGGDVFSNREGLLPAASGRTWREADINYTSGFRNSDRILYSNDGLIYKTTDHYASFTRLK
+>gi|1159805573|ref|WP_079346797.1|ribonuclease [Paenibacillus sp. VT-16-81] >gi|1159198621|gb|OPG97962.1| ribonuclease [Paenibacillus sp. VT-16-81]
+CTIINTFTGVANYLSANGKLPCNYITKAQATALGWVSSQGNLATVAPGKSIGGDVFSNREGLLPAASGRIWREADINYTSGFRNSDRILYSNDGLIYKTTDHYASFTRLK
+>gi|639452320|ref|WP_024630338.1|MULTISPECIES: ribonuclease [Paenibacillus] >gi|701616116|gb|KGP81887.1| ribonuclease [Paenibacillus sp. MAEPY1] >gi|701617211|gb|KGP82974.1| ribonuclease [Paenibacillus sp. MAEPY2]
+CTIIKTFTGVANYLSANGKLPCNYITKAQATALGWVSSQGNLATVAPGKSIGGDVFSNREGLLPAASGRTWREADINYTSGFRNSDRILYSNDGLIYKTTDHYASFTRLK
+>gi|1062668599|ref|WP_069327827.1|ribonuclease [Paenibacillus sp. TI45-13ar] >gi|1062496194|gb|ODP28206.1| Ribonuclease [Paenibacillus sp. TI45-13ar]
+CTIINTFTGVSNYIKANKTLPCNFITKSQASALGWVSSKGNLATVAPGKSIGGDVFSNREGLLPTASGRTWREADINYTSGFRNSDRILYSNDGLVYKTTDHYASFTKM
+>gi|738777576|ref|WP_036670445.1|ribonuclease [Paenibacillus sp. FSL R5-192] >gi|573538252|gb|ETT37222.1| hypothetical protein C161_11963 [Paenibacillus sp. FSL R5-192]
+CTIINTFTGVANYLSANGKLPCNFITKSQATGLGWVASKGNLAVVAPGKSIGGDTFGNREGLLPSASGRTWREADINYTSGFRNSDRIVYSNDGLIYKTTDHYASFTRMK
+>gi|1133954795|ref|WP_076326801.1|ribonuclease [Paenibacillus amylolyticus] >gi|1133219683|gb|OMF09341.1| ribonuclease [Paenibacillus amylolyticus]
+CTIINTFTGVANYLSANGTLPCNFITKSQATGLGWVASKGNLAVVAPGKSIGGDVFGNREGLLPSASGRTWREADINYTSGFRNSDRIVYSNDGLIYKTTDHYASFTRLK
+>gi|860231842|ref|WP_048350580.1|ribonuclease [Bacillus paralicheniformis] >gi|952941747|gb|KRT91039.1| ribonuclease [Bacillus paralicheniformis]
+EVINTFEGVADYIVKYGRLPDNFITKAEAAKLGWDPQKGNLAEVAPGKSIGGDIFQNREKLLPDAAGRVWREADINYTSGFRGSDRIVYSSDRLVYKTTDHYKTFTRMR
+>gi|1122546515|ref|WP_074094622.1|ribonuclease [Paenibacillus xylanexedens] >gi|1120694697|gb|APO45305.1| ribonuclease [Paenibacillus xylanexedens]
+CTIINTFTGVANYLSANGTLPCNFITKSQATGLGWVASKGNLAVVAPGKSIGGDVFGNREGLLPSASGRTWREADINYTSGFRNSDRIVYSNDGLIYKTTDHYVSFTRMK
+>gi|1130988750|ref|WP_075751474.1|ribonuclease [Bacillus paralicheniformis] >gi|1129655331|gb|OLQ54070.1| ribonuclease [Bacillus paralicheniformis]
+EMINTFEGVADYIVKYGRLPDNFITKAEAAKLGWDPQKGNLAEVAPGKSIGGDIFQNREKLLPDASGRVWREADINYTSGFRGSDRIVYSSDRLVYKTTDHYKTFTRMR
+>gi|489277895|ref|WP_003185568.1|MULTISPECIES: ribonuclease [Bacillus] >gi|52005226|gb|AAU25168.1| putative ribonuclease [Bacillus licheniformis DSM 13 = ATCC 14580] >gi|52349904|gb|AAU42538.1| ribonuclease [Bacillus licheniformis DSM 13 = ATCC 14580] >gi|317390220|gb|EFV71029.1| ribonuclease [Bacillus sp. BT1B_CT2] >gi|532550204|gb|EQM26367.1| ribonuclease [Bacillus licheniformis CG-B52] >gi|765364192|gb|KJE33042.1| ribonuclease [Bacillus licheniformis] >gi|768322749|gb|KJH54720.1| ribonuclease [Bacillus licheniformis] >gi|891270914|gb|AKQ74985.1| ribonuclease [Bacillus licheniformis WX-02] >gi|973172257|gb|KUL11637.1| ribonuclease [Bacillus licheniformis LMG 17339] >gi|1004862362|gb|KYC72655.1| hypothetical protein B4092_4007 [Bacillus licheniformis] >gi|1004867671|gb|KYC77859.1| hypothetical protein B4090_4027 [Bacillus licheniformis] >gi|1004874618|gb|KYC84720.1| hypothetical protein B4091_4051 [Bacillus licheniformis] >gi|1004890224|gb|KYD00273.1| hypothetical protein B4164_3794 [Bacillus licheniformis] >gi|1008880398|gb|AMR12073.1| ribonuclease [Bacillus licheniformis] >gi|1036318986|gb|OAZ62309.1| Ribonuclease [Bacillus licheniformis] >gi|1065097884|gb|AOP16947.1| Ribonuclease [Bacillus licheniformis] >gi|1094590015|emb|SEQ01148.1| ribonuclease [Bacillus licheniformis] >gi|1101955025|gb|OIS73849.1| ribonuclease [Bacillus licheniformis] >gi|1101959769|gb|OIS78443.1| ribonuclease [Bacillus licheniformis] >gi|1101966683|gb|OIS84944.1| ribonuclease [Bacillus licheniformis] >gi|1101968196|gb|OIS86387.1| ribonuclease [Bacillus licheniformis] >gi|1113066902|gb|OJT59848.1| ribonuclease [Bacillus licheniformis] >gi|1113070390|gb|OJT63317.1| ribonuclease [Bacillus licheniformis] >gi|1113078280|gb|OJT71128.1| ribonuclease [Bacillus licheniformis] >gi|1122366424|gb|OKS81167.1| ribonuclease [Bacillus licheniformis] >gi|1126616967|gb|OLF97714.1| Ribonuclease (RNase Bci) [Bacillus licheniformis] >gi|1128305877|gb|OLO20847.1| ribonuclease [Bacillus licheniformis] >gi|1129654466|gb|OLQ53207.1| ribonuclease [Bacillus licheniformis] >gi|1169577111|gb|ARC60545.1| ribonuclease precursor [Bacillus licheniformis] >gi|1169592631|gb|ARC69769.1| ribonuclease precursor [Bacillus licheniformis] >gi|1169598204|gb|ARC75341.1| ribonuclease precursor [Bacillus licheniformis] >gi|1201062983|gb|ARW44494.1| Ribonuclease [Bacillus licheniformis] >gi|1201074353|gb|ARW55850.1| Ribonuclease [Bacillus licheniformis]
+EVINTFEGVADYIVKYGRLPDNFITKAEASKLGWDPQKGNLAEVAPGKSIGGDIFQNREKLLPDASGRVWREADINYTSGFRGSDRIVYSNDRLVYKTTDHYKTFTRMR
+>gi|974645013|ref|WP_059230967.1|MULTISPECIES: ribonuclease [Bacillus subtilis group] >gi|973178800|gb|KUL17826.1| ribonuclease [Bacillus licheniformis LMG 6934]
+EVINTFEGVADYIVKYGRLPDNFITKAEASKLGWDPQKGNLAEVAPGKSIGGDIFQNREKLLPDASGRVWREADINYTSGFRGSDRIVYSNDRLVYKTTDHYKTFTRMR
+>gi|516285752|ref|WP_017689059.1|hypothetical protein [Paenibacillus sp. PAMC 26794]
+CTIINTFTGVANYLSANGTLPCNFITKSQATGLGWVASQGNLAVVAPGKSIGGDVFGNREGLLPSASGRTWREADINYTSGFRNSDRIVYSNDGLIYKTTDHYASFTRLK
+>gi|647492749|ref|WP_025807148.1|ribonuclease [Bacillus licheniformis] >gi|1114403564|gb|OKA55016.1| ribonuclease [Bacillus licheniformis]
+EVINTFEGVADYIVKYGRLPDNFITKAEASKLGWDPQKGNLAEVAPGKSIGGDIFQNREKLLPDASGRIWREADINYTSGFRGSDRIVYSNDRLVYKTTDHYKTFTRMR
+>gi|1222990105|ref|WP_091031755.1|ribonuclease [Paenibacillus sp. CF095] >gi|1087489550|emb|SDC77230.1| ribonuclease [Paenibacillus sp. CF095]
+CTIINTFTGVANYLSANGTLPCNFITKSQATGLGWVASQGNLAVVAPGKSIGGDVFGNREGLLPSASGRTWREADINYTSGFRNSDRIVYSNDGLIYKTTDHYASFTRMK
+>gi|738714728|ref|WP_036609184.1|MULTISPECIES: ribonuclease [Paenibacillus] >gi|573553394|gb|ETT52174.1| hypothetical protein C170_10360 [Paenibacillus sp. FSL H7-689] >gi|1133258763|gb|OMF47859.1| ribonuclease [Paenibacillus amylolyticus]
+CTIINTFTGVANYLSANGTLPCNFITKSQATGLGWVASKGNLAVVAPGKSIGGDTFGNREGLLPSASGRTWREADINYTSGFRNSDRIVYSNDGLIYKTTDHYASFTRLK
+>gi|836695271|ref|WP_047842543.1|ribonuclease [Paenibacillus sp. VT-400] >gi|835055416|gb|KLU54103.1| ribonuclease [Paenibacillus sp. VT-400]
+CTIINTFTGVANYLSANGTLPCNFITKSQATGLGWVASKGNLAVVAPGKSIGGDTFGNREGLLPSASGRTWREADINYTSGFRNSDRIVYSNDGLIYKTTDHYASFTRLK
+>gi|1222975363|ref|WP_091017185.1|ribonuclease [Paenibacillus amylolyticus]
+CTIINTFTGVANYLSANGTLPCNFITKSQATGLGWVASKGNLAVVAPGKSIGGDTFGNREGLLPSASGRTWREADINYTSGFRNSDRIVYSNDGLIYKTTDHYASFTRMK
+>gi|1133958760|ref|WP_076330729.1|ribonuclease [Paenibacillus amylolyticus] >gi|1133227885|gb|OMF17447.1| ribonuclease [Paenibacillus amylolyticus]
+CTIINTFTGVANYLSANGTLPCNFITKSQATGLGWVASKGNLAVVAPGKSIGGDTFGNREGLLPAASGRTWREADINYTSGFRNSDRIVYSNDGLIYKTTDHYASFTRLK
+>gi|1133830541|ref|WP_076208834.1|ribonuclease [Paenibacillus sp. FSL R5-0765] >gi|1133278505|gb|OMF67280.1| ribonuclease [Paenibacillus sp. FSL R5-0765]
+CTIINTFTGVANYLSANGTLPCNFITKSQATGLGWVASKGNLAVVAPGKSIGGDTFGNREGLLPSASGRTWREADINYTSGFRNSDRIVYSNDGLIYKTTDHYASFTRLK
+>gi|1140940916|ref|WP_076788766.1|ribonuclease [Bacillus haynesii] >gi|1134596013|gb|OMI29764.1| ribonuclease [Bacillus haynesii]
+EIINTFEGVADYIVKYGRLPDNFITKAEAAKLGWDPQKGNLAEVAPGKSIGGDIFQNREKLLPDASGRVWREADINYTSGFRGSDRIVYSNDRLVYKTTDHYKTFTRMR
+>gi|1133946406|ref|WP_076318556.1|ribonuclease [Paenibacillus amylolyticus] >gi|1133210277|gb|OMF00157.1| ribonuclease [Paenibacillus amylolyticus]
+CTIINTFTGVANYLSANGTLPCNFITKSQATGLGWVASKGNLAVVAPGKSIGGDTFGNREGLLPSASGRTWREADINYTSGFRNSDRIVYSNDGLIYKTTDHYASFTRLK
+>gi|521288786|ref|WP_020453054.1|MULTISPECIES: ribonuclease [Bacillus] >gi|323145047|gb|ADX31662.1| barnase [Bacillus licheniformis] >gi|510144307|gb|AGN38038.1| putative ribonuclease [Bacillus paralicheniformis ATCC 9945a] >gi|564404206|gb|ETB71683.1| ribonuclease [Bacillus sp. CPSM8] >gi|757436781|gb|AJO20109.1| barnase [Bacillus paralicheniformis] >gi|765091632|gb|KJD54005.1| ribonuclease [Bacillus amyloliquefaciens] >gi|907409336|gb|KND07543.1| ribonuclease [Bacillus licheniformis] >gi|973174516|gb|KUL13835.1| ribonuclease [Bacillus licheniformis LMG 7559] >gi|1045926174|gb|OCI07993.1| ribonuclease [Bacillus paralicheniformis] >gi|1126624062|gb|OLG04739.1| Ribonuclease (RNase Bci) [Bacillus licheniformis] >gi|1126630879|gb|OLG11485.1| Ribonuclease (RNase Bci) [Bacillus licheniformis] >gi|1126630904|gb|OLG11510.1| Ribonuclease (RNase Bci) [Bacillus licheniformis] >gi|1134577315|gb|OMI12459.1| ribonuclease [Bacillus paralicheniformis] >gi|1159052746|gb|OPF75811.1| ribonuclease [Bacillus paralicheniformis] >gi|1167025065|gb|ARA87326.1| ribonuclease [Bacillus paralicheniformis]
+EVINTFEGVADYIVKYGRLPDNFITKAEAAKLGWDPQKGNLAEVAPGKSIGGDIFQNREKLLPDAAGRVWREADINYTSGFRGSDRIVYSNDRLVYKTTDHYKTFTRMR
+>gi|651584972|ref|WP_026580150.1|MULTISPECIES: ribonuclease [Bacillus] >gi|675467043|gb|KFM84871.1| ribonuclease [Bacillus paralicheniformis] >gi|1126618027|gb|OLF98766.1| Ribonuclease (RNase Bci) [Bacillus licheniformis]
+EVINTFEGVADYIVKYGRLPDNFITKAEAAKLGWDPQKGNLAEVAPGKSIGGDIFQNREKLLPDAAGRVWREADINYTSGFRGSDRIVYSNDRLVYKTTDHYKTFTRMR
+>gi|763045613|ref|WP_043928993.1|ribonuclease [Bacillus licheniformis] >gi|584580757|gb|EWH20107.1| ribonuclease [Bacillus licheniformis S 16]
+EIINTFEGVADYIVKYGRLPDNFITKAEAAKLGWDPQKGNLAEVAPGKSIGGDIFQNREKLLPDVSGRVWREADINYTSGFRGSDRIVYSNDRLVYKTTDHYKTFTRMR
+>gi|1015837185|ref|WP_062833890.1|ribonuclease [Paenibacillus amylolyticus] >gi|985795200|dbj|GAS81147.1| unknown protein [Paenibacillus amylolyticus]
+CTIINTFTGVANYLSANGTLPCNFITKSQATGLGWVASQGNLAVVAPGKSIGGDTFGNREGLLPAASGRTWREADINYTSGFRNSDRIVYSNDGLIYKTTDHYASFTRLK
+>gi|647489766|ref|WP_025806180.1|MULTISPECIES: ribonuclease [Bacillus] >gi|1027400881|gb|OAG81363.1| ribonuclease [Bacillus licheniformis] >gi|1112987149|gb|APJ28581.1| ribonuclease [Bacillus sp. H15-1] >gi|1126623545|gb|OLG04223.1| Ribonuclease (RNase Bci) [Bacillus licheniformis] >gi|1169586866|gb|ARC63775.1| ribonuclease precursor [Bacillus licheniformis]
+EVINTFEGVADYIVKYGRLPDNFITKAEASKLGWDPQKGSLAEVAPGKSIGGDIFQNREKLLPDASGRVWREADINYTSGFRGSDRIVYSNDRLVYKTTDHYKTFTRMR
+>gi|1140912155|ref|WP_076761063.1|MULTISPECIES: ribonuclease [Bacillus] >gi|1134563824|gb|OMH99147.1| ribonuclease [Bacillus sp. NRRL B-41282] >gi|1134597215|gb|OMI30959.1| ribonuclease [Bacillus swezeyi]
+IINTFEGVADYIVKYGRLPDNFITKAEAAKLGWEPQKGNLAEVAPGKTIGGDIFKNREKLLPDAEGRVWREADINYTSGFRGSDRIVYSNDRLVYKTTDHYKTFTRMR
+>gi|1175555189|ref|WP_082096888.1|ribonuclease [Paenibacillus wulumuqiensis]
+VINTFDGVADYLRQHGELPCNYITKKEAEQLGWDAGKGNLDKVAPGKSIGGDVFGNREGRLPRASGRKWHEADINYTSGFRGADRILYSSDGLIYKTTNHYKSFQQMK
+>gi|1176645354|ref|WP_082472335.1|ribonuclease [Paenibacillus bovis]
+CQIINTFDGVADYLREHGELPCNYITKKEAEQLGWDAGKGNLNKVAPGKSIGGDTFSNREGLLPRASGRKWHEADINYTSGFRGADRILYSTDGLIYKTTNHYKSFQQMK
+>gi|1031373032|gb|ANF96414.1|ribonuclease [Paenibacillus bovis]
+CQIINTFDGVADYLREHGELPCNYITKKEAEQLGWDAGKGNLNKVAPGKSIGGDTFSNREGLLPRASGRKWHEADINYTSGFRGADRILYSTDGLIYKTTNHYKSFQQMK
+>gi|808064069|ref|WP_046225301.1|ribonuclease [Paenibacillus dauci]
+CSAINTFDGVADYLRQHNELPCNYITKKEAEKLGWDAGKGNLDKVAPGKSIGGDVFGNREGLLPRASGRKWHEADINYTSGFRGADRILYSTDGLIYKTTNHYKSFQQMK
+>gi|516424493|ref|WP_017813891.1|hypothetical protein [Paenibacillus sp. A9]
+CSAINTFDGVADYLRQHNELPCNYITKKEAEKLGWDAGKGNLDKVAPGKSIGGDVFGNREGLLPRASGRKWHEADINYTSGFRGADRILYSTDGLIYKTTNHYKSFQQMK
+>gi|1178863825|ref|WP_083243346.1|ribonuclease [Paenibacillus sp. TI45-13ar]
+CKVINTFDGVADYLKEYKKLPCNYITKSKAESLGWESSKGNLNKVAPGKSIGGDYFSNYEKLLPASKGRKWHEADINYTSGFRGANRILYSTDGLIYKTTDHYDSFQQIQ
+>gi|1062497689|gb|ODP29689.1|Ribonuclease [Paenibacillus sp. TI45-13ar]
+CKVINTFDGVADYLKEYKKLPCNYITKSKAESLGWESSKGNLNKVAPGKSIGGDYFSNYEKLLPASKGRKWHEADINYTSGFRGANRILYSTDGLIYKTTDHYDSFQQIQ
+>gi|1006560082|ref|WP_061802622.1|ribonuclease [Bacillus endophyticus] >gi|1005538867|gb|KYG34328.1| ribonuclease [Bacillus endophyticus]
+SFEDVANYIDRYGELPDNYITKSEAYNLGWEPSEGNLAEVAPGKSIGGDIFSNREGSLPEKSGRVWREADIDYVSGYRNAKRIVYSNDGLIYKTTDHYKTFERMR
+>gi|1182704186|emb|SMF18585.1|ribonuclease [Bacillus filamentosus]
+SFEDVANYIDRYGELPDNYITKSEAYNLGWEPSEGNLAEVAPGKSIGGDIFSNREGSLPEKSGRVWREADIDYVSGYRNAKRIVYSNDGLIYKTTDHYKTFERMR
+>gi|748820371|ref|WP_040061402.1|MULTISPECIES: ribonuclease [Bacillus] >gi|868710716|gb|AKO95117.1| ribonuclease [Bacillus endophyticus] >gi|1226563948|gb|OXS72150.1| ribonuclease [Bacillus filamentosus]
+SFEDVANYIDRYGELPDNYITKSEAYNLGWEPSEGNLAEVAPGKSIGGDIFSNREGSLPEKSGRVWREADIDYVSGYRNAKRIVYSNDGLIYKTTDHYKTFERMR
+>gi|518222479|ref|WP_019392687.1|hypothetical protein [Bacillus endophyticus]
+SFEDVANYIDRYGELPDNYITKSEAYNLGWEPSEGNLAEVAPGKSIGGDIFSNREGSLPEKSGRVWREADIDYVSGYRNAKRIVYSNDGLIYKTTDHYKTFERMR
+>gi|1098134726|emb|SFQ83900.1|ribonuclease [Bacillus endophyticus DSM 13796]
+SFEDVANYIDRYGELPDNYITKSEAYNLGWEPSEGNLAEVAPGKSIGGDIFSNREGSLPEKSGRVWREADIDYVSGYRNAKRIVYSNDGLIYKTTDHYKTFERMR
+>gi|164512722|emb|CAP09637.1|barnase-C-DnaB intein-C fusion protein [Transformation Vector pICH13688]
+DIIVHNSEEQDHG--ASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR
+>gi|817597551|gb|AKF78129.1|hypothetical protein AAV30_03580 [Bacillus velezensis]
+KVLNSFSEVADYVSKHGKLPNNYITKAEAKKLGWKNKKGNLAEVAPGKSIGGDIFENEGNRLPAAKNRVWHEADINYTKGYRGSDRLLYSNDGLIYKTTNHYKTFHKIK
+>gi|1011413612|ref|WP_062325282.1|ribonuclease [Paenibacillus pabuli]
+LTQFDEVAMYISEHHELPENYITKKEARELGWEPSKGNLENVAPGQSIGGDVFQNREGLLPKKKGRTWYEADINYSGGTRGSDRILYSNDGLIYKTTDHYRTFEQME
+>gi|1207641592|ref|WP_088005050.1|hypothetical protein [Bacillus mycoides]
+FDEVAKYVKEHKKLPDNYITKDQAESLGWVKKKGNLHKVAPGKSMGGDIFANKEGLLPAAPGRTWYEADVNYISGYRGNDRILYSSDGLVYKTSDHYKTLTEIK
+>gi|1165776348|ref|WP_079940696.1|ribonuclease [Paenibacillus larvae] >gi|1162267107|gb|AQZ48534.1| ribonuclease [Paenibacillus larvae subsp. pulvifaciens] >gi|1175657720|gb|ARF70262.1| ribonuclease [Paenibacillus larvae subsp. pulvifaciens]
+ANSLTSFEDVANYLKAHNKLPDNFITKNEAKKLGWDPQKGNLQNVAPGKSIGGDIYQNREGKLPNKKGRVWHEADINYKSGHRGKDRIVFSNDGLIYKTEDHYETFQQMK
+>gi|518253003|ref|WP_019423211.1|hypothetical protein [Paenibacillus sp. OSY-SE]
+QPLTGFQEVADYIKAHQALPESFITKKEAEALGWQAKKGNLHEMAPGKSIGGDVFRNREGKLPKKKGRVWYEADINYESGFRGKDRILYSSDGLIYKTENHYETFEPM
+>gi|1025828897|ref|WP_063562722.1|MULTISPECIES: ribonuclease [Paenibacillus] >gi|1087469797|emb|SDK55284.1| ribonuclease [Paenibacillus sp. OK060] >gi|1089388519|emb|SEA73584.1| ribonuclease [Paenibacillus sp. 276b] >gi|1110506231|emb|SHN61808.1| ribonuclease [Paenibacillus sp. ov031] >gi|1158491288|emb|SLJ89281.1| ribonuclease [Paenibacillus sp. RU5A]
+LTQFDEVAKYISEHNELPENYITKKEARELGWEPSKGNLEKVAPGKSIGGDVFQNREGLLPKKKGRTWYEADINYSGGTRGSDRILYSNDGLIYKTTDHYRTFEQIE
+>gi|1133915891|ref|WP_076289227.1|ribonuclease [Paenibacillus pabuli] >gi|1133192721|gb|OME82716.1| ribonuclease [Paenibacillus pabuli]
+LTQFDEVAKYISEHNELPENYITKKEARELGWEPSKGNLEKVAPGKSIGGDVFQNREGLLPKKKGRTWYEADINYSGGTRGSDRILYSNDGLIYKTTDHYRTFEQIE
+>gi|639455222|ref|WP_024633214.1|MULTISPECIES: ribonuclease [Paenibacillus] >gi|701612889|gb|KGP78740.1| ribonuclease [Paenibacillus sp. MAEPY2] >gi|701623130|gb|KGP88779.1| ribonuclease [Paenibacillus sp. MAEPY1]
+ALTQFDEVAKYISEHNELPENYITKKEARELGWEPSKGNLEKVAPGKSIGGDVFQNREGLLPKKKGRTWYEADINYSGGTRGSDRILYSNDGLIYKTTDHYRTFEQIE
+>gi|703587258|gb|AIW39618.1|ribonuclease [Bacillus subtilis] >gi|1073863182|gb|AOU03134.1| ribonuclease [Bacillus velezensis]
+KVLNSFSEVADYVSKHGKLPNNYITKAEAKKLGWKNKKGNLAEVAPGKSIGGDIFENEGNRLPAAKNRVWHEADINYTKGYRGSDRLLYSNDGLIYKTTNHYKTFHKIK
+>gi|1222855460|ref|WP_090899590.1|ribonuclease [Paenibacillus sp. OK076] >gi|1095187221|emb|SEN85377.1| ribonuclease [Paenibacillus sp. OK076]
+LTQFDEVAKYISEHNELPENYITKKEARELGWEPSKGNLEKVAPGKSIGGDVFQNREGLLPKKKGRTWYEADINYSGGTRGSDRILYSNDGLIYKTTDHYRTFEQIE
+>gi|1141010549|ref|WP_076851332.1|MULTISPECIES: hypothetical protein [Bacillus] >gi|1137673193|gb|OMQ05820.1| hypothetical protein BXO87_07180 [Bacillus sp. GZB]
+KVLNSFSEVADYVSKHGKLPNNYITKAEAKKLGWKNKKGNLAEVAPGKSIGGDIFENEGNRLPAAKNRVWHEADINYTKGYRGSDRLLYSNDGLIYKTTNHYKTFHKIK
+>gi|1011516405|ref|WP_062410808.1|ribonuclease [Paenibacillus naphthalenovorans] >gi|961442361|gb|ALS20562.1| ribonuclease [Paenibacillus naphthalenovorans]
+LTGFDEVAEYISKHGKLPDNFITKNEARKLGWDPQKGNLAEVAPGKSIGGDVFQNREGLLPKKNGRIWYEADINYKKGARGSDRIVFSNDGLIYKTTDHYRTFTRIK
+>gi|1124441644|ref|WP_074728115.1|ribonuclease [Paenibacillus naphthalenovorans] >gi|1086981907|emb|SDI67008.1| ribonuclease [Paenibacillus naphthalenovorans]
+LTGFDEVAEYISKHGKLPDNFITKNEARKLGWDPQKGNLAEVAPGKSIGGDVFQNREGLLPKKNGRIWYEADINYKKGARGSDRIVFSNDGLIYKTTDHYRTFTRIK
+>gi|1024856266|ref|WP_063510458.1|hypothetical protein [Paenibacillus gorillae]
+LTSFKGVSDYVRQHHKLPDNYVTKKEAEQLGWVASKGNLNQVAPGKSIGGDRFGNREGLLPKEKNRIWYEADINYKKGSRGADRILYSNDGLIYMTTDHYKSFTDI
+>gi|1035846259|ref|WP_064637338.1|ribonuclease [Paenibacillus sp. AD87] >gi|1035444963|gb|OAX48115.1| Ribonuclease [Paenibacillus sp. AD87]
+LTQFDEVAKYISEHNELPENYITKKEARELGWEPSKGNLEKVAPGKSIGGDVFQNREGLLPKKKGRTWYEADINYSGGTRGSDRILYSNDGLIYRTTDHYRTFEQIE
+>gi|1172303043|ref|WP_080686322.1|hypothetical protein [Bacillus amyloliquefaciens]
+KVLNSFSEVADYVSKHGKLPNNYITKAEAEKLGWVNKKGNLSKVAPGKSIGGDIFKNKGNPLPTAKNRVWYEADINYTTGYRGNDRLLYSNDGLIYKTTDHYKTFHKIK
+>gi|1222960018|ref|WP_091002246.1|ribonuclease [Paenibacillus sp. OK003] >gi|1095118168|emb|SEM09266.1| ribonuclease [Paenibacillus sp. OK003]
+ALTQFDEVAKYISEHNELPENYITKKEARELGWEPSKGNLEKVAPGKSIGGDVFQNREGLLPKKKGRTWYEADINYSGGTRGSDRILYSNDGLFYKTTDHYRTFEQIE
+>gi|1178680751|ref|WP_083189284.1|barnase [Paenibacillus sp. KS1]
+SKPLTDFEEVASYIRKHHSLPDNFITKKDAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLPKKKGRIWYEADINYSKGFRGKDRLLFSNDGLIYKTEDHYDTFQQMK
+>gi|927081170|ref|WP_053781014.1|ribonuclease [Paenibacillus sp. A59] >gi|926571085|gb|KOY16573.1| ribonuclease [Paenibacillus sp. A59]
+SAALTQFDEVAKYISEHNELPENYITKKEARELGWEPSNGNLEKVAPGKSIGGDVFQNREGLLPKKKGRTWYEADINYSGGTRGSDRILYSNDGLIYKTTDHYRTFEQIE
+>gi|1189462196|gb|OSX97144.1|hypothetical protein BTJ44_00630 [Bacillus mycoides]
+FDEVAKYVKEHKKLPDNYITKDQAESLGWVKKKGNLHKVAPGKSMGGDIFANKEGLLPAAPGRTWYEADVNYISGYRGNDRILYSSDGLVYKTSDHYKTLTEIK
+>gi|1180022946|ref|WP_083545300.1|barnase [Paenibacillus sp. NAIST15-1]
+SKPLTDFEEVASYIRKHHSLPDNFITKKDAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLPKKKGRIWYEADINYSKGFRGKDRLLFSNDGLIYKTEDHYDTFQQMK
+>gi|518367210|ref|WP_019537417.1|barnase [Paenibacillus ginsengihumi]
+ANSLTSFEEVAEYIKTHQRLPDNFITKKAARELGWEPRKGNLHEVAPGKSIGGDVFQNREGKLPDKKGRIWYEADINYRSGPRGKDRIVFSNDGLIYKTEDHYETFEQIK
+>gi|738760930|ref|WP_036654199.1|ribonuclease [Paenibacillus larvae] >gi|1148323748|gb|AQR76826.1| ribonuclease [Paenibacillus larvae subsp. larvae]
+ANSLTSFEDVANYLKAHNKLPDNFITKNEAKKLGWDPQKGNLQNVAPGKSIGGDIYQNREGKLPNKKGRVLHEADINYKSGHRGKDRIVFSNDGLIYKTEDHYETFQQMK
+>gi|567769527|gb|ETK26875.1|ribonuclease [Paenibacillus larvae subsp. larvae DSM 25719]
+ANSLTSFEDVANYLKAHNKLPDNFITKNEAKKLGWDPQKGNLQNVAPGKSIGGDIYQNREGKLPNKKGRVLHEADINYKSGHRGKDRIVFSNDGLIYKTEDHYETFQQMK
+>gi|1222872206|ref|WP_090915933.1|ribonuclease [Paenibacillus polysaccharolyticus] >gi|1081640316|emb|SCY03418.1| ribonuclease [Paenibacillus polysaccharolyticus]
+FQEVADYIKEHHELPPNYITKKEARKLGWEPSEGNLGQVAPGKSIGGDVFRNREGLLPNKKGRIWYEADIHYTGGKRGSDRILYSNDGLIYQTTDHYKTFQQIK
+>gi|1176253566|ref|WP_082181764.1|hypothetical protein [Bacillus velezensis]
+KVLNSFSEVADYVSKHGKLPNNYITKAEAEKLGWVNKKGNLSKVAPGKSIGGDIFKNKGNPLPTAKNRVWYEADINYTTGYRGNDRLLYSNDGLIYKTTDHYKTFHKMK
+>gi|1042846620|gb|OBY79093.1|barnase [Paenibacillus sp. KS1]
+SKPLTDFEEVASYIRKHHSLPDNFITKKDAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLPKKKGRIWYEADINYSKGFRGKDRLLFSNDGLIYKTEDHYDTFQQMK
+>gi|1004097077|gb|KXZ21008.1|hypothetical protein AXI59_13330 [Bacillus nakamurai]
+KVLNSFNEVADFVSKHGKLPNNYITKAEAKKLGWVRKKGNLADVAPGKSLGGDIFMNEGNPLPSAKNRVWYEADINYTKGYRGNDRLLFSNDGLIYKSTDHYKTFHKIK
+>gi|1207701332|ref|WP_088059654.1|hypothetical protein [Bacillus weihenstephanensis]
+FDEVAKYVKEHKKLPDNYITKDQAEALGWVNREGNLHKVAPGKNMGGDIFENRKKQLPDVPGRTWYEADINYVSGYRGNDRIVYSSDGLIYKTSDHYKTFTEIK
+>gi|825868112|ref|WP_047153091.1|hypothetical protein [Aneurinibacillus tyrosinisolvens]
+AEEAAGFESVKRYIQEHGKLPDNFITKNEAKKLGWDSSKGNLSEVAPGKSIGGDRFYDREKRLPYKKGRTWREADMNYHSGRRGSDRLLFSNDGLFYKTTDHYQTFTQVK
+>gi|1222627783|ref|WP_090676175.1|ribonuclease [Paenibacillus tianmuensis]
+SQGLTSFEDVANYIKAHNKLPDNFITKDEAKNLGWDPQKGNLHKVAPGKSIGGDVFQNREGKLPKKKGRVWYEADINYKSDRRGKDRILFSNDGLIYKTEDHYETFEQIK
+>gi|1063129308|emb|SCM96159.1|Uncharacterized protein BWINRASL_03338 [Bacillus weihenstephanensis]
+FDEVAKYVKEHKKLPDNYITKDQAEALGWVNREGNLHKVAPGKNMGGDIFENRKKQLPDVPGRTWYEADINYVSGYRGNDRIVYSSDGLIYKTSDHYKTFTEIK
+>gi|1070680749|dbj|GAV14683.1|putative barnase [Paenibacillus sp. NAIST15-1]
+SKPLTDFEEVASYIRKHHSLPDNFITKKDAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLPKKKGRIWYEADINYSKGFRGKDRLLFSNDGLIYKTEDHYDTFQQMK
+>gi|860316173|ref|WP_048375793.1|hypothetical protein [Bacillus sp. LK2] >gi|857267196|gb|KMN42493.1| hypothetical protein VK90_24085 [Bacillus sp. LK2]
+FDEVAKYVKEYKKLPDNYITKKQAKALGWERKEGNLHEVAPGKSMGGDIYRNDDGVLPSKAGRTWYEADINYISGYRGGDRILYSNDGLVYKTSDHYKTFTEIK
+>gi|1175518808|ref|WP_082061449.1|barnase [Paenibacillus sp. E194]
+SKSLTDFEEVASYIRKHHSLPDNFITKKDAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLPKKKGRIWYEADMNYSKGFRGKDRLLFSNDGLIYKTEDHYDTFQQMK
+>gi|1079665671|emb|SCW81802.1|ribonuclease [Paenibacillus tianmuensis]
+SQGLTSFEDVANYIKAHNKLPDNFITKDEAKNLGWDPQKGNLHKVAPGKSIGGDVFQNREGKLPKKKGRVWYEADINYKSDRRGKDRILFSNDGLIYKTEDHYETFEQIK
+>gi|1222974484|ref|WP_091016306.1|ribonuclease [Paenibacillus amylolyticus]
+FDEVANYISEHHELPPNYITKKEARELGWEPSEGNLHEVAPGKSIGGDVFGNREGLLPSKKGRIWYEADINYSGGRRGSDRILYSNDGLIYQTTDHYKSFEQLK
+>gi|1222647300|ref|WP_090695434.1|hypothetical protein [Bacillus sp. 166amftsu]
+FDDVAKYIKEQKKLPDNYITKKQAEALGWKRNEGNLHKIAPGKSIGGDIFGNKEGLLPKSPGRTWYEADINYLSGYRGNDRILYSNDGLIYKTSDHYKTFTQVK
+>gi|1165591200|ref|WP_079914337.1|ribonuclease [Paenibacillus sp. 32352]
+TFESVAKYIQAHNKLPDNFITKNEATKRGWDPQKGNLNQVAPGKSIGGDVFQNRENKLPSKKGRIWYEADINYKSGHRGKDRILFSNDGLIYKTEDHYETFQQIK
+>gi|1175128295|ref|WP_081676922.1|MULTISPECIES: barnase [Paenibacillus]
+SKPLTDFEEVASYIRKNHSLPDNFITKKDAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLPKKKGRIWYEADINYSKGFRGKDRLLFSNDGLIYKTEDHYDTFQQMK
+>gi|763824628|gb|KJB88981.1|barnase [Paenibacillus sp. E194]
+SKSLTDFEEVASYIRKHHSLPDNFITKKDAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLPKKKGRIWYEADMNYSKGFRGKDRLLFSNDGLIYKTEDHYDTFQQMK
+>gi|1199713489|ref|WP_087443714.1|ribonuclease [Paenibacillus thiaminolyticus]
+QELTGFEEVANYIKSHQQLPDNFITKEEAKRLGWDARQGNLHEVAPGKSIGGDIFRNREGKLPKQKGRIWYEADINYTEGHRGKDRIVFSNDGLIYKTEDHYETFEPI
+>gi|670514236|ref|WP_031461760.1|ribonuclease [Paenibacillus polymyxa]
+SSVLTQFDEVAKYISEHNDLPGNYITKKEARKLGWEPSEGNLEKVAPGKSIGGDVFRNREGLLPKKKGRIWYEADINYSGGARGSDRILYSNDGLIYKTTDHYRTFEQLK
+>gi|515997513|ref|WP_017428096.1|MULTISPECIES: hypothetical protein [Paenibacillus] >gi|595634576|gb|AHM66834.1| hypothetical protein PPSQR21_031940 [Paenibacillus polymyxa SQR-21] >gi|723614359|gb|AIY07732.1| ribonuclease [Paenibacillus polymyxa] >gi|764113068|gb|KJD41955.1| ribonuclease [Paenibacillus polymyxa] >gi|770117929|gb|KJK31585.1| ribonuclease [Paenibacillus polymyxa] >gi|808108491|gb|KKD52742.1| ribonuclease [Paenibacillus sp. ICGEB2008] >gi|1094916689|emb|SEJ48526.1| ribonuclease [Paenibacillus sp. 181mfcol5.1]
+SSVLTQFDEVAKYISEHNDLPGNYITKKEARKLGWEPSEGNLEKVAPGKSIGGDVFRNREGLLPEKKGRIWYEADINYSGGTRGSDRILYSNDGLIYKTTDHYRTFEQLK
+>gi|1175127735|ref|WP_081676362.1|barnase [Paenibacillus alvei]
+SKPLTDFEEVARYIRKHHSLPDNFITKKDAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLPKKKGRIWYEADMNYSKGFRGKDRLLFSNDGLIYKTEDHYGTFQQMK
+>gi|528195020|gb|EPY05256.1|ribonuclease precursor (Barnase) [Paenibacillus alvei TS-15]
+SKPLTDFEEVARYIRKHHSLPDNFITKKDAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLPKKKGRIWYEADMNYSKGFRGKDRLLFSNDGLIYKTEDHYGTFQQMK
+>gi|528203025|gb|EPY13127.1|ribonuclease precursor (Barnase) [Paenibacillus alvei A6-6i-x]
+SKPLTDFEEVASYIRKNHSLPDNFITKKDAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLPKKKGRIWYEADINYSKGFRGKDRLLFSNDGLIYKTEDHYDTFQQMK
+>gi|1174823939|ref|WP_081505809.1|barnase [Paenibacillus alvei]
+SKPLTDFEEVANYIRKHHSLPDNFITKKEAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLPKKKGRIWYEADIHYSDGFRGKYRLLFSNDGLIYKTEDHYKTFQQMK
+>gi|1133955598|ref|WP_076327604.1|ribonuclease [Paenibacillus amylolyticus] >gi|1133218120|gb|OMF07789.1| ribonuclease [Paenibacillus amylolyticus]
+FDEVADYISEHNELPPNYITKKEARELGWEPSEGNLREVAPGKSIGGDVFRNREGLLPNKKGRIWYEADINYSGGRRGSDRILYSNDGLIYQTTDHYKSFEQLK
+>gi|1004096258|gb|KXZ20206.1|hypothetical protein AXI58_14970 [Bacillus nakamurai]
+KVLNSFNEVADFVSKHGKLPNNYITKADAEKLGWESKKGNLSKVAPGKSIGGDIFKNKGNPLPTAKNRVWYEADINYTTGYRGNDRLLYSNDGLIYKTTDHYKTFHKIK
+>gi|948031097|ref|WP_056690327.1|ribonuclease [Paenibacillus sp. Root52] >gi|945840536|gb|KQY94229.1| ribonuclease [Paenibacillus sp. Root52]
+FDEVAKYISEHTALPPNYITKKEARALGWEPSEGNLQEVAPGKSIGGDVFRNREGLLPNKKGRTWYEADIHYSGGRRGSDRILYSNDGLIYKTTDHYESFEQLK
+>gi|1177702159|ref|WP_082791747.1|hypothetical protein [Bacillus nakamurai]
+KVLNSFNEVADFVSKHGKLPNNYITKAEAKKLGWVRKKGNLADVAPGKSLGGDIFMNEGNPLPSAKNRVWYEADINYTKGYRGNDRLLFSNDGLIYKSTDHYKTFHKIK
+>gi|1079339781|ref|WP_070140253.1|hypothetical protein [Bacillus weihenstephanensis]
+FDEVTKYVKEHKKLPDNYITKDQAEALGWVNREGNLHKVAPGKSIGGDIFENRRKQLPDVPGRTWYEADVNYVSGYRGNDRIVYSSDGLIYKTSDHYKTFTEIK
+>gi|493728039|ref|WP_006677378.1|barnase [Paenibacillus dendritiformis] >gi|374390248|gb|EHQ61602.1| S-layer domain ribonuclease [Paenibacillus dendritiformis C454]
+SKELTGFEEVANYIKSHQQLPDNFITKEEARRLGWDARQGNLHEAAPGKSIGGDIFRNREGKLPKKKGRVWYEADINYTKGHRGKDRIVFSNDGLIYKTEDHYETFEPI
+>gi|402505271|gb|EJW15797.1|putative barnase [Paenibacillus alvei DSM 29]
+SKPLTDFEEVANYIRKHHSLPDNFITKKEAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLPKKKGRIWYEADIHYSDGFRGKYRLLFSNDGLIYKTEDHYKTFQQMK
+>gi|738721746|ref|WP_036615937.1|MULTISPECIES: ribonuclease [Paenibacillus] >gi|573545076|gb|ETT43972.1| hypothetical protein C170_26422 [Paenibacillus sp. FSL H7-689] >gi|835055915|gb|KLU54602.1| ribonuclease [Paenibacillus sp. VT-400] >gi|1133212188|gb|OMF01931.1| ribonuclease [Paenibacillus amylolyticus] >gi|1133252850|gb|OMF41988.1| ribonuclease [Paenibacillus amylolyticus] >gi|1133275503|gb|OMF64359.1| ribonuclease [Paenibacillus sp. FSL R5-0765]
+FDEVADYISEHNELPPNYITKKEARDLGWEPSEGNLREVAPGKSIGGDVFRNREGLLPNKKGRIWYEADINYSGGRRGSDRILYSNDGLIYQTTDHYKSFEQLK
+>gi|1177707210|ref|WP_082796788.1|hypothetical protein [Bacillus nakamurai]
+KVLNSFNEVADFVSKHGKLPNNYITKADAEKLGWESKKGNLSKVAPGKSIGGDIFKNKGNPLPTAKNRVWYEADINYTTGYRGNDRLLYSNDGLIYKTTDHYKTFHKIK
+>gi|738793146|ref|WP_036684340.1|MULTISPECIES: ribonuclease [Paenibacillus] >gi|662325208|gb|KEQ24723.1| ribonuclease [Paenibacillus tyrfis]
+SQGLTSFEDVANYIKAHNKLPDNFITKDEARKLGWDPQKGNLHKVAPGKSIGGDVYQNREGKLPTKKGRVWYEADIHYKSDHRGKDRILFSNDGLIYKTEDHYETFQQIK
+>gi|1173398245|ref|WP_081250978.1|hypothetical protein [Bacillus atrophaeus]
+KVLNSFTEVSDFVAKNGRLPDNYITKGEAKKLGWESKKGNLSKVAPGKSIGGNIYKNRDKRLPEAKNRVWREADINYTTGYRGNDRLLYSNDGLIYKTTDHYKTFVKLK
+>gi|656245317|ref|WP_029191947.1|ribonuclease [Paenibacillus elgii]
+QGLTSFEDVAKYIKAHNKLPDNFITKDEARKLGWDPQKGNLHKVAPGKSIGGDVYQNREGKLPAKKGRVWYEADINYKSDHRGKDRILFSNDGLIYKTENHYETFEQIK
+>gi|737427691|ref|WP_035408381.1|ribonuclease [Bacillus sp. SJS] >gi|1024742547|gb|KZZ85590.1| ribonuclease [Bacillus sp. SJS]
+ESITSFDGIIDYLKAYGELPPNFVTKSEASYYGWVSSKCNLADVLPGYSIGGDVFSNREGLLPAKSGRVYYEADAYYTSGCRNASRVVFSNDGLYYTTSDHYKTFTRV
+>gi|1133959178|ref|WP_076331147.1|ribonuclease [Paenibacillus amylolyticus] >gi|1133228390|gb|OMF17952.1| ribonuclease [Paenibacillus amylolyticus]
+FDEVADYISEHNELPPNYITKKEARDLGWEPSEGNLHEVAPGKSIGGDVFRNREGLLPNKKGRIWYEADINYSGGRRGSDRILYSNDGLIYQTTDHYKSFEQLK
+>gi|1020034482|ref|WP_063184877.1|ribonuclease [Paenibacillus elgii] >gi|1017188015|gb|KZE75402.1| ribonuclease [Paenibacillus elgii]
+QGLTSFEDVAKYIKAHNKLPDNFITKDEARKLGWDPQKGNLHKVAPGKSIGGDVYQNREGKLPAKKGRVWYEADINYKSDHRGKDRILFSNDGLIYKTENHYETFEQIK
+>gi|1175164593|ref|WP_081712514.1|hypothetical protein [Bacillus toyonensis]
+FDEVTKYVKEHKKLPDNYITKDQAEALGWVNRDGNLHKVAPGKSIGGDIFENRKKQLPDVPGRTWYEADVNYISGYRGNDRIVYSSDGLIYKTSDHYKTFTEIK
+>gi|1159807914|ref|WP_079349134.1|ribonuclease [Paenibacillus sp. VT-16-81] >gi|1159196399|gb|OPG95799.1| ribonuclease [Paenibacillus sp. VT-16-81]
+LTQFDEVAKYISEHNELPENYITKKEARELGWEPSKGNLEIVAPGKSIGGDVFQNRERLLPKKKGRTWYEADINYSGGTRGSDRILYSNDGLIYTTTDHYRTFEQIE
+>gi|1222988892|ref|WP_091030542.1|ribonuclease [Paenibacillus sp. CF095] >gi|1087488963|emb|SDC62798.1| ribonuclease [Paenibacillus sp. CF095]
+FDEVANYISEHNELPPNYITKKEARELGWEPSEGNLHEVAPGKSIGGDVFRNREGLLPNKKGRIWYEADINYSGGRRGSDRILYSNDGLIYQTTDHYKSFEQLK
+>gi|783151794|ref|WP_045670872.1|ribonuclease [Paenibacillus beijingensis] >gi|779744319|gb|AJY75443.1| ribonuclease [Paenibacillus beijingensis]
+FDEVANYLKVHKQLPDNFITKDEARKRGWDPRKGNLDEVAPGMSIGGDVFQNREGKLPRKKGRVWYEADINYKSGRRGDDRILFSSDGLIYKTEDHYKTFQEMK
+>gi|488115953|ref|WP_002187350.1|MULTISPECIES: hypothetical protein [Bacillus cereus group] >gi|401291212|gb|EJR96889.1| hypothetical protein IKM_05351 [Bacillus cereus VDM022] >gi|401293096|gb|EJR98743.1| hypothetical protein IKO_05405 [Bacillus cereus VDM034] >gi|401305731|gb|EJS11261.1| hypothetical protein IKS_05624 [Bacillus cereus VDM062] >gi|1189455070|gb|OSX90107.1| hypothetical protein S3E15_02743 [Bacillus mycoides]
+FDEVAQYVKEHKKLPDNYITKDQAESLGWVNREGNLHKVAPGKSMGGDIFENRKKQLPDVPGRTWYEADINYVSGFRGNDGIVYSSDGLIYKTSDHYKTFTEIK
+>gi|631802708|gb|AHZ17373.1|hypothetical protein V529_33470 [Bacillus velezensis SQR9]
+KVLNSFSEVADYVSKHGKLPNNYITKAEAKKLGWKNKKGNLAEVAPGKSIGGDIFENEGNRLPAAKNRVWHEADINYTKGYRGSDRLLYSNDGLIYKTTNHYKTFHKIK
+>gi|1057243113|ref|WP_068613200.1|ribonuclease [Paenibacillus tuaregi]
+SFEAVASYIREHHQLPDNFITKKEARRLGYPQS-GNLNEVAPGKSIGGDVFQNREGKLPRKKGRTWYEADINYTKGPRGKDRIVFSSDGLIYKTEDHYETYQQMK
+>gi|515239155|ref|WP_016821491.1|hypothetical protein [Paenibacillus polymyxa]
+SSVLTQFDEVAKYISEHNDLPGNYITKKEARKLGWEPSEGNLEKVAPGKSIGGDVFRNREGLLPKKKGRIWYEADINYSGKTRGSDRILYSNDGLIYKTTDHYRTFEQLK
+>gi|1122547576|ref|WP_074095056.1|ribonuclease [Paenibacillus xylanexedens] >gi|1120695220|gb|APO45828.1| ribonuclease [Paenibacillus xylanexedens]
+FDEVANYISEHNELPPNYITKKEARELGWEPSEGNLREVAPGKSIGGDVFGNREGLLPKKKGRIWYEADINYSGGRRGSDRILYSNDGLIYQTTDHYKSFEQLK
+>gi|738779581|ref|WP_036670931.1|ribonuclease [Paenibacillus sp. FSL R5-192] >gi|573538829|gb|ETT37799.1| putative S-layer protein [Paenibacillus sp. FSL R5-192]
+FDEVANYISEHNELPPNYITKKEARELGWEPSEGNLHEVAPGKSIGGDVFGNREGLLPKKKGRIWYEADINYSGGRRGSDRILYSNDGLIYQTTDHYKSFEQLK
+>gi|516285190|ref|WP_017688497.1|hypothetical protein [Paenibacillus sp. PAMC 26794]
+FDEVANYISEHNELPPNYITKKEARDLGWEPSEGNLREVAPGKSIGGDVFRNREGLLPNKKGRIWYEADINYSGGRRGSDRILYSNDGLIYQTTDHYKSFEQLK
+>gi|1169245633|ref|WP_080497097.1|hypothetical protein [Bacillus cereus]
+FDEVTKYVKEHKKLPDNYITKDQAEALGWVNRDGNLHKVAPGKSIGGDIFENRKKQLPDVPGRTWYEADVNYISGYRGNDRIVYSSDGLIYKTSDHYKTFTEIK
+>gi|1015837699|ref|WP_062834404.1|ribonuclease [Paenibacillus amylolyticus] >gi|985795797|dbj|GAS81744.1| unknown protein [Paenibacillus amylolyticus]
+FDEVANYISEHNELPPNYITKKEARDLGWEPSEGNLHEVAPGKSIGGDVFRNREGLLPNKKGRIWYEADINYSGGRRGSDRILYSNDGLIYQTTDHYKSFEQLK
+>gi|1222459812|ref|WP_090510969.1|barnase [Paenibacillus sp. cl6col]
+SKPLTDFEEVASYIRKNHSLPDNFITKKDAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLQKKKGRIWYEADINYSKGFRGKDRLLFSNDGLIYKTEDHYDTFQQMK
+>gi|1172356678|ref|WP_080739949.1|MULTISPECIES: hypothetical protein [Bacillus]
+FDDVAKYIKEHKKLPGNYITKDQAKALGWERKQGNLHKVAPGKSMGGDIFENKEGLLPNAPGRTWYEADVNYLSGYRGNDRILYSNDGLVYKTSDHYKTLTEIK
+>gi|597504509|gb|EYB35132.1|ribonuclease [Bacillus amyloliquefaciens EBL11]
+KVLNSFSEVADYVSKHGKLPNNYITKAEAEKLGWVNKKGNLSKVAPGKSIGGDIFKNKGNPLPTAKNRVWYEADINYTTGYRGNDRLLYSNDGLIYKTTDHYKTFHKIK
+>gi|1087266145|emb|SDE78045.1|ribonuclease [Paenibacillus sp. cl6col]
+SKPLTDFEEVASYIRKNHSLPDNFITKKDAEKLGWNAKEGNLNEVAPGKSIGGDIFRNREGKLQKKKGRIWYEADINYSKGFRGKDRLLFSNDGLIYKTEDHYDTFQQMK
+>gi|917413506|ref|WP_052020218.1|hypothetical protein [Paenibacillus pini]
+SFKDVSDYIRKHQKLPDNFITKKEAEQLGWVAAQGNLNTVAPGKSIGGDRFGNREGLLPKAKNRIWYEADINYKKGSRGADRILYSNDGLIYKTTDHYKSFTDI
+>gi|585397037|dbj|GAF08296.1|ribonuclease [Paenibacillus pini JCM 16418]
+SFKDVSDYIRKHQKLPDNFITKKEAEQLGWVAAQGNLNTVAPGKSIGGDRFGNREGLLPKAKNRIWYEADINYKKGSRGADRILYSNDGLIYKTTDHYKSFTDI
+>gi|1175148227|ref|WP_081696149.1|ribonuclease [Aneurinibacillus aneurinilyticus]
+YEEVAQYIRDHGHLPDNYITKNEARKLGWDAQKGNLNKVAPGKSIGGDVFGNREKKLPSKKGRIWYEADINYKSGFRGDDRILFSNDGLIYKTEDHYKTFQLMK
+>gi|542055973|gb|ERI07402.1|ribonuclease [Aneurinibacillus aneurinilyticus ATCC 12856]
+YEEVAQYIRDHGHLPDNYITKNEARKLGWDAQKGNLNKVAPGKSIGGDVFGNREKKLPSKKGRIWYEADINYKSGFRGDDRILFSNDGLIYKTEDHYKTFQLMK
+>gi|1054604572|ref|WP_066372822.1|hypothetical protein [Bacillus sp. FJAT-27264] >gi|1043023138|gb|OBZ15075.1| hypothetical protein A8L34_10585 [Bacillus sp. FJAT-27264]
+FKEVSDYIRQHHALPDNFITKKEAEGLGWVAAKGNLNQIAPGKSIGGDRFGNREGLLPKAKNRIWYEADINYKKGSRGADRILYSNDGLIYMTSDHYKSFTDI
+>gi|1078675217|gb|OFD35947.1|hypothetical protein BWGOE2_56700 [Bacillus weihenstephanensis] >gi|1078675671|gb|OFD36324.1| hypothetical protein BWGOE1_55880 [Bacillus weihenstephanensis]
+FDEVTKYVKEHKKLPDNYITKDQAEALGWVNREGNLHKVAPGKSIGGDIFENRRKQLPDVPGRTWYEADVNYVSGYRGNDRIVYSSDGLIYKTSDHYKTFTEIK
+>gi|673970830|gb|AIK35341.1|ribonuclease domain protein (plasmid) [Bacillus mycoides] >gi|753704138|gb|AJI14540.1| ribonuclease domain protein (plasmid) [Bacillus thuringiensis str. Al Hakam]
+FDDVAKYIKEHKKLPGNYITKDQAKALGWERKQGNLHKVAPGKSMGGDIFENKEGLLPNAPGRTWYEADVNYLSGYRGNDRILYSNDGLVYKTSDHYKTLTEIK
+>gi|1049649306|emb|SCC55108.1|Uncharacterized protein BC05F1_04430 [Bacillus cereus]
+CFDEVSQYIKQNKKLPDNLITKQQAEALGWVNRDGNLHKVAPGKSIGGDIFENRKKQLPNAPGRTWYEADINYVSGYRGNDRIFYSSGGLVYKTSDHYKTFTEIK
+>gi|740403192|ref|WP_038236779.1|hypothetical protein [Xenorhabdus szentirmaii] >gi|575848120|emb|CDL82450.1| Ribonuclease [Xenorhabdus szentirmaii DSM 16338]
+VLTEHQRVADYLRKYHKLPDYYITKKQARRLGWNPREGNLCDVLPGKAIGGDRFSNRENKLPAQQGRNWFEADVNYRCGHRGSDRLLYSNDGLIYLTVDHYNHFTRL
+>gi|1175118433|ref|WP_081667060.1|hypothetical protein [Paenibacillus pinihumi]
+LTSFQAVSDYIREHGKLPANYMTKKEASQLGWVPSKGNLNQVAPGKSIGGDRFGNREGLLPKAKNRIWYEADINYKKGSRGADRILFSSDGLIYMTTDHYKSFTDI
+>gi|1224655206|ref|WP_092674255.1|hypothetical protein [Rosenbergiella nectarea]
+VARYLQSHQTLPDYYIRKGEARRKGWVASKGNLCEVLPGRVIGGDRFSNREHRLPEKAGRSWQEADVNFSCGRRNSDRLLFSSDGLIYLTTDHYRSFQQV
+>gi|1227387785|ref|WP_094050910.1|ribonuclease [Cohnella sp. CIP 111063] >gi|1226543933|gb|OXS52491.1| hypothetical protein B1A99_33875 [Cohnella sp. CIP 111063]
+LTGFKEVADYIRSYGTLPDNFITKKEAERLGWVPSEGNLGKVAPGKSIGGDRFGNREGLLPKEKNRIWYEADINYEGGTRGADRIVFSNDGLIYMTTDHYRSFTDI

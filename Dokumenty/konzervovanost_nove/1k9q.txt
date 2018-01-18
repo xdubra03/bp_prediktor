@@ -1,0 +1,500 @@
+>gi|918453194|pdb|4REX|AChain A, Crystal Structure Of The First Ww Domain Of Human Yap2 Isoform
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|18158805|pdb|1K9Q|AChain A, Yap65 Ww Domain Complexed To N-(N-Octyl)-Gpppy-Nh2 >gi|18158807|pdb|1K9R|A Chain A, Yap65 Ww Domain Complexed To Acetyl-Plppy
+EIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|593757593|ref|XP_007117605.1|PREDICTED: yorkie homolog, partial [Physeter catodon]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|931579892|ref|XP_014202466.1|PREDICTED: transcriptional coactivator YAP1 isoform X12 [Pan paniscus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|931579890|ref|XP_014202465.1|PREDICTED: transcriptional coactivator YAP1 isoform X11 [Pan paniscus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|931579888|ref|XP_014202464.1|PREDICTED: transcriptional coactivator YAP1 isoform X10 [Pan paniscus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|931579886|ref|XP_014202463.1|PREDICTED: transcriptional coactivator YAP1 isoform X9 [Pan paniscus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|327358401|gb|AEA51047.1|Yes-associated protein 1, partial [Oryzias melastigma]
+YEIPDDVPLPPGWEMAKTTSGQRYFLNHIDQTTTWQDPRK
+>gi|594040598|ref|XP_006044860.1|PREDICTED: yorkie homolog [Bubalus bubalis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|390469884|ref|XP_003734188.1|PREDICTED: transcriptional coactivator YAP1 isoform X10 [Callithrix jacchus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|675695645|ref|XP_009005434.1|PREDICTED: transcriptional coactivator YAP1 isoform X12 [Callithrix jacchus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|955511222|ref|XP_014640705.1|PREDICTED: transcriptional coactivator YAP1 isoform X10 [Ceratotherium simum simum]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|675695636|ref|XP_009005432.1|PREDICTED: transcriptional coactivator YAP1 isoform X9 [Callithrix jacchus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1044366545|ref|XP_017388565.1|PREDICTED: transcriptional coactivator YAP1 isoform X10 [Cebus capucinus imitator]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|829795264|ref|XP_012625990.1|transcriptional coactivator YAP1 isoform X10 [Microcebus murinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|675695641|ref|XP_009005433.1|PREDICTED: transcriptional coactivator YAP1 isoform X11 [Callithrix jacchus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1212357127|ref|XP_021527398.1|transcriptional coactivator YAP1 isoform X6 [Aotus nancymaae]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1044366549|ref|XP_017388567.1|PREDICTED: transcriptional coactivator YAP1 isoform X12 [Cebus capucinus imitator]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1044366547|ref|XP_017388566.1|PREDICTED: transcriptional coactivator YAP1 isoform X11 [Cebus capucinus imitator]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|724902395|ref|XP_010377349.1|PREDICTED: transcriptional coactivator YAP1 isoform X10 [Rhinopithecus roxellana]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1212357131|ref|XP_021527400.1|transcriptional coactivator YAP1 isoform X8 [Aotus nancymaae]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|395814618|ref|XP_003780842.1|PREDICTED: transcriptional coactivator YAP1 isoform X6 [Otolemur garnettii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|544489339|ref|XP_005579510.1|PREDICTED: transcriptional coactivator YAP1 isoform X10 [Macaca fascicularis] >gi|635017390|ref|XP_008018840.1| PREDICTED: yorkie homolog isoform X10 [Chlorocebus sabaeus] >gi|795327421|ref|XP_011927479.1| PREDICTED: transcriptional coactivator YAP1 isoform X10 [Cercocebus atys] >gi|795426795|ref|XP_011759896.1| PREDICTED: transcriptional coactivator YAP1 isoform X10 [Macaca nemestrina] >gi|1220175228|ref|XP_021782169.1| transcriptional coactivator YAP1 isoform X10 [Papio anubis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|530788244|ref|NP_001269026.1|transcriptional coactivator YAP1 isoform 6 [Homo sapiens] >gi|1034091271|ref|XP_016777356.1| PREDICTED: transcriptional coactivator YAP1 isoform X10 [Pan troglodytes] >gi|314122117|dbj|BAJ41471.1| yes-associated protein beta [Homo sapiens]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1044366543|ref|XP_017388564.1|PREDICTED: transcriptional coactivator YAP1 isoform X9 [Cebus capucinus imitator]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|829795274|ref|XP_012625992.1|transcriptional coactivator YAP1 isoform X12 [Microcebus murinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|478506334|ref|XP_004427462.1|PREDICTED: transcriptional coactivator YAP1 isoform X12 [Ceratotherium simum simum]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1121945430|ref|XP_019485887.1|PREDICTED: transcriptional coactivator YAP1 isoform X10 [Hipposideros armiger]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|966988083|ref|XP_014971036.1|PREDICTED: transcriptional coactivator YAP1 isoform X10 [Macaca mulatta]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|831211720|ref|XP_012658847.1|PREDICTED: transcriptional coactivator YAP1 isoform X8 [Otolemur garnettii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1121945436|ref|XP_019485889.1|PREDICTED: transcriptional coactivator YAP1 isoform X12 [Hipposideros armiger]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1212357125|ref|XP_021527395.1|transcriptional coactivator YAP1 isoform X5 [Aotus nancymaae]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|955511220|ref|XP_014640704.1|PREDICTED: transcriptional coactivator YAP1 isoform X9 [Ceratotherium simum simum]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|829795259|ref|XP_012625989.1|transcriptional coactivator YAP1 isoform X9 [Microcebus murinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1212357129|ref|XP_021527399.1|transcriptional coactivator YAP1 isoform X7 [Aotus nancymaae]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|724902401|ref|XP_010377351.1|PREDICTED: transcriptional coactivator YAP1 isoform X12 [Rhinopithecus roxellana]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|831211715|ref|XP_012658838.1|PREDICTED: transcriptional coactivator YAP1 isoform X5 [Otolemur garnettii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|504145289|ref|XP_004585066.1|PREDICTED: transcriptional coactivator YAP1 isoform X6 [Ochotona princeps]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1121945426|ref|XP_019485886.1|PREDICTED: transcriptional coactivator YAP1 isoform X9 [Hipposideros armiger]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1124016233|ref|XP_019568257.1|PREDICTED: transcriptional coactivator YAP1 isoform X12 [Rhinolophus sinicus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|544489343|ref|XP_005579512.1|PREDICTED: transcriptional coactivator YAP1 isoform X12 [Macaca fascicularis] >gi|635017394|ref|XP_008018842.1| PREDICTED: yorkie homolog isoform X12 [Chlorocebus sabaeus] >gi|795327439|ref|XP_011927482.1| PREDICTED: transcriptional coactivator YAP1 isoform X12 [Cercocebus atys] >gi|795426806|ref|XP_011759898.1| PREDICTED: transcriptional coactivator YAP1 isoform X12 [Macaca nemestrina] >gi|1220175232|ref|XP_021782171.1| transcriptional coactivator YAP1 isoform X12 [Papio anubis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|724902392|ref|XP_010377347.1|PREDICTED: transcriptional coactivator YAP1 isoform X9 [Rhinopithecus roxellana]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|955511224|ref|XP_014640706.1|PREDICTED: transcriptional coactivator YAP1 isoform X11 [Ceratotherium simum simum]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|829795269|ref|XP_012625991.1|transcriptional coactivator YAP1 isoform X11 [Microcebus murinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|966988087|ref|XP_014971037.1|PREDICTED: transcriptional coactivator YAP1 isoform X12 [Macaca mulatta]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1124016228|ref|XP_019568255.1|PREDICTED: transcriptional coactivator YAP1 isoform X10 [Rhinolophus sinicus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|488598054|ref|XP_004484179.1|PREDICTED: transcriptional coactivator YAP1 isoform X8 [Dasypus novemcinctus]
+FEIPDDVPLPAGWEMAKTASGQRYFLNHIDQTTTWQDPRK
+>gi|303523511|ref|NP_006097.2|transcriptional coactivator YAP1 isoform 2 [Homo sapiens] >gi|1034091275|ref|XP_016777358.1| PREDICTED: transcriptional coactivator YAP1 isoform X12 [Pan troglodytes]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|545221840|ref|XP_001498697.4|PREDICTED: transcriptional coactivator YAP1 [Equus caballus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|504145293|ref|XP_004585068.1|PREDICTED: transcriptional coactivator YAP1 isoform X8 [Ochotona princeps]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|966988081|ref|XP_014971035.1|PREDICTED: transcriptional coactivator YAP1 isoform X9 [Macaca mulatta]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1124016225|ref|XP_019568254.1|PREDICTED: transcriptional coactivator YAP1 isoform X9 [Rhinolophus sinicus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|544489337|ref|XP_005579509.1|PREDICTED: transcriptional coactivator YAP1 isoform X9 [Macaca fascicularis] >gi|635017388|ref|XP_008018839.1| PREDICTED: yorkie homolog isoform X9 [Chlorocebus sabaeus] >gi|795327415|ref|XP_011927478.1| PREDICTED: transcriptional coactivator YAP1 isoform X9 [Cercocebus atys] >gi|795426789|ref|XP_011759895.1| PREDICTED: transcriptional coactivator YAP1 isoform X9 [Macaca nemestrina] >gi|1220175226|ref|XP_021782168.1| transcriptional coactivator YAP1 isoform X9 [Papio anubis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|530788248|ref|NP_001269028.1|transcriptional coactivator YAP1 isoform 7 [Homo sapiens] >gi|1034091269|ref|XP_016777355.1| PREDICTED: transcriptional coactivator YAP1 isoform X9 [Pan troglodytes]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|348573585|ref|XP_003472571.1|PREDICTED: transcriptional coactivator YAP1 [Cavia porcellus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1147283675|ref|XP_020023404.1|transcriptional coactivator YAP1 isoform X7 [Castor canadensis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|837804448|ref|XP_012782385.1|PREDICTED: transcriptional coactivator YAP1 isoform X5 [Ochotona princeps]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1131175004|ref|XP_019829720.1|PREDICTED: LOW QUALITY PROTEIN: transcriptional coactivator YAP1 [Bos indicus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|759147038|ref|XP_011367738.1|PREDICTED: transcriptional coactivator YAP1 isoform X12 [Pteropus vampyrus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|504145291|ref|XP_004585067.1|PREDICTED: transcriptional coactivator YAP1 isoform X7 [Ochotona princeps]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|759147032|ref|XP_011367736.1|PREDICTED: transcriptional coactivator YAP1 isoform X10 [Pteropus vampyrus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|345323025|ref|XP_001510207.2|PREDICTED: transcriptional coactivator YAP1 [Ornithorhynchus anatinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|831211718|ref|XP_012658844.1|PREDICTED: transcriptional coactivator YAP1 isoform X7 [Otolemur garnettii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|488598052|ref|XP_004484178.1|PREDICTED: transcriptional coactivator YAP1 isoform X7 [Dasypus novemcinctus]
+FEIPDDVPLPAGWEMAKTASGQRYFLNHIDQTTTWQDPRK
+>gi|1190403234|ref|XP_020851785.1|transcriptional coactivator YAP1 isoform X10 [Phascolarctos cinereus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|724902398|ref|XP_010377350.1|PREDICTED: transcriptional coactivator YAP1 isoform X11 [Rhinopithecus roxellana]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1190403232|ref|XP_020851784.1|transcriptional coactivator YAP1 isoform X9 [Phascolarctos cinereus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|488598050|ref|XP_004484177.1|PREDICTED: transcriptional coactivator YAP1 isoform X6 [Dasypus novemcinctus]
+FEIPDDVPLPAGWEMAKTASGQRYFLNHIDQTTTWQDPRK
+>gi|586449783|ref|XP_006833829.1|PREDICTED: yorkie homolog isoform X6 [Chrysochloris asiatica]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1147283677|ref|XP_020023405.1|transcriptional coactivator YAP1 isoform X8 [Castor canadensis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|759147028|ref|XP_011367735.1|PREDICTED: transcriptional coactivator YAP1 isoform X9 [Pteropus vampyrus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1147283679|ref|XP_020023406.1|transcriptional coactivator YAP1 isoform X9 [Castor canadensis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1190403238|ref|XP_020851787.1|transcriptional coactivator YAP1 isoform X12 [Phascolarctos cinereus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|634862669|ref|XP_007944212.1|PREDICTED: yorkie homolog isoform X7 [Orycteropus afer afer]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1124016230|ref|XP_019568256.1|PREDICTED: transcriptional coactivator YAP1 isoform X11 [Rhinolophus sinicus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1121945433|ref|XP_019485888.1|PREDICTED: transcriptional coactivator YAP1 isoform X11 [Hipposideros armiger]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|966988085|ref|XP_002799821.2|PREDICTED: transcriptional coactivator YAP1 isoform X11 [Macaca mulatta]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|530788246|ref|NP_001269027.1|transcriptional coactivator YAP1 isoform 5 [Homo sapiens] >gi|1034091273|ref|XP_016777357.1| PREDICTED: transcriptional coactivator YAP1 isoform X11 [Pan troglodytes] >gi|517177|emb|CAA56672.1| YAP65 (Yes-associated protein of 65kDa MW) [Homo sapiens] >gi|119587416|gb|EAW67012.1| Yes-associated protein 1, 65kDa, isoform CRA_b [Homo sapiens] >gi|119587418|gb|EAW67014.1| Yes-associated protein 1, 65kDa, isoform CRA_b [Homo sapiens]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|440909855|gb|ELR59719.1|Yorkie-like protein, partial [Bos mutus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|586449781|ref|XP_006833828.1|PREDICTED: yorkie homolog isoform X5 [Chrysochloris asiatica]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|821419458|ref|XP_012393541.1|PREDICTED: transcriptional coactivator YAP1 isoform X6 [Orcinus orca] >gi|1131290720|ref|XP_019779334.1| PREDICTED: transcriptional coactivator YAP1 isoform X10 [Tursiops truncatus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|466075776|ref|XP_004283404.1|PREDICTED: transcriptional coactivator YAP1 isoform X8 [Orcinus orca] >gi|1131290726|ref|XP_019779336.1| PREDICTED: transcriptional coactivator YAP1 isoform X12 [Tursiops truncatus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|634862675|ref|XP_007944214.1|PREDICTED: yorkie homolog isoform X9 [Orycteropus afer afer]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|544489341|ref|XP_005579511.1|PREDICTED: transcriptional coactivator YAP1 isoform X11 [Macaca fascicularis] >gi|635017392|ref|XP_008018841.1| PREDICTED: yorkie homolog isoform X11 [Chlorocebus sabaeus] >gi|795327432|ref|XP_011927480.1| PREDICTED: transcriptional coactivator YAP1 isoform X11 [Cercocebus atys] >gi|795426801|ref|XP_011759897.1| PREDICTED: transcriptional coactivator YAP1 isoform X11 [Macaca nemestrina] >gi|1220175230|ref|XP_021782170.1| transcriptional coactivator YAP1 isoform X11 [Papio anubis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|586449787|ref|XP_006833831.1|PREDICTED: yorkie homolog isoform X8 [Chrysochloris asiatica]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|634862666|ref|XP_007944211.1|PREDICTED: yorkie homolog isoform X6 [Orycteropus afer afer]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|586449785|ref|XP_006833830.1|PREDICTED: yorkie homolog isoform X7 [Chrysochloris asiatica]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|585664364|ref|XP_006887378.1|PREDICTED: yorkie homolog isoform X7 [Elephantulus edwardii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|823407089|ref|XP_012413687.1|PREDICTED: transcriptional coactivator YAP1 isoform X6 [Trichechus manatus latirostris]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|759147035|ref|XP_011367737.1|PREDICTED: transcriptional coactivator YAP1 isoform X11 [Pteropus vampyrus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|471408682|ref|XP_004385922.1|PREDICTED: transcriptional coactivator YAP1 isoform X8 [Trichechus manatus latirostris]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|821419461|ref|XP_012393542.1|PREDICTED: transcriptional coactivator YAP1 isoform X7 [Orcinus orca] >gi|1131290722|ref|XP_019779335.1| PREDICTED: transcriptional coactivator YAP1 isoform X11 [Tursiops truncatus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|585664361|ref|XP_006887377.1|PREDICTED: yorkie homolog isoform X6 [Elephantulus edwardii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|731255487|ref|XP_010640391.1|PREDICTED: transcriptional coactivator YAP1 [Fukomys damarensis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|585664374|ref|XP_006887380.1|PREDICTED: yorkie homolog isoform X9 [Elephantulus edwardii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1190403236|ref|XP_020851786.1|transcriptional coactivator YAP1 isoform X11 [Phascolarctos cinereus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|821419455|ref|XP_012393540.1|PREDICTED: transcriptional coactivator YAP1 isoform X5 [Orcinus orca] >gi|1131290716|ref|XP_019779333.1| PREDICTED: transcriptional coactivator YAP1 isoform X9 [Tursiops truncatus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|676270410|gb|KFO25627.1|Yorkie like protein, partial [Fukomys damarensis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|30268305|emb|CAD89963.1|hypothetical protein, partial [Homo sapiens]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1023003176|ref|XP_016289378.1|PREDICTED: transcriptional coactivator YAP1 isoform X11 [Monodelphis domestica]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|351709958|gb|EHB12877.1|65 kDa Yes-associated protein, partial [Heterocephalus glaber]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|823407085|ref|XP_012413686.1|PREDICTED: transcriptional coactivator YAP1 isoform X5 [Trichechus manatus latirostris]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|913490660|ref|XP_005346865.2|PREDICTED: transcriptional coactivator YAP1 [Microtus ochrogaster]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|634862672|ref|XP_007944213.1|PREDICTED: yorkie homolog isoform X8 [Orycteropus afer afer]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1023003172|ref|XP_016289376.1|PREDICTED: transcriptional coactivator YAP1 isoform X9 [Monodelphis domestica]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1023003178|ref|XP_016289379.1|PREDICTED: transcriptional coactivator YAP1 isoform X12 [Monodelphis domestica]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|585664368|ref|XP_006887379.1|PREDICTED: yorkie homolog isoform X8 [Elephantulus edwardii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|823407093|ref|XP_012413688.1|PREDICTED: transcriptional coactivator YAP1 isoform X7 [Trichechus manatus latirostris]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1023003174|ref|XP_016289377.1|PREDICTED: transcriptional coactivator YAP1 isoform X10 [Monodelphis domestica]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|602705559|ref|XP_007447171.1|PREDICTED: yorkie homolog isoform X3 [Lipotes vexillifer]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1016673186|ref|XP_016062237.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Miniopterus natalensis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1016673189|ref|XP_016062238.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Miniopterus natalensis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1016673192|ref|XP_016062240.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Miniopterus natalensis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1111226854|ref|XP_019289197.1|PREDICTED: transcriptional coactivator YAP1 [Panthera pardus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|829795279|ref|XP_012625993.1|transcriptional coactivator YAP1 isoform X13 [Microcebus murinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1016673203|ref|XP_016062243.1|PREDICTED: transcriptional coactivator YAP1 isoform X6 [Miniopterus natalensis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1016673196|ref|XP_016062241.1|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Miniopterus natalensis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|667257432|ref|XP_008566210.1|PREDICTED: yorkie homolog isoform X2 [Galeopterus variegatus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1016673200|ref|XP_016062242.1|PREDICTED: transcriptional coactivator YAP1 isoform X5 [Miniopterus natalensis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|521029656|gb|EPQ11443.1|Yorkie like protein [Myotis brandtii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|795157082|ref|XP_011839777.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Mandrillus leucophaeus] >gi|931579884|ref|XP_014202462.1| PREDICTED: transcriptional coactivator YAP1 isoform X8 [Pan paniscus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|931579875|ref|XP_014202459.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Pan paniscus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1211430106|ref|XP_021501542.1|transcriptional coactivator YAP1 isoform X3 [Meriones unguiculatus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1008769056|ref|XP_006983846.2|PREDICTED: transcriptional coactivator YAP1 [Peromyscus maniculatus bairdii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|675789803|ref|XP_008952026.1|PREDICTED: transcriptional coactivator YAP1 isoform X7 [Pan paniscus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1211430112|ref|XP_021501546.1|transcriptional coactivator YAP1 isoform X6 [Meriones unguiculatus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|725558291|ref|XP_010332927.1|PREDICTED: transcriptional coactivator YAP1 [Saimiri boliviensis boliviensis] >gi|1212357133|ref|XP_021527402.1| transcriptional coactivator YAP1 isoform X9 [Aotus nancymaae]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|667257429|ref|XP_008566209.1|PREDICTED: yorkie homolog isoform X1 [Galeopterus variegatus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|675789797|ref|XP_008952023.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Pan paniscus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1211430108|ref|XP_021501544.1|transcriptional coactivator YAP1 isoform X4 [Meriones unguiculatus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|507556425|ref|XP_004661968.1|PREDICTED: transcriptional coactivator YAP1 [Jaculus jaculus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|931579878|ref|XP_014202460.1|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Pan paniscus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1211430110|ref|XP_021501545.1|transcriptional coactivator YAP1 isoform X5 [Meriones unguiculatus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1211430104|ref|XP_021501541.1|transcriptional coactivator YAP1 isoform X2 [Meriones unguiculatus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|392583906|ref|NP_001254810.1|transcriptional coactivator YAP1 [Ovis aries] >gi|388332060|gb|AFH57126.2| yes-associated protein 1 [Ovis aries]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|931579881|ref|XP_014202461.1|PREDICTED: transcriptional coactivator YAP1 isoform X6 [Pan paniscus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|281341724|gb|EFB17308.1|hypothetical protein PANDA_010993, partial [Ailuropoda melanoleuca]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|675789799|ref|XP_008952024.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Pan paniscus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|744558057|ref|XP_010976098.1|PREDICTED: transcriptional coactivator YAP1 [Camelus dromedarius]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|982994883|ref|XP_015321922.1|PREDICTED: transcriptional coactivator YAP1 isoform X9 [Bos taurus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1211430102|ref|XP_021501540.1|transcriptional coactivator YAP1 isoform X1 [Meriones unguiculatus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|675789801|ref|XP_008952025.1|PREDICTED: transcriptional coactivator YAP1 isoform X5 [Pan paniscus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|743753376|ref|XP_010971617.1|PREDICTED: transcriptional coactivator YAP1 [Camelus bactrianus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|602726331|ref|XP_007448626.1|PREDICTED: yorkie homolog [Lipotes vexillifer]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1212203083|ref|XP_021552270.1|transcriptional coactivator YAP1 [Neomonachus schauinslandi]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|823435779|ref|XP_012423426.1|PREDICTED: transcriptional coactivator YAP1 [Odobenus rosmarus divergens]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|675695612|ref|XP_009005426.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Callithrix jacchus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|296216706|ref|XP_002754685.1|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Callithrix jacchus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|18158839|pdb|1JMQ|AChain A, Yap65 (L30k Mutant) Ww Domain In Complex With Gtppppytvg Peptide
+EIPDDVPLPAGWEMAKTSSGQRYFKNHIDQTTTWQDPRK
+>gi|675695616|ref|XP_009005427.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Callithrix jacchus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|675695620|ref|XP_009005428.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Callithrix jacchus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|73955238|ref|XP_536601.2|PREDICTED: transcriptional coactivator YAP1 [Canis lupus familiaris]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|675695631|ref|XP_009005431.1|PREDICTED: transcriptional coactivator YAP1 isoform X7 [Callithrix jacchus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|675695628|ref|XP_009005430.1|PREDICTED: transcriptional coactivator YAP1 isoform X6 [Callithrix jacchus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|296216708|ref|XP_002754686.1|PREDICTED: transcriptional coactivator YAP1 isoform X8 [Callithrix jacchus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|253722252|pdb|1K5R|AChain A, Yap65 Ww Domain S24-Amino-Ethylsulfanyl-Acetic Acid Mutant
+EIPDDVPLPAGWEMAKTSXGQRYFLNHIDQTTTWQDPRK
+>gi|1044366533|ref|XP_017388559.1|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Cebus capucinus imitator]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|675695625|ref|XP_009005429.1|PREDICTED: transcriptional coactivator YAP1 isoform X5 [Callithrix jacchus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|989907729|ref|XP_006907601.2|PREDICTED: transcriptional coactivator YAP1, partial [Pteropus alecto]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|670995058|ref|XP_008688448.1|PREDICTED: LOW QUALITY PROTEIN: yorkie homolog [Ursus maritimus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|955511211|ref|XP_014640700.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Ceratotherium simum simum]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1044366529|ref|XP_017388557.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Cebus capucinus imitator]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1212357117|ref|XP_021527383.1|transcriptional coactivator YAP1 isoform X1 [Aotus nancymaae]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1212357119|ref|XP_021527384.1|transcriptional coactivator YAP1 isoform X2 [Aotus nancymaae]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|826335936|ref|XP_012514680.1|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Propithecus coquereli]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|478506330|ref|XP_004427460.1|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Ceratotherium simum simum]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1044366527|ref|XP_017388556.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Cebus capucinus imitator]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1044366531|ref|XP_017388558.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Cebus capucinus imitator]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|829795243|ref|XP_012625986.1|transcriptional coactivator YAP1 isoform X6 [Microcebus murinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|955511209|ref|XP_014640699.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Ceratotherium simum simum]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1121945411|ref|XP_019485881.1|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Hipposideros armiger]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|826335927|ref|XP_012514677.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Propithecus coquereli]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|742084220|ref|XP_010827087.1|PREDICTED: LOW QUALITY PROTEIN: transcriptional coactivator YAP1, partial [Bison bison bison]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|829795229|ref|XP_012625982.1|transcriptional coactivator YAP1 isoform X3 [Microcebus murinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|724902374|ref|XP_010377341.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Rhinopithecus roxellana]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|395814614|ref|XP_003780840.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Otolemur garnettii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1044366537|ref|XP_017388561.1|PREDICTED: transcriptional coactivator YAP1 isoform X6 [Cebus capucinus imitator]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1044366541|ref|XP_017388563.1|PREDICTED: transcriptional coactivator YAP1 isoform X8 [Cebus capucinus imitator]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|395520406|ref|XP_003764324.1|PREDICTED: LOW QUALITY PROTEIN: transcriptional coactivator YAP1 [Sarcophilus harrisii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1048438201|ref|XP_017535486.1|PREDICTED: transcriptional coactivator YAP1 [Manis javanica]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|829795234|ref|XP_012625983.1|transcriptional coactivator YAP1 isoform X4 [Microcebus murinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|829795224|ref|XP_012625981.1|transcriptional coactivator YAP1 isoform X2 [Microcebus murinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|826335930|ref|XP_012514678.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Propithecus coquereli]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|859842947|ref|XP_012917851.1|PREDICTED: transcriptional coactivator YAP1 [Mustela putorius furo]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1044366535|ref|XP_017388560.1|PREDICTED: transcriptional coactivator YAP1 isoform X5 [Cebus capucinus imitator]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|829795238|ref|XP_012625985.1|transcriptional coactivator YAP1 isoform X5 [Microcebus murinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1044366539|ref|XP_017388562.1|PREDICTED: transcriptional coactivator YAP1 isoform X7 [Cebus capucinus imitator]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|947234976|ref|XP_014443915.1|PREDICTED: transcriptional coactivator YAP1 [Tupaia chinensis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|544489327|ref|XP_005579504.1|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Macaca fascicularis] >gi|635017378|ref|XP_008018834.1| PREDICTED: yorkie homolog isoform X4 [Chlorocebus sabaeus] >gi|795327377|ref|XP_011927472.1| PREDICTED: transcriptional coactivator YAP1 isoform X4 [Cercocebus atys] >gi|795426761|ref|XP_011759890.1| PREDICTED: transcriptional coactivator YAP1 isoform X4 [Macaca nemestrina] >gi|1220175216|ref|XP_021782163.1| transcriptional coactivator YAP1 isoform X4 [Papio anubis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1190403220|ref|XP_020851778.1|transcriptional coactivator YAP1 isoform X3 [Phascolarctos cinereus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|955511207|ref|XP_014640698.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Ceratotherium simum simum]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|829795219|ref|XP_012625980.1|transcriptional coactivator YAP1 isoform X1 [Microcebus murinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|504145285|ref|XP_004585064.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Ochotona princeps]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1121945408|ref|XP_019485879.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Hipposideros armiger]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|826335933|ref|XP_012514679.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Propithecus coquereli]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1212357123|ref|XP_021527389.1|transcriptional coactivator YAP1 isoform X4 [Aotus nancymaae]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1121945405|ref|XP_019485878.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Hipposideros armiger]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|918585404|ref|XP_013366580.1|PREDICTED: transcriptional coactivator YAP1 [Chinchilla lanigera]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|966988071|ref|XP_002799819.2|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Macaca mulatta]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|724902377|ref|XP_010377342.1|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Rhinopithecus roxellana]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|478506332|ref|XP_004427461.1|PREDICTED: transcriptional coactivator YAP1 isoform X8 [Ceratotherium simum simum]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|966988067|ref|XP_014971029.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Macaca mulatta]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|724902371|ref|XP_010377340.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Rhinopithecus roxellana]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|955511213|ref|XP_014640701.1|PREDICTED: transcriptional coactivator YAP1 isoform X5 [Ceratotherium simum simum]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|194306653|ref|NP_001123617.1|transcriptional coactivator YAP1 isoform 1 [Homo sapiens] >gi|114640050|ref|XP_001151467.1| PREDICTED: transcriptional coactivator YAP1 isoform X4 [Pan troglodytes] >gi|294862479|sp|P46937.2|YAP1_HUMAN RecName: Full=Transcriptional coactivator YAP1; Short=Yes-associated protein 1; AltName: Full=Protein yorkie homolog; AltName: Full=Yes-associated protein YAP65 homolog >gi|23398532|gb|AAH38235.1| YAP1 protein [Homo sapiens] >gi|119587419|gb|EAW67015.1| Yes-associated protein 1, 65kDa, isoform CRA_d [Homo sapiens] >gi|261860460|dbj|BAI46752.1| Yes-associated protein 1, 65kDa, partial [synthetic construct] >gi|314122119|dbj|BAJ41472.1| yes-associated protein delta [Homo sapiens]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|966988065|ref|XP_014971028.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Macaca mulatta]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|987395985|ref|XP_015390273.1|PREDICTED: transcriptional coactivator YAP1 [Panthera tigris altaica]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1212357121|ref|XP_021527385.1|transcriptional coactivator YAP1 isoform X3 [Aotus nancymaae]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1190403222|ref|XP_020851779.1|transcriptional coactivator YAP1 isoform X4 [Phascolarctos cinereus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1124016209|ref|XP_019568246.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Rhinolophus sinicus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|649123238|gb|AIC55770.1|YAP1, partial [synthetic construct]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1121945403|ref|XP_019485877.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Hipposideros armiger]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|544489321|ref|XP_005579501.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Macaca fascicularis] >gi|635017372|ref|XP_008018830.1| PREDICTED: yorkie homolog isoform X1 [Chlorocebus sabaeus] >gi|795327358|ref|XP_011927468.1| PREDICTED: transcriptional coactivator YAP1 isoform X1 [Cercocebus atys] >gi|795426747|ref|XP_011759886.1| PREDICTED: transcriptional coactivator YAP1 isoform X1 [Macaca nemestrina] >gi|1220175211|ref|XP_021782160.1| transcriptional coactivator YAP1 isoform X1 [Papio anubis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|530397737|ref|XP_005271435.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Homo sapiens] >gi|1034091254|ref|XP_016777348.1| PREDICTED: transcriptional coactivator YAP1 isoform X1 [Pan troglodytes]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1012032463|ref|XP_015989482.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Rousettus aegyptiacus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|966988069|ref|XP_014971030.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Macaca mulatta]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|955511215|ref|XP_014640702.1|PREDICTED: transcriptional coactivator YAP1 isoform X6 [Ceratotherium simum simum]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|724902383|ref|XP_010377344.1|PREDICTED: transcriptional coactivator YAP1 isoform X6 [Rhinopithecus roxellana]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|829795254|ref|XP_012625988.1|transcriptional coactivator YAP1 isoform X8 [Microcebus murinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|544489323|ref|XP_005579502.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Macaca fascicularis] >gi|635017374|ref|XP_008018831.1| PREDICTED: yorkie homolog isoform X2 [Chlorocebus sabaeus] >gi|795327364|ref|XP_011927470.1| PREDICTED: transcriptional coactivator YAP1 isoform X2 [Cercocebus atys] >gi|795426752|ref|XP_011759887.1| PREDICTED: transcriptional coactivator YAP1 isoform X2 [Macaca nemestrina] >gi|1060534228|ref|XP_017804388.1| transcriptional coactivator YAP1 isoform X2 [Papio anubis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|837804439|ref|XP_012782383.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Ochotona princeps]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1012032454|ref|XP_015989479.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Rousettus aegyptiacus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|724902368|ref|XP_010377339.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Rhinopithecus roxellana]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1196791888|ref|XP_004870870.2|transcriptional coactivator YAP1 [Heterocephalus glaber]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1124016211|ref|XP_019568248.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Rhinolophus sinicus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|759147010|ref|XP_011367728.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Pteropus vampyrus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|544489325|ref|XP_005579503.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Macaca fascicularis] >gi|635017376|ref|XP_008018833.1| PREDICTED: yorkie homolog isoform X3 [Chlorocebus sabaeus] >gi|795327370|ref|XP_011927471.1| PREDICTED: transcriptional coactivator YAP1 isoform X3 [Cercocebus atys] >gi|795426756|ref|XP_011759888.1| PREDICTED: transcriptional coactivator YAP1 isoform X3 [Macaca nemestrina] >gi|1220175214|ref|XP_021782162.1| transcriptional coactivator YAP1 isoform X3 [Papio anubis]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|530397741|ref|XP_005271437.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Homo sapiens] >gi|1034091258|ref|XP_016777350.1| PREDICTED: transcriptional coactivator YAP1 isoform X3 [Pan troglodytes]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|826335942|ref|XP_012514683.1|PREDICTED: transcriptional coactivator YAP1 isoform X6 [Propithecus coquereli]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1121945423|ref|XP_019485885.1|PREDICTED: transcriptional coactivator YAP1 isoform X8 [Hipposideros armiger]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|530788252|ref|NP_001269030.1|transcriptional coactivator YAP1 isoform 9 [Homo sapiens] >gi|1034091256|ref|XP_016777349.1| PREDICTED: transcriptional coactivator YAP1 isoform X2 [Pan troglodytes]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1124016213|ref|XP_019568249.1|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Rhinolophus sinicus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1124016207|ref|XP_019568245.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Rhinolophus sinicus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1190403218|ref|XP_020851777.1|transcriptional coactivator YAP1 isoform X2 [Phascolarctos cinereus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|966988079|ref|XP_002799820.2|PREDICTED: transcriptional coactivator YAP1 isoform X8 [Macaca mulatta]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|826335948|ref|XP_012514685.1|PREDICTED: transcriptional coactivator YAP1 isoform X8 [Propithecus coquereli]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|724902389|ref|XP_010377346.1|PREDICTED: transcriptional coactivator YAP1 isoform X8 [Rhinopithecus roxellana]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1012032458|ref|XP_015989481.1|PREDICTED: transcriptional coactivator YAP1 isoform X2 [Rousettus aegyptiacus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|504145287|ref|XP_004585065.1|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Ochotona princeps]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1190403216|ref|XP_020851776.1|transcriptional coactivator YAP1 isoform X1 [Phascolarctos cinereus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|395814616|ref|XP_003780841.1|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Otolemur garnettii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1062906049|ref|XP_017915375.1|PREDICTED: transcriptional coactivator YAP1 isoform X4 [Capra hircus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|724902380|ref|XP_010377343.1|PREDICTED: transcriptional coactivator YAP1 isoform X5 [Rhinopithecus roxellana]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|966988077|ref|XP_014971034.1|PREDICTED: transcriptional coactivator YAP1 isoform X7 [Macaca mulatta]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|955511217|ref|XP_014640703.1|PREDICTED: transcriptional coactivator YAP1 isoform X7 [Ceratotherium simum simum]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|829795249|ref|XP_012625987.1|transcriptional coactivator YAP1 isoform X7 [Microcebus murinus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|752412835|ref|XP_011226750.1|PREDICTED: transcriptional coactivator YAP1 [Ailuropoda melanoleuca]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|1062906047|ref|XP_017915374.1|PREDICTED: transcriptional coactivator YAP1 isoform X3 [Capra hircus]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|831211709|ref|XP_012658817.1|PREDICTED: transcriptional coactivator YAP1 isoform X1 [Otolemur garnettii]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK
+>gi|966988075|ref|XP_014971032.1|PREDICTED: transcriptional coactivator YAP1 isoform X6 [Macaca mulatta]
+FEIPDDVPLPAGWEMAKTSSGQRYFLNHIDQTTTWQDPRK

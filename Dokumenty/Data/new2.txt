@@ -1,0 +1,1575 @@
+exposed	-stabilita	0
+burried	+stabilita	-
+burried	+stabilita	0
+partially burried	+stabilita	0
+partially burried	+stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	-
+partially burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	+
+burried	-stabilita	-
+partially burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+partially burried	+stabilita	+
+exposed	+stabilita	0
+exposed	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	0
+partially burried	+stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	+
+exposed	-stabilita	0
+exposed	-stabilita	-
+exposed	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	0
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	+
+partially burried	-stabilita	+
+partially burried	-stabilita	+
+partially burried	-stabilita	+
+partially burried	-stabilita	+
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	+
+burried	-stabilita	-
+partially burried	-stabilita	-
+exposed	-stabilita	0
+exposed	-stabilita	-
+burried	-stabilita	0
+burried	+stabilita	+
+exposed	-stabilita	0
+exposed	+stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+burried	-stabilita	-
+exposed	-stabilita	0
+exposed	-stabilita	+
+exposed	+stabilita	0
+exposed	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+exposed	-stabilita	-
+partially burried	-stabilita	-
+exposed	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	-
+exposed	+stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	+
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	+stabilita	0
+burried	+stabilita	-
+burried	+stabilita	0
+burried	+stabilita	-
+burried	+stabilita	0
+burried	+stabilita	0
+burried	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+partially burried	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+partially burried	-stabilita	0
+exposed	+stabilita	0
+exposed	-stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+exposed	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	+stabilita	+
+burried	-stabilita	+
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	+stabilita	0
+burried	+stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	+
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	+stabilita	+
+partially burried	+stabilita	+
+partially burried	+stabilita	-
+burried	-stabilita	0
+burried	+stabilita	0
+burried	+stabilita	0
+partially burried	-stabilita	0
+partially burried	+stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	+
+exposed	+stabilita	0
+exposed	+stabilita	+
+exposed	-stabilita	0
+exposed	+stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	-
+exposed	-stabilita	0
+exposed	-stabilita	-
+exposed	-stabilita	+
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+exposed	+stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	0
+burried	+stabilita	0
+burried	+stabilita	+
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	-
+burried	+stabilita	+
+burried	+stabilita	0
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	0
+exposed	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	+
+burried	+stabilita	0
+burried	+stabilita	+
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	+
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	-
+burried	+stabilita	+
+burried	+stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	+stabilita	-
+partially burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	+stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	0
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	0
+burried	+stabilita	0
+burried	-stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	-
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	+
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	-stabilita	-
+exposed	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	+
+exposed	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	+
+burried	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	-stabilita	+
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	+stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	+
+burried	+stabilita	+
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	+stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	+stabilita	+
+burried	+stabilita	0
+burried	-stabilita	+
+partially burried	+stabilita	+
+partially burried	-stabilita	+
+partially burried	+stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+exposed	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	+stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	+stabilita	0
+partially burried	+stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	-
+burried	+stabilita	+
+burried	-stabilita	0
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	-
+exposed	-stabilita	+
+partially burried	-stabilita	+
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+exposed	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	+
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	+stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+exposed	+stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	+
+burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	-
+exposed	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+exposed	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	+
+partially burried	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	+stabilita	0
+partially burried	+stabilita	-
+partially burried	+stabilita	0
+exposed	+stabilita	-
+burried	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	+stabilita	0
+partially burried	-stabilita	0
+partially burried	+stabilita	0
+exposed	+stabilita	+
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	+stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	+stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+exposed	+stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	+
+exposed	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	+stabilita	-
+burried	-stabilita	-
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+exposed	-stabilita	+
+partially burried	-stabilita	+
+exposed	-stabilita	-
+burried	-stabilita	0
+partially burried	+stabilita	0
+burried	-stabilita	0
+partially burried	+stabilita	-
+exposed	+stabilita	-
+exposed	+stabilita	-
+exposed	+stabilita	-
+exposed	+stabilita	-
+exposed	+stabilita	-
+exposed	+stabilita	0
+burried	-stabilita	0
+exposed	-stabilita	0
+partially burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	+
+burried	-stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+burried	+stabilita	-
+partially burried	-stabilita	0
+burried	+stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+exposed	+stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	+stabilita	-
+burried	-stabilita	0
+exposed	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	+stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	+stabilita	0
+burried	+stabilita	-
+partially burried	-stabilita	-
+burried	+stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	+stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+exposed	+stabilita	0
+exposed	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	+
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	+
+exposed	+stabilita	0
+exposed	+stabilita	0
+partially burried	+stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	+
+partially burried	-stabilita	+
+partially burried	+stabilita	+
+partially burried	+stabilita	+
+partially burried	+stabilita	+
+partially burried	+stabilita	0
+partially burried	-stabilita	+
+partially burried	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	+
+partially burried	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	+
+exposed	-stabilita	-
+burried	+stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	+stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+exposed	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	-
+burried	-stabilita	-
+burried	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	+stabilita	+
+partially burried	-stabilita	0
+partially burried	-stabilita	+
+partially burried	-stabilita	0
+burried	+stabilita	+
+partially burried	-stabilita	-
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	+
+partially burried	-stabilita	+
+partially burried	-stabilita	0
+partially burried	+stabilita	0
+partially burried	+stabilita	0
+burried	+stabilita	0
+exposed	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	+
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	+
+burried	-stabilita	0
+burried	+stabilita	0
+exposed	-stabilita	0
+exposed	+stabilita	0
+exposed	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	+stabilita	-
+partially burried	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	-
+partially burried	-stabilita	-
+partially burried	+stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	-
+burried	+stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	+stabilita	-
+burried	+stabilita	0
+burried	+stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	+stabilita	-
+burried	-stabilita	-
+partially burried	+stabilita	-
+burried	-stabilita	0
+burried	+stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+exposed	+stabilita	0
+burried	-stabilita	+
+burried	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+partially burried	-stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	+
+partially burried	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	+stabilita	0
+partially burried	+stabilita	0
+partially burried	+stabilita	-
+burried	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+exposed	+stabilita	-
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	0
+burried	+stabilita	+
+burried	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	+
+partially burried	-stabilita	-
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+exposed	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+exposed	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+exposed	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+exposed	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	0
+exposed	+stabilita	-
+burried	+stabilita	0
+burried	+stabilita	+
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	+
+burried	+stabilita	+
+burried	+stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+exposed	-stabilita	0
+exposed	-stabilita	+
+exposed	-stabilita	-
+exposed	-stabilita	0
+exposed	-stabilita	+
+exposed	-stabilita	-
+exposed	-stabilita	+
+exposed	-stabilita	0
+partially burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	0
+exposed	-stabilita	0
+partially burried	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	0
+exposed	-stabilita	-
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	+stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+exposed	+stabilita	0
+exposed	-stabilita	0
+partially burried	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	+stabilita	+
+burried	-stabilita	-
+burried	-stabilita	0
+burried	+stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+exposed	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	+stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	0
+partially burried	+stabilita	0
+exposed	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	+stabilita	+
+burried	-stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+exposed	+stabilita	0
+exposed	-stabilita	+
+exposed	-stabilita	-
+exposed	-stabilita	0
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	-
+exposed	-stabilita	0
+exposed	-stabilita	-
+burried	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	-
+exposed	-stabilita	+
+partially burried	+stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+exposed	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+burried	-stabilita	-
+exposed	+stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	+
+burried	+stabilita	0
+burried	-stabilita	+
+burried	+stabilita	-
+partially burried	+stabilita	0
+partially burried	+stabilita	0
+partially burried	+stabilita	-
+partially burried	+stabilita	0
+partially burried	+stabilita	0
+partially burried	+stabilita	-
+partially burried	+stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	+
+burried	+stabilita	0
+partially burried	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	+
+exposed	+stabilita	-
+exposed	+stabilita	0
+exposed	+stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	0
+exposed	-stabilita	-
+burried	+stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	+stabilita	+
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	+
+burried	-stabilita	-
+exposed	+stabilita	0
+exposed	-stabilita	0
+partially burried	+stabilita	-
+partially burried	+stabilita	-
+exposed	+stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	-
+partially burried	-stabilita	-
+burried	+stabilita	0
+burried	-stabilita	-
+burried	+stabilita	-
+burried	+stabilita	0
+burried	+stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	+stabilita	0
+partially burried	-stabilita	+
+partially burried	+stabilita	+
+partially burried	+stabilita	-
+exposed	-stabilita	-
+exposed	-stabilita	+
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+partially burried	+stabilita	+
+burried	-stabilita	0
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	0
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	0
+exposed	-stabilita	-
+exposed	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	-
+burried	+stabilita	-
+exposed	+stabilita	-
+exposed	+stabilita	0
+exposed	+stabilita	-
+partially burried	+stabilita	0
+partially burried	-stabilita	0
+partially burried	+stabilita	0
+partially burried	+stabilita	0
+partially burried	+stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	+stabilita	0
+partially burried	+stabilita	+
+burried	+stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+exposed	-stabilita	-
+partially burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+partially burried	+stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	-
+burried	+stabilita	+
+burried	+stabilita	0
+burried	+stabilita	0
+exposed	+stabilita	+
+burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+burried	-stabilita	-
+exposed	-stabilita	0
+exposed	+stabilita	-
+partially burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	-
+partially burried	-stabilita	+
+burried	+stabilita	+
+burried	+stabilita	+
+burried	+stabilita	0
+partially burried	-stabilita	+
+burried	-stabilita	-
+exposed	-stabilita	+
+partially burried	+stabilita	0
+partially burried	+stabilita	0
+partially burried	+stabilita	-
+burried	-stabilita	0
+exposed	-stabilita	-
+burried	-stabilita	0
+partially burried	-stabilita	+
+burried	-stabilita	0
+exposed	-stabilita	0
+burried	-stabilita	-
+burried	-stabilita	-
+exposed	-stabilita	+
+burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	+
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	0
+partially burried	-stabilita	+
+partially burried	-stabilita	-
+partially burried	-stabilita	0
+partially burried	-stabilita	+
+partially burried	-stabilita	-
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	0
+burried	+stabilita	-
+burried	+stabilita	0
+burried	+stabilita	+
+burried	+stabilita	+
+burried	+stabilita	+
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	+
+burried	+stabilita	+
+burried	-stabilita	+
+burried	+stabilita	+
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	+
+burried	+stabilita	+
+burried	-stabilita	-
+exposed	+stabilita	-
+exposed	+stabilita	0
+burried	-stabilita	+
+burried	+stabilita	-
+partially burried	+stabilita	0
+partially burried	+stabilita	-
+burried	-stabilita	0
+burried	+stabilita	0
+burried	+stabilita	0
+burried	-stabilita	-
+exposed	+stabilita	0
+exposed	+stabilita	-
+exposed	-stabilita	0
+partially burried	+stabilita	-
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	-
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	+stabilita	0
+burried	+stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+exposed	+stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	+
+burried	-stabilita	0
+exposed	+stabilita	-
+exposed	+stabilita	0
+exposed	+stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	+stabilita	0
+burried	-stabilita	+
+burried	+stabilita	+
+burried	+stabilita	-
+burried	+stabilita	0
+burried	+stabilita	+
+partially burried	+stabilita	+
+partially burried	+stabilita	0
+burried	+stabilita	+
+partially burried	+stabilita	+
+exposed	-stabilita	0
+burried	-stabilita	0
+partially burried	+stabilita	0
+exposed	-stabilita	+
+burried	+stabilita	+
+burried	+stabilita	+
+burried	+stabilita	0
+burried	-stabilita	0
+partially burried	-stabilita	-
+burried	-stabilita	+
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+burried	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	+
+burried	-stabilita	+
+burried	+stabilita	+
+burried	-stabilita	-
+partially burried	+stabilita	+
+partially burried	+stabilita	-
+partially burried	+stabilita	0
+exposed	-stabilita	-
+exposed	+stabilita	0
+exposed	-stabilita	-
+burried	-stabilita	-
+burried	-stabilita	0
+burried	-stabilita	-
+exposed	-stabilita	+
+exposed	-stabilita	-
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	0
+exposed	-stabilita	+
+exposed	+stabilita	0
+exposed	+stabilita	0
+exposed	-stabilita	+
+exposed	-stabilita	+
+exposed	-stabilita	
+burried	+stabilita	

@@ -1,0 +1,500 @@
+>gi|126003|sp|P07458.1|LALBA_MACRG RecName: Full=Alpha-lactalbumin; AltName: Full=Lactose synthase B protein
+--------------------------------------------------------------IDYRKCQASQILKEHGMDKVI--PLPELVCTMFHISGLSTQAEVNNH-----SNKEYGIFQISNDGWCAEKQ---EDVANSVCGILCSKFLDDDITDDIECAKKILQLPEGLGYWKAHETFCLE-DLDQWRC--------------------------------------------------------------
+>gi|729922|sp|Q06655.2|LALBA_MACEU RecName: Full=Alpha-lactalbumin; AltName: Full=Lactose synthase B protein; Flags: Precursor >gi|556811|emb|CAA33281.1| unnamed 
+--------------------------------------MMSLLSLLL----LGIA-LPATQAIDYRKCQASQILKEHGMDKVI--PLPELVCTMFHISGLSTQAEVNNH-----SNKEYGIFQISNNGWCAEKQ---EDVANSVCGILCSKFLDDDITDDIECAKKILQLPEGLGYWKAHETFCIE-DLDQWRC--------------------------------------------------------------
+>gi|295498|gb|AAA31602.1| alpha-lactalbumin [Macropus eugenii] >gi|1098033|prf||2115202A alpha-lactalbumin
+--------------------------------------MMSLLSLLL----LGIA-LPATQAIDYRKCQASQILKEHGMDKVI--PLPELVCTMFHISGLSTQAEVNNH-----SNKEYGIFQISNNGWCAEKQ---EDVANSVCGILCSKFLDDDITDDIECAKKILQLPEGLGYWKAHETFCLE-DLDQWRC--------------------------------------------------------------
+>gi|612050089|ref|XP_007503004.1| PREDICTED: alpha-lactalbumin isoform X1 [Monodelphis domestica]
+-----------------MCWDQDKSQGLRVVLLSQIPEVAKMKSLLL----LSII-LSATQARELTKCELIQDLKNHGMDKYEDFHLNEMICVTFHSSGFNTQIKVSNN-----GNTEYGIFQISNNGWCAEKQ---EDVAKSTCGILCSKLLDDDINDDIVCAKKIIEQPKGIDYWKAHKTFCLE-NLDQWRCLN------------------------------------------------------------
+>gi|612050091|ref|XP_007503005.1| PREDICTED: alpha-lactalbumin isoform X2 [Monodelphis domestica]
+--------------------------MKRWDGILTIPEVAKMKSLLL----LSII-LSATQARELTKCELIQDLKNHGMDKYEDFHLNEMICVTFHSSGFNTQIKVSNN-----GNTEYGIFQISNNGWCAEKQ---EDVAKSTCGILCSKLLDDDINDDIVCAKKIIEQPKGIDYWKAHKTFCLE-NLDQWRCLN------------------------------------------------------------
+>gi|612050093|ref|XP_007503006.1| PREDICTED: alpha-lactalbumin isoform X3 [Monodelphis domestica]
+--------------------------------MCWIPEVAKMKSLLL----LSII-LSATQARELTKCELIQDLKNHGMDKYEDFHLNEMICVTFHSSGFNTQIKVSNN-----GNTEYGIFQISNNGWCAEKQ---EDVAKSTCGILCSKLLDDDINDDIVCAKKIIEQPKGIDYWKAHKTFCLE-NLDQWRCLN------------------------------------------------------------
+>gi|6225598|sp|P81646.1|LALBA_TACAC RecName: Full=Alpha-lactalbumin; AltName: Full=Lactose synthase B protein [Tachyglossus aculeatus aculeatus]
+--------------------------------------------------------------KVFEKCELSQMLKANGLDGFQGITLEEWICIAFHESGFDSRALNYYN-----GSSSHGLFQINRQYWCDGQDAKSTEPSVNACQISCDKLRDDDIEDDIKCVKKILKESQGITAWEAWQPFCIA-DLDQWKC--------------------------------------------------------------
+>gi|940740230|ref|XP_006091637.2| PREDICTED: LOW QUALITY PROTEIN: lysozyme C, milk isozyme-like [Myotis lucifugus]
+-----------------------------------------MGSRKKSK-AASCK---LTMPKVFSKCELARQLKPHGMDGFHGYSLANWVCMAEHESSFDTRAFNGRNSN---GSSDYGIFQINNKWWCKDNK---HP-SKNACNIMCSKLLDDNISDDINCIKRVVRDPNGMSAWVAWVNHCKNKDLSQYLAGCQL----------------------------------------------------------
+>gi|584070607|ref|XP_006755628.1| PREDICTED: lysozyme C, milk isozyme-like [Myotis davidii]
+-----------------------------------------MRTILIIS-LLSCF-FAAYNAKVFSKCELARQLKAHGMDGFHGYSLANWVCMAEHESSFNTRAFNGRNSN---GSSDYGIFQLNNQWWCKDNK---YP-SENACNIMCSKFLDDNISDDINCIKRVVRDPNGMSAWVAWVNHCRNKNLSQYLAGCQL----------------------------------------------------------
+>gi|961722188|ref|XP_014921355.1| PREDICTED: lysozyme C, milk isozyme [Acinonyx jubatus]
+-----------------------------------------MRSILIIS-LLGCF-FAAYEAKIFSKCELARKLKAEGMDGFHGYSLANWVCMAEHESNFNTRAFNGKNDN---GSSDYGIFQINNKWWCKNNS---SP-SANACNTMCSRFLDDNISDDIACAKRVVKDPNGMSAWVAWVRHCRNKDLSRYLASCNL----------------------------------------------------------
+>gi|226372922|gb|ACO52086.1| Lysozyme C-2 precursor [Rana catesbeiana]
+-----------------------------------------MKLLLFPA-ACLGM-YYTSEGMVYSQCELYRIFQETGLSGYHGISAANWICLAYYESGYNTNAVNNNG-----PSRDYGIFQINSKWWCNDGK---TAHAVNACKISCQSLLDSNIRDDIECAKRVVRDPNGISAWVAWRNHCRGRDLNHFTAGC------------------------------------------------------------
+>gi|392881564|gb|AFM89614.1| lysozyme variant [Callorhinchus milii]
+-----------------------------------------MKTLFV-L-SLLF---LVASAKIYDRCVLARQLKAAGLDGFRGYSLPNWICMVQHESSYNTRAINENRRQGRVVSTDYGLFQINSRYWCDDGR---TPGTSNTCRINCSAFLNDDITDDIRCVKGVVSDPNGMAAWYGWRDHCRGRNLQSYVQGCNV----------------------------------------------------------
+>gi|392881728|gb|AFM89696.1| lysozyme variant [Callorhinchus milii] >gi|392881900|gb|AFM89782.1| lysozyme variant [Callorhinchus milii]
+-----------------------------------------MKTLFV-L-SLLF---LVASAKIYDRCVLARQLKAAGLDGFRGYSLPNWICMVQHESSYNTRAINENRRQGRVVSTDYGLFQINSRYWCDDGR---TPGTSNTCRINCSAFLNDDITDDIRCVKRVVSDPNGMAAWYGWRDHCRGRSLQSYVQGCNV----------------------------------------------------------
+>gi|387914174|gb|AFK10696.1| lysozyme variant [Callorhinchus milii] >gi|392881776|gb|AFM89720.1| lysozyme variant [Callorhinchus milii]
+-----------------------------------------MKTLFV-L-SLLF---LVASAKIYDRCVLARQLKAAGLDGFRGYSLPNWICMVQHESSYNTRAINENRRQGRVVSTDYGLFQINSRYWCDDGR---TPGTSNTCRINCSAFLNDDITDDIRCVKRVVSDPNGMAAWYGWRDHCRGRNLQRYVQGCNV----------------------------------------------------------
+>gi|392881758|gb|AFM89711.1| lysozyme variant [Callorhinchus milii]
+-----------------------------------------MKTLFV-L-SLLF---LVASAKIYDRCVLARQLKAAGLDGFRGYSLPNWICVVQHESSYNTRAINENRRQGRVVSTDYGLFQINSRYWCDDGR---TPGTSNTCRINCSAFLNDDITDDIRCVKRVVSDPNGMAAWYGWRDHCRGRNLQSYVQGCNV----------------------------------------------------------
+>gi|638266980|ref|NP_001279852.1| lysozyme precursor [Callorhinchus milii] >gi|392883546|gb|AFM90605.1| lysozyme variant [Callorhinchus milii]
+-----------------------------------------MKTLFV-L-SLLF---LVASAKIYDRCVLARQLKAAGLDGFRGYSLPNWICMVQHESSYNTRAINENRRQGRVVSTDYGLFQINSRYWCDDER---TPGTSNTCRINCSAFLNDDITDDIRCVKRVVSDPNGMAAWYGWRDHCRGRNLQSYVQGCNV----------------------------------------------------------
+>gi|392881444|gb|AFM89554.1| lysozyme variant [Callorhinchus milii] >gi|392881832|gb|AFM89748.1| lysozyme variant [Callorhinchus milii] >gi|392882010|gb|AFM
+-----------------------------------------MKTLFV-L-SLLF---LVASAKIYDRCVLARQLKAAGLDGFRGYSLPNWICMVQHESSYNTRAINENRRQGRVVSTDYGLFQINSRYWCDDGR---TPGTSNTCRINCSAFLNDDITDDIRCVKRVVSDPNGMAAWYGWRDHCRGRNLQSYVQGCNV----------------------------------------------------------
+>gi|1033478280|dbj|BAV13229.1| c-type lysozyme [Spathodus erythrodon]
+-----------------------------------------MRSVF----VFLLL-ITVASAKVFERCEWARKLKANGMDGFGGVSLANWVCLTKHESNYNTKATNRNT-D---GSTDFGIFQINSRWWCNDRR---IH-SANGCNIDCNVLLTDDVTSAINCAKRIVR-EQGITAWVAWRARCQGQDLRAYLSGCGL----------------------------------------------------------
+>gi|1033478278|dbj|BAV13228.1| c-type lysozyme [Spathodus erythrodon]
+-----------------------------------------MRSVF----VFLLL-ITVASAKVFERCEWARKLKANGMDGFGGVSLANWVCLTKHESNYNTKATNRNT-D---GSTDFGIFQINSRWWCNDRR---IH-SANGCNIDCNVLLTDDVTSAINCAKRIVR-EQGITAWVAWRARCQGQDLRPYLSGCRL----------------------------------------------------------
+>gi|554884155|ref|XP_005951763.1| PREDICTED: lysozyme C [Haplochromis burtoni]
+-----------------------------------------MRSVF----VFLLL-ITVASAKVFERCDWARKLKANGMDGYGGVSLANWVCLTKHESNYNTKATNRNT-D---GSTDFGIFQINSRWWCNDRR---IH-SANGCNIDCNVLLTDDVTSAINCAKRIVR-EQGITAWVAWRARCQGQDLRPYLSGCGL----------------------------------------------------------
+>gi|558701393|gb|AHA85993.1| c-type lysozyme [Hucho taimen]
+-----------------------------------------MRAVV-----VLLL-VAVASAKVYDRCELARALKASGMDGYAGNSLPNWVCLSKWESSYNTQATNRNT-D---GSTDYGIFQINSRYWCDDGR---TPGAKNVCGIRCSQLLTDDLTVAIRCAKRVVLDPNGIGAWVAWRRYCQNRDLSSYVAGCGV----------------------------------------------------------
+>gi|157830202|pdb|1BB6|A Chain A, Lysozyme Complex With 4-Methyl-Umbelliferyl Chitotriose >gi|157830203|pdb|1BB7|A Chain A, Lysozyme Complex With 4-Meth
+--------------------------------------------------------------KVYDRCELARALKASGMDGYAGNSLPNWVCLSKWESSYNTQATNRNT-D---GSTDYGIFQINSRYWCDDGR---TPGAKNVCGIRCSQLLTDDLTVAIRCAKRVVLDPNGIGAWVAWRLHCQNQDLRSYVAGCGV----------------------------------------------------------
+>gi|11344949|gb|AAG34564.1|AF321519_1 lysozyme variant [Oncorhynchus mykiss]
+-----------------------------------------MRAVV-----VLLL-VAVASAKVYDRCELARALKASGMDGYAGNSLPNWVCLSKWESSYNTQATNRNT-D---GSTDYGIFQINSRYWCDDGR---TPGAKNVCGIHCSQLLTDDLTVAIRCAKRVVLDPNGIGAWVAWRLHCQNQDLRSYVAGCGV----------------------------------------------------------
+>gi|296487701|tpg|DAA29814.1| TPA: lysozyme 14D [Bos taurus]
+-----------------------------------------MKALLI-L-GLLLL-SVAVQGKTFERCELARTLKNLGLAGYKGVSLANWMCLAKGESGYNTQAKNYSPGF---KSTDYGIFQINSKWWCNDGK---TPKAVNGCGVSCSALLKDDITQAVACAKKIVS-QLGLTAWVAWKNKCQNRDLTSYVQGCRV----------------------------------------------------------
+>gi|741877532|ref|XP_001252825.4| PREDICTED: lysozyme C, tracheal isozyme [Bos taurus] >gi|741926420|ref|XP_002687434.2| PREDICTED: lysozyme C, tracheal isozyme 
+-----------------MLNSKSSSPGQ----LGH-LASVNMKALLI-L-GLLLL-SVAVQGKTFERCELARTLKNLGLAGYKGVSLANWMCLAKGESGYNTQAKNYSPGF---KSTDYGIFQINSKWWCNDGK---TPKAVNGCGVSCSALLKDDITQAVACAKKIVS-QLGLTAWVAWKNKCQNRDLTSYVQGCRV----------------------------------------------------------
+>gi|926691723|ref|XP_005680246.2| PREDICTED: lysozyme C, tracheal isozyme isoform X1 [Capra hircus]
+MEQGGAPKMVRKEGSEKMLNTKSSSPGQ----LGH-LASVNMKALLI-L-GLLVL-SVAVQGKKFERCELARTLKKFGLAGYKGVSLANWMCLAYGESHYNTQAINYNPRS---KSTDYGIFQINSKWWCNDGK---TPKAVNGCGVSCSALLKDDITQAVACAKKIVS-QQGITAWVAWKNNCQNRDLTSYVKGCGV----------------------------------------------------------
+>gi|926691725|ref|XP_013819336.1| PREDICTED: lysozyme C, tracheal isozyme isoform X2 [Capra hircus] >gi|926691727|ref|XP_013819337.1| PREDICTED: lysozyme C, trac
+--------MVRKEGSEKMLNTKSSSPGQ----LGH-LASVNMKALLI-L-GLLVL-SVAVQGKKFERCELARTLKKFGLAGYKGVSLANWMCLAYGESHYNTQAINYNPRS---KSTDYGIFQINSKWWCNDGK---TPKAVNGCGVSCSALLKDDITQAVACAKKIVS-QQGITAWVAWKNNCQNRDLTSYVKGCGV----------------------------------------------------------
+>gi|556722670|ref|XP_005957165.1| PREDICTED: lysozyme C, tracheal isozyme-like [Pantholops hodgsonii]
+-----------------------------------------MKALLI-L-GLLVL-SVAVQGKKFERCELARTLKKFGLAGYKGVSLANWMCLAYGESRYNTQAINYNPGS---KSTDYGIFQINSKWWCNDGK---TPKAVNGCGVSCSALLKDDITQAVACAKKIVS-QQGITAWVAWKNNCQNRDLTSYVKGCGV----------------------------------------------------------
+>gi|803046254|ref|XP_004006521.2| PREDICTED: lysozyme C, tracheal isozyme [Ovis aries]
+--------MVRKEGREKMLNTKSSSPGQ----LGH-LASVNMKALLI-L-GLLVL-SVAVQGKKFERCELARTLKKFGLAGYKGVSLANWMCLAYGESRYNTQAINYNPGS---KSTDYGIFQINSKWWCNDGK---TPKAVNGCGVSCSALLKDDITQAVACAKKIVS-QQGITAWVAWKNNCQNRDVTSYVKGCGV----------------------------------------------------------
+>gi|803295532|ref|XP_012007395.1| PREDICTED: lysozyme C, tracheal isozyme [Ovis aries musimon]
+--------MFRKEGREKMLNTKSSSPGQ----LGH-LASVNMKALLI-L-GLLVL-SVAVQGKKFERCELARTLKKFGLAGYKGVSLANWMCLAYGESRYNTQAINYNPGS---KSTDYGIFQINSKWWCNDGK---TPKAVNGCGVSCSALLKDDITQAVACAKKIVS-QQGITAWVAWKNNCQNRDVTSYVKGCGV----------------------------------------------------------
+>gi|269914120|ref|NP_999557.2| lysozyme C-3 precursor [Sus scrofa] >gi|2506829|sp|P12068.2|LYSC2_PIG RecName: Full=Lysozyme C-2; AltName: Full=1,4-beta-N-acet
+-----------------------------------------MKTLLV-L-ALLLL-SVSVQAKVYDRCEFARILKKSGMDGYRGVSLANWVCLAKWESDFNTKAINHNVG-----STDYGIFQINSRYWCNDGK---TPKAVNACHISCKVLLDDDLSQDIECAKRVVRDPLGVKAWVAWRAHCQNKDVSQYIRGCKL----------------------------------------------------------
+>gi|13399627|pdb|1I22|A Chain A, Mutant Human Lysozyme (A83kQ86DA92D) >gi|13399628|pdb|1I22|B Chain B, Mutant Human Lysozyme (A83kQ86DA92D) >gi|1339962
+--------------------------------------------------------------KVFERCELARTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNAGD---RSTDYGIFQINSRYWCNDGK---TPGAVNACHLSCSKLLDDNIADDVACAKRVVRDPQGIRAWVAWRNRCQNRDVRQYVQGCGV----------------------------------------------------------
+>gi|418636|pir||LABOZ alpha-lactalbumin - bovine (tentative sequence)
+--------------------------------------------------------------EQLTKCEVFQELK--DLKGYGGVSLPEWVCTTFHTSGYDTEAIVQNN-----DSTEYGLFQINNKIWCKNDQ---DPHSSNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|119393699|gb|ABL74385.1| alpha lactabumin [Bos taurus]
+------------------------------------------------------------------------------------------VCTTFHTSGYDTQAVVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCD----------------------------------------------------------------------------------------------------------
+>gi|354832173|gb|AER42591.1| alpha-lactalbumin [Bos grunniens]
+-----------------------------------------MMSFVSLLLVGT-L-FHATQAEQLTKCEVLRELK--DLKGYGGVSLPEWVCTTFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|2392358|pdb|1HFZ|A Chain A, Alpha-Lactalbumin >gi|2392359|pdb|1HFZ|B Chain B, Alpha-Lactalbumin >gi|2392360|pdb|1HFZ|C Chain C, Alpha-Lactalbumin 
+-------------------------------------------------------------MEQLTKCEVFRELK--DLKGYGGVSLPEWVCTTFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCDKFLDDDLTDDIVCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|6289063|gb|AAF06794.1|AF194373_1 alpha-lactalbumin [Bubalus bubalis] >gi|167782078|gb|ACA00156.1| alpha-lactalbumin [Bos indicus]
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEVFRELK--DLKDYGGVSLPEWVCTTFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|27923792|sp|Q9TSR4.1|LALBA_BOSMU RecName: Full=Alpha-lactalbumin; AltName: Full=Lactose synthase B protein; Flags: Precursor >gi|6289061|gb|AAF06793.1|AF194372_
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEVFRELK--DLKGYGGVSLPEWVCTTFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSDICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|359466027|gb|AEV46829.1| alpha-lactalbumin protein variant D [Bos taurus]
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEVFRELK--DLKGYGGVSLPEWVCTTFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDH---NPHSSNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|158702917|gb|ABW77760.1| alpha lactalbumin precursor [Bos indicus]
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEVFRELK--DLKGYGGVSLPEWVCTTFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCERL-----------------------------------------------------------
+>gi|27805979|ref|NP_776803.1| alpha-lactalbumin precursor [Bos taurus] >gi|555968792|ref|XP_005896427.1| PREDICTED: alpha-lactalbumin [Bos mutus] >gi|7421934
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEVFRELK--DLKGYGGVSLPEWVCTTFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|763711929|gb|AJQ30352.1| ars1-lactalbumin-flag-kdel [synthetic construct]
+-------------------------------MHARKMGALAVLAVACLAAVASVA-HAADTKEQLTKCEVFRELK--DLKGYGGVSLPEWVCTTFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKLGGGGSDYKDDDDKD-EL------------------------------------------
+>gi|12084466|pdb|1F6R|A Chain A, Crystal Structure Of Apo-Bovine Alpha-Lactalbumin >gi|12084467|pdb|1F6R|B Chain B, Crystal Structure Of Apo-Bovine Alp
+--------------------------------------------------------------EQLTKCEVFRELK--DLKGYGGVSLPEWVCTTFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|51895776|gb|AAU13911.1| alpha-lactalbumin [Bubalus bubalis]
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEVFRELK--DLKDYGCVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTDYGLFQINNKIWCKDDQ---MPHSSNICKISGD----------------------------------------------------------------------------------------------------------
+>gi|390980752|pdb|3B0K|A Chain A, Crystal Structure Of Alpha-lactalbumin >gi|390980753|pdb|3B0K|B Chain B, Crystal Structure Of Alpha-lactalbumin
+--------------------------------------------------------------MQLTKCEVFQKLK--DLKDYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSRNICNISCDKFLDDDLTDDIVCAKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|13399947|pdb|1FKV|A Chain A, Recombinant Goat Alpha-Lactalbumin T29i
+-------------------------------------------------------------MEQLTKCEVFQKLK--DLKDYGGVSLPEWVCIAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSRNICNISCDKFLDDDLTDDIVCAKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|13399946|pdb|1FKQ|A Chain A, Recombinant Goat Alpha-Lactalbumin T29v
+-------------------------------------------------------------MEQLTKCEVFQKLK--DLKDYGGVSLPEWVCVAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSRNICNISCDKFLDDDLTDDIVCAKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|57526478|ref|NP_001009797.1| alpha-lactalbumin precursor [Ovis aries] >gi|1310|emb|CAA29665.1| alpha-lactalbumin [Ovis aries] >gi|225812|prf||1314170A lacta
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEAFQKLK--DLKDYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSRNICNISCDKFLDDDLTDDIVCAKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|183186210|gb|ACC44851.1| alpha-lactalbumin [Capra hircus]
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEVFQKLK--DLKDYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSRNICNISCDKFLDDDLTDDIVCAKKILD-KVGINY--------------------------------------------------------------------------------
+>gi|550822107|ref|NP_001272564.1| alpha-lactalbumin precursor [Capra hircus] >gi|125998|sp|P00712.1|LALBA_CAPHI RecName: Full=Alpha-lactalbumin; AltName: Full=La
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEVFQKLK--DLKDYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSRNICNISCDKFLDDDLTDDIVCAKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|556771781|ref|XP_005981064.1| PREDICTED: alpha-lactalbumin [Pantholops hodgsonii]
+-----------------------------------------MMSFVSLL-LVGIL-FHAIQAEQLTKCEVFQKLK--DLKDYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSRNICNISCDKFLDDDLTDDIVCAKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|6573358|pdb|1HMK|A Chain A, Recombinant Goat Alpha-Lactalbumin
+-------------------------------------------------------------MEQLTKCEVFQKLK--DLKDYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSRNICNISCDKFLDDDLTDDIVCAKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|2392356|pdb|1HFY|A Chain A, Alpha-Lactalbumin >gi|2392357|pdb|1HFY|B Chain B, Alpha-Lactalbumin
+--------------------------------------------------------------EQLTKCEVFQKLK--DLKDYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSRNICNISCDKFLDDDLTDDIVCAKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|51895782|gb|AAU13913.1| alpha-lactalbumin [Bubalus bubalis]
+------------------------------------------------------------------------------------------VCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---KPHSSNICNISGD----------------------------------------------------------------------------------------------------------
+>gi|595763463|ref|NP_001277865.1| alpha-lactalbumin precursor [Bubalus bubalis] >gi|110612606|gb|ABG78269.1| alpha-lactalbumin [Bubalus bubalis]
+-----------------------------------------MMSFVSLL-LVGSL-FHATQAEQLTKCEVFRELR--DLKDYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|51895780|gb|AAU13912.1| alpha-lactalbumin [Bubalus bubalis]
+-----------------------------------------MMSFVSLL-LVGSL-FHATQAEQLTKCEVFRELR--DLKDYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISGD----------------------------------------------------------------------------------------------------------
+>gi|51895772|gb|AAU13910.1| alpha-lactalbumin [Bubalus bubalis]
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEVFRELR--DLADYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCD----------------------------------------------------------------------------------------------------------
+>gi|27923977|sp|P09462.2|LALBA_SHEEP RecName: Full=Alpha-lactalbumin; AltName: Full=Lactose synthase B protein; Flags: Precursor >gi|11610599|dbj|BAB18926.1| alpha 
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEVFQELK--DLKDYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSRNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|7542833|gb|AAF63624.1|AF249896_1 alpha lactalbumin [Bos taurus] >gi|295774|emb|CAA29664.1| alpha-lactalbumin [Bos taurus]
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEVFRELK--DLKGYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|68|emb|CAA44927.1| alpha lactalbumin [Bos taurus]
+--------------------------------------------------------------EQLTKCEVFRELK--DLKGYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|317373376|sp|Q9TSN6.2|LALBA_BUBBU RecName: Full=Alpha-lactalbumin; AltName: Full=Lactose synthase B protein; Flags: Precursor
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEVFRELK--DLKDYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|51895768|gb|AAU13909.1| alpha-lactalbumin [Bubalus bubalis]
+-----------------------------------------MMSFVSLL-LVGIL-FHATQAEQLTKCEVFRELK--DLKDYGGVSLPEWVCTAFHTSGYDTQAIVQNN-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCD----------------------------------------------------------------------------------------------------------
+>gi|40036835|gb|AAR37347.1| alpha lactalbumin [Balaenoptera physalus]
+---------------------------------------------------VGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|40036841|gb|AAR37350.1| alpha lactalbumin [Caperea marginata]
+----------------------------------------------SLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCSDNH---IPHSRDICGISCDKFLDDDLTDDIMCVKKILD-K-------------------------------------------------------------------------------------
+>gi|40036839|gb|AAR37349.1| alpha lactalbumin [Balaenoptera physalus]
+--------------------------------------------FVSLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICGISCDKFLDDDLTDDIMCVKKILD-NVG-----------------------------------------------------------------------------------
+>gi|40036827|gb|AAR37343.1| alpha lactalbumin [Balaenoptera physalus]
+-------------------------------------------PFVSLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICGISCDKFLDDDLTDDIMCVKKILD-NVG-----------------------------------------------------------------------------------
+>gi|40036833|gb|AAR37346.1| alpha lactalbumin [Balaenoptera physalus]
+---------------------------------------------VSLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICGISCDKFLDDDLTDDIMCVKKILD-N-------------------------------------------------------------------------------------
+>gi|40036831|gb|AAR37345.1| alpha lactalbumin [Balaenoptera physalus]
+-----------------------------------------------LL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICGISCDKFLDDDLTDDIMCVKKILD-N-------------------------------------------------------------------------------------
+>gi|11037000|gb|AAG27454.1|AF304099_1 alpla lactalbumin [Eschrichtius robustus]
+-----------------------------------------------LL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICGISCDKFLDDDLTDDIMCVKK------------------------------------------------------------------------------------------
+>gi|40036837|gb|AAR37348.1| alpha lactalbumin [Balaenoptera musculus]
+------------------------------------------MSFVSLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICXISCDKFLDDDLTDDIMCVKKILD-NV------------------------------------------------------------------------------------
+>gi|40036823|gb|AAR37341.1| alpha lactalbumin [Balaenoptera physalus]
+-----------------------------------------------LL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICXISCDKFLDDDLTDDIMCVKKILD---------------------------------------------------------------------------------------
+>gi|40036849|gb|AAR37354.1| alpha lactalbumin [Eschrichtius robustus]
+------------------------------------------MSFVSLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICXISCDKFLDDDLTDDIMCVKKILI-M-------------------------------------------------------------------------------------
+>gi|265681592|gb|ACY77312.1| lactose, partial [Balaenoptera musculus] >gi|265681594|gb|ACY77313.1| lactose, partial [Balaenoptera physalus]
+----------------------------------------------SLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDIC---------------------------------------------------------------------------------------------------------------
+>gi|40036843|gb|AAR37351.1| alpha lactalbumin [Balaenoptera borealis]
+------------------------------------------MSFVSLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRNICXISCDKFLDDDLTDDLM----------------------------------------------------------------------------------------------
+>gi|40036845|gb|AAR37352.1| alpha lactalbumin [Balaenoptera edeni]
+----------------------------------------------SLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRNICXISCDKFLDDDLTDDLMCVKKILD-NV------------------------------------------------------------------------------------
+>gi|40036847|gb|AAR37353.1| alpha lactalbumin [Eubalaena australis]
+-------------------------------------------SFVSLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICXISCDKFLDDDLTDDIMCVKKILD-NVGIP---------------------------------------------------------------------------------
+>gi|265681402|gb|ACY77217.1| lactose, partial [Megaptera novaeangliae] >gi|265681404|gb|ACY77218.1| lactose, partial [Megaptera novaeangliae] >gi|265681406|
+----------------------------------------------SLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDIC---------------------------------------------------------------------------------------------------------------
+>gi|265681596|gb|ACY77314.1| lactose [Balaenoptera bonaerensis]
+-----------------------------------------------------------IQAEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDN---------------------------------------------------------------------------------------------------------------------------
+>gi|265681456|gb|ACY77244.1| lactose, partial [Megaptera novaeangliae] >gi|265681460|gb|ACY77246.1| lactose [Megaptera novaeangliae]
+----------------------------------------------SLL-LVGNL-FHAIQAEZLTKCEVFQRLK--DLDGYGGIXLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDIC---------------------------------------------------------------------------------------------------------------
+>gi|265681494|gb|ACY77263.1| lactose, partial [Megaptera novaeangliae] >gi|265681498|gb|ACY77265.1| lactose [Megaptera novaeangliae]
+----------------------------------------------SLL-LVGNL-FHAIQAEZLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDIC---------------------------------------------------------------------------------------------------------------
+>gi|3858951|emb|CAA07688.1| unnamed protein product [Balaena mysticetus]
+------------------------------------------------------------QAEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICGXSCDKFLDDDLTDDIM----------------------------------------------------------------------------------------------
+>gi|40036819|gb|AAR37339.1| alpha lactalbumin [Balaenoptera acutorostrata]
+------------------------------------------------------------------KCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICGISCDKFLDDDLTDDIMCVKKILD---------------------------------------------------------------------------------------
+>gi|40036825|gb|AAR37342.1| alpha lactalbumin [Balaenoptera acutorostrata]
+----------------------------------------QKMSFVSLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICGISCDKFLDDDLTDDIMCVKKILD-NVGITY--------------------------------------------------------------------------------
+>gi|594662259|ref|XP_007179325.1| PREDICTED: alpha-lactalbumin [Balaenoptera acutorostrata scammoni]
+-----------------------------------------MMSFVSLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICGISCDKFLDDDLTDDIMCVKKILD-NVGINYWLAHKALCSE-KLDQWRCEKW-----------------------------------------------------------
+>gi|40036821|gb|AAR37340.1| alpha lactalbumin [Eubalaena glacialis]
+------------------------------------------MSFVSLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICGISCDKFLDDDLTDDIMCVKKI-----------------------------------------------------------------------------------------
+>gi|40036817|gb|AAR37338.1| alpha lactalbumin [Balaenoptera bonaerensis]
+----------------------------------------------SLL-LVGNL-FHAIQAEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICGISCDKFLDDDLTDDIMCVKK------------------------------------------------------------------------------------------
+>gi|3859066|emb|CAA07689.1| unnamed protein product, partial [Megaptera novaeangliae] >gi|40036829|gb|AAR37344.1| alpha lactalbumin [Megaptera novaeangliae
+------------------------------------------------------------QAEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDNH---IPHSRDICGISCDKFLDDDLTD-------------------------------------------------------------------------------------------------
+>gi|265681602|gb|ACY77317.1| lactose, partial [Balaenoptera bonaerensis] >gi|265681604|gb|ACY77318.1| lactose, partial [Balaenoptera bonaerensis] >gi|265681
+-------------------------------------------------------------AEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRDN---------------------------------------------------------------------------------------------------------------------------
+>gi|283838721|gb|ADB44722.1| alpha lactalbumin, partial [Balaenoptera bonaerensis] >gi|283838723|gb|ADB44723.1| alpha lactalbumin, partial [Balaenoptera bon
+-------------------------------------------------------------AEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNKIWCRD----------------------------------------------------------------------------------------------------------------------------
+>gi|265681632|gb|ACY77332.1| lactose [Balaenoptera bonaerensis]
+-------------------------------------------------------------AEQLTKCEVFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTVVNNN-----GSTEYGLFQINNK---------------------------------------------------------------------------------------------------------------------------------
+>gi|11036996|gb|AAG27452.1|AF304097_1 alpla lactalbumin [Kogia sima]
+------------------------------------------------L-LVGIL-FQAIQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTTVNNN-----GSTEYGLFQINNKIWCRDNQ---TPHSRDICGISCDKFLDDDLTDDIICVKKI-----------------------------------------------------------------------------------------
+>gi|593722766|ref|XP_007107591.1| PREDICTED: alpha-lactalbumin [Physeter catodon]
+-----------------------------------------MMSFVSLL-LVGIL-FHGIQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTTVNNN-----GSTEYGLFQINNKIWCRDNQ---TPHSRDICGISCDKFLDDDLTDDIMCVKKILD-NVGINYWLAHKALCSE-KLDQWRCEKW-----------------------------------------------------------
+>gi|11036998|gb|AAG27453.1|AF304098_1 alpla lactalbumin [Physeter catodon]
+------------------------------------------------------------QAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTTVNNN-----GSTEYGLFQINNKIWCRDNQ---TPHSRDICGISCDKFLDDDLTDDIM----------------------------------------------------------------------------------------------
+>gi|11036994|gb|AAG27451.1|AF304096_1 alpla lactalbumin [Kogia breviceps]
+------------------------------------------------------------QAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTTVNNN-----GSTEYGLFQINNKIWCRDNQ---TPHSRDICGISCDKFLDDDLTD-------------------------------------------------------------------------------------------------
+>gi|161176513|gb|ABX59646.1| alpha-lactalbumin [Lagenodelphis hosei]
+-----------------------------------------------LL-LVGIL-FHAVQAEQLTKCELFQRLK--GLDGYGGVTLPEWVCTVFHTSGCDTQTIVNND-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|161176511|gb|ABX59645.1| alpha-lactalbumin [Lagenodelphis hosei]
+-----------------------------------------------LL-LVGIL-FHAVQAEQLTKCELFQRLK--XLDGYGGVTLPEWVCTVFHTSGCDTQTIVNND-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|161176533|gb|ABX59656.1| alpha-lactalbumin [Orcinus orca]
+-----------------------------------------------LL-LVGIL-FHAVQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNYN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|466031619|ref|XP_004274443.1| PREDICTED: alpha-lactalbumin [Orcinus orca]
+------------------------------------------MSFVSLL-LVGIL-FHAVQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNYN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICGISCDKFLDDDLTDDIMCVKKILD-NVGINYWLAHKALCFE-KLDQWRCEKW-----------------------------------------------------------
+>gi|195973284|gb|ACG63290.1| alpha-lactalbumin [Orcinus orca]
+------------------------------------------------------------QAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNYN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDIC---------------------------------------------------------------------------------------------------------------
+>gi|122938242|gb|ABM68980.1| alpha-lactalbumin, partial [Sousa chinensis] >gi|122938244|gb|ABM68981.1| alpha-lactalbumin, partial [Steno bredanensis] >gi|16
+-----------------------------------------------LL-LVGIL-FHAVQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|122938248|gb|ABM68983.1| alpha-lactalbumin [Sotalia guianensis]
+----------------------------------------------------------AVQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|161176509|gb|ABX59644.1| alpha-lactalbumin [Tursiops truncatus]
+---------------------------------------------------VGIL-FHAVQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|161176521|gb|ABX59650.1| alpha-lactalbumin [Globicephala macrorhynchus]
+-----------------------------------------------------------VQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|443429280|gb|AGC92403.1| alpha-lactalbumin [Stenella frontalis]
+---------------------------------------------------------------QLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|443429278|gb|AGC92402.1| alpha-lactalbumin [Stenella frontalis]
+--------------------------------------------------------------------------------GYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|443429284|gb|AGC92405.1| alpha-lactalbumin [Stenella frontalis]
+---------------------------------------------------------------------------------YGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|161176537|gb|ABX59658.1| alpha-lactalbumin [Phocoenoides dalli]
+-----------------------------------------------LL-LVGIL-FHAIQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHS-------------------------------------------------------------------------------------------------------------------
+>gi|327556854|gb|AEB01893.1| alpha-lactalbumin [Neophocaena phocaenoides]
+-----------------------------------------------LL-LVGIL-FHAIQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDIC---------------------------------------------------------------------------------------------------------------
+>gi|161176545|gb|ABX59662.1| alpha-lactalbumin [Delphinapterus leucas]
+-----------------------------------------------LL-LVGIL-FHAIQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|161176541|gb|ABX59660.1| alpha-lactalbumin, partial [Phocoena phocoena] >gi|161176543|gb|ABX59661.1| alpha-lactalbumin [Phocoena phocoena]
+--------------------------------------------------LVGIL-FHAIQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|11036986|gb|AAG27447.1|AF304092_1 alpla lactalbumin [Inia geoffrensis]
+------------------------------------------------------------------------------------ITLPEWVCTVFHTSGCDTQTIVNNN-----GSTEYGLFQINNKIWCRDNQ---IPHSRDICGISCDKFLDDDLTDDIMCV--------------------------------------------------------------------------------------------
+>gi|11036988|gb|AAG27448.1|AF304093_1 alpla lactalbumin [Pontoporia blainvillei]
+------------------------------------------------------------------------------------VTLPEWVCTVFHTSGCDTQTIVNNN-----GSTEYGLFQINNKIWCRDKQ---IPHSRDICGISCDKFLDDDLTDDIMCV--------------------------------------------------------------------------------------------
+>gi|327556860|gb|AEB01896.1| alpha-lactalbumin [Feresa attenuata]
+-----------------------------------------------LL-LVGIL-FHAVQAEQLTKCELFQRXK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDIC---------------------------------------------------------------------------------------------------------------
+>gi|327556862|gb|AEB01897.1| alpha-lactalbumin [Lagenorhynchus obliquidens]
+-----------------------------------------------LL-LVGIL-FHAVQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSXEYGLFQINNKIWCRDNQ---IPHSRDIC---------------------------------------------------------------------------------------------------------------
+>gi|122938246|gb|ABM68982.1| alpha-lactalbumin [Sotalia fluviatilis]
+-----------------------------------------------LL-LVGIL-FHAVQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNS-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|11036990|gb|AAG27449.1|AF304094_1 alpla lactalbumin [Platanista gangetica]
+--------------------------------------------------LVXIL-FHAIQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----GSTEYGLFQINNKIWCRDNQ---IPHSRDICGISCDKFLDDDLTDDIMCVKKIL----------------------------------------------------------------------------------------
+>gi|11036984|gb|AAG27446.1|AF304091_1 alpla lactalbumin [Sotalia fluviatilis]
+-----------------------------------------------LL-LVGIL-FHAVQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNS-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICGISCDKFLDDDLTDDIMCVKKILD-NV------------------------------------------------------------------------------------
+>gi|8575464|gb|AAF78010.1|AF228410_1 alpha lactalbumin [Lagenorhynchus obscurus]
+------------------------------------------------------------QVEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICGISCDKFLDDDLTDDIM----------------------------------------------------------------------------------------------
+>gi|11036980|gb|AAG27444.1|AF304089_1 alpla lactalbumin [Delphinus delphis]
+------------------------------------------------L-LVGIL-FHAVQAEQXTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICGISCDKFLDDDLTDDIMCVKKILD-NV------------------------------------------------------------------------------------
+>gi|675359492|gb|AIL83727.1| alpha lactalbumin, partial [Lagenorhynchus albirostris] >gi|675359500|gb|AIL83731.1| alpha lactalbumin, partial [Cephalorhynchu
+------------------------------------------------------------------KCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICGISCD----------------------------------------------------------------------------------------------------------
+>gi|327556868|gb|AEB01900.1| alpha-lactalbumin [Stenella attenuata]
+---------------------------------------------------------------QLTKCXLFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDIC---------------------------------------------------------------------------------------------------------------
+>gi|195973292|gb|ACG63294.1| alpha-lactalbumin [Stenella coeruleoalba]
+------------------------------------------------------------QAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSXDIC---------------------------------------------------------------------------------------------------------------
+>gi|675359490|gb|AIL83726.1| alpha lactalbumin, partial [Lagenorhynchus acutus] >gi|675359494|gb|AIL83728.1| alpha lactalbumin, partial [Lagenorhynchus aust
+------------------------------------------------------------------KCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICXISCD----------------------------------------------------------------------------------------------------------
+>gi|327556856|gb|AEB01894.1| alpha-lactalbumin, partial [Lagenorhynchus acutus] >gi|327556858|gb|AEB01895.1| alpha-lactalbumin, partial [Lagenorhynchus albi
+-----------------------------------------------LL-LVGIL-FHAVQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDIC---------------------------------------------------------------------------------------------------------------
+>gi|470639651|ref|XP_004324918.1| PREDICTED: alpha-lactalbumin [Tursiops truncatus]
+------------------------------------------MSFVSLL-LVGIL-FHAVQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICGISCDKFLDDDLTDDIMCVKKILD-NVGINYWLAHKALCFE-KLDQWRCEKW-----------------------------------------------------------
+>gi|11036982|gb|AAG27445.1|AF304090_1 alpla lactalbumin [Globicephala sp. IIC2000]
+-----------------------------------------------LL-LVGIL-FHAVQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICGISCDKFLDDDLTDDIMCVKKI-----------------------------------------------------------------------------------------
+>gi|11036978|gb|AAG27443.1|AF304088_1 alpla lactalbumin [Cephalorhynchus eutropia]
+----------------------------------------------------GIL-FHAVQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICGISCDKFLDDDLTDDIMCVKKI-----------------------------------------------------------------------------------------
+>gi|8575462|gb|AAF78009.1|AF228409_1 alpha lactalbumin, partial [Delphinapterus leucas] >gi|3821256|emb|CAA07691.1| lactalbumin, partial [Monodon monoceros] >gi|385
+------------------------------------------------------------QAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDICGISCDKFLDDDLTDDIM----------------------------------------------------------------------------------------------
+>gi|195973286|gb|ACG63291.1| alpha-lactalbumin, partial [Pseudorca crassidens] >gi|195973288|gb|ACG63292.1| alpha-lactalbumin, partial [Steno bredanensis] >
+------------------------------------------------------------QAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHSRDIC---------------------------------------------------------------------------------------------------------------
+>gi|161176539|gb|ABX59659.1| alpha-lactalbumin [Phocoenoides dalli]
+----------------------------------------------------------------------FQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----DSTEYGLFQINNKIWCRDNQ---IPHS-------------------------------------------------------------------------------------------------------------------
+>gi|8575466|gb|AAF78011.1|AF228411_1 alpha lactalbumin [Mesoplodon peruvianus]
+------------------------------------------------------------QAEQLTKCELFQRLK--DLDGYGGITLPEWVCTIFHTSGCDTQTIVNNN-----GSKEYGLFQINNKIWCRDNQ---IPHSRDICGISCEKFLDDDLTDDIM----------------------------------------------------------------------------------------------
+>gi|8575468|gb|AAF78012.1|AF228412_1 alpha lactalbumin [Ziphius cavirostris]
+------------------------------------------------------------QAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----GSKEYGLFQINNKIWCRDNQ---IPHSRDICGISCEKFLDDDLTDDIM----------------------------------------------------------------------------------------------
+>gi|675359506|gb|AIL83734.1| alpha lactalbumin [Hyperoodon ampullatus]
+------------------------------------------------------------------KCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----GSKEYGLFQINNKIWCRDNQ---IPHSRDICGISCE----------------------------------------------------------------------------------------------------------
+>gi|161176547|gb|ABX59663.1| alpha-lactalbumin, partial [Inia boliviensis] >gi|161176549|gb|ABX59664.1| alpha-lactalbumin, partial [Inia geoffrensis]
+-----------------------------------------------LL-LVGIL-FHAIQAEQLTKCELFQRLK--DLDGYGGITLPEWVCTVFHTSGCDTQTIVNNN-----GSTEYGLFQINNKIWCRDNQ---IPHSRDICDI-------------------------------------------------------------------------------------------------------------
+>gi|602733821|ref|XP_007452290.1| PREDICTED: alpha-lactalbumin [Lipotes vexillifer]
+-----------------------------------------MMSFVSLL-LVGIL-FHAIQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----GSTEYGLFQINNKIWCRDNQ---IPHSRDICGISCDKLLDDDLTDDIMCVKKILD-NVGINYWLAHKALCFE-KLDQWRCEEW-----------------------------------------------------------
+>gi|11036992|gb|AAG27450.1|AF304095_1 alpla lactalbumin [Lipotes vexillifer]
+---------------------------------------------------VGIL-FXAIQAEQLTKCELFQRLK--DLDGYGGVTLPEWVCTVFHTSGCDTQTIVNNN-----GSTEYGLFQINNKIWCRDNQ---IPHSRDICGISCDKLLDDDLTDDIMCV--------------------------------------------------------------------------------------------
+>gi|795173467|ref|XP_011843075.1| PREDICTED: alpha-lactalbumin [Mandrillus leucophaeus]
+------------------------------------------MIWKTIS-LITI---PP-------LCGSWTS------LWYLFLIFPSVICTMFHTSGYDTQAIVESN-----GSTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|505782142|ref|XP_004603921.1| PREDICTED: alpha-lactalbumin [Sorex araneus] >gi|674274905|tpe|CDM98835.1| TPA: lysozyme G [Sorex araneus]
+-----------------------------------------MMYFVSLL-LVGIL-FPAIQAKQFTKCELYRELS--DLSDY-DFTLQELICVIFHISGYDSRVVLNNN-----GSTEYGLFQISNKNWCRDNK---FPESENICNISCEKFLDDDLTDDVMCVKKILD-MKGIDYWLAHKALCSE-KLDQWSCKKL-----------------------------------------------------------
+>gi|395841620|ref|XP_003793632.1| PREDICTED: alpha-lactalbumin [Otolemur garnettii]
+-----------------------------------------MMSFVPLL-LVTIL-FPAIQTEELTKCQLYPMLK--DLNDYRGITMPEWMCTLFHTSAFNTGAIVQND-----GSTEYGLFQISDKLWCKSKQ---TPHSRNICGISCDKLLDNDLTDDIKCAKKILD-IKGIDYWLAHKPLCTD-RLEQWRCEEL-----------------------------------------------------------
+>gi|829724281|ref|XP_012620372.1| PREDICTED: alpha-lactalbumin [Microcebus murinus]
+-----------------------------------------MMSFVPLL-LVTIL-FPATQAVQFTKCEMFHLLK--DMNEYRDFTLPELICTLFHASAYDTQALVEND-----GSTEYGLFQISNKHWCSSDQ---IPESRNICGISCDKFLDGDLTDDIECAKKILD-IKGIDYWLAHKPLCTD-KLEQWNCEKL-----------------------------------------------------------
+>gi|5689720|emb|CAA07692.2| lactalbumin [Hippopotamus amphibius]
+------------------------------------------------------------QAEQLAKCEVSRKLK--DLDGYGSITLPECVCTIFHTSGCDTQTVVYNN-----GSTEYGLFQINNKIWCRDNQ---NLHSKNICGISCDSSWMMTLLMTL-C---------------------------------------------------------------------------------------------
+>gi|67425|pir||LARB alpha-lactalbumin - rabbit
+--------------------------------------------------------------TQLTRCELTEKLK--ELDGYRDISMSEWICTLFHTSGLDTKITVNNN-----GSTEYGIFQINSKLWCVSKQ---NPQSKNICDTPCENFLDDNLTDDVKCAMKILD-KEGIDHWLAHKPLCSE-NLEQWVCKK------------------------------------------------------------
+>gi|126723279|ref|NP_001075521.1| alpha-lactalbumin precursor [Oryctolagus cuniculus] >gi|655723730|ref|XP_008254616.1| PREDICTED: alpha-lactalbumin isoform X1 [
+-----------------------------------------MMPLVPLL-LVSIV-FPGIQATQLTRCELTEKLK--ELDGYRDISMSEWICTLFHTSGLDTKITVNNN-----GSTEYGIFQISDKLWCVSKQ---NPQSKNICDTPCENFLDDNLTDDVKCAMKILD-KEGIDHWLAHKPLCSE-NLEQWVCKK------------------------------------------------------------
+>gi|504181887|ref|XP_004599420.1| PREDICTED: alpha-lactalbumin isoform X2 [Ochotona princeps]
+-----------------------------------------MMSLVLLL-LVSSV-FSAIQATQLTKCELSAKLK--DLDGYGNIPMSEWICTLFHTSGLDTQITVNNN-----DSTEYGLFQISDKLWCKSKR---NPRSRNICDIACEKFLDDDLTDDIMCAKKILD-KEGIDHWLAHKPLCSE-NLEQWVCKKL-----------------------------------------------------------
+>gi|837837714|ref|XP_012786480.1| PREDICTED: alpha-lactalbumin isoform X1 [Ochotona princeps]
+-----------------------------------------MMSLVLLL-LVSSV-FSAIQATQLTKCELSAKLK--DLDGYGNIPMSEWICTLFHTSGLDTQITVNNN-----DSTEYGLFQISDKLWCKSKR---NPRSRNICDIACEKFLDDDLTDDIMCAKKILD-KEGIDHWLAHKPLCSE-NLEQWDCSPTMHDQRTGLQTP---AQCP-----------------------------------------
+>gi|586494688|ref|XP_006877788.1| PREDICTED: alpha-lactalbumin [Chrysochloris asiatica]
+------------------------------------MEPVKIMFFIPLL-LVGIL-IPAIQTKEVTKPELCKVLK--VLDGYQGLTLPEWICIIFHMSGCDTQTIVKYN-----GNTAYGLFQINNKFWCRDDQ---FPQSRNICNISCDKFLDDDFTDDIMCVKKILD-SEGVGYWPAYKPLCSE-KLEQWRCEES-----------------------------------------------------------
+>gi|507684877|ref|XP_004711547.1| PREDICTED: alpha-lactalbumin [Echinops telfairi]
+------------------------------------------MAFFPLL-LVGIL-LSALQATQVTKYELCQMLK--ELDGYRSITLSEWICIIFHMSGCDTQTIINYN-----GSTTYGLFQISNKFWCRDDQ---FPQSWDICDIACDNFLNDDLSDDIQCVKKILD-SEGIGYWPAYKPLCSD-NLEQWLCKS------------------------------------------------------------
+>gi|507976917|ref|XP_004692585.1| PREDICTED: alpha-lactalbumin [Condylura cristata]
+-----------------------------------------MMSFVSLL-LVGIL-VPATQARLLTRCELFQELK--EMDGYQGVTLPEWICIIFHSSGCDTQAVVSNN-----GTTEYGLFQISNKFWCRDNQ---NLDSENLCDISCDNLVDNDLTDDMMCARKILD-KEGIDHWLARKPLCSE-KLEQWRCEKP-----------------------------------------------------------
+>gi|488554842|ref|XP_004468429.1| PREDICTED: alpha-lactalbumin [Dasypus novemcinctus] >gi|674274913|tpe|CDM98839.1| TPA: lysozyme G [Dasypus novemcinctus]
+-----------------------------------------MMSYLPLL-LVGIL-FPVIQASQLTKCELPQKLK--DIDGYRNVTLPEWICTTFHISGFDTQTIVNNN-----DSIEYGLFQISNKCWCRDDQ---NPLSKNICNTTCNKFLDDDLTDDIMCVKKILD-IEGIGYWSAHKALCSD-KLEQWLCKTS-----------------------------------------------------------
+>gi|3859070|emb|CAA07693.1| lactalbumin [Lama guanicoe]
+------------------------------------------------------------QAKQFTKCKLSDELK--GMNGHGGITLAEWICIIFHMSGYDTETVVSNN-----GNREYGLFQINNKIWCIDNE---NLQSRNICDISCDKFLDDDLTDDIM----------------------------------------------------------------------------------------------
+>gi|861482731|ref|XP_004863143.2| PREDICTED: alpha-lactalbumin [Heterocephalus glaber] >gi|351697640|gb|EHB00559.1| Alpha-lactalbumin [Heterocephalus glaber]
+-----------------------------------------MMSPFPLL-LVSIL-FSALQAKQFTKCSLSQELN--DLAGYRNITLPEWICIIFHISGYDTQTIIRNN-----GNTEYGLFQINDKDFCDSSQ---NLQSRNICDISCDKFLDDDLTDDIMCAKKILD-IKGIDHWLAHKPLCSD-KLEQWYCKVL-----------------------------------------------------------
+>gi|731215150|ref|XP_010621995.1| PREDICTED: alpha-lactalbumin [Fukomys damarensis]
+-----------------------------------------MMFSFPLL-LVSIW-FSAMQAKQFTKCSLSQELN--DLAGYRNITLPEWICIIFHISSYDTQTIVKNN-----GNMEYGLFQISDKDFCESSW---TLQSSNTCDISCDKFLDDDLTDDIMCVKKILD-IKGIDHWLAHKPLCSD-KLEQWYCKVF-----------------------------------------------------------
+>gi|676279488|gb|KFO33445.1| Alpha-lactalbumin [Fukomys damarensis]
+-----------------------------------------MMFSFPLL-LVSIW-FSAMQAKQFTKCSLSQELN--DLAGYRNITLPEWICIIFHISSYDTQTIVKNN-----GNMEYGLFQISDKDFCESSW---TLQSSNTCDISCDKFLDDDLTDDIMCVKKILD-IKGIDHW-------------------------------------------------------------------------------
+>gi|507676355|ref|XP_004638719.1| PREDICTED: LOW QUALITY PROTEIN: alpha-lactalbumin [Octodon degus]
+------------------------------------------MSLFPLF-LVSIL-FPAVQAKQLTKCALSHELR--DLAGYRNVTLPEWTCIIFHVSGYDTQAKVKNN-----KNTEYGLFQISDKDFCASSR---NVQSKSICGISCDKLLDDDLTDDIMCAKKILD-IKGIDHWLAHKPLCSD-RLEQWHCEAPXAPAASAXPALPIHREVLLPRATSVCLFLPLKWFVTD---PWTP---------------
+>gi|918640631|ref|XP_005406708.2| PREDICTED: alpha-lactalbumin [Chinchilla lanigera]
+-----------------------------------------MRSLFLLF-LVSIL-FPAVQAKQLTKCALSHKLR--DLAGYGNVTLPEWICIIFHISGYDTQAIVKND-----DNTEYGLFQISDKDFCESSQ---TLQSRNICDISCDKLLDDDLTDDIVCAKKILD-IKGIDHWLAHKPLCSE-KLEQWSCEAP-----------------------------------------------------------
+>gi|305338|gb|AAA60337.1| alpha-lactalbumin [Cavia porcellus]
+-----------------------------------------MMSFFPLL-LVGIL-FPAVQAKQLTKCALSHELN--DLAGYRDITLPEWLCIIFHISGYDTQAIVKNS-----DHKEYGLFQINDKDFCDSST---TVQSRNICDISCDKLLDDDLTDDIMCVKKILD-IKGIDYWFAHKPLCSD-KLEQWYCEAQRAPDVSANPALPIHPEPLFPHATPVYLFLPLNMICL-----------------------
+>gi|290542343|ref|NP_001166360.1| alpha-lactalbumin precursor [Cavia porcellus]
+-----------------------------------------MMSFFPLL-LVGIL-FPAVQAKQLTKCALSHELN--DLAGYRDITLPEWLCIIFHISGYDTQAIVKNS-----DHKEYGLFQINDKDFCDSST---TVQSRNICDISCDKLLDDDLTDDIMCVKKILD-IKGIDYWLAHKPLCSD-KLEQWYCEAQ-----------------------------------------------------------
+>gi|125999|sp|P00713.2|LALBA_CAVPO RecName: Full=Alpha-lactalbumin; AltName: Full=Lactose synthase B protein; Flags: Precursor >gi|49427|emb|CAA68710.1| pre-alpha
+-----------------------------------------MMSFFPLL-LVGIL-FPAVQAKQLTKCALSHELN--DLAGYRDITLPEWLCIIFHISGYDTQAIVKNS-----DHKEYGLFQINDKDFCESST---TVQSRNICDISCDKLLDDDLTDDIMCVKKILD-IKGIDYWLAHKPLCSD-KLEQWYCEAQ-----------------------------------------------------------
+>gi|157831331|pdb|1HFX|A Chain A, Alpha-Lactalbumin
+--------------------------------------------------------------KQLTKCALSHELN--DLAGYRDITLPEWLCIIFHISGYDTQAIVKNS-----DHKEYGLFQINDKDFCESST---TVQSRNICDISCDKLLDDDLTDDIMCVKKILD-IKGIDYWLAHKPLCSD-KLEQWYCEAQ-----------------------------------------------------------
+>gi|562881419|ref|XP_006168304.1| PREDICTED: alpha-lactalbumin [Tupaia chinensis]
+-----------------------------------------MMLFVPLL-LVGTL-FPAIQATWLTKCELHKRLK--DIFGYKDITAAEWICTIFHTSGFDTQAKVSNN-----GSTEYGLFQISNKHWCKSEQ---IPQSKNICNIPCEKLLNDDLTDDIACAKKILD-RKGMGYWLAYEALCSE-QLEQWLCKDL-----------------------------------------------------------
+>gi|444515392|gb|ELV10891.1| Alpha-lactalbumin [Tupaia chinensis]
+------------------------------------------MLFVPLL-LVGTL-FPAIQATWLTKCELHKRLK--DIFGYKDITAAEWICTIFHTSGFDTQAKVSNN-----GSTEYGLFQISNKHWCKSEQ---IPQSKNICNIPCEKLLNDDLTDDIACAKKILD-RKGMGYWLAYEALCSE-QLEQWLCKDL-----------------------------------------------------------
+>gi|585720363|ref|XP_006902555.1| PREDICTED: alpha-lactalbumin-like [Elephantulus edwardii]
+-----------------------------------------MMFSIALL-LLGML-FPAIQANQCDKCELAQKLK--DMDGYKDISLSEWICIIFHMSGCDPQAKINNN-----GSTDYGLFQISNKYWCRDDN---IPQSSNICNISCNKFLDDDLEDDKMCAKKIVD-IKGIDYWLAHKPLCSD-KLEQWVCNKL-----------------------------------------------------------
+>gi|532078323|ref|XP_005324938.1| PREDICTED: alpha-lactalbumin [Ictidomys tridecemlineatus]
+-----------------------------------------MKSFVSLF-LMSIL-FPAMQAKLYTKCELSEVLK--DMDGYGGITLPEWVCIIFHSSGYDTQTIVKNN-----DSTEYGLFQISNKFWCGSSQ---NSQSRNFCNISCDKLLNDELTDDKMCAKKILD-QKGIDYWLAHKPLCSD-NLEQWSCKKL-----------------------------------------------------------
+>gi|852756169|ref|XP_012874230.1| PREDICTED: alpha-lactalbumin [Dipodomys ordii]
+-----------------------------------------MMSFVLLF-LVSIL-FPAIQAKQLTKCEIPWVLK--DLDGYGGITLPEWACIIFHTSGFDTQTIIKNN-----GSTEYGLFQISNNFWCKSHQ---IPQSRNICNITCESLLDDNLTDDVKCVQKILD-IKGIDYWLAHKALCSE-KLEQWRCETL-----------------------------------------------------------
+>gi|507569936|ref|XP_004668580.1| PREDICTED: alpha-lactalbumin [Jaculus jaculus]
+-----------------------------------------MMSFVFLF-LLSIL-FPAMQATQLTKCEVSQKLK--DMDGYRNITLLEWTCIIFHTSGYDTEAIIKNN-----GSTEYGLFQISNKFWCGSSQ---IPQSKNICGISCDSE--------------------------------------------------------------------------------------------------------
+>gi|149032146|gb|EDL87058.1| lactalbumin, alpha, isoform CRA_a [Rattus norvegicus]
+--------------------------------------------------------------------------------------------------------MVKNN-----GSTEYGLFQISNRNWCKSSE---FPESENICDISCDKFLDDELADDIVCAKKIVA-IKGIDYWKAHKPMCSE-KLEQWRYLFPKATSVWL---FLS----------------------------------------------
+>gi|1046894992|ref|XP_017450147.1| PREDICTED: alpha-lactalbumin isoform X1 [Rattus norvegicus]
+-----------------------------------------MMRFVPLF-LACIS-LPAFQATEFTKCEVSHAIE--DMDGYQGISLLEWTCVLFHTSGYDSQAMVKNN-----GSTEYGLFQISNRNWCKSSE---FPKSENICDISCDKFLDDELADDIVCAKKIVA-IKGIDYWKAHKPMCSE-KLEQWRCEKPGAPALVV---PALNSETPVP---------------------------------------
+>gi|6981140|ref|NP_036726.1| alpha-lactalbumin precursor [Rattus norvegicus] >gi|126007|sp|P00714.1|LALBA_RAT RecName: Full=Alpha-lactalbumin; AltName: Full
+-----------------------------------------MMRFVPLF-LACIS-LPAFQATEFTKCEVSHAIE--DMDGYQGISLLEWTCVLFHTSGYDSQAIVKNN-----GSTEYGLFQISNRNWCKSSE---FPESENICDISCDKFLDDELADDIVCAKKIVA-IKGIDYWKAHKPMCSE-KLEQWRCEKPGAPALVV---PALNSETPVP---------------------------------------
+>gi|42557529|emb|CAA24564.2| unnamed protein product [Rattus norvegicus]
+---------------------------------------------------------------------------------------LEWTCVLFHTSGYDSQAIVKNN-----GSTEYGLFQISNRNWCKSSE---FPESENICDISCDKFLDDELADDIVCAKKIVA-IKGIDYWKAHKPMCSE-KLEQWRCEKPGAPALVV---PALNSETPVP---------------------------------------
+>gi|149032147|gb|EDL87059.1| lactalbumin, alpha, isoform CRA_b [Rattus norvegicus]
+--------------------------------------------------------------------------------------------------------MVKNN-----GSTEYGLFQISNRNWCKSSE---FPESENICDISCDKFLDDELADDIVCAKKIVA-IKGIDYWKAHKPMCSE-KLEQWRCEKPGAPALVV---PALNSETPVP---------------------------------------
+>gi|148672241|gb|EDL04188.1| lactalbumin, alpha [Mus musculus]
+-----------------------------------------MMHFVPLF-LVCILSLPAFQATELTKCKVSHAIK--DIDGYQGISLLEWACVLFHTSGYDTQAVVNDN-----GSTEYGLFQISDRFWCKSSE---FPESENICGISCDKLLDDELDDDIACAKKILA-IKGIDYWKAYKPMCSE-KLEQWRPPPPPSLLLL-----PRGQECLFPKATSAWLLLFL----------------------------
+>gi|27574176|pdb|1NF5|A Chain A, Crystal Structure Of Lactose Synthase, Complex With Glucose >gi|27574178|pdb|1NF5|C Chain C, Crystal Structure Of Lact
+--------------------------------------------------------------TELTKCKVSHAIK--DIDGYQGISLLEWACVLFHTSGYDTQAVVNDN-----GSTEYGLFQISDRFWCKSSE---FPESENICGISCDKLLDDELDDDIACAKKILA-IKGIDYWKAYKPMCSE-KLEQWRCEKP-----------------------------------------------------------
+>gi|6754500|ref|NP_034809.1| alpha-lactalbumin precursor [Mus musculus] >gi|568991519|ref|XP_006520580.1| PREDICTED: alpha-lactalbumin isoform X1 [Mus muscu
+-----------------------------------------MMHFVPLF-LVCILSLPAFQATELTKCKVSHAIK--DIDGYQGISLLEWACVLFHTSGYDTQAVVNDN-----GSTEYGLFQISDRFWCKSSE---FPESENICGISCDKLLDDELDDDIACAKKILA-IKGIDYWKAYKPMCSE-KLEQWRCEKP-----------------------------------------------------------
+>gi|532021309|ref|XP_005354025.1| PREDICTED: alpha-lactalbumin [Microtus ochrogaster]
+-----------------------------------------MMHFVPLF-LVCIL-FPAIQATQLTKCEVYRAVE--DMDGYEGISALEWTCVIFHSSGYDTQAKVNNK-----GGTEYGLFQISNKHWCKSSE---VPESENICDISCDDLLNDDLTDDKVCAKKILA-IKGIDYWLAHKPMCSE-KLEQWSCKL------------------------------------------------------------
+>gi|674087946|ref|XP_008851871.1| PREDICTED: alpha-lactalbumin [Nannospalax galili]
+-----------------------------------------MMSVVPLF-LVSIL-FPAMQATQLTKCKVSEAMK--DMDGYQGVSLLEWTCIVFHSSGYDTQAVVKNN-----GSTEYGLFQISDKFWCKSSL---IPESENICGISCDKFLDDDLTDDIMCAKKILA-IKGIDYWLAHKPLCSE-KLEQWRCEKL-----------------------------------------------------------
+>gi|589923069|ref|XP_006974431.1| PREDICTED: alpha-lactalbumin [Peromyscus maniculatus bairdii]
+-----------------------------------------MMGFIPLF-LVYIL-FPAIQATQLTKCEVYQAVE--DMDGHQGITALEWTCVIFHSSGFNTEATVRNN-----GSTEYGLFQISNKHWCKSSE---VPESENICGTSCDNFVDDNLTDDKKCAKKILA-IKGIDYWLAHKPLCSE-RLEQWRCKKL-----------------------------------------------------------
+>gi|524925450|ref|XP_005066967.1| PREDICTED: alpha-lactalbumin [Mesocricetus auratus]
+-----------------------------------------MMPFVPLI-LVCIL-FPAIQATQLTKCEVYQAMK--DMDGHEGVTSLEWTCIAFHSSGYDTQTIVKNN-----GNTEYGLFQISNKHWCESSE---VSESENICGISCDKFLDDDLTDDKMCAKKILD-IKGIDYWMAHKPLCSE-KLEQWSCENL-----------------------------------------------------------
+>gi|354506869|ref|XP_003515482.1| PREDICTED: alpha-lactalbumin [Cricetulus griseus]
+-----------------------------------------MMPFIPLI-LVCIL-FPAIQATQLTKCEVYQAMR--DMDGHEGISSLEWTCIIFHSSGCDTQATVKNN-----GSTEYGLFQISNKHWCESSE---IPESENICGISCDKFLDDDLTDDKMCAKKILA-IKGIDYWLTHKPLCSE-KLEQWRCKKL-----------------------------------------------------------
+>gi|625286188|ref|XP_007634815.1| PREDICTED: alpha-lactalbumin [Cricetulus griseus]
+-----------------------------------------MMPFIPLI-LVCIL-FPAIQATQLTKCEVYQAMR--DMDGHEGISSLEWTCIIFHSSGCDTQATVKNN-----GSTEYGLFQISNKHWCESSE---IPESENICGISCDKFLDDDLTDDKMCAKKILA-IKGIDYWLAHKPLCSE-KLEQWRCKKL-----------------------------------------------------------
+>gi|537214119|gb|ERE81156.1| alpha-lactalbumin-like protein [Cricetulus griseus]
+--------MVL-----PLLVVSSLSSGWDDGDGRKNPGAAKMMPFIPLI-LVCIL-FPAIQATQLTKCEVYQAMR--DMDGHEGISSLEWTCIIFHSSGCDTQATVKNN-----GSTEYGLFQISNKHWCESSE---IPESENICGISCDKFLDDDLTDDKMCAKKILA-IKGIDYWLAHKPLCSE-KLEQWRCKKL-----------------------------------------------------------
+>gi|344255204|gb|EGW11308.1| Alpha-lactalbumin [Cricetulus griseus]
+-----------------------------------------MMPFIPLI-LVCIL-FPAIQATQLTKCEVYQAMR--DMDGHEGISSLEWTCIIFHSSGCDTQATVKNN-----GSTEYGLFQISNKHWCESSE---IPESENICGISCDKFLDDDLTDDKMCAKKILA-IKGIDYW-------------------------------------------------------------------------------
+>gi|640824077|ref|XP_008069093.1| PREDICTED: alpha-lactalbumin [Carlito syrichta]
+-----------------------------------------MMSFVSLF-LVGIL-FPAIQAEQLTTCEVSRLLK--EMDNYRGIPLPELVCTIFHTSGYDTQAIVKNN-----ESTEYGLFQISNKLWCRSDQ---IPQSENICDISCDKFLDGELTDDIACAKKILD-IKGIDYWLAHEALCSE-NLEQWRCEEL-----------------------------------------------------------
+>gi|6289065|gb|AAF06795.1|AF194433_1 alpha-lactalbumin [Cervus elaphus xanthopygus]
+------------------------------------------------------------------------------------------VCTAFHTSGYDTQAIVQND-----DSTEYGLFQINNKIWCKDDQ---NPHSSNICNISCDKFLDDDLTDDIMCVKKILD-KVGINYWLAHKALCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|826277015|ref|XP_012493897.1| PREDICTED: alpha-lactalbumin [Propithecus coquereli]
+-----------------------------------------MMSFVPLL-LVAIL-FPAIQAVQFTKCEMFHLLK--DMNGYRDFTLPELICTLFHASAYDTQAIVEND-----GSTEYGLFQISNKHWCRSDQ---IPESRDICGISCDKFLDDDLTDDIMCTKKILD-IKGIDYWLAHKALCTD-KLEQWNCEKL-----------------------------------------------------------
+>gi|403271864|ref|XP_003927822.1| PREDICTED: alpha-lactalbumin [Saimiri boliviensis boliviensis]
+-----------------------------------------MMSFVPLL-LVGIL-FPAIPAKQFTKCELSQELK--ALDGYRGISLPEFICTVFHTSGYDTQAIGENK-----GSTEYGLFQINNKHWCKSNQ---IPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCAD-NLEQWLCEKL-----------------------------------------------------------
+>gi|296211522|ref|XP_002752446.1| PREDICTED: alpha-lactalbumin [Callithrix jacchus] >gi|674274773|tpe|CDM98769.1| TPA: lysozyme G [Callithrix jacchus]
+-----------------------------------------MMSFVPLL-LVGIL-FPAIPAKQFTKCELSQELK--AMDGYRGISLPEFICTMFHTSGYDTRAIAENK-----GSTEYGLFQISNKHWCKSNQ---IPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTD-NLEQWLCEKL-----------------------------------------------------------
+>gi|1044392842|ref|XP_017401371.1| PREDICTED: alpha-lactalbumin [Cebus capucinus imitator]
+-----------------------------------------MMSFVPLL-LVGIL-FPAIPAKQFTKCELSQELK--ALDGYRGISLPEFICTMFHTSGYDTQAMVENK-----GSTEYGLFQISNKHWCKSNQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCSD-NLEQWLCEKL-----------------------------------------------------------
+>gi|817342893|ref|XP_012296905.1| PREDICTED: alpha-lactalbumin [Aotus nancymaae] >gi|817342895|ref|XP_012296906.1| PREDICTED: alpha-lactalbumin [Aotus nancymaae]
+-----------------------------------------MMSFVPLL-LVGIL-FPAIPAKQFTKCELSQELK--ALDGYRGISLPEFICTMFHSSGYDTQAIVENK-----GSTEYGLFQISNKHWCKSNQ---IPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTD-NLEQWLCEKL-----------------------------------------------------------
+>gi|126004|sp|P12065.1|LALBA_PAPCY RecName: Full=Alpha-lactalbumin; AltName: Full=Lactose synthase B protein
+--------------------------------------------------------------KQFTKCELSQNLY--DIDGYGRIALPELICTMFHTSGYDTQAIVENN-----ESTEYGLFQISNALWCKSSQ---SPQSRNICDITCDKFLDDDITDDIMCAKKILD-IKGIDYWIAHKALCTE-KLEQWLCEKE-----------------------------------------------------------
+>gi|157829945|pdb|1ALC|A Chain A, Refined Structure Of Baboon Alpha-Lactalbumin At 1.7 Angstroms Resolution. Comparison With C-Type Lysozyme
+--------------------------------------------------------------KQFTKCELSQNLY--DIDGYGRIALPELICTMFHTSGYDTQAIVEND-----ESTEYGLFQISNALWCKSSQ---SPQSRNICDITCDKFLDDDITDDIMCAKKILD-IKGIDYWIAHKALCTE-KLEQWLCEKE-----------------------------------------------------------
+>gi|795136210|ref|XP_011791630.1| PREDICTED: alpha-lactalbumin [Colobus angolensis palliatus]
+-----------------------------------------MRSFVPLF-LVCIL-FPAIPAKQFTKCELSQLLK--DIDGYGGIALPEFICTIFHTSGYDTQAIVENN-----GSTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|795229528|ref|XP_011851479.1| PREDICTED: alpha-lactalbumin [Mandrillus leucophaeus]
+-----------------------------------------MRSFVPLF-LVGIL-FPAIPAKQFTKCELSQLLK--DIDGYGGIALPEIICTMFHTSGYDTQAIVESN-----GSTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|795538083|ref|XP_011903875.1| PREDICTED: alpha-lactalbumin [Cercocebus atys]
+-----------------------------------------MRSFVPLF-LVGIL-FPAIPAKQFTKCELSQLLK--DIDGYGGIALPEFICTMFHTSGYDTQAIVESN-----GSTEYGLFQISNKFWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|724952828|ref|XP_010352474.1| PREDICTED: alpha-lactalbumin [Rhinopithecus roxellana]
+-----------------------------------------MRSFVPLF-LVGIL-FPAIPAKQFTKCELSQLLK--DIDGYGGIALPEFICTMFHTSGYDTQAIVENN-----GSTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|109096369|ref|XP_001102116.1| PREDICTED: alpha-lactalbumin [Macaca mulatta] >gi|402885820|ref|XP_003906343.1| PREDICTED: alpha-lactalbumin [Papio anubis] >gi
+-----------------------------------------MRSFVPLF-LVGIL-FPAIPAKQFTKCELSQLLK--DIDGYGGIALPEFICTMFHTSGYDTQAIVESN-----GSTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|297691686|ref|XP_002823206.1| PREDICTED: alpha-lactalbumin [Pongo abelii]
+-----------------------------------------MRFFVPLF-LVGIL-FPAIQAKQFTKCELSQLLK--DIDGYGGIALPELICTVFHTSGYDTQAIAENN-----ESMEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|332206362|ref|XP_003252260.1| PREDICTED: alpha-lactalbumin [Nomascus leucogenys] >gi|674274745|tpe|CDM98755.1| TPA: lysozyme G [Nomascus leucogenys]
+-----------------------------------------MRFFVPLF-LVGIL-FPAIPAKQFTKCELSQLLK--DIDGYGGIALPELICTIFHTSGYDTQAIVENS-----ESTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|4699575|pdb|1B9O|A Chain A, Human Alpha-Lactalbumin, Low Temperature Form
+--------------------------------------------------------------KQFTKCELSQLLK--DIDGYGGIALPELICTMFHTSGYDTQAIVEND-----ESTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|390980754|pdb|3B0O|A Chain A, Crystal Structure Of Alpha-lactalbumin >gi|390980755|pdb|3B0O|B Chain B, Crystal Structure Of Alpha-lactalbumin
+--------------------------------------------------------------MQFTKCELSQLLK--DIDGYGGIALPELICTMFHTSGYDTQAIVENN-----ESTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|397510954|ref|XP_003825848.1| PREDICTED: alpha-lactalbumin [Pan paniscus] >gi|1034100083|ref|XP_016780300.1| PREDICTED: alpha-lactalbumin [Pan troglodytes]
+-----------------------------------------MRFFVPLF-LVGIL-FPAILAKQFTKCELSQLLK--DIDGYGGIALPELICTMFHTSGYDTQAIVENN-----ESTEYGLFQISNKLWCKSSQ---VPHSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|390980751|pdb|3B0I|A Chain A, Crystal Structure Of Recombinant Human Alpha Lactalbumin
+-------------------------------------------------------------MKQFTKCELSQLLK--DIDGYGGIALPELICTMFHTSGYDTQAIVENN-----ESTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|157829683|pdb|1A4V|A Chain A, Alpha-Lactalbumin >gi|1335200|emb|CAA28800.1| mature alpha-lactalbumin [Homo sapiens]
+--------------------------------------------------------------KQFTKCELSQLLK--DIDGYGGIALPELICTMFHTSGYDTQAIVENN-----ESTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|60832429|gb|AAX37010.1| lactalbumin alpha [synthetic construct]
+-----------------------------------------MRFFVPLF-LVGIL-FPAILAKQFTKCELSQLLK--DIDGYGGIALPELICTMFHTSGYDTQAIVENN-----ESTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKLD----------------------------------------------------------
+>gi|578823715|ref|XP_006719458.1| PREDICTED: alpha-lactalbumin isoform X1 [Homo sapiens]
+----------------------------------MFLGVAKMRFFVPLF-LVGIL-FPAILAKQFTKCELSQLLK--DIDGYGGIALPELICTMFHTSGYDTQAIVENN-----ESTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|4504947|ref|NP_002280.1| alpha-lactalbumin precursor [Homo sapiens] >gi|426372370|ref|XP_004053098.1| PREDICTED: alpha-lactalbumin [Gorilla gorilla gori
+-----------------------------------------MRFFVPLF-LVGIL-FPAILAKQFTKCELSQLLK--DIDGYGGIALPELICTMFHTSGYDTQAIVENN-----ESTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|550545087|pdb|4L41|A Chain A, Human Lactose Synthase: A 2:1 Complex Between Human Alpha-lactalbumin And Human Beta1,4-galactosyltransferase >gi|5505
+-------------------------------------------------------------AKQFTKCELSQLLK--DIDGYGGIALPELICTMFHTSGYDTQAIVENN-----ESTEYGLFQISNKLWCKSSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILD-IKGIDYWLAHKALCTE-KLEQWLCEKL-----------------------------------------------------------
+>gi|984114953|ref|XP_015349071.1| PREDICTED: alpha-lactalbumin [Marmota marmota marmota]
+-----------------------------------------MKSFVSLF-LMSIL-FPAMQAKLYTKCELSEVLK--DMDGYGGITMPEWVCIIFHSSGYDTQTIVKNN-----DSTEYGLFQISNKFWCGSSQ---NSQSRNFCDISCDKFLDDDLTDDKMCAKKILD-QKGIDYWLAHKPLCSD-NLEQWSCKKL-----------------------------------------------------------
+>gi|674274935|tpe|CDM98850.1| TPA: lysozyme G [Procavia capensis]
+-----------------------------------------MMSFIPLL-LVGIL-IPAIQARQLTKCEVSQVLK--DMNGYAGIIMSELICTVFHSSAFDTQAIVNNS-----DSTEYGLFQISNKLWCRDHQ---IPQSRNICGISCDKFVDDDITDDIMCAKKILD-SEGIDYWPAHRPLCSE-KLEQWQCEKP-----------------------------------------------------------
+>gi|560961059|ref|XP_006202974.1| PREDICTED: alpha-lactalbumin [Vicugna pacos]
+-----------------------------------------MMSLVSLL-LVGIL-FPTIQAKQFTKCKLSDELK--GMNGHGGITLAEWICIIFHMSGYDTETVVSNN-----GNREYGLFQINNKVWCIDNE---NLQSRNICDISCDKFLDDDLTDDIMCAKKILD-KEGIDYWLAHKPLCSE-KLEQWQCEKW-----------------------------------------------------------
+>gi|560902685|ref|XP_006177726.1| PREDICTED: alpha-lactalbumin [Camelus ferus] >gi|743736381|ref|XP_010962515.1| PREDICTED: alpha-lactalbumin [Camelus bactrianus
+-----------------------------------------MMSLVSLL-LVGIL-FPTIQAKQFTKCKLSDELK--DMNGHGGITLAEWICIIFHMSGYDTETVVSNN-----GNREYGLFQINNKIWCRDNE---NLQSRNICDISCDKFLDDDLTDDKMCAKKILD-KEGIDYWLAHKPLCSE-KLEQWQCEKW-----------------------------------------------------------
+>gi|125997|sp|P00710.1|LALBA_CAMDR RecName: Full=Alpha-lactalbumin; AltName: Full=Lactose synthase B protein
+--------------------------------------------------------------KQFTKCKLSDELK--DMNGHGGITLAEWICIIFHMSGYDTETVVSNN-----GNREYGLFQINNKIWCRDNE---NLQSRNICDISCDKFLDDDLTDDKMCAKKILD-KEGIDYWLAHKPLCSE-KLEQWQCEKW-----------------------------------------------------------
+>gi|125992|sp|P08896.1|LALB2_HORSE RecName: Full=Alpha-lactalbumin B/C; AltName: Full=Lactose synthase B protein
+--------------------------------------------------------------KQFTKCQLSQVLK--SMDGYKGVTLPEWICTIFHNSGYDTQTIVKNN-----GKTEYGLFEINNKMWCRDNQ---ILPSRNICGISCNKFLDDDLTDDVMCAKKDLD-SEGIDYWLAHKPLCSE-KLEQWLCEEL-----------------------------------------------------------
+>gi|194211931|ref|XP_001915824.1| PREDICTED: alpha-lactalbumin [Equus caballus] >gi|664759414|ref|XP_008537271.1| PREDICTED: alpha-lactalbumin [Equus przewalskii
+-----------------------------------------MMSFASLL-LVGIL-FSATQAKQFTKCELSQVLK--SMDGYKGVTLPEWICTIFHSSGYDTQTIVKNN-----GKTEYGLFQINNKMWCRDNQ---ILPSRNICGISCNKFLDDDLTDDVMCAKKILD-SEGIDYWLAHKPLCSE-KLEQWLCEEL-----------------------------------------------------------
+>gi|126000|sp|P28546.1|LALBA_EQUAS RecName: Full=Alpha-lactalbumin; AltName: Full=Lactose synthase B protein >gi|262063|gb|AAB24573.1| alpha-lactalbumin [Equus as
+--------------------------------------------------------------KQFTKCELSQVLK--SMDGYKGVTLPEWICTIFHSSGYDTQTIVKNN-----GKTEYGLFQINNKMWCRDNQ---ILPSRNICGISCNKFLDDDLTDDVMCAKKILD-SEGIDYWLAHKPLCSE-KLEQWLCEEL-----------------------------------------------------------
+>gi|125991|sp|P08334.2|LALB1_HORSE RecName: Full=Alpha-lactalbumin A; AltName: Full=Lactose synthase B protein
+--------------------------------------------------------------KQFTKCELSQVLK--SMDGYKGVTLPEWICTIFHSSGYDTQTIVKNN-----GKTEYGLFQINNKMWCRDNQ---ILPSRNICGISCDKFLDDDLTDDVMCAKKILD-SEGIDYWLAHKPLCSE-KLEQWLCEEL-----------------------------------------------------------
+>gi|1012180697|ref|XP_016007337.1| PREDICTED: alpha-lactalbumin [Rousettus aegyptiacus]
+-----------------------------------------MMSFLFLL-LVGIL-FPATQAKQFTKCELSQVLK--DMDGYGGITLPEWICTIFHSSGYDTKTIINNN-----GKREYGLFQINNKLWCRDNQ---ILRSRNICGISCDKFLDDDLTDDMMCAKKILD-SEGIDYWLAHKPLCSE-KLEQWRCGKS-----------------------------------------------------------
+>gi|586521757|ref|XP_006916898.1| PREDICTED: alpha-lactalbumin [Pteropus alecto] >gi|431901388|gb|ELK08414.1| Alpha-lactalbumin [Pteropus alecto]
+-----------------------------------------MMSFLSLL-LVGIL-FPATQAKQFTKCELSQVLK--DMDGYGGITLPEWICTIFHSSGYDTETIINNN-----GKREYGLFQINNKLWCRDNR---KLQSRNICDISCDKFLDDDLTDDVICAKKILD-SEGIDYWLAHKPLCSE-KLEQWRCEKL-----------------------------------------------------------
+>gi|759143455|ref|XP_011366527.1| PREDICTED: alpha-lactalbumin [Pteropus vampyrus]
+-----------------------------------------MMSFLSLL-LVGIL-FPATQAKQFTKCELSQVLK--DMDGYGGITLPEWICTIFHSSGYDTKTIINNN-----GKREYGLFQINNKLWCRDNR---KLQSRNICGISCDKFLDDDLTDDVMCAKKILD-SEGIDYWLAHKPLCSE-KLEQWRCEKL-----------------------------------------------------------
+>gi|47523778|ref|NP_999525.1| alpha-lactalbumin precursor [Sus scrofa] >gi|126005|sp|P18137.2|LALBA_PIG RecName: Full=Alpha-lactalbumin; AltName: Full=Lactos
+-----------------------------------------MMSFVSLL-VVGIL-FPAIQAKQFTKCELSQVLK--DMDGYGDITLPEWICTIFHISGYDTKTIVHDN-----GSTEYGLFQINNKLWCRDNQ---IQ-SKNICGISCDKFLDDDLTDDMMCAKKILD-NEGIDYWLAHKALCSE-KLDQWLCEKM-----------------------------------------------------------
+>gi|1016657861|ref|XP_016056555.1| PREDICTED: alpha-lactalbumin [Miniopterus natalensis]
+-----------------------------------------MMSFVSLL-LMGIL-FPALQAKQFTKCELSQVLK--DMDGYGGVSLPEWICNVFHISGYDTETVVKNN-----GRTEYGLFQINNKLWCRDNQ---IPHSRNICGISCDKFLDDDLTDDMMCAKKILD-SEGIDYWLPHKPLCSE-KLEQWLCERW-----------------------------------------------------------
+>gi|641700565|ref|XP_008138833.1| PREDICTED: alpha-lactalbumin [Eptesicus fuscus]
+-----------------------------------------MMSFTTLL-LVGIL-FPALQAKQFTKCELSQVLK--DMDGYGGVTLPEWICNIFHISGYDTQTIVNNN-----GKTEYGLFQINNKLWCRDNQ---IQ-SRNICDISCDKFLDDDITDDMICAKKILD-SEGIDYWLPHKPLCSE-KLEQWLCEKL-----------------------------------------------------------
+>gi|554566260|ref|XP_005877429.1| PREDICTED: alpha-lactalbumin [Myotis brandtii] >gi|521032865|gb|EPQ14650.1| Alpha-lactalbumin [Myotis brandtii]
+-----------------------------------------MMSFLSLL-LVGIL-FPALEAKQFTKCELSQVLK--DMDGYGGVTLPEWICNIFHVSGYDTQTMVSNN-----GKTEYGLFQINNKLWCRDNQ---IQ-SRNICDISCDKFLDDDLTDDMMCAKKILD-SEGIDYWLPHKPLCSE-KLEQWLCEKL-----------------------------------------------------------
+>gi|558137247|ref|XP_006091554.1| PREDICTED: alpha-lactalbumin [Myotis lucifugus] >gi|674274899|tpe|CDM98832.1| TPA: lysozyme G [Myotis lucifugus]
+-----------------------------------------MMSFLSLL-LVGIL-FPALEAKQFTKCELSQVLK--DMDGYGGVTLPEWICNIFHVSGYDTQTMVNNN-----GKTEYGLFQINNKLWCRDNQ---IQ-SRNICDISCDKFLDDDLTDDMICAKKILD-SEGIDYWLPHKPLCSE-KLEQWLCEKL-----------------------------------------------------------
+>gi|987929687|ref|XP_006755552.2| PREDICTED: alpha-lactalbumin [Myotis davidii] >gi|432114511|gb|ELK36359.1| Alpha-lactalbumin [Myotis davidii]
+-----------------------------------------MMSFLSLL-LVGIL-FPALEAKQFTKCELSQVLK--DMDGYGGVTLPEWICNIFHVSGYDTQTIVNNN-----GKTEYGLFQINNKLWCRDNQ---IQ-SRNICDISCDKFLDDDLTDDMICAKKILD-SEGIDYWLPHKPLCSE-KLEQWLC--------------------------------------------------------------
+>gi|634839907|ref|XP_007936067.1| PREDICTED: alpha-lactalbumin [Orycteropus afer afer]
+-----------------------------------------MMSFFPLL-LVGIL-FPAIQAKQFTKCELSQVLK--DLVGYRGITLQEWSCTLFHMNSYNTQAIVHNN-----GSTEYGLFQISNKSWCKDDQ---IPQSRNICDISCDKFLDDDLTDDIMCVKKILD-KEGIDHWLAHKPLCSE-ELDQWLCKKL-----------------------------------------------------------
+>gi|1048469896|ref|XP_017502031.1| PREDICTED: alpha-lactalbumin [Manis javanica]
+-----------------------------------------MVSFVSLL-LVGIM-FPALQAKQFTKCELSQVLR--DMDGYGSITLPEWICTIFHISGYDTQTIVNNS-----GSTEYGVFQINNKLWCRDNQ---NPQSRNICDISCDKLLDDDLTDDMMCAKKILD-NEGIDYWLAHKPLCSE-KLDQWLCEKL-----------------------------------------------------------
+>gi|674274887|tpe|CDM98826.1| TPA: lysozyme G [Canis lupus familiaris]
+-----------------------------------------MMSFVSLL-LVSIL-FPAIQAKQFTKCELSQVLK--DMDGFGGIALPEWICTIFHTSGYDTQTIVNNN-----GGTDYGLFQISNKFWCKDDQ---NLQSRNICDISCDKFLDDDLTDDMICAKKILD-KEGIDYWLAHKPLCSE-KLEQWRCEKL-----------------------------------------------------------
+>gi|50978848|ref|NP_001003129.1| alpha-lactalbumin precursor [Canis lupus familiaris] >gi|27923790|sp|Q9N2G9.1|LALBA_CANFA RecName: Full=Alpha-lactalbumin; AltN
+-----------------------------------------MMSFVSLL-LVSIL-FPAIQAKQFTKCELPQVLK--DMDGFGGIALPEWICTIFHTSGYDTQTIVNNN-----GGTDYGLFQISNKFWCKDDQ---NLQSRNICDISCDKFLDDDLTDDMICAKKILD-KEGIDYWLAHKPLCSE-KLEQWRCEKL-----------------------------------------------------------
+>gi|167643015|gb|ABZ89951.1| alpha-lactalbumin delta isoform [Phoca vitulina]
+-----------------------------------------MMCFVSLL-LVGIM-FPAIQAKQFT----------------------KWICTIFHTSGYDTQTIVSNS-----GSTEYGLFKINNKFWCRDNQ---ILQSRNICDDSCDKFLDDDLTDDMICAKKILD-KEGIDYWLAHKPLCSE-KLEQWHCEKL-----------------------------------------------------------
+>gi|167643013|gb|ABZ89950.1| alpha-lactalbumin [Phoca vitulina]
+-----------------------------------------MMCFVSLL-LVGIM-FPAIQAKQFTKCELSLVLK--DVYGFRGIALPEWICTIFHTSGYDTQTIVSNN-----GSTEYGLFQINNKFWCRDNQ---ILQSRNICDISCDKFLDDDLTDDMICAKKILD-KEGIDYWLAHKPLCSE-KLEQWHCEKL-----------------------------------------------------------
+>gi|585153938|ref|XP_006729335.1| PREDICTED: alpha-lactalbumin-like isoform X3 [Leptonychotes weddellii]
+-----------------------------------------MMSFVSLL-LVGIM-FPAIQAKQF----------------------TKWICTIFHTSGYDTQTIVSNN-----GSTEYGLFQINNKCWCRDNQ---ILQSRNICDISCDKFLDDDLTDDMICVKKILD-KEGIDYWLAHKPLCSE-KLEQWHCEKL-----------------------------------------------------------
+>gi|167643009|gb|ABZ89948.1| alpha-lactalbumin [Pusa hispida]
+-----------------------------------------MMSFVSLL-LVGIM-FPAIQAKQFRKCELSQVLK--DMDGFRGIALPKWICTIFHTSGYDTQTIVSNN-----GSTEYGLFQINNKFWCRDNQ---ILQSRNICDISCDKFLDDDLTDDMICAKKILD-KEGIDYWLAHKPLCSE-KLEQWHCEKL-----------------------------------------------------------
+>gi|167643011|gb|ABZ89949.1| alpha-lactalbumin delta isoform [Pusa hispida]
+-----------------------------------------MMSFVSLL-LVGIM-FPAIQAKQFR----------------------KWICTIFHTSGYDTQTIVSNN-----GSTEYGLFQINNKFWCRDNQ---ILQSRNICDISCDKFLDDDLTDDMICAKKILD-KEGIDYWLAHKPLCSE-KLEQWHCEKL-----------------------------------------------------------
+>gi|154849952|gb|ABS88306.1| alpha-lactalbumin [Odobenus rosmarus rosmarus]
+-----------------------------------------MMSFVSLL-LVSIM-FPAIQAKQFTKCELSQVLN--DMDGFGGIALPEWICTVFHTSGYDTQTIVSNN-----GSTEYGLFQINNKFWCRDNQ---ILQSRNICDISCDKFLDNDLTDDMICAKKILD-KEGIDYWPINH----S-ALRSWNSGTVRSCECLLSLLLL--PSVYSWNASSLRLPQFASFFPLEADLPLSPEPCSDTIGHLRTILQ
+>gi|472362725|ref|XP_004400946.1| PREDICTED: alpha-lactalbumin isoform X1 [Odobenus rosmarus divergens]
+-----------------------------------------MMSFVSLL-LVGIM-FPAIQAKQFTKCELSQVLN--DMDGFGGIALPEWICTVFHTSGYDTQTIVSNN-----GSTEYGLFQINNKFWCRDNQ---ILQSRNICDISCDKFLDNDLTDDMICAKKILD-KEGIDYWWAHKPLCSE-KLEQWHCEKL-----------------------------------------------------------
+>gi|472362727|ref|XP_004400947.1| PREDICTED: alpha-lactalbumin isoform X2 [Odobenus rosmarus divergens]
+-----------------------------------------MMSFVSLL-LVGIM-FPAIQAKQFTKCELSQVLN--DMDGFGGIALPEWICTVFHTSGYDTQTIVSNN-----GSTEYGLFQINNKFWCRDNQ---ILQSRNICDISCDKFLDNDLTDDMICAKKILD-KEGIDYC-------------------------------------------------------------------------------
+>gi|154849942|gb|ABS88301.1| alpha-lactalbumin, partial [Callorhinus ursinus] >gi|154849946|gb|ABS88303.1| alpha-lactalbumin, partial [Neophoca cinerea]
+---------------------------------------------------LCIM-FPAIQAKQFRKCELSQVLK--DMDGFGGIALPEWICTVFHTSGYDTQTIVSNN-----GSTEYGLFQINNKFWCRDNQ---ILQSRNICDISCDKFLDDDLTDDMICAKKILD-KEGIDCC-------------------------------------------------------------------------------
+>gi|154849937|gb|ABS88298.1| alpha-lactalbumin long isoform [Arctocephalus tropicalis] >gi|154849940|gb|ABS88300.1| alpha-lactalbumin long isoform [Arctocep
+-----------------------------------------MMSFVSLL-LVGIM-FPAIQAKQFRKCELSQVLK--DMDGFGGIALPEWICTVFHTSGYDTQTIVSNN-----GSTEYGLFQINNKFWCRDNQ---ILQSRNICDISCDKFLDDDLTDDMICAKKILD-KEGIDCW-------------------------------------------------------------------------------
+>gi|154849936|gb|ABS88297.1| alpha-lactalbumin short isoform [Arctocephalus tropicalis] >gi|154849939|gb|ABS88299.1| alpha-lactalbumin short isoform [Arctoc
+-----------------------------------------MMSFVSLL-LVGIM-FPAIQAKQFRKCELSQVLK--DMDGFGGIALPEWICTVFHTSGYDTQTIVSNN-----GSTEYGLFQINNKFWCRDNQ---ILQSRNICDISCDKFLDDDLTDDMICAKKILD-KEGIDCC-------------------------------------------------------------------------------
+>gi|511919480|ref|XP_004778979.1| PREDICTED: alpha-lactalbumin [Mustela putorius furo]
+-----------------------------------------MMSFISLL-LVGIM-FPAIQAKQFTKCELSQVLK--DMDGFGGIALPEWICTIFHTSGYDTQTIVNNN-----GSTEYGLFQINNKVWCKDNK---ILQSRNICNISCDKFLDDDLTDDMTCAKKILN-KEGIDYWLAHKPLCSE-KLEQWHCEKL-----------------------------------------------------------
+>gi|586946349|ref|NP_001276999.1| alpha-lactalbumin precursor [Leptonychotes weddellii] >gi|154849948|gb|ABS88304.1| alpha-lactalbumin [Leptonychotes weddellii] 
+-----------------------------------------MMSFVSLL-LIGIM-FPAIQAKQFTKCELSQVLK--DMDGFGGIALPEWICTIFHTSGYDTQTIVSNN-----GSTEYGLFQINNKCWCRDNQ---ILQSRNICDISCDKFLDDDLTDDMICVKKILD-KEGIDYWLAHKPLCSE-KLEQWHCEKL-----------------------------------------------------------
+>gi|585153936|ref|XP_006729334.1| PREDICTED: alpha-lactalbumin-like isoform X2 [Leptonychotes weddellii]
+-----------------------------------------MMSFVSLL-LVGIM-FPAIQAKQFTKCELSQVLK--DMDGFGGIALPEWICTIFHTSGYDTQTIVSNN-----GSTEYGLFQINNKCWCRDNQ---ILQSRNICDISCDKFLDDDLTDDMICVKKILD-KEGIDYC-------------------------------------------------------------------------------
+>gi|671023824|ref|XP_008702738.1| PREDICTED: alpha-lactalbumin [Ursus maritimus]
+-----------------------------------------MMSFVSLL-LVGIM-FPAFQAKQFTKCELSQVLK--DMDGFGGIALSEWICTIFHTSGYDTQTIVNNN-----GSTEYGLFQINNKFWCRDNQ---ILQSRNICDISCDKFLDDDLTDDMICAKKILD-KEGIDYWLAHKPLCSE-KLEQWHCEKL-----------------------------------------------------------
+>gi|301783681|ref|XP_002927252.1| PREDICTED: alpha-lactalbumin [Ailuropoda melanoleuca] >gi|281343729|gb|EFB19313.1| hypothetical protein PANDA_017019 [Ailuropod
+-----------------------------------------MMFFVSLL-LVGIM-CPAIQAKQFTKCELSQVLK--DMDGFGGIALSEWICTIFHTSGYDTQTIVNNN-----GSTEYGLFQINNKFWCRDNQ---ILQSRNICDISCDKFLDDDLTDDMICAKKILD-KEGIDYWLAHKPLCSE-KLEQWHCEKL-----------------------------------------------------------
+>gi|410964241|ref|XP_003988664.1| PREDICTED: alpha-lactalbumin [Felis catus] >gi|961722190|ref|XP_014921356.1| PREDICTED: alpha-lactalbumin [Acinonyx jubatus]
+-----------------------------------------MMSFVSLL-LIGIM-FPAIQGKQFTKCELSQVLK--DMDGYGGIALSEWICTIFHTSGYDTQTIVNNN-----GSTEYGLFQINNKFWCRDNQ---ILQSRNICDISCDKFLDDDLTDDMICAKKILD-KEGIDYWLAHKPLCSE-KLEQWHCEML-----------------------------------------------------------
+>gi|591291295|ref|XP_007073016.1| PREDICTED: alpha-lactalbumin [Panthera tigris altaica]
+-----------------------------------------MMSFVSLL-LIGIM-FPAIRGKQFTKCELSQVLK--DMDGYGGIPLSEWICTIFHTSGYDTQTIVNNS-----GSTEYGLFQINNKFWCRDNQ---ILQSRNICDISCDKFLDDDLTDDIICAKKILD-KEGIDYWLAHKPLCSE-KLEQWHCEM------------------------------------------------------------
+>gi|667265239|ref|XP_008568909.1| PREDICTED: alpha-lactalbumin [Galeopterus variegatus]
+-----------------------------------------MMSFVPLI-LVGIL-FPAIQAKQFTKCELSQVLK--DMDGRGGITLPEWICTIFHISGYDTQTIVSNN-----GSTEYGLFQISDKFWCRSNH---IPQSRNLCNIACDQFLDDDLTDDMMCAKKILD-NKGMDYWLAHKPLCSE-KLEQWLCEQL-----------------------------------------------------------
+>gi|478509455|ref|XP_004429005.1| PREDICTED: alpha-lactalbumin [Ceratotherium simum simum]
+-----------------------------------------MMSFIPLL-LVGIL-FPAIQAKQFTKCELSQVLK--PMDGYKGTTLPEWICTIFHISGYDTQTILNNN-----GRTEYGLFQINNKIWCSDNQ---ILQSRNICDISCDKFLDDDLTDDMMCAKKILD-NKGIDYWLAHKALCSE-KLEQWLCEDL-----------------------------------------------------------
+>gi|471413554|ref|XP_004388323.1| PREDICTED: alpha-lactalbumin [Trichechus manatus latirostris]
+-----------------------------------------MMSFVPLL-LVSIL-FPAIQAKQFTKCELSQVLK--DMAGYGGITLPEFICTIFHISGYDTQTIVDNN-----GSTEYGLFQISNKYWCRDHQ---IPQSKNTCDISCDKFLDDDLTDDMICAKKILD-SEGIGYWPAHKPLCSE-KLEQWLCEKL-----------------------------------------------------------
+>gi|344267884|ref|XP_003405795.1| PREDICTED: alpha-lactalbumin [Loxodonta africana] >gi|674274933|tpe|CDM98849.1| TPA: lysozyme G [Loxodonta africana]
+-----------------------------------------MMSFVPLL-LVGIL-FPAIQAKQFTKCELSQVLK--DIDGYAGITLPEFTCTIFHISGYDTQTIVNNN-----GSTEYGLFQISNKYWCRDHQ---IPQSRNICDISCDKFLDDDLTDDMMCAKKILD-SKGIDYWLAHKPLCSE-KLEQWLCEKL-----------------------------------------------------------

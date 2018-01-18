@@ -1,0 +1,16 @@
+---------------
+
+file: 1b5m61-120.txt
+original acid: P
+mutated acid: A
+at position: 21
+
+Statistics:
+
+No all proteins: 250
+Is same at position: count = 247
+No. basic acids at position: 0
+No. mutated acids at position: 0
+No. else acids at position: 3
+Originals : 0.000000
+Mutated : 0.000000

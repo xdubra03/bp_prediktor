@@ -1,0 +1,500 @@
+>gi|230557|pdb|2HIP|AChain A, The Molecular Structure Of The High Potential Iron-Sulfur Protein Isolated From Ectothiorhodospira Halophila Determined At 2
+---EPRAEDGHAHDYVNEAA--DASGHPRYQEGQLCENCAFWGEAV--QDGWGRCTHPDFDEVLVKAEGWCSVYAPASS
+>gi|157833500|pdb|1PIH|AChain A, The Three Dimensional Structure Of The Paramagnetic Protein Hipip I From E.Halophila Through Nuclear Magnetic Resonance >gi|
+---EPRAEDGHAHDYVNEAA--DASGHPRYQEGQLCENCAFWGEAV--QDGWGRCTHPDFDEVLVKAEGWCSVYAPAS-
+>gi|123481|sp|P04168.2|HIP1_HALHARecName: Full=High-potential iron-sulfur protein isozyme I; AltName: Full=HiPIP 1; AltName: Full=High-redox-potential ferredoxin 1
+---EPRAEDGHAHDYVNEAA--DASGHPRYQEGQLCENCAFWGEAV--QDGWGRCTHPDFDEVLVKAEGWCSVYAPAS-
+>gi|500138274|ref|WP_011814277.1|high potential iron-sulfur protein [Halorhodospira halophila] >gi|121589675|gb|ABM62255.1| High potential iron-sulfur protein [Halor
+---ESRAEDGHAHDYVNDAA--DASDHARFEEGQLCENCVFWGEGV--ENGWGRCTHPDFDDVLVRAEGWCSVYAPAS-
+>gi|123482|sp|P04169.1|HIP2_HALHARecName: Full=High-potential iron-sulfur protein isozyme II; AltName: Full=HiPIP 2; AltName: Full=High-redox-potential ferredoxin 2
+----PKAEDDHAHDYVNDAA--D-TDHARFQEGQLCENCQFWVDYV---NGWGYCQHPDFTDVLVRGEGWCSVYAPA--
+>gi|500138149|ref|WP_011814152.1|high potential iron-sulfur protein [Halorhodospira halophila] >gi|121589550|gb|ABM62130.1| High potential iron-sulfur protein [Halor
+----PKAEDDHDHDYVNDVA--D-TDHARYQEGQLCENCQFWVDYV--DGDWGYCEHPSFTDVLVKGEGWCSVYAPA--
+>gi|517770685|ref|WP_018940893.1|high potential iron-sulfur protein [Thioalkalivibrio sp. AKL11]
+---KPKAEDGHAHDYVNDAS--DASDHDAYEDGAVCENCAFWAGEE--EDGWGGCHHADFQDVLVNAEGWCDAH-----
+>gi|1094572977|emb|SEO88548.1|Tat (twin-arginine translocation) pathway signal sequence [Aquisalimonas asiatica]
+-----KAEDGHAHDYVNDAA--DA-DHEGYEDGQRCDNCAFWAGES--DNGWGECHHPDFSDVLVKDEGWCSVWA----
+>gi|502746947|ref|WP_012981931.1|MULTISPECIES: High potential iron-sulfur protein [Thioalkalivibrio] >gi|288943334|gb|ADC71033.1| High potential iron-sulfur protein [Thioalka
+---KPKAEDGHAHDYVNNAS--DASDHDAYEDGAVCENCAFWAGEE--ENGWGGCHHQAFQEVLVNAEGWCDAH-----
+>gi|764486347|ref|WP_044388182.1|histidine kinase [Marinobacter excellens] >gi|938296612|gb|KPQ30516.1| High potential iron-sulfur protein [Marinobacter excellens HL-55]
+---KPKAEDGHALDYVNNGA--DS-GHDKYQDGNKCSNCAFWAGEE--SGGWGGCRHPQFANVLVNAEGWCNTYVP---
+>gi|517853695|ref|WP_019023903.1|MULTISPECIES: high potential iron-sulfur protein [Thioalkalivibrio]
+---KPKAEDGHAHDYVNDAS--DASDHDAYEDGAVCENCAFWAGEE--EDGWGGCHHQAFQDVLVNADGWCDAH-----
+>gi|1119781485|ref|WP_072678708.1|histidine kinase [Marinobacter hydrocarbonoclasticus] >gi|1112890676|gb|OJS98269.1| histidine kinase [Marinobacter hydrocarbonoclasticus]
+---KPRAEDGHALDYVNDGS--TS-GHEKYQDGNKCSNCAFWAGEV--SGGWGGCRHPQFSDVLVNADGWCNTWVP---
+>gi|1223667510|ref|WP_091702796.1|histidine kinase [Marinobacter persicus] >gi|1097250924|emb|SFJ62624.1| High potential iron-sulfur protein [Marinobacter persicus]
+---KPHAEDGHALNYVNDAT--TS-SHDKYQDGQKCQNCVFWAKDA--KDGWGTCRHPKFADVLVNENGWCNSYAPGA-
+>gi|516868477|ref|WP_018138570.1|MULTISPECIES: high potential iron-sulfur protein [Thioalkalivibrio]
+---KPKAEDGHAHDYVNDAS--DASGHDAYEDGAVCDNCAFWAGEE--DNGWGGCHHQAFQDVLVNADGWCDAH-----
+>gi|500139160|ref|WP_011815163.1|high potential iron-sulfur protein [Halorhodospira halophila] >gi|121590561|gb|ABM63141.1| High potential iron-sulfur protein [Halor
+----PQADDGHAHDYVGDAA--DAEDHARYQAGQQCQDCRFWEGEV--EGGYGECSHPDFADVLVSADGWCDVFAPA--
+>gi|654321537|ref|WP_027830560.1|histidine kinase [Marinobacter sp. HL-58] >gi|938265010|gb|KPQ00235.1| high potential iron-sulfur protein [Marinobacter sp. HL-58]
+----PKAEDGHALDYVNDGA--DS-DHEKYKEGSQCDGCAFWAGEE--SDGWGKCRHPEFSDVLVNAKGWCNTWVP---
+>gi|518471579|ref|WP_019641786.1|hypothetical protein [Thioalkalivibrio sp. ALSr1]
+---DEKAEDGHAHDYVNDAA--DAADHPQFQEGARCDNCAFWNENVDAPEGWGGCFHQDFQSVLVNEGGWCDAH-----
+>gi|518419056|ref|WP_019589263.1|MULTISPECIES: hypothetical protein [Thioalkalivibrio]
+---EEKAEDGHAHDYVNDAA--DAADHPQFQEGARCDNCAFWNANADAPDGWGGCFHQDFQNVLVNEAGWCDAH-----
+>gi|1001798089|ref|WP_061332496.1|histidine kinase [Marinobacter excellens] >gi|1001036878|gb|KXO08972.1| High-potential iron-sulfur protein isozyme [Marinobacter excellen
+---KPRAEDGHALDYVNDGS--TS-DHEKYQDGNKCSNCAFWAGEV--SGGWGGCRHPQFSDVLVNADGWCNTWVP---
+>gi|517776257|ref|WP_018946465.1|MULTISPECIES: hypothetical protein [Thioalkalivibrio]
+---DEKAEDGHAHDYVNDAA--DAADHPQFQEGARCDNCAFWNANADAPDGWGGCFHQDFQNVLVNEAGWCDAH-----
+>gi|517851078|ref|WP_019021286.1|MULTISPECIES: hypothetical protein [Thioalkalivibrio]
+---DEKAEDGHAHDYVNDAA--DAADHPQFQEGARCDNCAFWNANVDAPEGWGGCFHQDFQNVLVNEAGWCDAH-----
+>gi|655043673|ref|WP_028492351.1|histidine kinase [Thioalkalivibrio sp. ALE19]
+---DEKAEDGHAHDYVNDAA--DAADHPQFQEGARCDNCAFWNANVDAPEGWGGCFHQDFQNVLVNEAGWCDAH-----
+>gi|954181515|ref|WP_058093005.1|histidine kinase [Marinobacter sp. LQ44] >gi|1008273002|gb|AMQ88900.1| histidine kinase [Marinobacter sp. LQ44]
+---KPKAQDGHALDYVNDGS--TS-DHEKYQEGNKCSNCAFWAGEV--SGGWGGCRHPQFSDVLVNADGWCNTWVP---
+>gi|517699873|ref|WP_018870081.1|hypothetical protein [Thioalkalivibrio sp. ALgr3]
+---DEKAEDGHAHDYVNDAA--DAADHPQFQEGARCDNCAFWNANVDAPEGWGGCFHQDFQNVLVNEGGWCDAH-----
+>gi|517767792|ref|WP_018938000.1|MULTISPECIES: hypothetical protein [Thioalkalivibrio]
+----PKAEDGHRHDYVNNAA--DAAGHEDYSEGEKCKNCAFWGSGD---AEWGQCFHADFQGVQVNAAGWCDEYVGA--
+>gi|518401831|ref|WP_019572038.1|hypothetical protein [Thioalkalivibrio sp. ALMg3]
+---NPKAEDGHRHDYVNNAA--DAAGHEDYSEGEKCKNCAFWGGGD---AEWGQCFHTDFQGVQVNASGWCDEYVGA--
+>gi|518424707|ref|WP_019594914.1|hypothetical protein [Thioalkalivibrio sp. ALM2T]
+---NPKAEDGHRHDYVNNAA--DAAGHEDYSEGEKCKNCAFWGGGD---SEWGQCFHADFQGVQVNAAGWCDEYVGA--
+>gi|516883327|ref|WP_018146315.1|MULTISPECIES: hypothetical protein [Thioalkalivibrio] >gi|827624365|gb|AKJ94417.1| histidine kinase [Thioalkalivibrio versutus]
+---NPKAEDGHRHDYVNNAA--DAAGHEDYSEGEKCKNCAFWGGGD---AEWGQCFHADFQGVQVNASGWCDEYVGA--
+>gi|517479862|ref|WP_018650444.1|MULTISPECIES: hypothetical protein [Thioalkalivibrio] >gi|1145636912|gb|OOC48510.1| histidine kinase [Thioalkalivibrio versutus]
+---NPKAEDGHRHDYVNNAA--DAAGHEDYSEGEKCKNCAFWGGGD---AEWGQCFHADFQGVQVNAAGWCDEYVGA--
+>gi|518398957|ref|WP_019569164.1|hypothetical protein [Thioalkalivibrio sp. ALE11]
+---DEKAEDGHAHDYVNDAA--DAADHPQFQEGARCDNCAFWNANADAPEGWGGCFHQDFQNVLVNEGGWCDAH-----
+>gi|517778680|ref|WP_018948888.1|hypothetical protein [Thioalkalivibrio sp. ALMg11]
+---NPKAEDGHRHDYVNNAA--DAAGHEDYTEGEKCKNCAFWGGGD---AEWGQCFHADFQGVQVNAAGWCDEYVGA--
+>gi|516566832|ref|WP_017941898.1|MULTISPECIES: hypothetical protein [Thioalkalivibrio]
+----PKAEDGHRHDYVNDAA--DAAGHEDYAEGEKCKTCAFWGGGD---AEWGQCFHADFQGVQVNANGWCDEYVGA--
+>gi|517764433|ref|WP_018934641.1|hypothetical protein [Thioalkalivibrio sp. ALJ24]
+---DEKAEDGHAHDYVNDSA--DAADHPQYEDGARCDNCAFWDANVDAPDGYGGCFHQAFQNVLVAEGGWCDAH-----
+>gi|517702099|ref|WP_018872307.1|hypothetical protein [Thioalkalivibrio sp. ALJ16]
+-----QAEDGHAHNYVNNAA--DS-DHSDYSEGEKCKNCAFWGGGD---DQWGQCFHADFQGVQVNAEGWCDEYVGA--
+>gi|516874952|ref|WP_018141896.1|MULTISPECIES: hypothetical protein [Thioalkalivibrio]
+---EERAEDGHAHSYVNNAA--DA-DHADYSDGEKCKNCAFWGGGD---SEWGQCFHADFQGVQVNAEGWCDEYVSS--
+>gi|1223966757|ref|WP_091997763.1|histidine kinase [Marinobacter pelagius] >gi|1097531092|emb|SFM43960.1| High potential iron-sulfur protein [Marinobacter pelagius]
+--------DGHAMDYVNDAT--TS-DHPKYKDGNKCSTCAFWAGEE--SGGWGTCRHPEFSDVLVNKNGWCSTWVP---
+>gi|636790460|ref|WP_024326499.1|histidine kinase [Thioalkalivibrio sp. AKL19]
+---DTKAEDGHAHNYVNNAA--DA-DHADYSEGEKCKNCAFWGGGD---AEWGQCFHADFQGVQVNAEGWCDEYVGA--
+>gi|740209651|ref|WP_038051522.1|histidine kinase [Thioalkalivibrio sp. ALJ1]
+---EEQAEDGHAHSYVNNAA--DA-DHADYSDGEKCKNCAFWGGGD---SEWGQCFHADFQGVQVNAEGWCDEYVSS--
+>gi|517690364|ref|WP_018860572.1|MULTISPECIES: high potential iron-sulfur protein [Thioalkalivibrio]
+---KPKAEDGHAHDYVNDAA--DAADHDAYEDGATCENCAFWAGEE--ENGWGGCHHQAFQEVLVNAEGWCDAH-----
+>gi|517695101|ref|WP_018865309.1|MULTISPECIES: high potential iron-sulfur protein [Thioalkalivibrio]
+---KPKAEDGHAHDYVNDAA--DAADHDAYEDGAICENCAFWAGEE--ENGWGGCHHQAFQDVLVNAEGWCDAH-----
+>gi|1001935116|gb|KXS53400.1|High potential iron-sulfur protein [Marinobacter sp. T13-3]
+---KPHAEDGHALGYVNDST--TT-DSARHQKGQHCSSCVFWAGEN--SGGWGTCRHPKFADVQVNQNGWCNSYAPAA-
+>gi|518456174|ref|WP_019626381.1|hypothetical protein [Thioalkalivibrio sp. ALJT]
+-----QAEDGHAHHYVNDAA--DS-DHPDYAAGEKCKNCAFWGGGD---AQWGQCFHAEFQGVQVNADGWCDAY-----
+>gi|636802941|ref|WP_024329852.1|histidine kinase [Thioalkalivibrio sp. ALR17-21]
+---KPMAEDGHAHNYVADAA--NA-DHPDYSEGERCDNCAFWDG-------NGGCHHADFQGVNVSANGWCDAW-----
+>gi|1147538303|ref|WP_077243691.1|histidine kinase [Thioalkalivibrio halophilus] >gi|1145562570|gb|OOC11057.1| histidine kinase [Thioalkalivibrio halophilus]
+---SPMAEDGHAHNYVADAA--NA-DHPDYSEGERCDNCAFWDG-------NGGCHHADFQGVNVSANGWCDAW-----
+>gi|518471729|ref|WP_019641936.1|hypothetical protein [Thioalkalivibrio sp. ALSr1]
+---NPMAEDGHAHNYVADAA--NA-DHPDYSAGERCDNCAFWDG-------NGRCHHADFQGVNVAAGGWCDAW-----
+>gi|517776119|ref|WP_018946327.1|hypothetical protein [Thioalkalivibrio sp. AKL17]
+---SPMAEDGHAHNYVADAA--NA-DHPDYSEGERCDNCAFWDG-------NGGCHHADFQGVNVAAGGWCDAW-----
+>gi|517699719|ref|WP_018869927.1|MULTISPECIES: hypothetical protein [Thioalkalivibrio]
+---NPMAEDGHAHNYVADAA--NA-DHPDYSEGERCDNCAFWDG-------NGGCHHADFQGVNVAAGGWCDAW-----
+>gi|655043490|ref|WP_028492174.1|histidine kinase [Thioalkalivibrio sp. ALE19]
+---NPMAEDGHAHNYVADAA--NA-DHPDYSEGERCDNCAFWDG-------NGGCHHADFQGVNVAAGGWCDAW-----
+>gi|517850963|ref|WP_019021171.1|hypothetical protein [Thioalkalivibrio sp. ALE23]
+---NPMAEDGHAHNYVADAA--NA-DHPDYSEGERCDNCAFWDG-------NGGCHHADFQGVNVAAGGWC--------
+>gi|518419132|ref|WP_019589339.1|MULTISPECIES: hypothetical protein [Thioalkalivibrio]
+---NPMAEDGHAHNYVADAA--NA-DHPDYSEGERCDNCAFWDG-------NGGCHHADFQGVNVAAGGWC--------
+>gi|518420465|ref|WP_019590672.1|hypothetical protein [Thioalkalivibrio sp. ALE20]
+---NPMAEDGHAHNYVADAA--NA-DHPDYSEGERCDNCAFWDG-------NGGCHHADFQGVNVAAGGWC--------
+>gi|648609174|ref|WP_026300925.1|histidine kinase [Thioalkalivibrio sp. ALE23]
+-----KAEDGHAHDYVDDAA--DAADHPQYQEGARCDNCAFWDDTADAPEGYGGCHHQAFQNVLVADGGWCDAH-----
+>gi|517697673|ref|WP_018867881.1|MULTISPECIES: hypothetical protein [Thioalkalivibrio]
+---DTKAEDGHAHNYVNDAA--DA-DHADYSEGEKCKNCAFWGGGD---DQWGQCFHADFQGVQVNADGWCDEYVGA--
+>gi|1222152041|ref|WP_090207423.1|High potential iron-sulfur protein [Ectothiorhodospira magna] >gi|1094274105|emb|SEQ15253.1| High potential iron-sulfur protein [Ect
+---------AQALNYVHDAS--AAAGHPAYEEGQNCLNCLLYTD-A-SAMDWGPCT--VFPNLLVAAEGWCTAW-----
+>gi|496217190|ref|WP_008931432.1|High potential iron-sulfur protein [Ectothiorhodospira sp. PHS-1] >gi|373941320|gb|EHQ51865.1| High potential iron-sulfur protein [E
+----------QALNYVHDAS--AAAGHPAYEEGQTCLNCLLYSD-A-SAQDWGPCS--VFPGKLVSANGWCTAW-----
+>gi|982073488|ref|WP_060244630.1|High potential iron-sulfur protein [Burkholderia pseudomultivorans] >gi|980344279|gb|KWF25137.1| High potential iron-sulfur protein 
+----------------------DAAQFPKYQAGQRCANCRFYSGAA--SDAAGTCP--MFAGKLVAAEGWCNVYA----
+>gi|981589338|ref|WP_059790031.1|High potential iron-sulfur protein [Burkholderia sp. MSMB1072] >gi|976873158|gb|KVH62985.1| High potential iron-sulfur protein [Burk
+--------------------AVDAGKFPKYQAGQTCSNCRFYKAAT--GESFGTCP--MFAGKTVAAEGWCNVYA----
+>gi|1223980417|ref|WP_092011254.1|hypothetical protein [Marinobacter daqiaonensis]
+------------------------------------------------TDGWGKCRHPEFSDVLVNAKGWCSVYAP---
+>gi|940340015|ref|WP_054965128.1|hypothetical protein [Thiohalorhabdus denitrificans] >gi|939542821|gb|KPV41536.1| hypothetical protein AN478_02945 [Thiohalorhabdus denitrif
+---DPEGAQAQSLNYVHDAS--E-VDHESYEEGQLCKNCQFYQA-G-EDEEWGPCT--IFGGDLVNANGWCTSYAP---
+>gi|981368771|ref|WP_059583268.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia] >gi|976502485|gb|KVE03101.1| High potential iron-sulfur protein [Burkholderia
+--------------------AVDAGKFPKYQAGQTCSNCRFYKAAA--GESFGTCP--MFAGKTVAAEGWCNVYA----
+>gi|981636742|ref|WP_059835861.1|High potential iron-sulfur protein [Burkholderia sp. MSMB1835] >gi|978227115|gb|KVL27689.1| High potential iron-sulfur protein [Burk
+--------------------AVDAGKFPKYQAGQTCSNCRFYKAAA--GESFGTCP--MFAGKTVAAEGWCNVYA----
+>gi|981399655|ref|WP_059611593.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976043119|gb|KUZ83085.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFGGKVVAAEGWCNVYA----
+>gi|982332299|ref|WP_060353790.1|High potential iron-sulfur protein [Burkholderia sp. MSMB1459WGS] >gi|980876308|gb|KWO43156.1| High potential iron-sulfur protein [B
+--------------------AVDAGKFPKYQAGQTCSNCRFYKAAA--GESFGTCP--MFAGKTVAAEGWCNVYA----
+>gi|981842509|ref|WP_060030890.1|High potential iron-sulfur protein [Burkholderia sp. MSMB1078WGS] >gi|979032147|gb|KVT18519.1| High potential iron-sulfur protein [B
+--------------------AVDAGKFPKYQAGQTCSNCRFYKAAA--GESFGTCP--MFAGKTVAAEGWCNVYA----
+>gi|644116760|ref|WP_025280387.1|High potential iron-sulfur protein [Ectothiorhodospira haloalkaliphila] >gi|589289928|gb|AHK78071.1| High potential iron-sulfur prot
+--------EAQALDYVHDAA--N-ADHPSYEEGQVCDNCDLWTD-P-TAEDWGPCA--VFPGKLVAAGGWCSAW-----
+>gi|1061938231|ref|WP_069244325.1|High potential iron-sulfur protein [Burkholderia pseudomultivorans] >gi|1061566301|gb|AOI89659.1| High potential iron-sulfur protein
+----------------------DAAQFPKYQPGQRCANCRFYSGGA--SDATGTCP--MFAGKLVAAEGWCNVYA----
+>gi|981297954|ref|WP_059515159.1|High potential iron-sulfur protein [Burkholderia pseudomultivorans] >gi|976323986|gb|KVC31051.1| High potential iron-sulfur protein 
+----------------------DAAQFPKYQPGQRCANCRFYSGGA--SDATGTCP--MFAGKLVAAEGWCNVYA----
+>gi|749307901|ref|WP_040132043.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia cepacia complex] >gi|685649867|gb|AIO37000.1| high-potential iron-sulfur domai
+----------------------DAAQFPKYQPGQRCANCRFYSGGA--SDATGTCP--MFAGKLVAAEGWCNVYA----
+>gi|325524444|gb|EGD02511.1|high potential iron-sulfur protein [Burkholderia sp. TJI49]
+-------------------STVDAAQFPKYQPGQRCANCRFYSGGA--SDATGTCP--MFAGKLVAAEGWCNVYA----
+>gi|981836558|ref|WP_060025480.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978517750|gb|KVO13828.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFFKAAA--GESSGACP--MFSGKAVAAEGWCNVYA----
+>gi|817360902|ref|WP_046549654.1|High potential iron-sulfur protein [Burkholderia contaminans] >gi|816514713|gb|KKL30472.1| High potential iron-sulfur protein [Burkh
+----------------------DAGKFPKYQAGQTCSNCRFYKAAA--GESFGTCP--MFAGKTVAAEGWCNVYA----
+>gi|981564858|ref|WP_059767043.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976461291|gb|KVD65060.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAT--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|746322783|ref|WP_039369413.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia] >gi|733419540|gb|KHL08801.1| High potential iron-sulfur protein [Mumia flava]
+----------------------DAGKFPKYQAGQTCSNCRFYKAAA--GESFGTCP--MFAGKTVAAEGWCNVYA----
+>gi|1104425863|ref|WP_071749448.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|1103461160|gb|OJB19512.1| High potential iron-sulfur protein [Burkho
+----------------------DAGKFPKYQAGQTCENCRFYKAAT--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|981723199|ref|WP_059917434.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978306340|gb|KVM05847.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGTCP--MFAGKAVAAEGWCNVYA----
+>gi|981428568|ref|WP_059638598.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976025217|gb|KUZ65514.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGTCP--MFAGKAVAAEGWCNVYA----
+>gi|981284207|ref|WP_059502214.1|High potential iron-sulfur protein [Burkholderia sp. ABCPW 11] >gi|976438736|gb|KVD42961.1| High potential iron-sulfur protein [Burk
+--------------------AVDAGKFPQYQAGQTCSNCRFYKAAA--GESFGTCP--MFAGKTVAAEGWCNVYA----
+>gi|981810600|ref|WP_060000718.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978347846|gb|KVM46640.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981742892|ref|WP_059936235.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978574248|gb|KVO69339.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|982350171|ref|WP_060370474.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|980890175|gb|KWO56574.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGRFPKYQAGQTCENCRFYKAAA--GESSGACP--MFSGKAVAAEGWCNVYA----
+>gi|981425186|ref|WP_059635311.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976163091|gb|KVA72865.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|981886368|ref|WP_060072295.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979272013|gb|KVV53634.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|981520006|ref|WP_059725167.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978181562|gb|KVK82799.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981414852|ref|WP_059626256.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976777257|gb|KVG69650.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|982051505|ref|WP_060224118.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979962650|gb|KWB92688.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981318273|ref|WP_059534987.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976418043|gb|KVD22604.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|1023927426|ref|WP_063463968.1|High potential iron-sulfur protein [Ectothiorhodospira sp. BSL-9] >gi|1023049493|gb|ANB01635.1| High potential iron-sulfur protein [
+---EEDSAEAQALDYVHDAA--D-ADHPSYEEGQICSNCDLWTD-P-SAEDWGPCA--VFPGKLVAEGGWCSAW-----
+>gi|981596790|ref|WP_059797318.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976422670|gb|KVD27168.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|493839139|ref|WP_006786296.1|High potential iron-sulfur protein [Thiorhodospira sibirica] >gi|349796827|gb|EGZ50610.1| High potential iron-sulfur protein [Thiorh
+----------QAMAYKHAAA--DAAGHPKFQEGRTCENCLLYKPDA-GTAGWGSCS--VFPGKLVAAEGWCSAWVP---
+>gi|982063196|ref|WP_060234858.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|980703153|gb|KWK75222.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981943365|ref|WP_060124798.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979384403|gb|KVW64235.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|981795685|ref|WP_059986476.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979075150|gb|KVT60783.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981772387|ref|WP_059964370.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978957682|gb|KVS45194.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981420443|ref|WP_059630977.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976419686|gb|KVD24226.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981375001|ref|WP_059589109.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976376603|gb|KVC81982.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981991843|ref|WP_060169419.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979647679|gb|KVZ09877.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981632519|ref|WP_059831774.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976403617|gb|KVD08438.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|981449572|ref|WP_059658832.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976083563|gb|KVA22810.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981760531|ref|WP_059952899.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978549647|gb|KVO45107.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFFKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|497783103|ref|WP_010097287.1|High potential iron-sulfur protein [Burkholderia ubonensis]
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|982086783|ref|WP_060256992.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|980254544|gb|KWE53807.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981933909|ref|WP_060116200.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978836760|gb|KVR26964.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981447153|ref|WP_059656692.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|975975045|gb|KUZ16280.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFGGKAVAAEGWCNVYA----
+>gi|981883755|ref|WP_060069775.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979181837|gb|KVU64955.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981507543|ref|WP_059713519.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976051293|gb|KUZ91112.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFGGKAVAAEGWCNVYA----
+>gi|981961809|ref|WP_060142004.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979114150|gb|KVT98929.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|1104437373|ref|WP_071759926.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|1103454448|gb|OJB13054.1| High potential iron-sulfur protein [Burkho
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|755828660|ref|WP_042588517.1|High potential iron-sulfur protein [Burkholderia sp. MSHR3999] >gi|755169081|gb|KIP13925.1| high-potential iron-sulfur domain protei
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|736060831|ref|WP_034204213.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia cepacia complex] >gi|686813136|gb|KGB92621.1| high-potential iron-sulfur domai
+--------------------AVDTGKFPKYQAGQTCSNCRFYKAAA--GESFGTCP--MFAGKTVAAEGWCNVYA----
+>gi|981526027|ref|WP_059731037.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976028195|gb|KUZ68433.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFGGKAVAAEGWCNVYA----
+>gi|981430973|ref|WP_059640918.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976389053|gb|KVC94180.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|982345698|ref|WP_060366545.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|980839931|gb|KWO07770.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGVCP--MFAGKAVAAEGWCNVYA----
+>gi|1168761827|ref|WP_080332007.1|High potential iron-sulfur protein [Burkholderia cenocepacia] >gi|1167511583|gb|OQC81983.1| High potential iron-sulfur protein [Burk
+----------------------DAGKFPKYQAGQTCANCRFYKAAV--GESSGTCP--MFAGKTVAAEGWCNVYA----
+>gi|981587800|ref|WP_059788679.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978657056|gb|KVP50581.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|981826770|ref|WP_060016238.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978488540|gb|KVN85202.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFFKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|982023895|ref|WP_060198937.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978502967|gb|KVN99344.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGRFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981634474|ref|WP_059833665.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978629842|gb|KVP23945.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|981465939|ref|WP_059674061.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976789105|gb|KVG81051.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|981499418|ref|WP_059705925.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976410318|gb|KVD15014.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|1104428506|ref|WP_071751934.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|1103378446|gb|OJA39584.1| High potential iron-sulfur protein [Burkho
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|981706188|ref|WP_059901644.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978722275|gb|KVQ14462.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981261054|ref|WP_059479875.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976391536|gb|KVC96621.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|981889585|ref|WP_060075226.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979168839|gb|KVU52158.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGRFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981698737|ref|WP_059894529.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978378034|gb|KVM76358.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981506599|ref|WP_059712575.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976892365|gb|KVH81711.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGRFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|780342234|ref|WP_045563875.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|772921698|gb|AJX13200.1| high-potential iron-sulfur domain protein [
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|1104451168|ref|WP_071768452.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|1103377433|gb|OJA38588.1| High potential iron-sulfur protein [Burkho
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|982106086|ref|WP_060275128.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|980810628|gb|KWN79443.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981936933|ref|WP_060119018.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979552826|gb|KVX18027.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981868330|ref|WP_060055420.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978535676|gb|KVO31387.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGRFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981456150|ref|WP_059665295.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976384090|gb|KVC89302.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981727868|ref|WP_059921910.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978863625|gb|KVR53357.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|981840522|ref|WP_060029025.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978804675|gb|KVQ95583.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|1222435632|ref|WP_090487230.1|High potential iron-sulfur protein [Ectothiorhodospira mobilis] >gi|1097098647|emb|SFM66151.1| Tat (twin-arginine translocation) pat
+----------QALDYVHNAA--D-SDHADYQQGQNCLNCDLYTD-P-NAKDWGPCA--VFPGKLVAAEGWCSAYVPRS-
+>gi|981270593|ref|WP_059489224.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976456904|gb|KVD60790.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|1119468207|ref|WP_072442050.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia] >gi|1102107839|emb|SFW76900.1| High potential iron-sulfur protein [Burkholder
+----------------------DAGKFPKYQAGQTCANCRFYKGAD--GDSFGTCP--MFAGKTVAAEGWCNVYA----
+>gi|1183845226|ref|WP_085038821.1|High potential iron-sulfur protein [Burkholderia sp. CAMPA 1040] >gi|1182484661|gb|ORT87681.1| High potential iron-sulfur protein [B
+----------------------DAGKFPKYQAGQTCSNCRFYKAAA--GESFGTCP--MFAGKAVAAEGWCNVYA----
+>gi|981680361|ref|WP_059877020.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978785652|gb|KVQ76838.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGRFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|982060033|ref|WP_060231862.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|980033056|gb|KWC55335.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|981837518|ref|WP_060026319.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978857331|gb|KVR47170.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|736021147|ref|WP_034186207.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia cepacia complex] >gi|653631627|gb|KEA61029.1| High potential iron-sulfur prote
+----------------------DAGKFPKYQAGQTCSNCRFYKAAA--GESFGTCP--MFAGKAVAAEGWCNVYA----
+>gi|1150398170|gb|AQT53484.1|High potential iron-sulfur protein [Burkholderia cenocepacia]
+----------------------DAGKFPKYQAGQTCANCRFYKAAA--GESFGTCP--MFAGKTVAAEGWCNVYA----
+>gi|1104429980|ref|WP_071753346.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|1103419021|gb|OJA79171.1| High potential iron-sulfur protein [Burkho
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|1104447578|ref|WP_071765401.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|1103481978|gb|OJB39765.1| High potential iron-sulfur protein [Burkho
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|982011955|ref|WP_060187598.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979986930|gb|KWC14727.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|1106113372|ref|WP_071854072.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|1103379642|gb|OJA40763.1| High potential iron-sulfur protein [Burkho
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981603306|ref|WP_059803509.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978208985|gb|KVL09758.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981531539|ref|WP_059736278.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976468682|gb|KVD72232.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|654266212|ref|WP_027781368.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia] >gi|1218871618|gb|OXJ25193.1| High potential iron-sulfur protein [Burkholderi
+--------------------AVDAGKFPKYQAGQTCSNCRFYKAAA--GESSGTCP--MFAGKTVAAEGWCNVYA----
+>gi|1061965646|ref|WP_069271622.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|1061737508|gb|AOK27206.1| High potential iron-sulfur protein [Burkho
+----------------------DAGKFPKYQAGQTCENCRFYKATA--GESSGACP--MFSGKAVAAEGWCNVYA----
+>gi|981923579|ref|WP_060106564.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979239136|gb|KVV21306.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKATA--GESSGACP--MFSGKAVAAEGWCNVYA----
+>gi|981902492|ref|WP_060086984.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979131582|gb|KVU15854.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKATA--GESSGACP--MFSGKAVAAEGWCNVYA----
+>gi|982054980|ref|WP_060227135.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|980147503|gb|KWD58849.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCHFFKAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981857579|ref|WP_060045237.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979180829|gb|KVU63962.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVAAEGWCNVYA----
+>gi|981690454|ref|WP_059886743.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978678360|gb|KVP71412.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKATA--GESSGACP--MFSGKAVAAEGWCNVYA----
+>gi|1147222667|ref|WP_077186865.1|High potential iron-sulfur protein [Burkholderia cenocepacia] >gi|1144204064|gb|ONS60130.1| High potential iron-sulfur protein [Burk
+----------------------DAGKFPKYQAGQTCANCRFYKAAA--GESSGTCP--MFASKTVAAEGWCNVYA----
+>gi|1011203091|ref|WP_062123318.1|High potential iron-sulfur protein [Paraburkholderia monticola] >gi|1003131746|gb|KXU91182.1| High potential iron-sulfur protein [Pa
+-------------------SSVDAAKFPKYHAGQTCANCRFYTGAT--GDAAGPCP--MFPGKSVSADGWCNVYAP---
+>gi|981801338|ref|WP_059991830.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978658841|gb|KVP52333.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKGVAAEGWCNVYA----
+>gi|981657057|ref|WP_059855208.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978536805|gb|KVO32492.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGRFPKYQAGQTCENCRFYKATA--GESSGACP--MFSGKAVAAEGWCNVYA----
+>gi|981684124|ref|WP_059880783.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978445566|gb|KVN42848.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKVPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|981533085|ref|WP_059737474.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976380621|gb|KVC85908.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAA--GESSGACP--MFAGKAVAAEGWCNVFA----
+>gi|736006878|ref|WP_034180793.1|High potential iron-sulfur protein [Burkholderia pyrrocinia] >gi|674796819|gb|KFL54210.1| High potential iron-sulfur protein [Burkho
+----------------------DAAKFPKYQAGQTCANCRFYKGAE--GDSSGTCP--MFAGKTVAAEGWCNVYA----
+>gi|1219536689|ref|WP_089489652.1|High potential iron-sulfur protein [Burkholderia sp. AU31280] >gi|1218817426|gb|OXI71958.1| High potential iron-sulfur protein [Burk
+----------------------DAGKFPKYQAGQTCSNCRFYKAAA--GEAVGTCP--MFAGKTVAAEGWCNVYA----
+>gi|1219480614|ref|WP_089436958.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia] >gi|1218786145|gb|OXI41418.1| High potential iron-sulfur protein [Burkholderi
+----------------------DAGKFPKYQAGQTCSNCRFYKAAA--GESVGTCP--MFAGKTVAAEGWCNVYA----
+>gi|981574818|ref|WP_059776344.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976354052|gb|KVC59827.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYKAAG--GESSGACP--MFGGKAVAAEGWCNVYA----
+>gi|981599815|ref|WP_059800101.1|High potential iron-sulfur protein [Burkholderia territorii] >gi|978763498|gb|KVQ55021.1| High potential iron-sulfur protein [Burkho
+-------------------SSVDAAQFPKYQAGQRCANCRFYKGEA--ADATGTCP--MFAGKLVAADGWCNVYA----
+>gi|982185270|ref|WP_060346828.1|High potential iron-sulfur protein [Burkholderia territorii] >gi|980747310|gb|KWN17964.1| High potential iron-sulfur protein [Burkho
+----------------------DAAQFPKYQAGQRCANCRFYKGEA--ADAAGTCP--MFAGKLVAADGWCNVYA----
+>gi|982116406|ref|WP_060284290.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|980050112|gb|KWC70253.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVASEGWCNVYA----
+>gi|910178216|ref|WP_050012255.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia] >gi|983105040|gb|KWU16602.1| High potential iron-sulfur protein [Burkholderia
+----------------------DAGKFPKYQAGQTCSNCRFYKAAA--GESVGTCP--MFAGKTVAAEGWCNVYA----
+>gi|1147177444|ref|WP_077179411.1|High potential iron-sulfur protein [Burkholderia cenocepacia] >gi|1144548177|gb|ONV98263.1| High potential iron-sulfur protein [Burk
+----------------------DAGKFPKYQAGQTCANCRFYKAAA--GESSGTCP--MFAGKTVAAEGWCNVYA----
+>gi|1124521616|ref|WP_074805670.1|High potential iron-sulfur protein [Burkholderia cenocepacia] >gi|1087455530|emb|SDR52533.1| High potential iron-sulfur protein [Bur
+----------------------DAGKFPKYQAGQTCSNCRFYKAAA--GESSGTCP--MFAGKTVAAEGWCNVYA----
+>gi|1219516089|ref|WP_089470440.1|High potential iron-sulfur protein [Burkholderia sp. AU16741] >gi|1218775200|gb|OXI30694.1| High potential iron-sulfur protein [Burk
+----------------------DAGKFPKYQAGQTCSNCRFYKAAA--GESVGTCP--MFAGKTVAAEGWCNVYA----
+>gi|685650291|gb|AIO37423.1|high-potential iron-sulfur domain protein [Burkholderia cenocepacia]
+-------------------SSVDAAQFPKYQAGQRCSNCRFYKGEA--ADASGTCP--MFGGKLVAADGWCNVYA----
+>gi|766787429|ref|WP_044849068.1|High potential iron-sulfur protein [Burkholderia sp. USM B20] >gi|765490961|gb|KJE50365.1| High potential iron-sulfur protein [Burkh
+-------------------SSVDAAQFPKYQAGQRCVNCRFYKGEA--ADAAGTCP--MFGGKLVAADGWCNVYA----
+>gi|654355646|ref|WP_027848105.1|high potential iron-sulfur protein [Marinospirillum minutulum]
+-PLSEDAPQAKALNYVKVAS--DASGHAKYQAGQECDNCMFWKPA------NNGCA--LFPQNSVEAKGWCQSY-----
+>gi|981963091|ref|WP_060143286.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979809836|gb|KWA67093.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVATEGWCNVYA----
+>gi|654290733|ref|WP_027805634.1|High potential iron-sulfur protein [Burkholderia cenocepacia]
+----------------------DAGKFPKYQAGQTCSNCRFYKAAA--GESSGTCP--MFAGKTVAAEGWCNVYA----
+>gi|981754898|ref|WP_059947586.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979098727|gb|KVT83942.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESAGACP--MFAGKAVATEGWCNVYA----
+>gi|981591221|ref|WP_059791914.1|High potential iron-sulfur protein [Burkholderia territorii] >gi|978253192|gb|KVL53480.1| High potential iron-sulfur protein [Burkho
+-------------------SSVDAAQFPKYQAGQRCANCRFYKGEA--ADAAGTCP--MFAGKLVAADGWCNVYA----
+>gi|976058052|gb|KUZ97777.1|High potential iron-sulfur protein [Burkholderia latens] >gi|1061714874|gb|AOK06497.1| High potential iron-sulfur protein [Burkholde
+-------------------SSVDAAQFPKYQAGQRCSNCRFYKGEA--ADASGTCP--MFGGKLVAADGWCNVYA----
+>gi|499866323|ref|WP_011547057.1|MULTISPECIES: high potential iron-sulfur protein [Burkholderia] >gi|105894971|gb|ABF78135.1| High potential iron-sulfur protein [Burkholderia
+----------------------DAGKFPKYQAGQTCSNCRFYKAAA--GESSGTCP--MFAGKTVAAEGWCNVYA----
+>gi|496197964|ref|WP_008917801.1|High potential iron-sulfur protein [Burkholderia sp. H160] >gi|209503892|gb|EEA03884.1| High potential iron-sulfur protein [Burkhold
+-------------------SSVDAAKFPKYHAGQTCANCRFYTGAA--GDAAGPCP--MFPGKSVAADGWCNVYAP---
+>gi|981813167|ref|WP_060003181.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|979046367|gb|KVT32523.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCDNCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|654359401|ref|WP_027851815.1|high potential iron-sulfur protein [Marinospirillum insulare]
+------APQAKALNYVKSAA--DASGHAKYQAGQECDNCMFWKPA------NNGCA--LFPQNSVEPKGWCQSY-----
+>gi|1168721975|ref|WP_080294431.1|High potential iron-sulfur protein [Burkholderia cenocepacia]
+-------------------SSVDAAQFPKYQAGQRCSNCRFYKGEA--ADASGTCP--MFGGKLVAADGWCNVYA----
+>gi|1062979855|ref|WP_069352602.1|High potential iron-sulfur protein [Burkholderia cenocepacia] >gi|1140421660|gb|ONJ16019.1| High potential iron-sulfur protein [Burk
+----------------------DAGKFPKYQAGQTCANCRFYKAAA--GESSGTCP--MFAGKTVAAEGWCNVYA----
+>gi|982153790|ref|WP_060319210.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|980290454|gb|KWE82917.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCDNCRFYRAAA--GESSGACP--MFAGKAVAAEGWCNVYA----
+>gi|971828427|ref|WP_058903483.1|High potential iron-sulfur protein [Burkholderia cenocepacia] >gi|971360258|gb|ALV60433.1| High potential iron-sulfur protein [Burkh
+----------------------DAGKFPKYQAGQTCANCRFYKAAA--GESSGTCP--MFAGKTVAAEGWCNVYA----
+>gi|981919838|ref|WP_060102948.1|High potential iron-sulfur protein [Burkholderia territorii] >gi|979276491|gb|KVV58032.1| High potential iron-sulfur protein [Burkho
+-------------------SSVDAAQFPKYQAGQRCANCRFYKGEA--ADTAGTCP--MFAGKLVAADGWCNVYA----
+>gi|1147439888|ref|WP_077220446.1|High potential iron-sulfur protein [Burkholderia cenocepacia] >gi|1144577235|gb|ONW26859.1| High potential iron-sulfur protein [Burk
+----------------------DAGKFPKYQAGQTCANCRFYKAAA--GESSGTCP--MFAGKTVAAEGWCNVYA----
+>gi|493532138|ref|WP_006486122.1|MULTISPECIES: high-potential iron-sulfur protein [Burkholderia cepacia complex] >gi|198040248|emb|CAR56231.1| putative high-potential iron-su
+----------------------DAGKFPKYQAGQTCANCRFYKAAA--GESSGTCP--MFAGKTVAAEGWCNVYA----
+>gi|1177585509|ref|WP_082721636.1|High potential iron-sulfur protein [Burkholderia latens]
+-------------------SSVDAAQFPKYQAGQRCSNCRFYKGEA--ADASGTCP--MFGGKLVAADGWCNVYA----
+>gi|1222758618|ref|WP_090804216.1|High potential iron-sulfur protein [Paraburkholderia tuberum] >gi|1087619979|emb|SDR14493.1| High potential iron-sulfur protein [Par
+--------------------SVDAAKFPKYHAGQTCANCRFYTGAA--GDSAGPCP--MFPGKSVSADGWCNVYAP---
+>gi|557793396|gb|ESS37448.1|High potential iron-sulfur protein [Burkholderia cenocepacia KC-01]
+----------------------DAGKFPKYQAGQTCANCRFYKAAA--GESSGTCP--MFAGKTVAAEGWCNVYA----
+>gi|981473676|ref|WP_059681325.1|High potential iron-sulfur protein [Burkholderia sp. FL-7-2-10-S1-D7] >gi|976679432|gb|KVF74869.1| High potential iron-sulfur protei
+-------------------SSVDAAQFPKYQAGQRCVNCRFYKGEA--ADAAGTCP--MFGGKLVAADGWCNVYA----
+>gi|981292827|ref|WP_059510566.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia cepacia complex] >gi|975945778|gb|KUY87635.1| High potential iron-sulfur prote
+-------------------SSVDAAQFPKYQAGQRCANCRFYKGEA--ADTAGTCP--MFAGKLVAADGWCNVYA----
+>gi|1195661063|dbj|BAX60922.1|high potential iron-sulfur protein [Burkholderia stabilis]
+----------------------DAAKFPKYQAGQTCSNCRFYKAVA--GESSGTCP--MFAGKAVAAEGWCNVYA----
+>gi|981822835|ref|WP_060012393.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|978368986|gb|KVM67470.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFPKYQAGQTCENCRFYRAAA--GESSGACP--MFAGKAVAGEGWCNVYA----
+>gi|981326662|ref|WP_059543111.1|High potential iron-sulfur protein [Burkholderia diffusa] >gi|976305093|gb|KVC12444.1| High potential iron-sulfur protein [Burkholde
+-------------------SSVDAAQFPKYQAGQRCANCRFYKGEA--ADTAGTCP--MFAGKLVAADGWCNVYA----
+>gi|981483200|ref|WP_059690427.1|High potential iron-sulfur protein [Burkholderia sp. RF4-BP95] >gi|975940945|gb|KUY82969.1| High potential iron-sulfur protein [Burk
+-------------------SSVDAAQFPKYQAGQRCANCRFYKGEA--ADTAGTCP--MFAGKLVAADGWCNVYA----
+>gi|981494194|ref|WP_059701014.1|High potential iron-sulfur protein [Burkholderia sp. RF2-non_BP3] >gi|975912744|gb|KUY55368.1| High potential iron-sulfur protein [B
+-------------------SSVDAAQFPKYQAGQRCANCRFYKGEA--ADTAGTCP--MFAGKLVAADGWCNVYA----
+>gi|24636912|sp|P83341.1|HIP1_ECTMORecName: Full=High-potential iron-sulfur protein isozyme 1; Short=HiPIP 1
+---EESSAEAKALSYVHDAT--T-SGHDSYQEGQKCINCLLYTD-P-SQEEWGGCA--VFPGKLVNANGWCTAYV----
+>gi|1119348741|ref|WP_072325585.1|high potential iron-sulfur protein [Marinospirillum alkaliphilum] >gi|1104021927|emb|SFX34079.1| High potential iron-sulfur protein 
+-PLSEDAPQAKALNYVKVAA--DASNHPKFQAGQYCDNCMFWRPA------NNGCA--LFPQNSVEAKGWC--------
+>gi|981270942|ref|WP_059489573.1|High potential iron-sulfur protein [Burkholderia cepacia] >gi|975926683|gb|KUY69035.1| High potential iron-sulfur protein [Burkholde
+----------------------DAGKFPKYQAGQTCSNCRFYKAGA--GESSGTCP--MFSGKAVAAEGWCNVYA----
+>gi|759455367|ref|WP_043176699.1|High potential iron-sulfur protein [Burkholderia ambifaria]
+-------------------SAVDAAQFPKYQAGQRCSNCRFYKGEA--ADASGTCP--MFGGKSVAADGWCNVYA----
+>gi|982022232|ref|WP_060197274.1|High potential iron-sulfur protein [Burkholderia cepacia] >gi|979584725|gb|KVX49088.1| High potential iron-sulfur protein [Burkholde
+----------------------DAGKFPKYQAGQTCSNCRFYKAVT--GESSGTCP--MFGGKAVAAEGWCNVYA----
+>gi|981231591|ref|WP_059452222.1|High potential iron-sulfur protein [Burkholderia territorii] >gi|975943894|gb|KUY85836.1| High potential iron-sulfur protein [Burkho
+-------------------SSVDTAQFPKYQAGQRCANCRFYKGEA--ADAAGTCP--MFAGKLVAADGWCNVYA----
+>gi|981939026|ref|WP_060121111.1|High potential iron-sulfur protein [Burkholderia territorii] >gi|979740745|gb|KVZ99720.1| High potential iron-sulfur protein [Burkho
+-------------------SSVDTAQFPKYQAGQRCANCRFYKGEA--ADAAGTCP--MFAGKLVAADGWCNVYA----
+>gi|981671374|ref|WP_059868448.1|High potential iron-sulfur protein [Burkholderia territorii] >gi|978760594|gb|KVQ52179.1| High potential iron-sulfur protein [Burkho
+-------------------SSVDTAQFPKYQAGQRCANCRFYKGEA--ADAAGTCP--MFAGKLVAADGWCNVYA----
+>gi|933601287|ref|WP_054315867.1|High potential iron-sulfur protein [Burkholderia multivorans] >gi|930720641|gb|KPJ35412.1| High potential iron-sulfur protein [Burkh
+-------------------SAVDAAQFPKYQPGQRCANCRFYKGEA--ADAAGTCP--MFGGKAVAADGWCNVYA----
+>gi|1140896219|ref|WP_076746509.1|high potential iron-sulfur protein [Halomonas sp. 1513] >gi|1134976891|gb|APX92075.1| high potential iron-sulfur protein [Halomonas 
+---DPDSPEAEALNYVEEAS--DASDHPAYEEGERCDNCMFYTEA------NEGCS--LFPENSVEPAGWC--------
+>gi|738014125|ref|WP_035975505.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia cepacia complex] >gi|571035021|gb|ETP61312.1| high potential iron-sulfur prote
+-------------------SSVDTAQFPKYQAGQRCANCRFYKGEA--ADASGTCP--MFGGKLVAADGWCNVYA----
+>gi|1223929536|ref|WP_091961306.1|high potential iron-sulfur protein [Marinospirillum celere] >gi|1097207382|emb|SFB97694.1| High potential iron-sulfur protein [Marin
+-PLSEDAPQAKALNYVKVAA--DAKGHPRWNEGEYCDNCMFWRPA------NNGCS--LFPQNSVEPKGWCQSWVKAN-
+>gi|981491590|ref|WP_059698511.1|High potential iron-sulfur protein [Burkholderia cepacia] >gi|976617891|gb|KVF14900.1| High potential iron-sulfur protein [Burkholde
+----------------------DAGKFPKYQAGQTCSNCRFYKAVA--GESSGTCP--MFGGKAVAAEGWCNVYA----
+>gi|949697466|ref|WP_057056475.1|High potential iron-sulfur protein [Burkholderia cepacia] >gi|940700040|gb|ALK20555.1| High potential iron-sulfur protein [Burkholde
+----------------------DAGKFPKYQAGQTCSNCRFYKAVA--GESSGTCP--MFGGKAVAAEGWCNVYA----
+>gi|654275501|ref|WP_027790652.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia] >gi|685641811|gb|AIO28955.1| high-potential iron-sulfur domain protein [Burkh
+----------------------DAGKFPKYQAGQTCSNCRFYKAVA--GESSGTCP--MFGGKAVAAEGWCNVYA----
+>gi|1061954578|ref|WP_069260646.1|High potential iron-sulfur protein [Burkholderia metallica] >gi|1061615264|gb|AOJ35762.1| High potential iron-sulfur protein [Burkho
+----------------------DTGKFPKYQAGQTCSNCRFYKAAA--GESVGTCP--MFAGKAVAAEGWCNVYA----
+>gi|746163451|ref|WP_039223800.1|High potential iron-sulfur protein [Burkholderia multivorans] >gi|740537603|gb|KHS10073.1| High potential iron-sulfur protein [Burkh
+-------------------SAVDAAQFPKYQPGQRCANCRFYKGEA--ADAAGTCP--MFGGKAVAADGWCNVYA----
+>gi|1054552311|ref|WP_066321706.1|high potential iron-sulfur protein [Halomonas sp. G11] >gi|1036582893|gb|OAZ91603.1| high potential iron-sulfur protein [Halomonas s
+---DPSASNAQALNYVEDAA--DASDHPAYEEGQRCDNCMFYSAD------NQGCQ--LFPENSVEPGGWC--------
+>gi|544734371|ref|WP_021163958.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia cepacia complex] >gi|543284832|gb|ERJ33306.1| High potential iron-sulfur prote
+----------------------DAGKFPKYQAGQTCSNCRFYKAGA--GESSGTCP--MFGGKAVAAEGWCNVYA----
+>gi|1123864538|ref|WP_074397050.1|high potential iron-sulfur protein [Halomonas sp. HL-93] >gi|938296888|gb|KPQ30788.1| high potential iron-sulfur protein [Halomonas 
+---DPSASNAQALNYVEDAA--DASDHPAYEEGQRCDNCMFYSAD------NEGCQ--LFPENSVEPAGWC--------
+>gi|1130393501|ref|WP_075583974.1|High potential iron-sulfur protein [Caballeronia jiangsuensis] >gi|620640272|gb|KAK42398.1| High potential iron-sulfur protein [Caba
+----------------------DTAKYPKYQSGQACANCQLYGG-K-LGDVSGPCP--IFAGKLVAADGWCSAY-----
+>gi|124876456|gb|EAY66446.1|High potential iron-sulfur protein [Burkholderia cenocepacia PC184]
+----------------------DAGKFPKYRAGQTCANCRFYKAAA--GESSGTCP--MFAGKTVAAEGWCNVYA----
+>gi|1151116307|ref|WP_078088248.1|high potential iron-sulfur protein [Halomonas sp. 'Soap Lake #7'] >gi|1150900625|gb|AQU83085.1| high potential iron-sulfur protein [
+---DPSSPTAQALNYVEVAS--DASDHPAYEEGEVCDNCMFWVAD------KEGCQ--LFPENSVEPKGWC--------
+>gi|981880465|ref|WP_060067067.1|High potential iron-sulfur protein [Burkholderia cepacia] >gi|978938602|gb|KVS26502.1| High potential iron-sulfur protein [Burkholde
+----------------------DAGKFPKYQAGQTCSNCRFYKAGA--GESSGTCP--MFGGKAVAAEGWCNVYA----
+>gi|737540542|ref|WP_035513820.1|hypothetical protein [Pseudohaliea rubra] >gi|687959984|gb|KGE04931.1| hypothetical protein HRUBRA_00404 [Pseudohaliea rubra DSM 19751]
+PRVDEGSAKARQLAYVHDAATVSTSEQPRYAEGQQCANCALYQG---GSAEWGGCP--LFSGQQVKRTGWCNAYAP---
+>gi|982032207|ref|WP_060206670.1|High potential iron-sulfur protein [Burkholderia cepacia] >gi|980061246|gb|KWC80872.1| High potential iron-sulfur protein [Burkholde
+----------------------DAGKFPKYQVGQTCSNCRFYKAVA--GESSGTCP--MFGGKAVAAEGWCNVYA----
+>gi|1221518603|ref|WP_089658721.1|high potential iron-sulfur protein [Halomonas pantelleriensis] >gi|1086670166|emb|SDM00098.1| High potential iron-sulfur protein [Ha
+---DPDAPEAEALNYVEDAS--DASDHPAYEEGERCDNCMFYTEA------NEGCS--LFPENSVEPAGWC--------
+>gi|502854249|ref|WP_013089225.1|High potential iron-sulfur protein [Burkholderia sp. CCGE1002] >gi|295436176|gb|ADG15346.1| High potential iron-sulfur protein [Burk
+-------------------SSVDAAKFPKYHAGQTCANCRFYTGAA--GEAAGPCP--MFPGKSVAADGWCNVYAP---
+>gi|517243357|ref|WP_018432175.1|high potential iron-sulfur protein [Burkholderia sp. JPY251]
+-------------------SSVDAAKFPKYHAGQTCANCRFYTGAA--GEAAGPCP--MFPGKSVAADGWCNVYAP---
+>gi|850365110|ref|WP_048026380.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia] >gi|848292582|gb|KML02805.1| High potential iron-sulfur protein [Burkholderia
+----------------------DAGKFPKYQAGQTCSNCRFYKVGA--GESSGTCP--MFGGKAVAAEGWCNVYA----
+>gi|501340603|ref|WP_012372238.1|high potential iron-sulfur protein [Burkholderia ambifaria] >gi|171997413|gb|ACB68330.1| High potential iron-sulfur protein [Burkhol
+-------------------SSVDAAQFPKYQAGQRCSNCRFYKGEA--ADASGTCP--MFGGKSVAADGWCNVYA----
+>gi|1179971731|ref|WP_083494085.1|High potential iron-sulfur protein [Burkholderia sp. lig30] >gi|632869412|gb|KDB07064.1| High potential iron-sulfur protein [Burkhol
+----------------------DTSHFPKYQAGQRCSNCRFYGGSA--TDAAASCP--MFPGKAVAGDGWCNVYA----
+>gi|496388162|ref|WP_009097152.1|High potential iron-sulfur protein [Halomonas sp. GFAJ-1] >gi|359297495|gb|EHK61728.1| High potential iron-sulfur protein [Halomonas
+---DPSSSTAQALNYVEVAS--DASDHPAYEEGEVCDNCMFWVAD------TEGCQ--LFPQNSVEPKGWC--------
+>gi|973003664|gb|KUJ87524.1|high-potential iron-sulfur protein [Halomonas sp. 54_146]
+---DPSASNAQALNYVEDAS--EASDHPAYAEGEVCDNCMFWVAD------KEGCQ--LFPTNSVEPKGWC--------
+>gi|1224811939|ref|WP_092829006.1|high potential iron-sulfur protein [Halomonas subterranea] >gi|1094472027|emb|SES23247.1| High potential iron-sulfur protein [Halomo
+---DPSASNAQALNYVEDAA--DASDHPAYEEGQRCDNCMFYSAD------NEGCQ--LFPENSVEPAGWC--------
+>gi|1222197346|ref|WP_090252348.1|High potential iron-sulfur protein [Ectothiorhodospira marina] >gi|1094348788|emb|SEK81220.1| High potential iron-sulfur protein [Ec
+-----------ALDYVHAAS--D-ADHDAYEEGQVCSNCDLWTD-P-SAEGWGPCA--VFPGSLVAEGGWCSAW-----
+>gi|653087802|ref|WP_027338178.1|high potential iron-sulfur protein [Halomonas sp. HL-48] >gi|938288433|gb|KPQ22621.1| High potential iron-sulfur protein [Halomonas 
+---DPSSSNAQALNYVEDAA--DASDHPAYEEGQRCDNCMFYSAD------NEGCQ--LFPESSVEPAGWC--------
+>gi|1045424971|ref|WP_065497080.1|High potential iron-sulfur protein [Burkholderia sp. CCA53]
+-------------------SAVDTAQFPKYQPGQRCANCRFYKGEA--ADAAGTCP--MFGGKAVAADGWCNVYA----
+>gi|515483281|ref|WP_016916549.1|MULTISPECIES: high potential iron-sulfur protein [Halomonas]
+---DPSSPTAQALNYVENAS--DASDHPAFEEGELCSNCMFFVEG------TEGCQ--LFPESSVEPDGWC--------
+>gi|1225154680|ref|WP_093167232.1|High potential iron-sulfur protein [Variovorax sp. YR216] >gi|1089417135|emb|SEB23468.1| High potential iron-sulfur protein [Variovo
+-------------GYKHDTKTVDAKKYPKHAATQRCANCAMWQG-S-ATDPWGGCA--MFGRKQIAAEGWCMAWAP---
+>gi|1103737712|ref|WP_071693790.1|high potential iron-sulfur protein [Halomonas sp. QHL1] >gi|1103336944|gb|OJA05111.1| high potential iron-sulfur protein [Halomonas 
+---DPSASNAQALNYVEDAS--EASDHPAYEEGERCDNCMFWIAD------KEGCQ--LFPENSVEPAGWC--------
+>gi|981397813|ref|WP_059609751.1|High potential iron-sulfur protein [Burkholderia ubonensis] >gi|976341158|gb|KVC47907.1| High potential iron-sulfur protein [Burkhol
+----------------------DAGKFRKYQAGQTCENCRFYKAAA--GESSGACP--MFGGKAVAAEGWCIVYAK---
+>gi|737994897|ref|WP_035956677.1|High potential iron-sulfur protein [Burkholderia multivorans] >gi|686828029|gb|KGC07504.1| high-potential iron-sulfur domain protein
+-------------------SAVDTAQFPKYQPGQRCANCRFYKGEA--ADAAGTCP--MFGGKAVAADGWCNVYA----
+>gi|922015984|ref|WP_053299049.1|MULTISPECIES: High potential iron-sulfur protein [Burkholderia] >gi|917555012|gb|KOE22713.1| High potential iron-sulfur protein [Burkholderia
+-------------------SAVDTAQFPKYQPGQRCANCRFYKGDA--ADAAGTCP--MFGGKAVAADGWCNVYA----
+>gi|493443705|ref|WP_006399102.1|high-potential iron-sulfur protein [Burkholderia multivorans] >gi|221168102|gb|EEE00571.1| high-potential iron-sulfur protein [Burkholderia mu
+-------------------SAVDTAQFPKYQPGQRCANCRFYKGDA--ADAAGTCP--MFGGKAVAADGWCNVYA----
+>gi|737561013|ref|WP_035533541.1|High potential iron-sulfur protein [Paraburkholderia sacchari] >gi|723580973|gb|KHD18226.1| High potential iron-sulfur protein [Para
+--------AAKGLGYRAKASTVDAAHFPKYQSGQNCANCRFYTGAA--NETSGPCP--MFPGKAVSADGWCNVYA----
+>gi|493461776|ref|WP_006416993.1|high-potential iron-sulfur protein [Burkholderia multivorans] >gi|400221243|gb|EJO51720.1| putative high-potential iron-sulfur protein [Burkho
+-------------------SAVDTAQFPKYQPGQRCANCRFYKGEA--ADAAGTCP--MFGGKAVAADGWCNVYA----
+>gi|746116170|ref|WP_039181982.1|MULTISPECIES: high potential iron-sulfur protein [Halomonas] >gi|730430399|gb|KHJ50196.1| high potential iron-sulfur protein [Halomonas hydro
+---DPSSPTAQALNYVENAS--DASDHPAFEEGELCSNCMFFVEG------TEGCQ--LFPENSVEPDGWC--------
+>gi|981642337|ref|WP_059841278.1|High potential iron-sulfur protein [Burkholderia multivorans] >gi|978791597|gb|KVQ82709.1| High potential iron-sulfur protein [Burkh
+-------------------SAVDTAQFPKYQPGQRCANCRFYKGEA--ADAAGTCP--MFGGKAVAADGWCNVYA----

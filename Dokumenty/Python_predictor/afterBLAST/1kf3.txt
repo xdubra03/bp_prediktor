@@ -1,0 +1,790 @@
+>gi|68299789|ref|NP_001014408.2| ribonuclease pancreatic precursor [Bos taurus] >gi|528965426|ref|XP_005211519.1| PREDICTED: ribonuclease pancreatic isoform X1 [Bos taurus] >gi|742116129|ref|XP_010837737.1| PREDICTED: ribonuclease pancreatic [Bison bison bison] >gi|48429071|sp|P61823.1|RNAS1_BOVIN RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|672|emb|CAA30263.1| ribonuclease [Bos taurus] >gi|151554381|gb|AAI49637.1| RNASE1 protein [Bos taurus] >gi|151555873|gb|AAI49530.1| RNASE1 protein [Bos taurus] >gi|296483355|tpg|DAA25470.1| TPA: ribonuclease pancreatic precursor [Bos taurus]
+MALKSLVLLSLLVLVLLLVRVQPSLGKETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADV
+QAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|573014712|tpe|CDG32088.1| TPA: ribonuclease A C2 [Bos taurus]
+MFVGRVYVSPYLGKLLGTGTSFWLTGRETVSQGGYRWELGFSFEGDAFPLLPLFSFRFLQGSAVIMALKSLVLLSLLVLV
+LLLVRVQPSLGKETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQ
+TNCYQSYSTMSITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|387884|gb|AAA72757.1| RNase A [synthetic construct]
+MRGKKVWISLLFALALIFTMAFGSTSSAQAAGKETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVH
+ESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|555980014|ref|XP_005901936.1| PREDICTED: ribonuclease pancreatic [Bos mutus] >gi|942072951|ref|XP_014335660.1| PREDICTED: ribonuclease pancreatic [Bos mutus] >gi|440900911|gb|ELR51936.1| Ribonuclease pancreatic [Bos mutus]
+MALKSLVLLSLLVLVLLLVRVQPSLGKETAAAKFERQHMDSSTSSASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADV
+QAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|6435672|pdb|1C0B|A Chain A, Bovine Pancreatic Ribonuclease A Desiccated For 2.5 Days >gi|6435673|pdb|1C0C|A Chain A, Bovine Pancreatic Ribonuclease A Desiccated For 4.0 Days >gi|333944248|pdb|3MZQ|A Chain A, Rnase Crystals Grown By The Hanging Drop Method >gi|333944249|pdb|3MZR|A Chain A, Rnase Crystals Grown In Loops/micromounts >gi|1245826|gb|AAB35594.1| ribonuclease A [Bos taurus]
+PSLGKETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSY
+STMSITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|94|emb|CAA33801.1| unnamed protein product [Bos taurus]
+MKETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTM
+SITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|48429195|sp|P61824.1|RNAS1_BISBI RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A >gi|67326|pir||NRBOB pancreatic ribonuclease (EC 3.1.27.5) - American bison (tentative sequence) >gi|7435261|pir||JC5560 pancreatic ribonuclease (EC 3.1.27.5) A - Aspergillus niger var. macrosporus >gi|230282|pdb|1RBB|A Chain A, The Crystal Structure Of Ribonuclease B At 2.5-Angstroms Resolution >gi|230283|pdb|1RBB|B Chain B, The Crystal Structure Of Ribonuclease B At 2.5-Angstroms Resolution >gi|231309|pdb|8RSA|A Chain A, Crystal Structure Of Two Covalent Nucleoside Derivatives Of Ribonuclease A >gi|231310|pdb|8RSA|B Chain B, Crystal Structure Of Two Covalent Nucleoside Derivatives Of Ribonuclease A >gi|231336|pdb|9RSA|A Chain A, Crystal Structure Of Two Covalent Nucleoside Derivatives Of Ribonuclease A >gi|231337|pdb|9RSA|B Chain B, Crystal Structure Of Two Covalent Nucleoside Derivatives Of Ribonuclease A >gi|443242|pdb|1RTA|E Chain E, Crystal Structure Disposition Of Thymidylic Acid Tetramer In Complex With Ribonuclease A >gi|640369|pdb|1RCN|E Chain E, Crystal Structure Of The Ribonuclease A D(Aptpapapg) Complex : Direct Evidence For Extended Substrate Recognition >gi|1310972|pdb|1RBJ|A Chain A, Ribonuclease B Complex With D(Tetra-(Deoxy-Adenylate)) >gi|1421092|pdb|1RNM|E Chain E, Ribonuclease A Complex With Cytidylic Acid (5'cmp) Crystallized From 80% Ammonium Sulphate >gi|1421097|pdb|1RNN|E Chain E, Ribonuclease A Complex With Cytidylic Acid (5'cmp) Crystallized From 8m Sodium Formate >gi|1942712|pdb|1DFJ|E Chain E, Ribonuclease Inhibitor Complexed With Ribonuclease A >gi|2981688|pdb|1AFK|A Chain A, Crystal Structure Of Ribonuclease A In Complex With 5'- Diphosphoadenosine-3'-Phosphate >gi|2981689|pdb|1AFK|B Chain B, Crystal Structure Of Ribonuclease A In Complex With 5'- Diphosphoadenosine-3'-Phosphate >gi|2981690|pdb|1AFL|A Chain A, Ribonuclease A In Complex With 5'-Diphosphoadenosine 2'- Phosphate At 1.7 Angstrom Resolution >gi|2981691|pdb|1AFL|B Chain B, Ribonuclease A In Complex With 5'-Diphosphoadenosine 2'- Phosphate At 1.7 Angstrom Resolution >gi|2981692|pdb|1AFU|A Chain A, Structure Of Ribonuclease A At 2.0 Angstroms From Monoclinic Crystals >gi|2981693|pdb|1AFU|B Chain B, Structure Of Ribonuclease A At 2.0 Angstroms From Monoclinic Crystals >gi|3212281|pdb|1A2W|A Chain A, Crystal Structure Of A 3d Domain-Swapped Dimer Of Bovine Pancreatic Ribonuclease A >gi|3212282|pdb|1A2W|B Chain B, Crystal Structure Of A 3d Domain-Swapped Dimer Of Bovine Pancreatic Ribonuclease A >gi|3212647|pdb|1XPS|A Chain A, Bovine Ribonuclease A (Phosphate-Free) (93 % Humidity) >gi|3212648|pdb|1XPS|B Chain B, Bovine Ribonuclease A (Phosphate-Free) (93 % Humidity) >gi|3212649|pdb|1XPT|A Chain A, Bovine Ribonuclease A (Phosphate-Free) >gi|3212650|pdb|1XPT|B Chain B, Bovine Ribonuclease A (Phosphate-Free) >gi|3891456|pdb|1BZQ|A Chain A, Complex Of A Dromedary Single-Domain Vhh Antibody Fragment With Rnase A >gi|3891457|pdb|1BZQ|B Chain B, Complex Of A Dromedary Single-Domain Vhh Antibody Fragment With Rnase A >gi|3891458|pdb|1BZQ|C Chain C, Complex Of A Dromedary Single-Domain Vhh Antibody Fragment With Rnase A >gi|3891459|pdb|1BZQ|D Chain D, Complex Of A Dromedary Single-Domain Vhh Antibody Fragment With Rnase A >gi|5821817|pdb|1BEL|A Chain A, Hydrolase Phosphoric Diester, Rna >gi|6137737|pdb|1QHC|A Chain A, Crystal Structure Of Ribonuclease A In Complex With 5'- Phospho-2'-Deoxyuridine-3'-Pyrophosphate Adenosine-3'- Phosphate >gi|6137738|pdb|1QHC|B Chain B, Crystal Structure Of Ribonuclease A In Complex With 5'- Phospho-2'-Deoxyuridine-3'-Pyrophosphate Adenosine-3'- Phosphate >gi|10120602|pdb|1EOS|A Chain A, Crystal Structure Of Ribonuclease A Complexed With Uridylyl(2',5')guanosine (Productive Binding) >gi|10120603|pdb|1EOS|B Chain B, Crystal Structure Of Ribonuclease A Complexed With Uridylyl(2',5')guanosine (Productive Binding) >gi|11513665|pdb|1EOW|A Chain A, Crystal Structure Of Ribonuclease A Complexed With Uridylyl(2',5')guanosine (Non-Productive Binding) >gi|13399688|pdb|1F0V|A Chain A, Crystal Structure Of An Rnase A Dimer Displaying A New Type Of 3d Domain Swapping >gi|13399689|pdb|1F0V|B Chain B, Crystal Structure Of An Rnase A Dimer Displaying A New Type Of 3d Domain Swapping >gi|13399690|pdb|1F0V|C Chain C, Crystal Structure Of An Rnase A Dimer Displaying A New Type Of 3d Domain Swapping >gi|13399691|pdb|1F0V|D Chain D, Crystal Structure Of An Rnase A Dimer Displaying A New Type Of 3d Domain Swapping >gi|18159003|pdb|1KF2|A Chain A, Atomic Resolution Structure Of Rnase A At Ph 5.2 >gi|18159004|pdb|1KF3|A Chain A, Atomic Resolution Structure Of Rnase A At Ph 5.9 >gi|18159005|pdb|1KF4|A Chain A, Atomic Resolution Structure Of Rnase A At Ph 6.3 >gi|18159006|pdb|1KF5|A Chain A, Atomic Resolution Structure Of Rnase A At Ph 7.1 >gi|18159007|pdb|1KF7|A Chain A, Atomic Resolution Structure Of Rnase A At Ph 8.0 >gi|18159008|pdb|1KF8|A Chain A, Atomic Resolution Structure Of Rnase A At Ph 8.8 >gi|20149820|pdb|1FS3|A Chain A, Crystal Structure Of Wild-Type Bovine Pancreatic Ribonuclease A >gi|20150522|pdb|1JS0|A Chain A, Crystal Structure Of 3d Domain-Swapped Rnase A Minor Trimer >gi|20150523|pdb|1JS0|B Chain B, Crystal Structure Of 3d Domain-Swapped Rnase A Minor Trimer >gi|20150524|pdb|1JS0|C Chain C, Crystal Structure Of 3d Domain-Swapped Rnase A Minor Trimer >gi|21465751|pdb|1JVT|A Chain A, Crystal Structure Of Ribonuclease A (Ligand-Free Form) >gi|21465752|pdb|1JVT|B Chain B, Crystal Structure Of Ribonuclease A (Ligand-Free Form) >gi|21465753|pdb|1JVU|A Chain A, Crystal Structure Of Ribonuclease A (Complexed Form) >gi|21465754|pdb|1JVU|B Chain B, Crystal Structure Of Ribonuclease A (Complexed Form) >gi|21465755|pdb|1JVV|A Chain A, Crystal Structure Of Ribonuclease A (Retro-Soaked Form) >gi|21465756|pdb|1JVV|B Chain B, Crystal Structure Of Ribonuclease A (Retro-Soaked Form) >gi|31615453|pdb|1JN4|A Chain A, The Crystal Structure Of Ribonuclease A In Complex With 2'- Deoxyuridine 3'-Pyrophosphate (P'-5') Adenosine >gi|31615454|pdb|1JN4|B Chain B, The Crystal Structure Of Ribonuclease A In Complex With 2'- Deoxyuridine 3'-Pyrophosphate (P'-5') Adenosine >gi|40889147|pdb|1O0F|A Chain A, Rnase A In Complex With 3',5'-Adp >gi|40889148|pdb|1O0F|B Chain B, Rnase A In Complex With 3',5'-Adp >gi|40889149|pdb|1O0H|A Chain A, Ribonuclease A In Complex With 5'-Adp >gi|40889150|pdb|1O0H|B Chain B, Ribonuclease A In Complex With 5'-Adp >gi|40889151|pdb|1O0M|A Chain A, Ribonuclease A In Complex With Uridine-2'-Phosphate >gi|40889152|pdb|1O0M|B Chain B, Ribonuclease A In Complex With Uridine-2'-Phosphate >gi|40889153|pdb|1O0N|A Chain A, Ribonuclease A In Complex With Uridine-3'-phosphate >gi|40889154|pdb|1O0N|B Chain B, Ribonuclease A In Complex With Uridine-3'-phosphate >gi|40889155|pdb|1O0O|A Chain A, Ribonuclease A In Complex With Adenosine-2',5'-Diphosphate >gi|40889156|pdb|1O0O|B Chain B, Ribonuclease A In Complex With Adenosine-2',5'-Diphosphate >gi|60593868|pdb|1WBU|A Chain A, Fragment Based Lead Discovery Using Crystallography >gi|60593869|pdb|1WBU|B Chain B, Fragment Based Lead Discovery Using Crystallography >gi|61680149|pdb|1W4O|A Chain A, Binding Of Nonnatural 3'-Nucleotides To Ribonuclease A >gi|61680150|pdb|1W4O|B Chain B, Binding Of Nonnatural 3'-Nucleotides To Ribonuclease A >gi|61680151|pdb|1W4P|A Chain A, Binding Of Nonnatural 3'-Nucleotides To Ribonuclease A >gi|61680152|pdb|1W4P|B Chain B, Binding Of Nonnatural 3'-Nucleotides To Ribonuclease A >gi|61680153|pdb|1W4Q|A Chain A, Binding Of Nonnatural 3'-Nucleotides To Ribonuclease A >gi|61680154|pdb|1W4Q|B Chain B, Binding Of Nonnatural 3'-Nucleotides To Ribonuclease A >gi|71041645|pdb|1U1B|A Chain A, Structure Of Bovine Pancreatic Ribonuclease A In Complex With 3'-phosphothymidine (3'-5')-pyrophosphate Adenosine 3'-phosphate >gi|71041646|pdb|1U1B|B Chain B, Structure Of Bovine Pancreatic Ribonuclease A In Complex With 3'-phosphothymidine (3'-5')-pyrophosphate Adenosine 3'-phosphate >gi|75765677|pdb|1Z6D|A Chain A, Ribonuclease A- Imp Complex >gi|75765678|pdb|1Z6D|B Chain B, Ribonuclease A- Imp Complex >gi|75765679|pdb|1Z6S|A Chain A, Ribonuclease A- Amp Complex >gi|75765680|pdb|1Z6S|B Chain B, Ribonuclease A- Amp Complex >gi|78101612|pdb|2BLP|A Chain A, Rnase Before Unattenuated X-Ray Burn >gi|78101620|pdb|2BLZ|A Chain A, Rnase After A High Dose X-Ray "burn" >gi|114793981|pdb|2G8Q|A Chain A, The Crystal Structure Of Rnase A From Monoclinic Crystals At 100 K >gi|114793982|pdb|2G8Q|B Chain B, The Crystal Structure Of Rnase A From Monoclinic Crystals At 100 K >gi|114793983|pdb|2G8R|A Chain A, The Crystal Structure Of The Rnase A- 3-N-Piperidine-4- Carboxyl-3-Deoxy-Ara-Uridine Complex >gi|114793984|pdb|2G8R|B Chain B, The Crystal Structure Of The Rnase A- 3-N-Piperidine-4- Carboxyl-3-Deoxy-Ara-Uridine Complex >gi|134104350|pdb|2G4W|A Chain A, Anomalous Substructure Of Ribonuclease A (c2) >gi|134104351|pdb|2G4W|B Chain B, Anomalous Substructure Of Ribonuclease A (c2) >gi|134104352|pdb|2G4X|A Chain A, Anomalous Substructure Od Ribonuclease A (P3221) >gi|145579301|pdb|2E33|B Chain B, Structural Basis For Selection Of Glycosylated Substrate By Scffbs1 Ubiquitin Ligase >gi|151568003|pdb|2QCA|A Chain A, A New Crystal Form Of Bovine Pancreatic Rnase A In Complex With 2'- Deoxyguanosine-5'-Monophosphate >gi|157830026|pdb|1AQP|A Chain A, Ribonuclease A Copper Complex >gi|157833631|pdb|1RAT|A Chain A, Effects Of Temperature On Protein Structure And Dynamics: X- Ray Crystallographic Studies Of The Protein Ribonuclease-A At Nine Different Temperatures From 98 To 320 K >gi|157833636|pdb|1RBN|A Chain A, The Structure Of Ribonuclease A Derivative Ii At 2.1 Angstroms Resolution >gi|157833643|pdb|1RBW|A Chain A, Ribonuclease A (E.C.3.1.27.5) With Guanidinium >gi|157833644|pdb|1RBX|A Chain A, Ribonuclease A (E.C.3.1.27.5) Control >gi|157833646|pdb|1RCA|A Chain A, Structure Of The Crystalline Complex Of Deoxycytidylyl-3', 5'-Guanosine (3',5'-Dcpdg) Co-Crystalised With Ribonuclease At 1.9 Angstroms Resolution. Retrobinding In Pancreatic Rnasea Is Independent Of Mode Of Inhibitor Intromission >gi|157833687|pdb|1RHA|A Chain A, Water Dependent Domain Motion And Flexibility In Ribonuclease A And The Invariant Features In Its Hydration Shell. An X-Ray Study Of Two Low Humidity Crystal Forms Of The Enzyme >gi|157833688|pdb|1RHB|A Chain A, Water Dependent Domain Motion And Flexibility In Ribonuclease A And The Invariant Features In Its Hydration Shell. An X-Ray Study Of Two Low Humidity Crystal Forms Of The Enzyme >gi|157833708|pdb|1RNC|A Chain A, Newly Observed Binding Mode In Pancreatic Ribonuclease >gi|157833709|pdb|1RND|A Chain A, Newly Observed Binding Mode In Pancreatic Ribonuclease >gi|157833715|pdb|1RNO|A Chain A, Ribonuclease A Crystallized From 80% Ammonium Sulphate >gi|157833716|pdb|1RNQ|A Chain A, Ribonuclease A Crystallized From 8m Sodium Formate >gi|157833718|pdb|1RNU|A Chain A, Refinement Of The Crystal Structure Of Ribonuclease S. Comparison With And Between The Various Ribonuclease A Structures >gi|157833719|pdb|1RNV|A Chain A, Refinement Of The Crystal Structure Of Ribonuclease S. Comparison With And Between The Various Ribonuclease A Structures >gi|157833720|pdb|1RNW|A Chain A, Recombinant Ribonuclease A Crystallized From 80% Ammonium Sulphate >gi|157833721|pdb|1RNX|A Chain A, Ribonuclease A Crystallized From 3m Sodium Chloride, 30% Ammonium Sulfate >gi|157833722|pdb|1RNY|A Chain A, Ribonuclease A Crystallized From 3m Cesium Chloride, 30% Ammonium Sulfate >gi|157833723|pdb|1RNZ|A Chain A, Ribonuclease A Crystallized From 2.5m Sodium Chloride, 3.3m Sodium Formate >gi|157833724|pdb|1ROB|A Chain A, Structure Of The Crystalline Complex Of Cytidylic Acid (2'- Cmp) With Ribonuclease At 1.6 Angstroms Resolution >gi|157833736|pdb|1RPF|A Chain A, The Structures Of Rnase Complexed With 3'-Cmp And D(Cpa): Active Site Conformation And Conserved Water Molecules >gi|157833737|pdb|1RPG|A Chain A, Structures Of Rnase A Complexed With 3'-Cmp And D(Cpa): Active Site Conformation And Conserved Water Molecules >gi|157833738|pdb|1RPH|A Chain A, Structures Of Rnase A Complexed With 3'-Cmp And D(Cpa): Active Site Conformation And Conserved Water Molecules >gi|157833747|pdb|1RSM|A Chain A, The 2-Angstroms Resolution Structure Of A Thermostable Ribonuclease A Chemically Cross-Linked Between Lysine Residues 7 And 41 >gi|157833750|pdb|1RTB|A Chain A, Crystal Structure Disposition Of Thymidylic Acid Tetramer In Complex With Ribonuclease A >gi|157833754|pdb|1RUV|A Chain A, Ribonuclease A-Uridine Vanadate Complex: High Resolution Resolution X-Ray Structure (1.3 A) >gi|157834523|pdb|2AAS|A Chain A, High-Resolution Three-Dimensional Structure Of Ribonuclease A In Solution By Nuclear Magnetic Resonance Spectroscopy >gi|157836329|pdb|2RAT|A Chain A, Effects Of Temperature On Protein Structure And Dynamics: X- Ray Crystallographic Studies Of The Protein Ribonuclease-A At Nine Different Temperatures From 98 To 320 K >gi|157836339|pdb|2RNS|A Chain A, Refinement Of The Crystal Structure Of Ribonuclease S. Comparison With And Between The Various Ribonuclease A Structures >gi|157836881|pdb|3RAT|A Chain A, Effects Of Temperature On Protein Structure And Dynamics: X- Ray Crystallographic Studies Of The Protein Ribonuclease-A At Nine Different Temperatures From 98 To 320 K >gi|157836885|pdb|3RN3|A Chain A, Segmented Anisotropic Refinement Of Bovine Ribonuclease A By The Application Of The Rigid-Body Tls Model >gi|157836991|pdb|4RAT|A Chain A, Effects Of Temperature On Protein Structure And Dynamics: X- Ray Crystallographic Studies Of The Protein Ribonuclease-A At Nine Different Temperatures From 98 To 320 K >gi|157837072|pdb|5RAT|A Chain A, Effects Of Temperature On Protein Structure And Dynamics: X- Ray Crystallographic Studies Of The Protein Ribonuclease-A At Nine Different Temperatures From 98 To 320 K >gi|157837121|pdb|6RAT|A Chain A, Effects Of Temperature On Protein Structure And Dynamics: X-Ray Crystallographic Studies Of The Protein Ribonuclease-A At Nine Different Temperatures From 98 To 320 K >gi|157837156|pdb|7RAT|A Chain A, Effects Of Temperature On Protein Structure And Dynamics: X- Ray Crystallographic Studies Of The Protein Ribonuclease-A At Nine Different Temperatures From 98 To 320 K >gi|157837158|pdb|7RSA|A Chain A, Structure Of Phosphate-Free Ribonuclease A Refined At 1.26 Angstroms >gi|157837182|pdb|8RAT|A Chain A, Effects Of Temperature On Protein Structure And Dynamics: X- Ray Crystallographic Studies Of The Protein Ribonuclease-A At Nine Different Temperatures From 98 To 320 K >gi|157837192|pdb|9RAT|A Chain A, Effects Of Temperature On Protein Structure And Dynamics: X-Ray Crystallographic Studies Of The Protein Ribonuclease-A At Nine Different Temperatures From 98 To 320 K >gi|158429300|pdb|2P49|A Chain A, Complex Of A Camelid Single-Domain Vhh Antibody Fragment With Rnase A At 1.4a Resolution: Native Mono_1 Crystal Form >gi|158429302|pdb|2P4A|A Chain A, X-Ray Structure Of A Camelid Affinity Matured Single-Domain Vhh Antibody Fragment In Complex With Rnase A >gi|158429304|pdb|2P4A|C Chain C, X-Ray Structure Of A Camelid Affinity Matured Single-Domain Vhh Antibody Fragment In Complex With Rnase A >gi|159794751|pdb|2E3W|A Chain A, X-Ray Structure Of Native Rnase A >gi|169791661|pdb|2P42|A Chain A, Complex Of A Camelid Single-Domain Vhh Antibody Fragment With Rnase A At 1.8a Resolution: Se3-Mono-2 Crystal Form With Three Se-Met Sites (M34, M51, M83) In Vhh Scaffold >gi|169791663|pdb|2P42|C Chain C, Complex Of A Camelid Single-Domain Vhh Antibody Fragment With Rnase A At 1.8a Resolution: Se3-Mono-2 Crystal Form With Three Se-Met Sites (M34, M51, M83) In Vhh Scaffold >gi|169791665|pdb|2P43|A Chain A, Complex Of A Camelid Single-Domain Vhh Antibody Fragment With Rnase A At 1.65a Resolution: Se3-Mono-1 Crystal Form With Three Se-Met Sites (M34, M51, M83) In Vhh Scaffold >gi|169791667|pdb|2P44|A Chain A, Complex Of A Camelid Single-Domain Vhh Antibody Fragment With Rnase A At 1.8a Resolution: Se5a-Mono-1 Crystal Form With Five Se-Met Sites (M34, M51, F68m, M83, L86m) In Vhh Scaffold >gi|169791669|pdb|2P45|A Chain A, Complex Of A Camelid Single-domain Vhh Antibody Fragment With Rnase A At 1.1a Resolution: Se5b-ortho-1 Crystal Form With Five Se-met Sites (l4m, M34, M51, F68m, M83) In Vhh Scaffold. >gi|169791671|pdb|2P46|A Chain A, Complex Of A Camelid Single-Domain Vhh Antibody Fragment With Rnase A At 2.5a Resolution: Se5b-Ortho-2 Crystal Form With Five Se-Met Sites (L4m, M34, M51, F68m, M83) In Vhh Scaffold. >gi|169791673|pdb|2P46|C Chain C, Complex Of A Camelid Single-Domain Vhh Antibody Fragment With Rnase A At 2.5a Resolution: Se5b-Ortho-2 Crystal Form With Five Se-Met Sites (L4m, M34, M51, F68m, M83) In Vhh Scaffold. >gi|169791675|pdb|2P47|A Chain A, Complex Of A Camelid Single-Domain Vhh Antibody Fragment With Rnase A At 2.5a Resolution: Se5b-Tri Crystal Form With Five Se-Met Sites (L4m, M34, M51, F68m, M83) In Vhh Scaffold. >gi|169791677|pdb|2P48|A Chain A, Complex Of A Camelid Single-Domain Vhh Antibody Fragment With Rnase A At 2.3a Resolution: Se5b-Tetra Crystal Form With Five Se-Met Sites (L4m, M34, M51, F68m, M83) In Vhh Scaffold. >gi|194320099|pdb|3DH5|A Chain A, Crystal Structure Of Bovine Pancreatic Ribonuclease A (Wild- Type) >gi|223365819|pdb|3D6O|A Chain A, The Rnase A- 5'-Deoxy-5'-N-(Ethyl Isonipecotatyl)uridine Complex >gi|223365820|pdb|3D6O|B Chain B, The Rnase A- 5'-Deoxy-5'-N-(Ethyl Isonipecotatyl)uridine Complex >gi|223365821|pdb|3D6P|A Chain A, Rnase A- 5'-Deoxy-5'-N-Morpholinouridine Complex >gi|223365822|pdb|3D6P|B Chain B, Rnase A- 5'-Deoxy-5'-N-Morpholinouridine Complex >gi|223365823|pdb|3D6Q|A Chain A, The Rnase A- 5'-Deoxy-5'-N-Piperidinouridine Complex >gi|223365824|pdb|3D6Q|B Chain B, The Rnase A- 5'-Deoxy-5'-N-Piperidinouridine Complex >gi|223365828|pdb|3D7B|A Chain A, The Ribonuclease A- 5'-Deoxy-5'-N-Pyrrolidinouridine Complex >gi|223365829|pdb|3D7B|B Chain B, The Ribonuclease A- 5'-Deoxy-5'-N-Pyrrolidinouridine Complex >gi|223365830|pdb|3D8Y|A Chain A, Rnase A- 5'-deoxy-5'-n-piperidinothymidine Complex >gi|223365831|pdb|3D8Y|B Chain B, Rnase A- 5'-deoxy-5'-n-piperidinothymidine Complex >gi|223365832|pdb|3D8Z|A Chain A, Rnase A- 5'-deoxy-5'-n-pyrrolidinothymidine Complex >gi|223365833|pdb|3D8Z|B Chain B, Rnase A- 5'-deoxy-5'-n-pyrrolidinothymidine Complex >gi|223673818|pdb|2W5G|A Chain A, Rnase A-5'-Atp Complex >gi|223673819|pdb|2W5G|B Chain B, Rnase A-5'-Atp Complex >gi|223673820|pdb|2W5I|A Chain A, Rnase A-Ap3a Complex >gi|223673821|pdb|2W5I|B Chain B, Rnase A-Ap3a Complex >gi|223673822|pdb|2W5K|A Chain A, Rnase A-Nadph Complex >gi|223673823|pdb|2W5K|B Chain B, Rnase A-Nadph Complex >gi|223673824|pdb|2W5L|A Chain A, Rnase A-Nadp Complex >gi|223673825|pdb|2W5L|B Chain B, Rnase A-Nadp Complex >gi|223673826|pdb|2W5M|A Chain A, Rnase A-Pyrophosphate Ion Complex >gi|223673827|pdb|2W5M|B Chain B, Rnase A-Pyrophosphate Ion Complex >gi|240104343|pdb|3DXG|A Chain A, Ribonuclease A- Uridine 5' Phosphate Complex >gi|240104344|pdb|3DXG|B Chain B, Ribonuclease A- Uridine 5' Phosphate Complex >gi|240104345|pdb|3DXH|A Chain A, Ribonuclease A Uridine 5' Diphosphate Complex >gi|240104346|pdb|3DXH|B Chain B, Ribonuclease A Uridine 5' Diphosphate Complex >gi|241913189|pdb|3EUX|A Chain A, Crystal Structure Of Crosslinked Ribonuclease A >gi|241913190|pdb|3EUX|B Chain B, Crystal Structure Of Crosslinked Ribonuclease A >gi|241913191|pdb|3EUY|A Chain A, Crystal Structure Of Ribonuclease A In 50% Dioxane >gi|241913192|pdb|3EUY|B Chain B, Crystal Structure Of Ribonuclease A In 50% Dioxane >gi|241913193|pdb|3EUZ|A Chain A, Crystal Structure Of Ribonuclease A In 50% Dimethylformamide >gi|241913194|pdb|3EUZ|B Chain B, Crystal Structure Of Ribonuclease A In 50% Dimethylformamide >gi|241913195|pdb|3EV0|A Chain A, Crystal Structure Of Ribonuclease A In 70% Dimethyl Sulfoxide >gi|241913196|pdb|3EV0|B Chain B, Crystal Structure Of Ribonuclease A In 70% Dimethyl Sulfoxide >gi|241913197|pdb|3EV1|A Chain A, Crystal Structure Of Ribonuclease A In 70% Hexanediol >gi|241913198|pdb|3EV1|B Chain B, Crystal Structure Of Ribonuclease A In 70% Hexanediol >gi|241913199|pdb|3EV2|A Chain A, Crystal Structure Of Ribonuclease A In 70% Isopropanol >gi|241913200|pdb|3EV2|B Chain B, Crystal Structure Of Ribonuclease A In 70% Isopropanol >gi|241913201|pdb|3EV3|A Chain A, Crystal Structure Of Ribonuclease A In 70% T-Butanol >gi|241913202|pdb|3EV3|B Chain B, Crystal Structure Of Ribonuclease A In 70% T-Butanol >gi|241913203|pdb|3EV4|A Chain A, Crystal Structure Of Ribonuclease A In 50% Trifluoroethanol >gi|241913204|pdb|3EV4|B Chain B, Crystal Structure Of Ribonuclease A In 50% Trifluoroethanol >gi|241913205|pdb|3EV5|A Chain A, Crystal Structure Of Ribonuclease A In 1m Trimethylamine N-Oxide >gi|241913206|pdb|3EV5|B Chain B, Crystal Structure Of Ribonuclease A In 1m Trimethylamine N-Oxide >gi|241913207|pdb|3EV6|A Chain A, Crystal Structure Of Ribonuclease A In 50% R,S,R-Bisfuranol >gi|241913208|pdb|3EV6|B Chain B, Crystal Structure Of Ribonuclease A In 50% R,S,R-Bisfuranol >gi|255311926|pdb|3I7W|A Chain A, High Pressure Structure Of Wild-Type Rnase A (0.67 Gpa) >gi|260656428|pdb|3JW1|A Chain A, Crystal Structure Of Bovine Pancreatic Ribonuclease Complexed With Uridine-5'-monophosphate At 1.60 A Resolution >gi|260656429|pdb|3JW1|B Chain B, Crystal Structure Of Bovine Pancreatic Ribonuclease Complexed With Uridine-5'-monophosphate At 1.60 A Resolution >gi|295321931|pdb|3LXO|A Chain A, The Crystal Structure Of Ribonuclease A In Complex With Thymidine-3'- Monophosphate >gi|300193160|pdb|3I67|A Chain A, Ribonuclease A By Lb Nanotemplate Method After High X-Ray Dose On Esrf Id14-2 Beamline >gi|300193161|pdb|3I6F|A Chain A, Ribonuclease A By Classical Hanging Drop Method Before High X-Ray Dose On Esrf Id14-2 Beamline >gi|300193162|pdb|3I6H|A Chain A, Ribonuclease A By Lb Nanotemplate Method Before High X-Ray Dose On Esrf Id14-2 Beamline >gi|300193163|pdb|3I6J|A Chain A, Ribonuclease A By Classical Hanging Drop Method After High X-Ray Dose On Esrf Id14-2 Beamline >gi|319443318|pdb|2XOG|A Chain A, Functional And Structural Analyses Of N-Acylsulfonamide- Linked Dinucleoside Inhibitors Of Ribonuclease A >gi|319443319|pdb|2XOG|B Chain B, Functional And Structural Analyses Of N-Acylsulfonamide- Linked Dinucleoside Inhibitors Of Ribonuclease A >gi|319443320|pdb|2XOI|A Chain A, Functional And Structural Analyses Of N-Acylsulfonamide- Linked Dinucleoside Inhibitors Of Ribonuclease A >gi|319443321|pdb|2XOI|B Chain B, Functional And Structural Analyses Of N-Acylsulfonamide- Linked Dinucleoside Inhibitors Of Ribonuclease A >gi|343197338|pdb|3QSK|A Chain A, 5 Histidine Variant Of The Anti-Rnase A Vhh In Complex With Rnase A >gi|349587964|pdb|6RSA|A Chain A, Nuclear Magnetic Resonance And Neutron Diffraction Studies Of The Complex Of RibonucleaseA With Uridine Vanadate, A Transition-State Analogue >gi|353529988|pdb|3A1R|A Chain A, Neutron Crystal Structure Analysis Of Bovine Pancreatic Ribonuclease A >gi|395759333|pdb|4AO1|A Chain A, High Resolution Crystal Structure Of Bovine Pancreatic Ribonuclease Crystallized Using Ionic Liquid >gi|422920028|pdb|4G8V|A Chain A, Crystal Structure Of Ribonuclease A In Complex With 5a >gi|422920029|pdb|4G8V|B Chain B, Crystal Structure Of Ribonuclease A In Complex With 5a >gi|422920030|pdb|4G8Y|A Chain A, Crystal Structure Of Ribonuclease A In Complex With 5b >gi|422920031|pdb|4G8Y|B Chain B, Crystal Structure Of Ribonuclease A In Complex With 5b >gi|422920032|pdb|4G90|A Chain A, Crystal Structure Of Ribonuclease A In Complex With 5e >gi|422920033|pdb|4G90|B Chain B, Crystal Structure Of Ribonuclease A In Complex With 5e >gi|568786778|pdb|4MXF|A Chain A, X-ray Structure Of The Adduct Between Bovine Pancreatic Ribonuclease And Auoxo6, A Dinuclear Gold(iii) Complex With -dioxo Bridges Linking The Two Metal Centers >gi|568786779|pdb|4MXF|B Chain B, X-ray Structure Of The Adduct Between Bovine Pancreatic Ribonuclease And Auoxo6, A Dinuclear Gold(iii) Complex With -dioxo Bridges Linking The Two Metal Centers >gi|575403264|pdb|4J5Z|A Chain A, Crystal Structure Of Ribonuclease A In Aqueous Solution: One Of Twelve In Mscs Set >gi|575403265|pdb|4J60|A Chain A, Crystal Structure Of Ribonuclease A Soaked In 25% Cyclopentanol: One Of Twelve In Mscs Set >gi|575403266|pdb|4J61|A Chain A, Crystal Structure Of Ribonuclease A Soaked In 40% Cyclopentanone: One Of Twelve In Mscs Set >gi|575403267|pdb|4J62|A Chain A, Crystal Structure Of Ribonuclease A Soaked In 40% Cyclohexanol: One Of Twelve In Mscs Set >gi|575403268|pdb|4J63|A Chain A, Crystal Structure Of Ribonuclease A Soaked In 40% Cyclohexanone: One Of Twelve In Mscs Set >gi|575403269|pdb|4J64|A Chain A, Crystal Structure Of Ribonuclease A Soaked In 40% Dioxane: One Of Twelve In Mscs Set >gi|575403270|pdb|4J65|A Chain A, Crystal Structure Of Ribonuclease A Soaked In 40% Dimethylformamide: One Of Twelve In Mscs Set >gi|575403271|pdb|4J66|A Chain A, Crystal Structure Of Ribonuclease A Soaked In 25% Dimethyl Sulfoxide: One Of Twelve In Mscs Set >gi|575403272|pdb|4J67|A Chain A, Crystal Structure Of Ribonuclease A Soaked In 50% 1,6-hexanediol: One Of Twelve In Mscs Set >gi|575403273|pdb|4J68|A Chain A, Crystal Structure Of Ribonuclease A Soaked In 40% Isopropanol: One Of Twelve In Mscs Set >gi|575403274|pdb|4J69|A Chain A, Crystal Structure Of Ribonuclease A Soaked In 50% S,r,s-bisfuranol: One Of Twelve In Mscs Set >gi|575403275|pdb|4J6A|A Chain A, Crystal Structure Of Ribonuclease A Soaked In 40% 2,2,2- Trifluoroethanol: One Of Twelve In Mscs Set >gi|576865200|pdb|4L55|A Chain A, X-ray Structure Of The Adduct Between Bovine Pancreatic Ribonuclease And Aziru >gi|576865201|pdb|4L55|B Chain B, X-ray Structure Of The Adduct Between Bovine Pancreatic Ribonuclease And Aziru >gi|659835466|pdb|4PEQ|A Chain A, Structure Of Bovine Ribonuclease Inhibitor Complexed With Bovine Ribonuclease I >gi|659835468|pdb|4PEQ|C Chain C, Structure Of Bovine Ribonuclease Inhibitor Complexed With Bovine Ribonuclease I >gi|662702233|pdb|4OT4|A Chain A, X-ray Structure Of The Adduct Formed Between Cisplatin And Ribonuclease A >gi|662702234|pdb|4OT4|B Chain B, X-ray Structure Of The Adduct Formed Between Cisplatin And Ribonuclease A >gi|672883668|pdb|4QH3|A Chain A, X-ray Structure Of The Adduct Formed Between Bovine Pancreatic Ribonuclease And Trans-dimethylamine Methylamine Dichlorido Platinum(ii) >gi|672883669|pdb|4QH3|B Chain B, X-ray Structure Of The Adduct Formed Between Bovine Pancreatic Ribonuclease And Trans-dimethylamine Methylamine Dichlorido Platinum(ii) >gi|694270168|pdb|4POU|A Chain A, Vhh-metal In Complex With Rnase A >gi|761232621|pdb|4OOH|A Chain A, Structure Of Ribonuclease A At 40c >gi|783282971|pdb|4RTE|A Chain A, The X-ray Structure Of Bovine Pancreatic Ribonuclease Incubated In The Presence Of An Excess Of Cisplatin (1:10 Ratio) >gi|953267377|pdb|4S0Q|A Chain A, The X-ray Structure Of The Adduct Formed In The Reaction Between Bovine Pancreatic Ribonuclease And Carboplatin >gi|953267378|pdb|4S0Q|B Chain B, The X-ray Structure Of The Adduct Formed In The Reaction Between Bovine Pancreatic Ribonuclease And Carboplatin >gi|955264613|pdb|4S18|A Chain A, The X-ray Structure Of The Adduct Formed In The Reaction Between Bovine Pancreatic Ribonuclease And Oxaliplatin >gi|955264614|pdb|4S18|B Chain B, The X-ray Structure Of The Adduct Formed In The Reaction Between Bovine Pancreatic Ribonuclease And Oxaliplatin >gi|960515596|pdb|5E5E|A Chain A, X-ray Structure Of The Adduct Formed In The Reaction Between Rnase A And A Neutral Organometallic Derivative [pt(pbi)(me)(dmso)], Pbi=2- (2'-pyridil)benzimidazole (compound 3) >gi|960515597|pdb|5E5E|B Chain B, X-ray Structure Of The Adduct Formed In The Reaction Between Rnase A And A Neutral Organometallic Derivative [pt(pbi)(me)(dmso)], Pbi=2- (2'-pyridil)benzimidazole (compound 3) >gi|960515598|pdb|5E5F|A Chain A, X-ray Structure Of The Complex Between Rnase A And Compound 4-pf6 ([(pph3)au(mi-pbi)pt(me)(dmso)][pf6]), The Heterobimetallic Derivative Obtained In The Reaction Between The Organometallic Compound [pt(pbi)(me)(dmso)], Pbi=2-(2'-pyridil)benzimidazole (compound 3) And The Gold(i) Compound [au(ph3p)][pf6] >gi|960515599|pdb|5E5F|B Chain B, X-ray Structure Of The Complex Between Rnase A And Compound 4-pf6 ([(pph3)au(mi-pbi)pt(me)(dmso)][pf6]), The Heterobimetallic Derivative Obtained In The Reaction Between The Organometallic Compound [pt(pbi)(me)(dmso)], Pbi=2-(2'-pyridil)benzimidazole (compound 3) And The Gold(i) Compound [au(ph3p)][pf6] >gi|1015812850|pdb|4ZZ4|A Chain A, Neutron Crystal Structure Of Ribonuclease A Determined By The Real Space D/h Contrast Method >gi|1015813107|pdb|5D6U|A Chain A, X-ray Crystal Structure Of Ribonuclease A Determined For The Real Space D/h Contrast Method >gi|1015813121|pdb|5D97|A Chain A, Neutron Crystal Structure Of H2o-solvent Ribonuclease A >gi|1048349284|pdb|5JMG|A Chain A, X-ray Structure Of The Complex Between Bovine Pancreatic Ribonuclease And Pentachlorocarbonyliridate(iii) (4 Days Of Soaking) >gi|1048349285|pdb|5JMG|B Chain B, X-ray Structure Of The Complex Between Bovine Pancreatic Ribonuclease And Pentachlorocarbonyliridate(iii) (4 Days Of Soaking) >gi|1048349286|pdb|5JML|A Chain A, X-ray Structure Of The Complex Between Bovine Pancreatic Ribonuclease And Penthachlorocarbonyliridate(iii) (2 Months Of Soaking) >gi|1048349287|pdb|5JML|B Chain B, X-ray Structure Of The Complex Between Bovine Pancreatic Ribonuclease And Penthachlorocarbonyliridate(iii) (2 Months Of Soaking) >gi|1049306174|pdb|5JLG|A Chain A, The X-ray Structure Of The Adduct Formed In The Reaction Between Bovine Pancreatic Ribonuclease And Compound I, A Piano-stool Organometallic Ru(ii) Arene Compound Containing An O,s-chelating Ligand >gi|1049306175|pdb|5JLG|B Chain B, The X-ray Structure Of The Adduct Formed In The Reaction Between Bovine Pancreatic Ribonuclease And Compound I, A Piano-stool Organometallic Ru(ii) Arene Compound Containing An O,s-chelating Ligand >gi|1438976|gb|AAB36134.1| pancreatic-type ribonuclease, partial [Bos taurus] >gi|229155|prf||630436A RNase
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|24138414|emb|CAB37066.1| artificial [synthetic construct]
+MEGRKETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSY
+STMSITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|953267420|pdb|4WYN|A Chain A, The Crystal Structure Of The A109g Mutant Of Rnase A >gi|953267421|pdb|4WYN|B Chain B, The Crystal Structure Of The A109g Mutant Of Rnase A >gi|953267422|pdb|4WYP|A Chain A, The Crystal Structure Of The A109g Mutant Of Rnase A In Complex With 5'amp >gi|953267423|pdb|4WYP|B Chain B, The Crystal Structure Of The A109g Mutant Of Rnase A In Complex With 5'amp >gi|953267424|pdb|4WYZ|A Chain A, The Crystal Structure Of The A109g Mutant Of Rnase A In Complex With 3'ump >gi|953267425|pdb|4WYZ|B Chain B, The Crystal Structure Of The A109g Mutant Of Rnase A In Complex With 3'ump
+MKETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTM
+SITDCRETGSSKYPNCAYKTTQANKHIIVGCEGNPYVPVHFDASV
+>gi|20149802|pdb|1EIE|A Chain A, Crystal Structure Of F120w Mutant Of Bovine Pancreatic Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHWDASV
+>gi|39654061|pdb|1IZP|A Chain A, F46l Mutant Of Bovine Pancreatic Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTLVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|194320105|pdb|3DIC|A Chain A, Crystal Structure Of Bovine Pancreatic Ribonuclease A Variant (V108a)
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIAACEGNPYVPVHFDASV
+>gi|194320102|pdb|3DI8|A Chain A, Crystal Structure Of Bovine Pancreatic Ribonuclease A Variant (V57a)
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAACSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|194320101|pdb|3DI7|A Chain A, Crystal Structure Of Bovine Pancreatic Ribonuclease A Variant (V54a)
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADAQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|194320100|pdb|3DH6|A Chain A, Crystal Structure Of Bovine Pancreatic Ribonuclease A Variant (V47a)
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFAHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|157833629|pdb|1RAR|A Chain A, Crystal Structure Of A Fluorescent Derivative Of Rnase A >gi|157833630|pdb|1RAS|A Chain A, Crystal Structure Of A Fluorescent Derivative Of Rnase A
+ETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSI
+TDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|157837075|pdb|5RSA|A Chain A, Comparison Of Two Independently Refined Models Of Ribonuclease-A
+XETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|157836887|pdb|3RSD|A Chain A, Structure Of The D121n Variant Of Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFNASV
+>gi|88191846|pdb|1YMN|A Chain A, The Study Of Reductive Unfolding Pathways Of Rnase A (Y92l Mutant)
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKLPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|194320104|pdb|3DIB|A Chain A, Crystal Structure Of Bovine Pancreatic Ribonuclease A Variant (I106a) >gi|255311927|pdb|3I7X|A Chain A, High Pressure Structure Of I106a Rnase A Variant (0.35 Gpa) >gi|255311928|pdb|3I7Y|A Chain A, High Pressure Structure Of I106a Variant Of Rnase A (0.48 Gpa)
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHAIVACEGNPYVPVHFDASV
+>gi|194320103|pdb|3DI9|A Chain A, Crystal Structure Of Bovine Pancreatic Ribonuclease A Variant (I81a)
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ATDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|39654062|pdb|1IZQ|A Chain A, F46v Mutant Of Bovine Pancreatic Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTVVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|345100504|pdb|1LSQ|A Chain A, Ribonuclease A With Asn 67 Replaced By A Beta-Aspartyl Residue >gi|345100505|pdb|1LSQ|B Chain B, Ribonuclease A With Asn 67 Replaced By A Beta-Aspartyl Residue >gi|440923781|pdb|1DY5|A Chain A, Deamidated Derivative Of Bovine Pancreatic Ribonuclease >gi|440923782|pdb|1DY5|B Chain B, Deamidated Derivative Of Bovine Pancreatic Ribonuclease
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKXGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|20663516|pdb|1C8W|A Chain A, Thr45gly Variant Of Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNGFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|157829693|pdb|1A5Q|A Chain A, P93a Variant Of Bovine Pancreatic Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYANCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|375332392|pdb|3RH1|A Chain A, X-ray Structure Of A Cis-proline (p114) To Alanine Variant Of Ribonuclease A >gi|375332393|pdb|3RID|A Chain A, X-ray Structure Of The C-terminal Swapped Dimer Of P114a Variant Of Ribonuclease A >gi|375332394|pdb|3RID|B Chain B, X-ray Structure Of The C-terminal Swapped Dimer Of P114a Variant Of Ribonuclease A >gi|375332395|pdb|3RID|C Chain C, X-ray Structure Of The C-terminal Swapped Dimer Of P114a Variant Of Ribonuclease A >gi|375332396|pdb|3RID|D Chain D, X-ray Structure Of The C-terminal Swapped Dimer Of P114a Variant Of Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNAYVPVHFDASV
+>gi|33357236|pdb|1KH8|A Chain A, Structure Of A Cis-Proline (P114) To Glycine Variant Of Ribonuclease A
+MKETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTM
+SITDCRETGSSKYPNCAYKTTQANKHIIVACEGNGYVPVHFDASV
+>gi|88191847|pdb|1YMR|A Chain A, The Study Of Reductive Unfolding Pathways Of Rnase A (Y92a Mutant)
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKAPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|157836889|pdb|3RSP|A Chain A, Structure Of The P93g Variant Of Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYGNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|157836994|pdb|4RSD|A Chain A, Structure Of The D121a Variant Of Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFAASV
+>gi|159794930|pdb|2NUI|A Chain A, X-Ray Structure Of Synthetic [d83a]rnase A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITACRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|39654063|pdb|1IZR|A Chain A, F46a Mutant Of Bovine Pancreatic Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTAVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|20149800|pdb|1EIC|A Chain A, Crystal Structure Of F120a Mutant Of Bovine Pancreatic Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHADASV
+>gi|14719516|pdb|1C9X|A Chain A, H119a Variant Of Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVAFDASV
+>gi|14719515|pdb|1C9V|A Chain A, H12a Variant Of Ribonuclease A
+KETAAAKFERQAMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|88191848|pdb|1YMW|A Chain A, The Study Of Reductive Unfolding Pathways Of Rnase A (Y92g Mutant)
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKGPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|20149801|pdb|1EID|A Chain A, Crystal Structure Of F120g Mutant Of Bovine Pancreatic Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHGDASV
+>gi|322812413|pdb|3MWR|A Chain A, Crystal Structure Of Ribonuclease A Tandem Enzymes And Their Interaction With The Cytosolic Ribonuclease Inhibitor
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASVSGSGSGKETAAAKFERQHMDSSTSAASSSNYCNQMM
+KSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQANKHIIVAC
+EGNPYVPVHFDASV
+>gi|157829692|pdb|1A5P|A Chain A, C[40,95]a Variant Of Bovine Pancreatic Ribonuclease A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRAKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNAAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|426232852|ref|XP_004010433.1| PREDICTED: ribonuclease pancreatic [Ovis aries] >gi|803336827|ref|XP_012026480.1| PREDICTED: ribonuclease pancreatic [Ovis aries musimon]
+MALKFLVLLSLLVLVGVQPSLGKESAAAKFERQHMDSSTSSASSSNYCNQMMKSRNLTQDRCKPVNTFVHESLADVQAVC
+SQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQAEKHIIVACEGNPYVPVHFDASV
+>gi|548482124|ref|XP_005685450.1| PREDICTED: ribonuclease pancreatic [Capra hircus]
+MALKFLVLLSLLVLVEVQPSLGKESAAAKFERQHMDSSTSSASSSNYCNQMMKSRNLTQDRCKPVNTFVHESLADVQAVC
+SQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQAEKHIIVACEGNPYVPVHFDASV
+>gi|322812412|pdb|3MWQ|A Chain A, Crystal Structure Of Ribonuclease A Tandem Enzymes And Their Interaction With The Cytosolic Ribonuclease Inhibitor
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASVSGRSGRSGKETAAAKFERQHMDSSTSAASSSNYCNQ
+MMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQANKHIIV
+ACEGNPYVPVHFDASV
+>gi|322812414|pdb|3MX8|A Chain A, Crystal Structure Of Ribonuclease A Tandem Enzymes And Their Interaction With The Cytosolic Ribonuclease Inhibitor
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASVGPPGKETAAAKFERQHMDSSTSAASSSNYCNQMMKS
+RNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQANKHIIVACEG
+NPYVPVHFDASV
+>gi|167744841|pdb|2OQF|A Chain A, Structure Of A Synthetic, Non-Natural Analogue Of Rnase A: [n71k(Ade), D83a]rnase A >gi|167744842|pdb|2OQF|B Chain B, Structure Of A Synthetic, Non-Natural Analogue Of Rnase A: [n71k(Ade), D83a]rnase A >gi|167744843|pdb|2OQF|C Chain C, Structure Of A Synthetic, Non-Natural Analogue Of Rnase A: [n71k(Ade), D83a]rnase A >gi|167744844|pdb|2OQF|D Chain D, Structure Of A Synthetic, Non-Natural Analogue Of Rnase A: [n71k(Ade), D83a]rnase A
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTXCYQSYSTMS
+ITACRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|54039260|sp|P67926.1|RNAS1_CAPHI RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A >gi|54039261|sp|P67927.1|RNAS1_SHEEP RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A >gi|1438978|gb|AAB36135.1| pancreatic-type ribonuclease, partial [Ovis aries] >gi|1438980|gb|AAB36136.1| pancreatic-type ribonuclease [Capra hircus]
+KESAAAKFERQHMDSSTSSASSSNYCNQMMKSRNLTQDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQAEKHIIVACEGNPYVPVHFDASV
+>gi|225734134|pdb|3FL0|A Chain A, X-Ray Structure Of The Non Covalent Swapped Form Of The Q28lK31CS32C MUTANT OF BOVINE PANCREATIC RIBONUCLEASE IN Complex With 2'-Deoxycytidine-2'-Deoxyguanosine-3',5'- Monophosphate >gi|225734135|pdb|3FL0|B Chain B, X-Ray Structure Of The Non Covalent Swapped Form Of The Q28lK31CS32C MUTANT OF BOVINE PANCREATIC RIBONUCLEASE IN Complex With 2'-Deoxycytidine-2'-Deoxyguanosine-3',5'- Monophosphate
+KETAAAKFERQHMDSSTSAASSSNYCNLMMXXRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|378792092|pdb|3QL1|A Chain A, Crystal Structure Of Ribonuclease A Variant A4c/d83e/v118c >gi|378792093|pdb|3QL2|A Chain A, Crystal Structure Of Ribonuclease A Variant A4c/d83e/v118c >gi|378792094|pdb|3QL2|B Chain B, Crystal Structure Of Ribonuclease A Variant A4c/d83e/v118c
+KETCAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITECRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPCHFDASV
+>gi|159794980|pdb|2OP2|A Chain A, Crystal Structure Of Rnase Double-Mutant V43c R85c With Extra Disulphide Bond
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPCNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCCETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|157836888|pdb|3RSK|A Chain A, Structure Of The K7aR10AK66A VARIANT OF RIBONUCLEASE A >gi|157836995|pdb|4RSK|A Chain A, Structure Of The K7aR10AK66A VARIANT OF RIBONUCLEASE A Complexed With 3'-Ump
+KETAAAAFEAQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACANGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|225734136|pdb|3FL1|A Chain A, X-Ray Structure Of The Non Covalent Swapped Form Of The A19pQ28LK31CS32C MUTANT OF BOVINE PANCREATIC Ribonuclease In Complex With 2'-Deoxycytidine-2'- Deoxyguanosine-3',5'-Monophosphate >gi|225734137|pdb|3FL1|B Chain B, X-Ray Structure Of The Non Covalent Swapped Form Of The A19pQ28LK31CS32C MUTANT OF BOVINE PANCREATIC Ribonuclease In Complex With 2'-Deoxycytidine-2'- Deoxyguanosine-3',5'-Monophosphate >gi|225734138|pdb|3FL3|A Chain A, X-Ray Structure Of The Ligand Free Non Covalent Swapped Form Of The A19pQ28LK31CS32C MUTANT OF BOVINE PANCREATIC Ribonuclease >gi|225734139|pdb|3FL3|B Chain B, X-Ray Structure Of The Ligand Free Non Covalent Swapped Form Of The A19pQ28LK31CS32C MUTANT OF BOVINE PANCREATIC Ribonuclease
+KETAAAKFERQHMDSSTSPASSSNYCNLMMXXRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|78101423|pdb|2APQ|A Chain A, Crystal Structure Of An Active Site Mutant Of Bovine Pancreatic Ribonuclease A (H119a-Rnase A) With A 10- Glutamine Expansion In The C-Terminal Hinge-Loop
+AMAKETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYS
+TMSITDCRETGSSKYPNCAYKTTQANKHIIVACEGGQQQQQQQQQQGNPYVPVAFDASV
+>gi|230333|pdb|1SRN|A Chain A, The Refined Crystal Structure Of A Fully Active Semisynthetic Ribonuclease At 1.8 Angstroms Resolution >gi|640416|pdb|1SSA|A Chain A, A Structural Investigation Of Catalytically Modified F12ol And F12oy Semisynthetic Ribonucleases >gi|640418|pdb|1SSB|A Chain A, A Structural Investigation Of Catalytically Modified F12ol And F12oy Semisynthetic Ribonucleases
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPV
+>gi|560188894|pdb|4K7M|A Chain A, Crystal Structure Of Rnase S Variant (k7c/q11c) With Bound Mercury Ions
+KETAAACFERCHMDSSSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCR
+ETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|225734132|pdb|3FKZ|A Chain A, X-Ray Structure Of The Non Covalent Swapped Form Of The S16gT17NA19PA20SK31CS32C MUTANT OF BOVINE PANCREATIC Ribonuclease >gi|225734133|pdb|3FKZ|B Chain B, X-Ray Structure Of The Non Covalent Swapped Form Of The S16gT17NA19PA20SK31CS32C MUTANT OF BOVINE PANCREATIC Ribonuclease
+KETAAAKFERQHMDSGNSPSSSSNYCNQMMXXRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|4584403|emb|CAB40706.1| pancreatic ribonuclease [Bubalus bubalis]
+KETAAAKFQRQHMDSSTSSASSSNYCNQMMKSRSMTSDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|133193|sp|P07847.1|RNAS1_AEPME RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KESAAAKFERQHMDSSTSSASSSNYCNQMMKSRNLTQSRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQAKKHIIVACEGNPYVPVHFDASV
+>gi|133199|sp|P00657.1|RNAS1_BUBBU RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KETAAAKFQRQHMDSSTSSASSSNYCNQMMKSRNMTSDRCKPVNTFVHESLADVQAVCSQENVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHYDASV
+>gi|556730474|ref|XP_005960934.1| PREDICTED: ribonuclease pancreatic-like isoform X1 [Pantholops hodgsonii] >gi|556730476|ref|XP_005960935.1| PREDICTED: ribonuclease pancreatic-like isoform X2 [Pantholops hodgsonii]
+MALKSMVLLSLLALVGVQPSLGKESAAAKFERQHMDSSTSSASSSNYCNQMMKSRSLTQGRCKPVNTFVHESLADVQAVC
+SQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQAKKHIIVACEGNPYVPVHFDASV
+>gi|594076731|ref|XP_006062105.1| PREDICTED: ribonuclease pancreatic-like isoform X1 [Bubalus bubalis] >gi|594076733|ref|XP_006062106.1| PREDICTED: ribonuclease pancreatic-like isoform X2 [Bubalus bubalis]
+MALKSLVLLSLLVLVLLLVRVQPSLGKETAAAKFQRQHMDSSTSSASSSNYCNQMMKSRNMTSDRCKPVNTFVHESLADV
+QAVCSQENVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHYDASV
+>gi|809346|pdb|3SRN|A Chain A, Structural Changes That Accompany The Reduced Catalytic Efficiency Of Two Semisynthetic Ribonuclease Analogs >gi|809385|pdb|4SRN|A Chain A, Structural Changes That Accompany The Reduced Catalytic Efficiency Of Two Semisynthetic Ribonuclease Analogs
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEGN
+>gi|133207|sp|P00660.1|RNAS1_CONTA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KESAAAKFERQHMDSSTSSASSSNYCNQMMKSRNLTQDRCKPVNTFVHEPLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKATQAKKHIIVACEGNPYVPVHFDASV
+>gi|999658|pdb|1SSC|A Chain A, The 1.6 Angstroms Structure Of A Semisynthetic Ribonuclease Crystallized From Aqueous Ethanol. Comparison With Crystals From Salt Solutions And With Rnase A From Aqueous Alcohol Solutions
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQANKHIIVACEG
+>gi|133212|sp|P07848.1|RNAS1_EUDTH RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A [Eudorcas thomsonii]
+KESAAAKFZRZHMBSSTSSASSSNYCNQMMKSRNLTQDRCKPVNTFVHESLADVQAVCSQKNVQCKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQAQKHIIVACEGNPYVPVHFDASV
+>gi|133195|sp|P00668.1|RNAS1_ANTAM RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KETAAAKFERQHIDSNPSSVSSSNYCNQMMKSRNLTQGRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMS
+ITDCRETGSSKYPNCAYKTTQAKKHIIVACEGNPYVPVHYDASV
+>gi|12381817|emb|CAC24712.1| pancreatic ribonuclease [Antilocapra americana]
+VLLPLLVLVLLLVRVEPSLGKETAAAKFERQHIDSNPSSVSSSNYCNQMMKSRNLTQGRCKPVNTFVHESLADVQAVCSQ
+KNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQAKKHIIVACEGNPYVPVHYDASV
+>gi|133232|sp|P00658.1|RNAS1_TRAOR RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A [Tragelaphus oryx]
+KETAAAKFERQHMDSSTSSASSSNYCNQMMKSRDMTKDRCKPVNTFVHZSLABVZAVCSZKBVACKBGZTBCYZSYSTMS
+ITBCRZTGSSKYPBCAYKTTZAZKHIIVACZGBPYVPVHFBASV
+>gi|5542083|pdb|1B6V|A Chain A, Crystal Structure Of A Hybrid Between Ribonuclease A And Bovine Seminal Ribonuclease >gi|5542084|pdb|1B6V|B Chain B, Crystal Structure Of A Hybrid Between Ribonuclease A And Bovine Seminal Ribonuclease
+KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVKAVCSQKKVTCKNGQTNCYQSKSTMR
+ITDCRETGSSKYPNCAYKTTQANKHIIVACGGKPYVPVHFDASV
+>gi|809297|pdb|2RLN|E Chain E, Thermodynamic And Structural Consequences Of Changing A Sulphur Atom To A Methylene Group In The M13nle Mutation In Ribonuclease S
+STSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNC
+AYKTTQANKHIIVACEGNPYVPVHFDASV
+>gi|2507335|sp|P00662.2|RNAS1_GIRCA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A >gi|1438974|gb|AAB36133.1| pancreatic-type ribonuclease [Giraffa camelopardalis]
+KESAAAKFERQHIDSSTSSVSSSNYCNEMMTSRNLTQDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSAMS
+ITDCRETGNSKYPNCAYQTTQAEKHIIVACEGNPYVPVHYDASV
+>gi|133197|sp|P07849.1|RNAS1_BOSTR RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A [Boselaphus tragocamelus]
+KETAAAKFERQHMDSSTSSASSSNYCNQMMKSRSMTQNRCKPVBTFVHZSLABVQAVCSZKBVACKBGZTBCYZSYSTMS
+ITBCRZTGSSKYPBCAYTTTZAKKHIIVACZGBPYVPVHFBASV
+>gi|133210|sp|P00659.1|RNAS1_DAMKO RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A [Damaliscus lunatus korrigum]
+KESAAAKFZRZHMBSSTSSASSSBYCBZMMKSRNLTQDRCKPVBTFVHZSLABVZAVCSZKBVACKBGZTBCYZSYSTMS
+ITBCRZTGSSKYPBCAYKTTQAKKHIIVACZGBPYVPVHFBASV
+>gi|133228|sp|P00666.1|RNAS1_RANTA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KESAAAKFERQHMDPSPSSASSSNYCNQMMQSRDLTQDRCKPVNTFVHESLADVQAVCFQKNVACKNGQSNCYQSNSAMH
+ITDCRETGSSKYPNCVYKTTQAEKHIIVACEGNPYVPVHFDASV
+>gi|209302|gb|AAA72269.1| ribonuclease S [synthetic construct]
+MSSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKT
+TQANKHIIVACEGNPYVPVHFDASV
+>gi|14488579|pdb|1J7Z|B Chain B, Osmolyte Stabilization Of Ribonuclease >gi|14488581|pdb|1J80|B Chain B, Osmolyte Stabilization Of Rnase >gi|14488583|pdb|1J81|B Chain B, Osmolyte Stabilization Of Rnase >gi|14488585|pdb|1J82|B Chain B, Osmolyte Stabilization Of Rnase >gi|62738900|pdb|1Z3L|E Chain E, X-Ray Crystal Structure Of A Mutant Ribonuclease S (F8anb) >gi|62738902|pdb|1Z3M|E Chain E, Crystal Structure Of Mutant Ribonuclease S (F8nva) >gi|62738904|pdb|1Z3P|E Chain E, X-Ray Crystal Structure Of A Mutant Ribonuclease S (M13nva) >gi|157879902|pdb|1RBC|A Chain A, Crystallographic Structures Of Ribonuclease S Variants With Nonpolar Substitution At Position 13: Packing And Cavities >gi|157879904|pdb|1RBD|A Chain A, Crystallographic Structures Of Ribonuclease S Variants With Nonpolar Substitution At Position 13: Packing And Cavities >gi|157879906|pdb|1RBE|A Chain A, Crystallographic Structures Of Ribonuclease S Variants With Nonpolar Substitution At Position 13: Packing And Cavities >gi|157879908|pdb|1RBF|A Chain A, Crystallographic Structures Of Ribonuclease S Variants With Nonpolar Substitution At Position 13: Packing And Cavities >gi|157879910|pdb|1RBG|A Chain A, Crystallographic Structures Of Ribonuclease S Variants With Nonpolar Substitution At Position 13: Packing And Cavities >gi|157879912|pdb|1RBH|A Chain A, Crystallographic Structures Of Ribonuclease S Variants With Nonpolar Substitution At Position 13: Packing And Cavities >gi|157879914|pdb|1RBI|A Chain A, Crystallographic Structures Of Ribonuclease S Variants With Nonpolar Substitution At Position 13: Packing And Cavities >gi|309320654|pdb|3OQY|B Chain B, Semi-Synthetic Ribonuclease S: Para-Cyano-Phenylalanine At Position 8 >gi|309320656|pdb|3OQY|A Chain A, Semi-Synthetic Ribonuclease S: Para-Cyano-Phenylalanine At Position 8 >gi|309320658|pdb|3OQZ|A Chain A, Semi-Synthetic Ribonuclease S: Meta-Cyano-Phenylalanine At Position 8 >gi|309320660|pdb|3OQZ|B Chain B, Semi-Synthetic Ribonuclease S: Meta-Cyano-Phenylalanine At Position 8 >gi|309320662|pdb|3OR0|A Chain A, Semi-Synthetic Ribonuclease S: Cyanylated Homocysteine At Position 13 >gi|309320664|pdb|3OR0|B Chain B, Semi-Synthetic Ribonuclease S: Cyanylated Homocysteine At Position 13 >gi|635575224|pdb|4K7L|B Chain B, Crystal Structure Of Rnase S Variant (k7c/q11c) >gi|635575902|pdb|4O36|B Chain B, Semisynthetic Rnase S1-15-h7/11-q10 >gi|635575904|pdb|4O37|B Chain B, Seminsynthetic Rnase S1-15-3pl-7/11 >gi|764090971|pdb|4OKF|B Chain B, Rnase S In Complex With An Artificial Peptide
+SSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTT
+QANKHIIVACEGNPYVPVHFDASV
+>gi|133214|sp|P00672.1|RNAS1_HIPAM RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KETAAEKFQRQHMDTSSSLSNDSNYCNQMMVRRNMTQDRCKPVNTFVHESEADVKAVCSQKNVTCKNGQTNCYQSNSTMH
+ITDCRETGSSKYPNCAYKTSQLQKHIIVACEGDPYVPVHYDASV
+>gi|133201|sp|P00664.1|RNAS1_CAPCA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A >gi|1890166|emb|CAA72370.1| pancreatic-type ribonuclease [Capreolus capreolus]
+KESAAAKFERQHMDPSPSSASSSNYCNQMMQSRNLTQDRCKPVNTFVHESLADVQAVCFQKNVICKNGQSNCYQSNSAMH
+ITDCRESGNSKYPNCVYKTTQAEKHIIVACEGNPYVPVHFDASV
+>gi|133194|sp|P00667.1|RNAS1_ALCAA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KESAAAKFERQHMDPSASSISSSNYCNQMMQSRNLTQDRCKPVNTFVHESLADVQAVCFQKNVACKNGQSNCYQSNSAMH
+ITDCRESGNSDYPNCVYKTTQAEKHIIVACEGNPYVPVHFDASV
+>gi|859066449|pdb|4YGW|B Chain B, Rnase S In Complex With Stabilized S Peptide
+SSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQ
+ANKHIIVACEGNPYVPVHFDASV
+>gi|12381828|emb|CAC24721.1| pancreatic ribonuclease [Tragulus javanicus]
+VLLPLLVLVLLVCIQPSLEETSAEKFERQHMDADSSPASNSNYCNKMMKSRSMTTDRCKPVNTFIHEPLADVQAVCSQTN
+VACKNGQTNCYQSKAAMRITDCRETGSSKYPDCAYTTTEEEKHIIVACEGNPYVPVHFDATV
+>gi|133209|sp|P00665.1|RNAS1_DAMDA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KESAAAKFERQHMDPSMSSASSSNYCNQMMQSRKMTQDRCKPVNTFVHESLADVQAVCFQKNVACKNGQSNCYQSNSAMH
+ITDCRESGNSKYPNCVYKATQAEKHIIVACEGNPYVPVHFDASV
+>gi|133203|sp|P00663.1|RNAS1_CEREL RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KESAAAKFERQHMDPSTSSASSSNYCNQMMQSRKMTQDRCKPVNTFVHESLADVQAVCFQKNVACKNGQSNCYQSNSAMH
+ITDCRESGNSKYPNCVYKATQAEKHIIVACEGNPYVPVHFDASV
+>gi|5107552|pdb|1CJQ|B Chain B, X-Ray Crystallographic Studies Of The Denaturation Of The Denaturation Of Ribonuclease S. >gi|10121039|pdb|1FEV|B Chain B, Crystal Structure Of The Ala4aib Mutation In Rnase S >gi|290560603|pdb|1D5D|B Chain B, The Role Of Phenylalanine 8 In The Stabilization Of The S Protein-S Peptide Interaction: Packing And Cavities >gi|334878406|pdb|1D5E|B Chain B, The Role Of Phenylalanine 8 In The Stabilization Of The S Protein-S Peptide Interaction: Packing And Cavities >gi|334878407|pdb|1D5H|B Chain B, Rnase S(F8a). Mutant Ribonuclease S
+NYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQAN
+KHIIVACEGNPYVPVHFDASV
+>gi|157838447|pdb|1CJR|B Chain B, X-Ray Crystallographic Studies Of Denaturation In Ribonuclease S
+XYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQAN
+KHIIVACEGNPYVPVHFDASV
+>gi|3914805|sp|P87351.1|RNAS1_AXIPR RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A >gi|1890149|emb|CAA72367.1| pancreatic-type ribonuclease [Axis porcinus]
+KESAAAKFERQHMDPSTSSASSSDYCNQMMQSRKMTQDRCKPVNTFVHESLADVQAVCFQKNVACKNGQSNCYQSNSAMH
+ITDCRESGNSNYPNCVYKATQAEKHIIVACEGNPYVPVHFDGSV
+>gi|731196764|ref|XP_010642510.1| PREDICTED: ribonuclease pancreatic [Fukomys damarensis] >gi|676284715|gb|KFO37213.1| Ribonuclease pancreatic [Fukomys damarensis]
+MALGRSLVLFPMLILVLLGLVWVQPSLGKESAAMKFQRQHMDSSSNPTSNANYCNEMMKRRNMTQDRCKPVNTFVHEPLA
+DVQAVCFQKNVVCKNGQTNCYQSTSSMHITDCRLTSNSKYPNCSYRTSQMERSIVVACEGNPYVPVHFDASVDSST
+>gi|3024567|sp|Q29542.1|RNBR_GIRCA RecName: Full=Brain ribonuclease; Short=BRB >gi|1438982|gb|AAB36137.1| brain-type ribonuclease [Giraffa camelopardalis]
+KETAAAKFRRQHMDSGSSSSSNSNYCNQMMKRRRMTHGRCKPVNTFVHESLADVKAVCSQKNITCKNGQPNCYQSNSTMN
+ITDCRETGSSKYPNCAYKTSQKQKYITVACEGNPYVPVHFDGSVLLPATSTQAQAPLARGQ
+>gi|602701554|ref|XP_007462617.1| PREDICTED: ribonuclease pancreatic [Lipotes vexillifer]
+MARKSLVLLPWLVLALLVLGWVQPSLGKESPAMKFQRQHMDSGSSPGNNSNYCNQMMMRRKMTQGRCKPVNTFVHESLED
+VKAVCSQKNVHCKNGKTNCYESNSTMYITECRETGSSKYPNCAYKTSQKEKHIIVACEGDPYVPVHFDGSV
+>gi|133196|sp|P00673.1|RNAS1_BALAC RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+RESPAMKFQRQHMDSGNSPGNNPNYCNQMMMRRKMTQGRCKPVNTFVHESLEDVKAVCSQKNVLCKNGRTNCYESNSTMH
+ITDCRQTGSSKYPNCAYKTSQKEKHIIVACEGNPYVPVHFDNSV
+>gi|257815391|gb|ACV70066.1| RNase 1 [Sciurus carolinensis]
+MALEKSLVLFPLLVLVLLVLEWVPPTLGKESAANKFQRQHMDSSASSGISPTYCNEMMRRRNMTKGHCKPVNTFVHESLV
+DVQAVCTQENVTCKNGQTNCYQSRSNMHITDCRLTRGSKYPNCAYKTSQKERHIIVACEGNPYVPVHFDASVEEST
+>gi|557129649|pdb|4N4C|A Chain A, Crystal Structure Of The C-terminal Swapped Dimer Of A Bovine Seminal Ribonuclease Mutant >gi|557129650|pdb|4N4C|B Chain B, Crystal Structure Of The C-terminal Swapped Dimer Of A Bovine Seminal Ribonuclease Mutant
+KESAAAKFERQHMDSSTSAASSSNYCNLMMXXRKMTQGKCKPVNTFVHESLADVKAVCSQKKVTCKNGQTNCYQSKSTMR
+ITDCRETGSSKYPNCAYKTTQVEKHIIVACGGKPSVPVHFDASV
+>gi|466030074|ref|XP_004274117.1| PREDICTED: ribonuclease pancreatic [Orcinus orca] >gi|821398960|ref|XP_012389999.1| PREDICTED: ribonuclease pancreatic [Orcinus orca]
+MAWKSLVLLPWLVLVLLVLGWVQPSLGKESPAMKFQRQHMDSGSSPGNNSNYCNQMMMRRKMTQGRCKPVNTFVHESLED
+VKAVCFQKNIHCKNGKTNCYESNSTMYITECRETGSSKYPNCAYKTSQKEKHIIVACEGDPYVPVHFDGSV
+>gi|593744916|ref|XP_007127816.1| PREDICTED: ribonuclease pancreatic-like [Physeter catodon]
+MACTIDRNGHTPSFNSPGVLKRPELGEVTPNEAAFYSSVFRLLQGSETTMAPKSLVLLPWLVLVLLALGWVQPSLGKESP
+AMKFQRQHMDSGSSPGNNSNYCNQMMMRRKMTQGRCKPVNTFVHESLEDVKAVCFQKNIPCKNGQTNCYESNSTMHITDC
+RQTGGSKYPNCAYKTSQKEKHIIVACEGDPYMPVHFDGSV
+>gi|363132|prf||1502268A pyrimidine specific ribonuclease
+KESAAAKFRRQHMDSGSSSSSNPNYCNQMMKRRRMTHGRCKPVNTFVHESLDDVKAVCSQKNITCKNGHPNCYQSKSTMS
+ITDCRETGSSKYPNCAYKTSQKQKYITVACEGNPYVPVHFDGAVLLPASPVPSLPPPHRL
+>gi|470652403|ref|XP_004329259.1| PREDICTED: ribonuclease pancreatic [Tursiops truncatus] >gi|573014702|tpe|CDG32083.1| TPA: ribonuclease A C1 [Tursiops truncatus]
+MARKSLVLLPWLVLVLLVLGWVQPSLGKESPAMKFQRQHMDSGSSPGNNSNYCNQMMMRRKMTQGRCKPVNTFVHESLED
+VKAVCFQKNIHCKNGKTNCYESNSTMYITECRETGSSKYPNCAYKTSQKEKHIIVACEGDPYVPIHFDGSV
+>gi|1438984|gb|AAB36138.1| brain-type ribonuclease [Bos taurus]
+KESAAAKFRRQHMDSGSSSSSNPNYCNQMMKRRRMTHGRCKPVNTFVHESLDDVKAVCSQKNITCKNGHPNCYQSKSTMS
+ITDCRETGSSKYPNCAYKTSQKQKYITVACEGNPYVPVHFDGAVLLPATPVPSLPPPHRLL
+>gi|27806923|ref|NP_776316.1| brain ribonuclease precursor [Bos taurus] >gi|555977361|ref|XP_005900637.1| PREDICTED: brain ribonuclease [Bos mutus] >gi|942068822|ref|XP_014335203.1| PREDICTED: brain ribonuclease [Bos mutus] >gi|116242762|sp|P39873.3|RNBR_BOVIN RecName: Full=Brain ribonuclease; Short=BRB; Flags: Precursor >gi|151|emb|CAA42439.1| brain ribonuclease [Bos taurus] >gi|92098030|gb|AAI14792.1| Brain ribonuclease [Bos taurus] >gi|296483352|tpg|DAA25467.1| TPA: brain ribonuclease precursor [Bos taurus] >gi|440902113|gb|ELR52956.1| Brain ribonuclease [Bos mutus]
+MALKSLVLLSLLVLVLLLVQVQPSLGKESAAAKFRRQHMDSGSSSSSNPNYCNQMMKRRRMTHGRCKPVNTFVHESLDDV
+KAVCSQKNITCKNGHPNCYQSKSTMSITDCRETGSSKYPNCAYKTSQKQKYITVACEGNPYVPVHFDGAVLLPATPVPSL
+PPPHRLL
+>gi|167745047|pdb|3BCP|A Chain A, Crystal Structure Of The Swapped Non Covalent Form Of P19aL28QN67D BS-Rnase >gi|167745048|pdb|3BCP|B Chain B, Crystal Structure Of The Swapped Non Covalent Form Of P19aL28QN67D BS-Rnase >gi|167745049|pdb|3BCP|C Chain C, Crystal Structure Of The Swapped Non Covalent Form Of P19aL28QN67D BS-Rnase >gi|167745050|pdb|3BCP|D Chain D, Crystal Structure Of The Swapped Non Covalent Form Of P19aL28QN67D BS-Rnase
+KESAAAKFERQHMDSGNSASSSSNYCNQMMXXRKMTQGKCKPVNTFVHESLADVKAVCSQKKVTCKDGQTNCYQSKSTMR
+ITDCRETGSSKYPNCAYKTTQVEKHIIVACGGKPSVPVHFDASV
+>gi|640776819|ref|XP_008052701.1| PREDICTED: ribonuclease pancreatic [Carlito syrichta]
+MFLEKSLVLLPLLVLVLLLLDWIQPSLGKESRAMKFQRQHMDSGSSPSSNTTYCNEMMRRRNLTQGRCKPVNTFVHEPLE
+DVQAVCFQGNVNCKNGQTNCYRSSSSMHITDCRLTGSSKYPNCAYRTTRKERHIIVACEGNPYVPVHFDASVEDST
+>gi|594664853|ref|XP_007180555.1| PREDICTED: ribonuclease pancreatic [Balaenoptera acutorostrata scammoni]
+MAPKSLVLLPWLVLVLLVLGWVQPSLGRESPAMKFQRQHMDSGNSPGNNPNYCNQMMMRRKMTQGRCKPVNTFVHESLED
+VKAVCSQKNVLCKNGRTNCYESNSTMHITDCRQTGSSKYPNCAYKTSQKEKHIIVACEGDPYVPVHFDNSV
+>gi|4127860|emb|CAA06576.1| pancreatic ribonuclease [Hippopotamus amphibius]
+KETAAEKFQRQHMDTSSSLSNDSNYCNQMMVRRNMTKDRCKPVNTFVHESEADVKAVCSQKNVTCKNGQTNCYESNSTMH
+ITDCRETGSSKYPNCAYKTSQLQKHIIVACEGDPYV
+>gi|32350973|gb|AAP76381.1| pancreatic RNase [Tursiops truncatus]
+SLVLLPWLVLVLLVLGWVQPSLGKESPAMKFQRQHMDSGSSPGNNSNYCNQMMMRRKMTQGRCKPVNTFVHESLEDVKAV
+CFQKNIHCKNGKTNCYESNSTMYITECRETGSSKYPNCAYKTSQKEKHIIVACEGDPYVPIHFDGSV
+>gi|556730478|ref|XP_005960936.1| PREDICTED: brain ribonuclease-like [Pantholops hodgsonii]
+MALKSLVLLSLLALVLLLLVQVQPSLGKESAAAKFRRQHMDSGSSSSGNSNYCNQMMKRRRMTHGRCKPVNTFVHESLDD
+VKAVCSQKNITCKNGQPNCYQSNSTMNITDCRETGSSKYPNCAYKTSQKQKYIIVACEGNPYVPVHFDGAVLLAATPLPS
+LPPPHKQRLL
+>gi|133215|sp|P00674.1|RNAS1_HORSE RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KESPAMKFERQHMDSGSTSSSNPTYCNQMMKRRNMTQGWCKPVNTFVHEPLADVQAICLQKNITCKNGQSNCYQSSSSMH
+ITDCRLTSGSKYPNCAYQTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|12381819|emb|CAC24713.1| brain-type ribonuclease [Antilocapra americana]
+VLMSLLVLVLLLLVRVQPSLGKESAAAKFRRQHMDSGSSSSSNSNYCNLMMKRRRMTHGRCKPVNTFVHESLADVKAVCS
+QKNITCKNGQPNCYQSNSTMNITDCRETGGSKYPNCAYKTSQKQKYIIVACEGNPYVPVHFDGSVLLPATPLPSLLPLHK
+HRL
+>gi|664776696|ref|XP_008507636.1| PREDICTED: ribonuclease pancreatic isoform X5 [Equus przewalskii] >gi|664776698|ref|XP_008507637.1| PREDICTED: ribonuclease pancreatic isoform X5 [Equus przewalskii]
+MAQEKSLILFPLLVLVLLVLGCVQLSLGKESPAMKFERQHMDSGSTSSSNPTYCNQMMKRRNMTQGWCKPVNTFVHEPLA
+DVQAICLQKNITCKNGQSNCYQSSSSMHITDCRLTSGSKYPNCAYQTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|34810209|pdb|1N1X|A Chain A, Crystal Structure Analysis Of The Monomeric [s- Carboxyamidomethyl-Cys31, S-Carboxyamidomethyl-Cys32] Bovine Seminal Ribonuclease >gi|34810210|pdb|1N3Z|A Chain A, Crystal Structure Of The [s-Carboxyamidomethyl-Cys31, S- Carboxyamidomethyl-Cys32] Monomeric Derivative Of The Bovine Seminal Ribonuclease In The Liganded State >gi|55669987|pdb|1TQ9|A Chain A, Non-Covalent Swapped Dimer Of Bovine Seminal Ribonuclease In Complex With 2'-Deoxycytidine-2'-Deoxyadenosine-3',5'- Monophosphate >gi|55669988|pdb|1TQ9|B Chain B, Non-Covalent Swapped Dimer Of Bovine Seminal Ribonuclease In Complex With 2'-Deoxycytidine-2'-Deoxyadenosine-3',5'- Monophosphate
+KESAAAKFERQHMDSGNSPSSSSNYCNLMMXXRKMTQGKCKPVNTFVHESLADVKAVCSQKKVTCKNGQTNCYQSKSTMR
+ITDCRETGSSKYPNCAYKTTQVEKHIIVACGGKPSVPVHFDASV
+>gi|664776694|ref|XP_008507635.1| PREDICTED: ribonuclease pancreatic isoform X4 [Equus przewalskii]
+MPPHALRLRILSHMSAFQGLSDCRNWPFSCLRDQARDPARLLRGSEATMAQEKSLILFPLLVLVLLVLGCVQLSLGKESP
+AMKFERQHMDSGSTSSSNPTYCNQMMKRRNMTQGWCKPVNTFVHEPLADVQAICLQKNITCKNGQSNCYQSSSSMHITDC
+RLTSGSKYPNCAYQTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|664776690|ref|XP_008507632.1| PREDICTED: ribonuclease pancreatic isoform X3 [Equus przewalskii] >gi|664776692|ref|XP_008507634.1| PREDICTED: ribonuclease pancreatic isoform X3 [Equus przewalskii]
+MEEMRRGRSSERRGSAFQGLSDCRNWPFSCLRDQARDPARLLRGSEATMAQEKSLILFPLLVLVLLVLGCVQLSLGKESP
+AMKFERQHMDSGSTSSSNPTYCNQMMKRRNMTQGWCKPVNTFVHEPLADVQAICLQKNITCKNGQSNCYQSSSSMHITDC
+RLTSGSKYPNCAYQTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|742116115|ref|XP_010837734.1| PREDICTED: brain ribonuclease [Bison bison bison] >gi|742116121|ref|XP_010837735.1| PREDICTED: brain ribonuclease [Bison bison bison]
+MALKSLVLLSLLVLVLLLVQVQPSLGKESAAAKFRRQHMDSGSSSSSNPNYCNQMMKRRRMTHGRCKPVNTFVHESLDDV
+KAVCSQKNITCKNGHPNCYQSKSTMSITDCRETGSSKYPNCAYKTSQKQKYITVACEGTPYVPVHFDGAVLLPATPVPSL
+PPPHRLL
+>gi|4584401|emb|CAB40705.1| seminal ribonuclease [Bubalus bubalis]
+KESAAAKFERQHMDSGSSPSSNPNYCNLMMFCRKMTQGKCKPVNTFVHESLADVKAVCSQKKVTCKNGQTNCYQSKSTMR
+ITDCRETGSSKYPNCAYKTTQVEKRIIVACAGKPYVPVHFDASV
+>gi|167745043|pdb|3BCM|A Chain A, Crystal Structure Of The Unswapped Form Of P19aL28QN67D Bs-Rnase >gi|167745044|pdb|3BCM|B Chain B, Crystal Structure Of The Unswapped Form Of P19aL28QN67D Bs-Rnase >gi|167745045|pdb|3BCO|A Chain A, Crystal Structure Of The Swapped Form Of P19aL28QN67D BS- Rnase >gi|167745046|pdb|3BCO|B Chain B, Crystal Structure Of The Swapped Form Of P19aL28QN67D BS- Rnase
+KESAAAKFERQHMDSGNSASSSSNYCNQMMCCRKMTQGKCKPVNTFVHESLADVKAVCSQKKVTCKDGQTNCYQSKSTMR
+ITDCRETGSSKYPNCAYKTTQVEKHIIVACGGKPSVPVHFDASV
+>gi|664776688|ref|XP_008507631.1| PREDICTED: ribonuclease pancreatic isoform X2 [Equus przewalskii]
+MRMISASAAKGGRQKKRRGKEILHRCMEEMRRGRSSERRGSAFQGLSDCRNWPFSCLRDQARDPARLLRGSEATMAQEKS
+LILFPLLVLVLLVLGCVQLSLGKESPAMKFERQHMDSGSTSSSNPTYCNQMMKRRNMTQGWCKPVNTFVHEPLADVQAIC
+LQKNITCKNGQSNCYQSSSSMHITDCRLTSGSKYPNCAYQTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|61679542|pdb|1Y94|A Chain A, Crystal Structure Of The G16sN17TP19AS20AN67D VARIANT Of Bovine Seminal Ribonuclease >gi|61679543|pdb|1Y94|B Chain B, Crystal Structure Of The G16sN17TP19AS20AN67D VARIANT Of Bovine Seminal Ribonuclease
+KESAAAKFERQHMDSSTSAASSSNYCNLMMCCRKMTQGKCKPVNTFVHESLADVKAVCSQKKVTCKDGQTNCYQSKSTMR
+ITDCRETGSSKYPNCAYKTTQVEKHIIVACGGKPSVPVHFDASV
+>gi|3914798|sp|P79351.1|RNBR_CAPCA RecName: Full=Brain ribonuclease; Short=BRB >gi|1890164|emb|CAA72371.1| brain-type ribonuclease [Capreolus capreolus]
+KESAAAKFRRQHMDSGSSSSGNPNYCNQMMKRRRMTHGRCKPVNTFVHESLDNVKAVCSQKNITCKNGQPNCYQSNSTMN
+ITDCRQTGSSKYPNCAYKTSQKQKYITVACEGDPYVPVHFDASVFLPATPLPSLPRPHKHRLLWLEGNNSS
+>gi|133185|sp|P00679.1|RNS1B_CAVPO RecName: Full=Ribonuclease pancreatic B; Short=RNase IB
+AESSAMKFQRQHMDPEGSPSNSSNYCNVMMIRRNMTQGRCKPVNTFVHESLADVQAVCFQKNVLCKNGQTNCYQSYSRMR
+ITDCRVTSSSKFPNCSYRMSQAQKSIIVACEGDPYVPVHFDASVEPST
+>gi|664776686|ref|XP_008507630.1| PREDICTED: ribonuclease pancreatic isoform X1 [Equus przewalskii]
+METDEMRNRKNPAEESADDSPGNGLPVIELSWPQGGRQKKRRGKEILHRCMEEMRRGRSSERRGSAFQGLSDCRNWPFSC
+LRDQARDPARLLRGSEATMAQEKSLILFPLLVLVLLVLGCVQLSLGKESPAMKFERQHMDSGSTSSSNPTYCNQMMKRRN
+MTQGWCKPVNTFVHEPLADVQAICLQKNITCKNGQSNCYQSSSSMHITDCRLTSGSKYPNCAYQTSQKERHIIVACEGNP
+YVPVHFDASVEVST
+>gi|3914799|sp|P87350.1|RNBR_AXIPR RecName: Full=Brain ribonuclease; Short=BRB >gi|1890147|emb|CAA72368.1| brain-type ribonuclease [Axis porcinus]
+KESAAAKFRRQHMDAGSSSSGNSNYCNQMMKRRRMTHGRCKPVNTFVHESLDSVKAVCSQKNITCKNGQPNCYQSNSTMN
+ITDCRETGSSKYPNCAYKTSQKQKYITVACEGNPYVPVHFDGSVFLPATPLPSLPAPHKHRLLWLEGNNSS
+>gi|407578|gb|AAB27820.1| bovine seminal ribonuclease [synthetic construct]
+MKESAAAKFERQHMDSGNSPSSSSNYCNLMMCCRKMTQGKCKPVNTFVHESLADVKAVCSQKKVTCKNGQTNCYQSKSTM
+RITDCRETGSSKYPNCAYKTTQVEKHIIVACGGKPSVPVHFDASV
+>gi|348577615|ref|XP_003474579.1| PREDICTED: ribonuclease pancreatic B [Cavia porcellus]
+MEKCLVLFPLLVLVLLGLGWVQPSLGAESSAMKFQRQHMDPEGSPSNSSNYCNVMMIRRNMTQGRCKPVNTFVHESLADV
+QAVCFQKNVLCKNGQTNCYQSYSRMRITDCRVTSSSKFPNCSYRMSQAQKSIIVACEGDPYVPVHFDASVEPST
+>gi|918656021|ref|XP_013363998.1| PREDICTED: ribonuclease pancreatic-like [Chinchilla lanigera]
+MLFLLFLFSFTLSQDSELTLTLETCLVLIPLLVLVLLGLWWVQPPQDKESSAMRFQRQHVDSGSSPGSNPNYCNEMMKRR
+NMTQGRCKPVNTFVHEPLADVQAVCFQKNVPCKNGQTNCYQSSSNMHITDCRLTSNSKYPDCSYRTLQENKGIIVACEGN
+PYVPVHFDASVESSA
+>gi|442689|pdb|1BSR|A Chain A, Bovine Seminal Ribonuclease Structure At 1.9 Angstroms Resolution >gi|442690|pdb|1BSR|B Chain B, Bovine Seminal Ribonuclease Structure At 1.9 Angstroms Resolution >gi|4699630|pdb|11BA|A Chain A, Binding Of A Substrate Analogue To A Domain Swapping Protein In The Complex Of Bovine Seminal Ribonuclease With Uridylyl-2',5'-Adenosine >gi|4699631|pdb|11BA|B Chain B, Binding Of A Substrate Analogue To A Domain Swapping Protein In The Complex Of Bovine Seminal Ribonuclease With Uridylyl-2',5'-Adenosine >gi|6573660|pdb|11BG|A Chain A, A Potential Allosteric Subsite Generated By Domain Swapping In Bovine Seminal Ribonuclease >gi|6573661|pdb|11BG|B Chain B, A Potential Allosteric Subsite Generated By Domain Swapping In Bovine Seminal Ribonuclease >gi|39654811|pdb|1R3M|A Chain A, Crystal Structure Of The Dimeric Unswapped Form Of Bovine Seminal Ribonuclease >gi|39654812|pdb|1R3M|B Chain B, Crystal Structure Of The Dimeric Unswapped Form Of Bovine Seminal Ribonuclease >gi|48425282|pdb|1R5C|A Chain A, X-Ray Structure Of The Complex Of Bovine Seminal Ribonuclease Swapping Dimer With D(Cpa) >gi|48425283|pdb|1R5C|B Chain B, X-Ray Structure Of The Complex Of Bovine Seminal Ribonuclease Swapping Dimer With D(Cpa) >gi|48425284|pdb|1R5D|A Chain A, X-Ray Structure Of Bovine Seminal Ribonuclease Swapping Dimer From A New Crystal Form >gi|48425285|pdb|1R5D|B Chain B, X-Ray Structure Of Bovine Seminal Ribonuclease Swapping Dimer From A New Crystal Form >gi|242556334|pdb|3DJO|A Chain A, Bovine Seminal Ribonuclease Uridine 2' Phosphate Complex >gi|242556335|pdb|3DJO|B Chain B, Bovine Seminal Ribonuclease Uridine 2' Phosphate Complex >gi|242556337|pdb|3DJP|A Chain A, Bovine Seminal Ribonuclease- Uridine 3' Phosphate Complex >gi|242556338|pdb|3DJP|B Chain B, Bovine Seminal Ribonuclease- Uridine 3' Phosphate Complex >gi|242556340|pdb|3DJQ|A Chain A, Bovine Seminal Ribonuclease- Uridine 5' Diphosphate Complex >gi|242556341|pdb|3DJQ|B Chain B, Bovine Seminal Ribonuclease- Uridine 5' Diphosphate Complex >gi|242556343|pdb|3DJV|A Chain A, Bovine Seminal Ribonuclease- Cytidine 3' Phosphate Complex >gi|242556344|pdb|3DJV|B Chain B, Bovine Seminal Ribonuclease- Cytidine 3' Phosphate Complex >gi|242556346|pdb|3DJX|A Chain A, Bovine Seminal Ribonuclease- Cytidine 5' Phosphate Complex >gi|242556347|pdb|3DJX|B Chain B, Bovine Seminal Ribonuclease- Cytidine 5' Phosphate Complex >gi|1438988|gb|AAB36140.1| seminal ribonuclease [Bos taurus]
+KESAAAKFERQHMDSGNSPSSSSNYCNLMMCCRKMTQGKCKPVNTFVHESLADVKAVCSQKKVTCKNGQTNCYQSKSTMR
+ITDCRETGSSKYPNCAYKTTQVEKHIIVACGGKPSVPVHFDASV
+>gi|30519683|emb|CAD59676.1| pancreatic ribonuclease [Atherurus macrourus]
+KESSAMKFERQHMDSGGSPSSNPNYCNEMMRRRNMTQDRCKPVNTFVHEPLADVQAVCFQKNVACKNGQTNCYQSSSPMH
+ITDCRVTGSSQYPDCSYRTSQLERSIIVACEGSPYVPVHYD
+>gi|32441267|ref|NP_861526.1| seminal ribonuclease precursor [Bos taurus] >gi|133237|sp|P00669.2|RNS_BOVIN RecName: Full=Seminal ribonuclease; Short=S-RNase; Short=Seminal RNase; AltName: Full=Ribonuclease BS-1; Flags: Precursor >gi|749|emb|CAA35716.1| seminal ribonuclease [Bos taurus] >gi|2276142|emb|CAA04155.1| seminal ribonuclease [Bos taurus] >gi|296483353|tpg|DAA25468.1| TPA: seminal ribonuclease precursor [Bos taurus] >gi|573014710|tpe|CDG32087.1| TPA: ribonuclease A C1 [Bos taurus]
+MALKSLVVLPLLVLVLLLVRVQPSLGKESAAAKFERQHMDSGNSPSSSSNYCNLMMCCRKMTQGKCKPVNTFVHESLADV
+KAVCSQKKVTCKNGQTNCYQSKSTMRITDCRETGSSKYPNCAYKTTQVEKHIIVACGGKPSVPVHFDASV
+>gi|133205|sp|P00675.1|RNAS1_CHICH RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KESSAMKFQRQHMDSSGSPSTNANYCNEMMKGRNMTQGYCKPVNTFVHEPLADVQAVCFQKNVPCKNGQSNCYQSNSNMH
+ITDCRLTSNSKYPNCSYRTSRENKGIIVACEGNPYVPVHFDASV
+>gi|533199034|ref|XP_005412130.1| PREDICTED: ribonuclease pancreatic [Chinchilla lanigera]
+MTLEKSLVLFSLLILVLLGLGWVQPSLGKESSAMKFQRQHMDSSGSPSTNANYCNEMMKGRNMTQGYCKPVNTFVHEPLA
+DVQAVCFQKNVPCKNGQSNCYQSNSNMHITDCRLTSNSKYPNCSYRTSRENKGIIVACEGNPYVPVHFDASV
+>gi|133222|sp|P00676.1|RNAS1_MYOCO RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+SESSAKKFERQHMDSRGSPSTNPNYCNEMMKSRNMTQGRCKPVNTFVHEPLADVQAVCFQKNVLCKNGQTNCYQSNSNMH
+ITDCRVTSNSDYPNCSYRTSQEEKSIVVACEGNPYVPVHFDASVAASA
+>gi|820990363|ref|XP_004644056.2| PREDICTED: LOW QUALITY PROTEIN: ribonuclease pancreatic [Octodon degus]
+MHLEKHVHEGVTTCKTSLEKTCLSGKGDCILRSSRWEPEFSXLQAHSSFLFPFAFRLSQDSKVTMTLEKPFVLFPLLVLV
+LLGLGWVQPSLGKESSAEKFQRQHMDSSGSPSTNSNYCNEMMKKRSMTQGRCKPVNTFIHEPLAEVQAVCSQKNVPCKNG
+QTNCYQSISNMHITDCRLTSNSKYPDCSYRTRQEEKSIIVACEGNPYVPVHFDASVAA
+>gi|354494267|ref|XP_003509260.1| PREDICTED: ribonuclease pancreatic [Cricetulus griseus] >gi|625242044|ref|XP_007612251.1| PREDICTED: ribonuclease pancreatic [Cricetulus griseus] >gi|1032913241|ref|XP_016834554.1| PREDICTED: ribonuclease pancreatic [Cricetulus griseus] >gi|1032933190|ref|XP_016821586.1| PREDICTED: ribonuclease pancreatic [Cricetulus griseus] >gi|344257044|gb|EGW13148.1| hypothetical protein I79_017338 [Cricetulus griseus]
+MSLQKSLILFPLLALLLGWVQSSLGKESAAMKFERQHMDSTVATSSSPTYCNQMMKRRNMTQGSCKPVNTFVHESLADVH
+AVCSQENVKCKNGKSNCYKSHSALHITDCRLKGNAKYPNCDYQTSQHQKHIIVACEGNPFVPVHFDASV
+>gi|133225|sp|P00671.1|RNAS1_PIG RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KESPAKKFQRQHMDPDSSSSNSSNYCNLMMSRRNMTQGRCKPVNTFVHESLADVQAVCSQINVNCKNGQTNCYQSNSTMH
+ITDCRQTGSSKYPNCAYKASQEQKHIIVACEGNPPVPVHFDASV
+>gi|32350971|gb|AAP76380.1| pancreatic RNase [Balaena mysticetus]
+SLVLLPWLVLVLLVLGWVQPSLGRESPAMKFQRQHMDSGNSPGNNRNYCNQMMMRRQMTQGRCKPVNTFVHESLEDVKAV
+CSQKNVLCKNGRPNCYKSNSAMRITDCRQTGSSKYPNCAYNTSQVEKHIIVACEGDPYVPVHFDGSV
+>gi|133208|sp|P24717.1|RNAS1_CRIGR RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor
+VQPSLGKESAAMKFERQHMDSTVATSSSPTYCNQMMKRRNMTQGQCKPVNTFVHESLADVHAVCSQENVKCKNGKSNCYK
+SHSALHITDCRLKGNAKYPNCDYQTSQHQKHIIVACEGNPFVPVHFDATV
+>gi|861487802|ref|XP_012921122.1| PREDICTED: ribonuclease pancreatic [Heterocephalus glaber]
+MALEKSLVLFPLLVLVLLGLVCVQPSLGKESSAMKFRRQHMDSEGSPNTNANYCNEMMRRRNMTEGRCKPVNTFVHEPLA
+DVQAVCFQKNVACKNGQTNCYQSSSSMHITDCRLTSNSKYPTCSYRTSQMERSIIVACEGNPYVPVHFDASVESST
+>gi|264681466|ref|NP_001161127.1| ribonuclease pancreatic precursor [Sus scrofa] >gi|212550172|gb|ACJ26821.1| ribonuclease [Sus scrofa]
+MAQKSLVLFLWLALVLLVLGWVQPSLGKESPAKKFQRQHMDPDSSSSNSSNYCNLMMSRRNMTQGRCKPVNTFVHESLAD
+VQAVCSQINVNCKNGQTNCYQSNSTMHITDCRQTGSSKYPNCAYKASQQEKHIIVACEGNPPVPVHFDASV
+>gi|61679540|pdb|1Y92|A Chain A, Crystal Structure Of The P19aN67D VARIANT OF BOVINE Seminal Ribonuclease >gi|61679541|pdb|1Y92|B Chain B, Crystal Structure Of The P19aN67D VARIANT OF BOVINE Seminal Ribonuclease
+KESAAAKFERQHMDSGNSASSSSNYCNLMMCCRKMTQGKCKPVNTFVHESLADVKAVCSQKKVTCKDGQTNCYQSKSTMR
+ITDCRETGSSKYPNCAYKTTQVEKHIIVACGGKPSVPVHFDASV
+>gi|37928078|pdb|1QWQ|A Chain A, Solution Structure Of The Monomeric N67d Mutant Of Bovine Seminal Ribonuclease >gi|374977467|pdb|2LFJ|A Chain A, Solution Structure Of The Monomeric Derivative Of Bs-Rnase
+KESAAAKFERQHMDSGNSPSSSSNYCNLMMCCRKMTQGKCKPVNTFVHESLADVKAVCSQKKVTCKDGQTNCYQSKSTMR
+ITDCRETGSSKYPNCAYKTTQVEKHIIVACGGKPSVPVHFDASV
+>gi|548482118|ref|XP_005685447.1| PREDICTED: brain ribonuclease [Capra hircus]
+MAPKSLVLLSLLVLVLLVWVQPSLGKESAAAKFRRQHMDSGSSSSGNSNYCNLMMKRRRMTHGRCKPVNTFVHESLDDVK
+AVCSQKNITCKNGQPNCYQSNSTMNITDCRETGSSKYPNCAYKTSQKQKYITVACEGNPYVPVHFDGAVLLPATPLPSLP
+PPHKHRLL
+>gi|743709110|ref|XP_010947980.1| PREDICTED: ribonuclease pancreatic [Camelus bactrianus] >gi|946686499|ref|XP_014422803.1| PREDICTED: ribonuclease pancreatic isoform X2 [Camelus ferus] >gi|946686503|ref|XP_014422804.1| PREDICTED: ribonuclease pancreatic isoform X2 [Camelus ferus] >gi|528752801|gb|EPY72460.1| ribonuclease pancreatic precursor [Camelus ferus]
+MVPKFPVLFLLLVLGWVQPSLGSETAAEKFERQHMDSYSSSSSNSNYCNQMMKRREMTDGWCKPVNTFIHESLEDVQAVC
+SQKSVTCKNGQTNCHQSTSTMHITDCRETGSSKYPNCAYKASNLQKHIIIACEGNPYVPVHFDASV
+>gi|532113686|ref|XP_005341519.1| PREDICTED: ribonuclease pancreatic [Ictidomys tridecemlineatus] >gi|532113688|ref|XP_005341520.1| PREDICTED: ribonuclease pancreatic [Ictidomys tridecemlineatus]
+MALVKSLILFPLLVLVLLVLEWIPPTLGKESAAKKFQRQHMDSTGSFSPSPTYCNEMMRRRNMTKGHCKPVNTFVHESLE
+DVQAVCTQENVTCKNGQTNCFQSRSNMHITDCRLTGGSKYPNCSYKTSQKERRIIVACEGNPSVPVHFDASVEGSA
+>gi|133220|sp|P00682.1|RNAS1_MESAU RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KESAAMKFERQHMDSTVATSSSPTYCNQMMKRRNMTQGYCKPVNTFVHESLADVHAVCSQENVACKNGKSNCYKSHSALH
+ITDCRLKGNAKYPNCDYQTSQLQKQIIVACEGNPFVPVHFDASV
+>gi|744594960|ref|XP_010988512.1| PREDICTED: ribonuclease pancreatic [Camelus dromedarius]
+MVPKFPVLFLLLVLGWVQPSLGSETAAEKFERQHMDSYSSSSSNSNYCNQMMKRREMTDGWCKPVNTFIHESLEDVQAVC
+SQKSVTCKNGQTNCHQSTSTMHITDCRETGSSKYPNCAYKASNLKKHIIIACEGNPYVPVHFDASV
+>gi|555977359|ref|XP_005900636.1| PREDICTED: seminal ribonuclease [Bos mutus] >gi|942068883|ref|XP_014335208.1| PREDICTED: seminal ribonuclease [Bos mutus] >gi|440902112|gb|ELR52955.1| Seminal ribonuclease [Bos mutus]
+MALKSLVLLPLLVLVLLLVRVQPSLGKESAAAKFERQHMDSGNSPSSSSNYCNLMMCCRKMTQGKCKPVNTFVHESLADV
+KAVCSQKKVTCKNGQTNCYQSKSTMRITDCRETGSSKYPNCAYKTTQVEKHIIVACGGKPSVPVHFDASE
+>gi|524975394|ref|XP_005087526.1| PREDICTED: ribonuclease pancreatic [Mesocricetus auratus]
+MSLQKSLILLPLLVLLLGWLQPSLGKESAAMKFERQHMDSTVATSSSPTYCNQMMKRRNMTQGYCKPVNTFVHESLADVH
+AVCSQENVACKNGKSNCYKSHSALHITDCRLKGNAKYPNCDYQTSQLQKQIIVACEGNPFVPVHFDASV
+>gi|742116109|ref|XP_010837733.1| PREDICTED: seminal ribonuclease [Bison bison bison]
+MALKSLVVLPLLVLVLLLVWVQPSLGKESAAAKFEQQHMDSGNSPSSSSNYCNLMMCCRKMTQGKCKPVNTFVHESLADV
+KAVCSQKKVTCKNGQTNCYQSKSTMRITDCRETGSSKYPNCAYKTTQVKKHIIVACGGKPSVPVHFDASV
+>gi|54042060|sp|P67929.1|RNAS1_CAMBA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+SETAAEKFERQHMDSYSSSSSNSNYCNQMMKRREMTDGWCKPVNTFIHESLEDVQAVCSQKSVTCKNGQTNCHQSSTTMH
+ITDCRETGSSKYPNCAYKASNLQKHIIIACEGNPYVPVHFDASV
+>gi|133217|sp|P00677.1|RNAS1_HYDHY RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+AESSAMKFQRQHVDSEGSSSSNANYCNEMMVRRKMTQDRCKPVNTFVHEPLADVQAVCFQKNVPCKNGQTNCYQSYSSMH
+ITDCRVTSNSKFPDCSYRTTQAQKSIVVACEGNLYVPVHFDASVEPST
+>gi|54039262|sp|P67928.1|RNAS1_CAMDR RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+SETAAEKFERQHMDSYSSSSSNSNYCNQMMKRREMTDGWCKPVNTFIHESLEDVQAVCSQKSVTCKNGQTNCHQSSTTMH
+ITDCRETGSSKYPNCAYKASNLKKHIIIACEGNPYVPVHFDASV
+>gi|3024568|sp|Q29543.1|RNBR_SHEEP RecName: Full=Brain ribonuclease; Short=BRB >gi|1438986|gb|AAB36139.1| brain-type ribonuclease [Ovis aries]
+KESAAAKFRRQHMDSGSSSSGNSNYCNLMMKRRRMTHGRCKPVNTFVHESLDDVKAVCSQKNITCKNGQPNCYQSNSTMN
+ITDCRETGGSKYPNCAYKTSQKQKYITVACEGNPYVPVHFDGAVLLPATPLPSLPPPHKRRLL
+>gi|573014638|tpe|CDG32051.1| TPA: ribonuclease A C3 [Cavia porcellus]
+MQLEKHVHECVITWKTFPEKTCLSGKGDCILGSSRREPAFNCCKARSCSHFLFPCRLSQDSEVTMEKCLVLFPLLVLVLL
+GLGWVQPSLGAESSAMKFQRQHMDPEGSPSNSSNYCNVMMIRRNMTQGRCKPVNTFVHESLADVQAVCFQKNVLCKNGQT
+NCYQSYSRMRITDCRVTSSSKFPNCSYRMSQAQKSIIVACEGDPYVPVHFDASVEPST
+>gi|953842516|ref|XP_014588937.1| PREDICTED: ribonuclease pancreatic isoform X2 [Equus caballus]
+MEEMRRGRSSERRGLLRGSEATMAQEKSLILFPLLVLVLLVLGCVQLSLGKESPAMKFERQHMDSGSTSSSNSTYCNQMM
+KRRNMTQGWCKPVNTFVHEPLADVQAICLQKNITCKNGQSNCYQSSSSMHITDCRLTSGSKYPNCAYRTSQKERHIIVAC
+EGNPYVPVHFDASVEVST
+>gi|426232844|ref|XP_004010429.1| PREDICTED: brain ribonuclease-like isoform X2 [Ovis aries] >gi|803090161|ref|XP_012036443.1| PREDICTED: brain ribonuclease-like isoform X2 [Ovis aries] >gi|803340913|ref|XP_012028493.1| PREDICTED: brain ribonuclease-like isoform X2 [Ovis aries musimon] >gi|803340915|ref|XP_012028494.1| PREDICTED: brain ribonuclease-like isoform X2 [Ovis aries musimon]
+MAPKSLVLLSLLVLVLLVWVQPSLGKESAAAKFRRQHMDSGSSSSGNSNYCNLMMKRRRMTHGRCKPVNTFVHESLDDVK
+AVCSQKNITCKNGQPNCYQSNSTMNITDCRETGGSKYPNCAYKTSQKQKYITVACEGNPYVPVHFDGAVLLPATPLPSLP
+PPHKRRLL
+>gi|133227|sp|P04059.1|RNAS1_PROGU RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KESSAKKFQRQHIDSSGSPSTNPNYCNAMMKSRNMTQERCKPVNTFVHEPLADVQAVCFQKNVPCKNGQSNCYESTSNMH
+ITDCRLTSNSKFPDCLYRTSQEEKSIIVACEGNPYVPVHFDASVAASA
+>gi|825706007|ref|NP_001296341.1| ribonuclease pancreatic precursor [Equus caballus] >gi|545196139|ref|XP_005603251.1| PREDICTED: ribonuclease pancreatic isoform X4 [Equus caballus] >gi|953842522|ref|XP_014588940.1| PREDICTED: ribonuclease pancreatic isoform X4 [Equus caballus] >gi|958708796|ref|XP_014699959.1| PREDICTED: ribonuclease pancreatic isoform X3 [Equus asinus] >gi|573014226|tpe|CDG32100.1| TPA: ribonuclease A C1 [Equus caballus]
+MAQEKSLILFPLLVLVLLVLGCVQLSLGKESPAMKFERQHMDSGSTSSSNSTYCNQMMKRRNMTQGWCKPVNTFVHEPLA
+DVQAICLQKNITCKNGQSNCYQSSSSMHITDCRLTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|537260541|gb|ERE89953.1| ribonuclease pancreatic-like protein [Cricetulus griseus]
+MHVTLKWTLWSPVTCHCILAVGDWSHLVGCSQDMEKEKNGTELKVPSFLAIHSARDAVYAACCRRIAASSPTWLWTLCVT
+AEHSRKMKADTSGKEHTAPPSSKATMSLQKSLILFPLLALLLGWVQSSLGKESAAMKFERQHMDSTVATSSSPTYCNQMM
+KRRNMTQGSCKPVNTFVHESLADVHAVCSQENVKCKNGKSNCYKSHSALHITDCRLKGNAKYPNCDYQTSQHQKHIIVAC
+EGNPFVPVHFDASV
+>gi|803090149|ref|XP_012036442.1| PREDICTED: brain ribonuclease-like isoform X1 [Ovis aries]
+MIYSKGTSNLPRECWVQRFLQGRAVIMAPKSLVLLSLLVLVLLVWVQPSLGKESAAAKFRRQHMDSGSSSSGNSNYCNLM
+MKRRRMTHGRCKPVNTFVHESLDDVKAVCSQKNITCKNGQPNCYQSNSTMNITDCRETGGSKYPNCAYKTSQKQKYITVA
+CEGNPYVPVHFDGAVLLPATPLPSLPPPHKRRLL
+>gi|133179|sp|P00678.1|RNS1A_CAVPO RecName: Full=Ribonuclease pancreatic A; Short=RNase IA
+AESSAMKFERQHVDSGGSSSSNANYCNEMMKKREMTKDRCKPVNTFVHEPLAEVQAVCSQRNVSCKNGQTNCYQSYSSMH
+ITECRLTSGSKFPNCSYRTSQAQKSIIVACEGKPYVPVHFDNSV
+>gi|803340911|ref|XP_012028492.1| PREDICTED: brain ribonuclease-like isoform X1 [Ovis aries musimon]
+MIYSKGTSNLPRECWVQRFLQGRAVNMAPKSLVLLSLLVLVLLVWVQPSLGKESAAAKFRRQHMDSGSSSSGNSNYCNLM
+MKRRRMTHGRCKPVNTFVHESLDDVKAVCSQKNITCKNGQPNCYQSNSTMNITDCRETGGSKYPNCAYKTSQKQKYITVA
+CEGNPYVPVHFDGAVLLPATPLPSLPPPHKRRLL
+>gi|958708789|ref|XP_014699957.1| PREDICTED: ribonuclease pancreatic isoform X1 [Equus asinus]
+METDEIHNRKNPAEESADDSPGNGLPVIELSWPQGGRQKKRRGKEILHRCMEEMRRGRSSERRGLLRGSEATMAQEKSLI
+LFPLLVLVLLVLGCVQLSLGKESPAMKFERQHMDSGSTSSSNSTYCNQMMKRRNMTQGWCKPVNTFVHEPLADVQAICLQ
+KNITCKNGQSNCYQSSSSMHITDCRLTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|560993285|ref|XP_006218762.1| PREDICTED: ribonuclease pancreatic [Vicugna pacos]
+MVQKFQLLFLLVVLGWVQPSLGSETAAEKFERQHMDSDGSSSSNSNYCNQMMKRREMTGGYCKPVNTFIHESLEDVQAVC
+SQESVTCKNGQTNCHQSTSTMHITDCRETGSSKYPNCAYKASNLQKHIIIACEGNPYVPVHFDASV
+>gi|884927846|ref|XP_013012748.1| PREDICTED: ribonuclease pancreatic-like [Cavia porcellus] >gi|573014634|tpe|CDG32049.1| TPA: ribonuclease A C1 [Cavia porcellus]
+MSLVLFPLLVLVLLGLKWLQLTQDKESSAMRFQRQHMDSDSTHISNPSYCNEMMQYRNMTRGRCKPVNTFVHEPLADVQA
+VCFQKNVLCKNGQSNCYQSYSSMHITDCRLTSSSKFPDCSYRMSQAQKSIIVACEGNPYVPVHFDTSVEPST
+>gi|953842518|ref|XP_014588938.1| PREDICTED: ribonuclease pancreatic isoform X3 [Equus caballus] >gi|953842520|ref|XP_014588939.1| PREDICTED: ribonuclease pancreatic isoform X3 [Equus caballus] >gi|958708792|ref|XP_014699958.1| PREDICTED: ribonuclease pancreatic isoform X2 [Equus asinus]
+MEEMRRGRSSERRGSAFQGLSDCRNWPFSCLRDQARDPARLLRGSEATMAQEKSLILFPLLVLVLLVLGCVQLSLGKESP
+AMKFERQHMDSGSTSSSNSTYCNQMMKRRNMTQGWCKPVNTFVHEPLADVQAICLQKNITCKNGQSNCYQSSSSMHITDC
+RLTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|953842514|ref|XP_005603249.2| PREDICTED: ribonuclease pancreatic isoform X1 [Equus caballus]
+MRMISASAAKGGRQKKRRGKEILHRCMEEMRRGRSSERRGSAFQGLSDCRNWPFSCLRDQARDPARLLRGSEATMAQEKS
+LILFPLLVLVLLVLGCVQLSLGKESPAMKFERQHMDSGSTSSSNSTYCNQMMKRRNMTQGWCKPVNTFVHEPLADVQAIC
+LQKNITCKNGQSNCYQSSSSMHITDCRLTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|1016653919|ref|XP_016055146.1| PREDICTED: ribonuclease pancreatic [Miniopterus natalensis]
+MAQEKSLILFQMLVLVMLVLGWVQPSLGKESRAMKFQRQHMDPDNHPSNNSNYCNQMMRRRNMTEGRCKPVNTFVHEPLV
+DVQAVCFQQNITCKNGQPNCHKSSSSMRITDCRLTNGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEAST
+>gi|451583401|gb|AGF41063.1| RNase1 alpha [Murina leucogaster]
+MAQEKSLILFPLLVLVLLVLGWVQPSLGKESRAMKFQRQHMDPDGDSSNNSNYCNQMMRRRNMTEGRCKPVNTFVHEPLV
+DVQAVCFQENITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEAST
+>gi|257815393|gb|ACV70067.1| RNase 1 [Glaucomys volans]
+MALKSLVLFPLLFLVLLVLEWVPSTLGKETSAHKFQRQHMDSNGSSRVSPTYCNEMMRRRNMTTRHCKQVNTFVHESLVD
+VQAVCTQENVMCKNGQTNCYQSTSNLHITECRLTRGSKYPNCAYKTTQKERHIIVACEGNPYVPVHFDASVEEST
+>gi|938047|emb|CAA44717.1| pancreatic ribonuclease [Cricetulus longicaudatus]
+VQPSLGKESAAMKFERQXMDSTVATSSSPTYCNQMMKRRNMTQGQCKPVNTFVHESLADVHAVCSQENVKCKNGKSNCYK
+SHSALHITDCRLKGNAKYPNCDYQTSQHQKHIIVACEGNPFVPVHFDATV
+>gi|946686495|ref|XP_006194344.2| PREDICTED: ribonuclease pancreatic isoform X1 [Camelus ferus]
+MGAFSASCGKKGSHRQRLTLCSSPEKRVACVIPHPFRTLSLLSCGPEPRVPPTLLFSEAKPLFSLYKVHTPRIGCCRHCL
+PRSLSETKLETQECEATMVPKFPVLFLLLVLGWVQPSLGSETAAEKFERQHMDSYSSSSSNSNYCNQMMKRREMTDGWCK
+PVNTFIHESLEDVQAVCSQKSVTCKNGQTNCHQSTSTMHITDCRETGSSKYPNCAYKASNLQKHIIIACEGNPYVPVHFD
+ASV
+>gi|507714168|ref|XP_004648121.1| PREDICTED: ribonuclease pancreatic-like [Octodon degus]
+MALDTSLVLFPLLILVLLGLMWVQPPQDPESSAMRFRRQHVDSGSSRTSNPNYCNEMMKSRKMTQGRCKPVNTFVHEPLA
+DMQAVCFQKNVPCKNGQPNCYQSSSNMHITDCRLTGSSKYPDCSYRTHQEEKSIIVACEGNPYVPVHFDASVEASA
+>gi|8515728|gb|AAF76146.1| seminal ribonuclease [Bubalus bubalis]
+KESAAAKFERQHMDSGSSPSSNSNYCNLMMFCQKMTQGKCKPVNTFVHESLADVKAVCSQKKVTCKNGQTNRYQSKSTMR
+ITDCRETGSSKYPNCAYKTTQVEKRIIVACAGKPYVPVHFDASV
+>gi|395861664|ref|XP_003803100.1| PREDICTED: ribonuclease pancreatic [Otolemur garnettii]
+MALEKSLVLFPLLVVVLLVLGYVQPSLGKETPAMKFQRQHMDSGGTSSLSNHTYCNQMMKRRNMTKGRCKPVNTFVHEPL
+EDVQAVCFQERVNCKNGQTNCYKSSSSMDITDCRLTNGSKYPNCSYRTSQKKRHIIVACEGTPYVPVHFDASVGDSS
+>gi|133218|sp|P04060.1|RNAS1_HYSCR RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KESSAMKFERQHMDSSGSPSSNSNYCNEMMRRRNMTQDRCKPVNTFVHEPLADVRAVCFQKNVACKNGQTNCYQSNSLMH
+ITDCRVTGSSKYPDCSYGMSQLERSIVVACEGSPYVPVHFDASVGPST
+>gi|641738204|ref|XP_008159801.1| PREDICTED: LOW QUALITY PROTEIN: ribonuclease pancreatic-like [Eptesicus fuscus]
+MAQEKALILFPLLVLMLLVLGWVQPSLGKESRAMKFQRQHMDPDGYPSNNSNYCNQMMRRRNMTEGRCKPVNTFVHEPLA
+DVQAICLQGNITCKNGKPNCHKSNSSMNITDCHETSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVSIGDQS
+SEMPHLTESSVXPSSFLALGEMTQGRAPIQHKSVSLA
+>gi|333037639|gb|AEF13444.1| RNase A family pancreatic ribonuclease 1 [Scotomanes ornatus] >gi|333037641|gb|AEF13445.1| RNase A family pancreatic ribonuclease 1 [Ia io] >gi|451582775|gb|AGF41056.1| RNase1 alpha1 [Ia io]
+MAQEKSLILFPLLVLVLLVLGWVQPSLGKESRAMKFQRQHMDPDGYPSNNSNYCNQMMRRRNMTEGRCKPVNTFVHEPLV
+DVQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|133206|sp|P00685.1|RNAS1_CHOHO RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+KETAAMKFQRQHMDSGSSLSSSSDYCNKMMKVRNMTQESCKPVNTFVHESLQDVQAVCFQENVTCKNGQQNCHQSRSNMH
+ITDCRQTSGSKYPNCLYQTSNMNRHIIIACEGNPYVPVHFDASVEDST
+>gi|562870313|ref|XP_006163151.1| PREDICTED: ribonuclease pancreatic [Tupaia chinensis] >gi|444522087|gb|ELV13312.1| Ribonuclease pancreatic [Tupaia chinensis]
+MALKKSLMLFPLLVLLLLVLGWVQPSLGKESPAKKFLRQHMDSEGSSDNTSTYCNQMMTRRNMTKGWCKAVNTFVHESLA
+SVQAVCFQENVTCKNGNTNCYKSTSSMHITDCRLTGSSKYPNCAYRTSQKQRHIIVACEGSPYVPVHFDASVESST
+>gi|258677252|gb|ACV87370.1| ribonuclease [Kogia breviceps]
+RESPAMKFQRQHMDSGSSPGNNSNYCNQMMMRRNMTQGRCKPVNTFVHESLEDVKAVCFQKNIPCKNGQTNCYQSNSTMH
+ITDCRQTGGSKYPNCAYKTSQKEKHIIVACEGNPYV
+>gi|803090136|ref|XP_012036440.1| PREDICTED: LOW QUALITY PROTEIN: seminal ribonuclease-like isoform X1 [Ovis aries]
+MALKSPVALPLLVLVLLLLQVQPSLGKESAAAKFERQHMHSGSSPSSNSNYCNLMMFCRKMTQXKCKPVNTFVHESLADV
+KAVCSQKKVACKNGQINCYQSNSAMRIADCRQTGSSKYPNCAYKTTRAEKHIILACEGKPYVSVHFDASV
+>gi|48428553|sp|Q8SQ06.1|RNAS1_ATEGE RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|19386961|gb|AAL87060.1|AF449639_1 pancreatic ribonuclease [Ateles geoffroyi]
+MALEKSLALLPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDSDGSPSSNPTYCNDMMKRRNMTQGRCKPVNTFVHEPLV
+DVQDVCFQENVTCKNGQANCYKSSSSMHITDCRLTNGSRYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEDST
+>gi|229576|prf||762107A RNase
+SETAAEKFERQHMDSYSSSSSNSNYCNQMMKRREMTNGCKPVNTFIHESLEDVQAVCSQKSVTCKNGQTNCHQSSTSMHI
+TDCRETGSSKYPNCAYKASNLQKHIIIACEGNPYVPVHFDASV
+>gi|829987099|ref|XP_012608296.1| PREDICTED: ribonuclease pancreatic isoform X1 [Microcebus murinus]
+MLLQESEAAMALEKSLVLFPLLVLALLVLEWVQPSLGKESPAMKFQRQHMDSGSSSSSNSTYCNLMMRRRNMTKGRCKPV
+NTFVHEPLVDVQAVCFQENVTCKNGQTNCYKSNSNMHITDCRLTGGSKYPNCAYRASQKERHIIVACEGSPYVPVHFDAS
+VGDST
+>gi|333037643|gb|AEF13446.1| RNase A family pancreatic ribonuclease 1 [Tylonycteris pachypus] >gi|451584924|gb|AGF41090.1| RNase1 [Tylonycteris pachypus]
+MAQEKSLILFPLLVLVLVVLGWIQPSLGKESRAMKFQRQHMDPDGYPSNNSNYCNQMMRRRNMTEGRCKPVNTFVHEPLV
+DVQAICLQGNITCKNGKPNCHKSSSSMNITDCRVTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|13124493|sp|Q9WUR4.1|RNAS1_MYOGA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|4688659|emb|CAB41470.1| pancreatic ribonuclease [Myodes glareolus]
+MGLEKSLILLPLLVLVFGWVQPSLGKETSAQKFERQHMDSTGSSSSPTYCNQMMKRRNMTQGYCKPVNTFVHKPLANVQA
+VCSQKNVTCKNGNSNCYKSHSALPITDCRLKGNSKYPNCDYQTNQLQKHIIVACEGSPFVPVHFDASV
+>gi|829987104|ref|XP_012608297.1| PREDICTED: ribonuclease pancreatic isoform X2 [Microcebus murinus] >gi|829987109|ref|XP_012608298.1| PREDICTED: ribonuclease pancreatic isoform X2 [Microcebus murinus] >gi|829987112|ref|XP_012608299.1| PREDICTED: ribonuclease pancreatic isoform X2 [Microcebus murinus]
+MALEKSLVLFPLLVLALLVLEWVQPSLGKESPAMKFQRQHMDSGSSSSSNSTYCNLMMRRRNMTKGRCKPVNTFVHEPLV
+DVQAVCFQENVTCKNGQTNCYKSNSNMHITDCRLTGGSKYPNCAYRASQKERHIIVACEGSPYVPVHFDASVGDST
+>gi|667317196|ref|XP_008586714.1| PREDICTED: ribonuclease pancreatic [Galeopterus variegatus]
+MALKKSLILFPLLVLVLLVLGWVQPSLGKETSAMKFERQHMDPGNSPSSSTYCNEMMKRRNMTDGWCKQVNTFVHESLVD
+VQAVCFQENVACKNGQTNCYQSTSSMSITDCRLTSSSSYPDCTYKTTSKDSHIVVACEGDPYVPVHYDASVE
+>gi|333037635|gb|AEF13442.1| RNase A family pancreatic ribonuclease 1 [Plecotus auritus]
+MAQEKSLILFPLLVLVLLVLGWVQPSLGKESRAMKFQRQHMDPDGYPSNNPNYCNQMMRRRNMTEGRCKPVNTFVHEPLV
+DVQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCVYRTSQKEKHIIVACEGNPYVPVHFDASVEVST
+>gi|348577613|ref|XP_003474578.1| PREDICTED: ribonuclease pancreatic A-like [Cavia porcellus] >gi|573014636|tpe|CDG32050.1| TPA: ribonuclease A C2 [Cavia porcellus]
+MEKCLVLFPLLVLVLLGLGWVQPSLGAESSAMKFERQHVDSGGSSSSNANYCNEMMKKREMTKDRCKSLNTFVHEPLAEV
+QAVCSQRNVSCKNGQTNCYQSYSSMHITECRLTSGSKFPNCSYRTSQAQKSIIVACEGKPYVPVHFDNSV
+>gi|62287505|sp|Q8SQ04.1|RNAS1_LEMCA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|19386965|gb|AAL87062.1|AF449641_1 pancreatic ribonuclease [Lemur catta]
+MALEKSLVLLPLLVLALLVLGWIQPSLGKESRAMKFQRQHMDPGSSSSSSSTYCNQMMRRRNMTNGWCKPVNTFVHEPLV
+DVQAICFQENVTCKNGQTNCYKSNSTMHITDCRLTGSSKYPNCAYRTSQKERRIIVACEGSPYVPVHFDASVEDST
+>gi|333037687|gb|AEF13468.1| RNase A family pancreatic ribonuclease 1 [Myotis mystacinus]
+MAQKKPLILFPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDPDGYPSNNSNYCNQMMRRRHMTEGRCKPVNTFIHEPLV
+DVQAICLQGNIICKNGQPNCHKSSSSMKITDCRVTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|229425|prf||721936A RNase BS1
+KESAAAKFERQHMDSGDSPSSSSDYCDLMMCCRKMTQGKCKPVNTFVHESLADVKAVCSQKVTCKNGQTNCYQSKSTMRI
+TDCRETGSSKYPNCAYKTTQVEKHIIVACGGKPSVPVHFDASV
+>gi|333037669|gb|AEF13459.1| RNase A family pancreatic ribonuclease 1 [Myotis chinensis]
+MTQEKPLILFPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDPDGYPSNNSNYCNQMMRRRHMTEGRCKPVNTFIHEPLV
+DVQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVSI
+>gi|965907417|ref|XP_012022531.2| PREDICTED: LOW QUALITY PROTEIN: seminal ribonuclease-like isoform X2 [Ovis aries musimon]
+MDVTVTSDFSSPIFLEGSEVITALKSPVALPLLVLVLLLLQVQPSLGKESAAAKFERQHMHSGSSPSSNSNYCNLMMFCR
+KMTQXKCKPANTFVHESLADVKAVCSQKKVACKNGQINCYQSNSAMRIADCRQTGSSKYPNCAYKTTRAEKHIILACEGK
+PYVSVHFDASV
+>gi|333037677|gb|AEF13463.1| RNase A family pancreatic ribonuclease 1 [Myotis petax]
+MAQEKSLILFPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDPDGYPSNNSNYCNQMMRRRHMTEGRCKPVNTFIHEPLV
+DVQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|970747499|ref|XP_006218789.2| PREDICTED: ribonuclease pancreatic-like [Vicugna pacos]
+MVEKREAFRSQAPFQSVYKVHSPGIGCCRHCLPRSLSETELETQPSLGRESAAERFERQHMDSGNSPGNNTNYCNQMMKR
+RNMTLVRCKPVNTFIHESLEDVQAICSEKNITCKNGKYNCHQSNSTMNITDCRQTGSSRYPNCVYTTKELQKHIIIACEG
+NVSVPVHFDGWISLSLEQQDTPPHHQGIFLSLLASLP
+>gi|451584080|gb|AGF41073.1| RNase1 gamma3 [Myotis ricketti]
+MAQEKSLILFPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDPDGYPSNNSNYCNQMMRRRHMTEGRCKPVNTFIHEPLV
+DVQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASIEVST
+>gi|258677248|gb|ACV87368.1| ribonuclease [Inia geoffrensis]
+KESPAMKFQRQHMDSGSSPGNNSNYCNQMMMRRKMTQGRCKPVNTFVHESLEDVKAVCSQKNVHCKNGKTNCYESNSTMY
+ITECRETGSSKYPNCAYKTSQKEKHIIVACEGDPYV
+>gi|451583469|gb|AGF41064.1| RNase1 beta [Murina leucogaster]
+MAQEKSLTLFPLLVLVLLVLGWVQPSLGKESRAMRFQRQHMDPDGDSSNNSNYCNQMMRRRHMTEGRCKPVNTFVHEPLV
+DVQAVCLQENITCKNGQPNCHKSSSSMKITDCRVTSGSRYPNCAYRTSQKERHIIVACEGNPHVPVHFDASVEAST
+>gi|48428554|sp|Q8SQ07.1|RNAS1_SAGOE RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|19386959|gb|AAL87059.1|AF449638_1 pancreatic ribonuclease [Saguinus oedipus]
+MALEKSLALLPLLVLVLLVLGWVQPSLGKESRAQKFQRQHMDSDGSPSSNPTYCNNMMRRRNMTQGRCKPVNTFVHEPLV
+DVQDVCFQEKVTCKNGQPNCYKSSSSMRITDCRLTNGSRYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEDST
+>gi|333037683|gb|AEF13466.1| RNase A family pancreatic ribonuclease 1 [Myotis adversus taiwanensis]
+MAQEKSLILLPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDPDGYPSNNSNYCNQMMRRRHMTEGRCKPVNTFIHEPLV
+DVQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSSSKYPNCAYRTSQKEMHIIVACEGNPYVPVHFDASIEVST
+>gi|13124502|sp|Q9WUX6.1|RNAS1_URARU RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|4689055|emb|CAB41486.1| pancreatic ribonuclease [Uranomys ruddi]
+MGLEKSLILFPLLVLVLGWVQPSLARESPAMKFERQHMDSDGASSSSSTYCNQMMKRREMTKESCKPVNTFVHEPLADVQ
+AVCSQENVTCKNGKQNCYKSTSALHITDCRLKDNSKYPNCDYKTSQYQKHIIVACEGNPYVPVHFDATV
+>gi|594076740|ref|XP_006062109.1| PREDICTED: brain ribonuclease-like [Bubalus bubalis]
+MALKSLVLLSLLVLVLLLVQVQPSLGKETAAAKFRRQHMDSGSSSGSNPNYCNLMMTRRRMTRGRCKPVNTFVHEALADV
+QAVCSQKNITCKNGQPNCYQSKSTMSITDCRETGSSKYPNCAYKTSQKQKYITVACEGNPYVPVHFDGAVVLPATPVPSL
+PPPHRLL
+>gi|390468822|ref|XP_003734007.1| PREDICTED: ribonuclease pancreatic [Callithrix jacchus] >gi|675688327|ref|XP_009003915.1| PREDICTED: ribonuclease pancreatic [Callithrix jacchus] >gi|675688331|ref|XP_009003916.1| PREDICTED: ribonuclease pancreatic [Callithrix jacchus] >gi|675688335|ref|XP_009003917.1| PREDICTED: ribonuclease pancreatic [Callithrix jacchus] >gi|573014512|tpe|CDG31988.1| TPA: ribonuclease A C1 [Callithrix jacchus]
+MALEKSLALLPLLVLVLLVLGWAKPSLGKESRAEKFQRQHMDSDGSPSSNPTYCNNMMRRRNMTQGRCKPVNTFVHEPLV
+DVQNVCFQEKVTCKNGQPNCYKSSSSMRITDCRLTNGSRYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEGST
+>gi|451582630|gb|AGF41055.1| RNase1 [Hipposideros pratti]
+MAQEKSLILFPLLVLMLLVLGWVQPSLGKESRAMKFQRQHMDPGSYPTNDANYCNQMMRRREMTKGWCKPVNTFIHESVV
+DVQAVCLQGNVTCKNGQPNCHQSSSSMNITDCRLTSGSKYPNCVYRTSQKERHIIIACEGNPYVPVHFDASVEVSI
+>gi|20150003|pdb|1H8X|A Chain A, Domain-Swapped Dimer Of A Human Pancreatic Ribonuclease Variant >gi|20150004|pdb|1H8X|B Chain B, Domain-Swapped Dimer Of A Human Pancreatic Ribonuclease Variant
+KESAAAKFERQHMDSGNSPSSSSTYCNQMMRRRNMTQGRCKPVNTFVHEPLVDVQNVCFQEKVTCKNGQGNCYKSNSSMH
+ITDCRLTNGSRYPNCAYRTSQKERHIIVACEGSPYVPVHFDASVEDST
+>gi|560995685|ref|XP_006219808.1| PREDICTED: ribonuclease pancreatic-like [Vicugna pacos]
+MVLKFLFLFLSLLLVLGWVQPSLGRESAAKKFQRQHMDSGNSPGNNTNYCNQMMKRRKMTRGWCKPVNTFVHESLEDVKA
+ICSEKNITCKNGQYNCHQSNSTMNITDCRQTGSSRYPNCVYKTTKLQKRIIVACEGNVSVPVHLDAFV
+>gi|451584246|gb|AGF41077.1| RNase1 [Rhinopoma hardwickii]
+MAQEKSLILFPLLVLMLLVLGWVPPSLGKESRTMKFQRQHMDPGNYPGNNSNYCNEMMRRRKMTQGWCKPVNTFVHESLA
+DVQAICLQGKVTCKNGQPNCHQSHSSMNITDCRLTAGSKYPNCEYRTSQKDRHIIVACEGNPYVPVHFDASVEVST
+>gi|258677244|gb|ACV87366.1| ribonuclease [Delphinapterus leucas]
+KESPAMKFQRQHMDSGSSPGNNSNYCNQMMMRRKMTQGRCKPVNTFVHESLEDVKAVCFQKNVQCKNGKTNCYESNSTMY
+ITECRETGSSKYPNCAYRTSQKEKHIIVACEGNPYV
+>gi|403264302|ref|XP_003924426.1| PREDICTED: ribonuclease pancreatic [Saimiri boliviensis boliviensis] >gi|403264304|ref|XP_003924427.1| PREDICTED: ribonuclease pancreatic [Saimiri boliviensis boliviensis] >gi|725559519|ref|XP_010333420.1| PREDICTED: ribonuclease pancreatic [Saimiri boliviensis boliviensis] >gi|725559521|ref|XP_010333421.1| PREDICTED: ribonuclease pancreatic [Saimiri boliviensis boliviensis] >gi|62287506|sp|Q8SQ08.1|RNAS1_SAISC RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|19386957|gb|AAL87058.1|AF449637_1 pancreatic ribonuclease [Saimiri sciureus] >gi|93209560|gb|ABF00137.1| pancreatic ribonuclease precursor [Saimiri sciureus sciureus]
+MALEKSLALLPLLVLVLLVLGWVQPSLGRESRAKKFQRQHMDSDGSPSSNPTYCNDMMRRRNMTQGRCKPVNTFVHEPLV
+DVQDVCFQEKVTCKNGQANCYKSSSSMHITDCRLTNGSRYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEDST
+>gi|333037679|gb|AEF13464.1| RNase A family pancreatic ribonuclease 1 [Myotis ricketti]
+MAQEKSLILFPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDPDGYPSNNSNYCNQMMRRRHMTEGRCKPVNTFIHEPLV
+DVQVICLQGNITCKNGQPNCHKSSSSMKITDCRVTSSSKYPNCAYRTSQKEMHIIVACEGNPYVPVHFDASIEVST
+>gi|333037675|gb|AEF13462.1| RNase A family pancreatic ribonuclease 1 [Myotis daubentonii]
+MTQEKPLILFPLLVLVLLVLGWVQPSLGKESRTKKFQRQHMDPDGYPSNDSNYCNQMMRRRHMTEGRCKPVNTFIHEPLV
+DVQAICLQGNITCKNGQPNCHRSSSSMKITDCRVTNGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVSI
+>gi|451583812|gb|AGF41069.1| RNase1 gamma3 [Myotis lucifugus]
+MAQEKSLILFPLLVLVLLVLGWVQPSLGKESRAMKFQRQHMDPDGPSNNSNYCNQMMRRRHMTEGRCKPVNTFVHEPLVD
+VQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCAYRTSQKEKHIIVACEGNPYVPVHFDASVEAST
+>gi|258677250|gb|ACV87369.1| ribonuclease [Pontoporia blainvillei]
+KESPAMKFQRQHMDSGSSPGNNSNYCNQMMMRRKMTQGRCKPVNTFVHESLEDVTAVCSQKNVHCKNGKTNCYESNSTMY
+ITECRETGSSKYPNCAYKTSQKEKHIIVACEGDPYV
+>gi|333037691|gb|AEF13470.1| RNase A family pancreatic ribonuclease 1 [Myotis davidii]
+MTQEKSLILFPLLVLVLLALGWVQPSLGKESRAKKFQRQHMDPDSPSNNSNYCNQMMRRRHMTEGRCKPVNTFIHEPLVD
+VQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|13124490|sp|Q9QYX2.1|RNAS1_MUSSA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|6224609|emb|CAB60003.1| pancreatic ribonuclease [Mus saxicola]
+MGLEKSLMLFPLFVLLLGWVQPSLGRESSAQKFQRQHMDPAGSSSNSPTYCNQMMKRRDMTKGSCKPVNTFVHEPLADVQ
+AICSQENVTCKNGKSNCYKSSSALHITDCHLKGNSKYPNCDYKTSQYQKQIIVACEGNPYVPVHFDATV
+>gi|13124492|sp|Q9WUR3.1|RNAS1_ABRJE RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|4688606|emb|CAB41465.1| pancreatic ribonuclease [Abrothrix jelskii]
+MGLEKSFILFPLLILVLGWVQSSLGKESPAMKFERQHMDSTGSSSSSPTYCNQMMKRRNMTQGSCKPVNTFVHEPLVDVH
+AVCSQENVTCKNGQKNCYKSHSTLHITDCRLKGSSKYPNCQYQTSQQQKHIIVACEGNPSVPVHXDAXV
+>gi|13399882|pdb|1DZA|A Chain A, 3-D Structure Of A Hp-Rnase >gi|13399883|pdb|1DZA|B Chain B, 3-D Structure Of A Hp-Rnase
+XKESAAAKFERQHMDSGNSPSSSSTYCNQMMRRRNMTQGRCKPVNTFVHESLVDVQNVCFQEKVTCKNGQGNCYKSNSSM
+HITDCRLTNGSRYPNCAYRTSPKERHIIVACEGSPYVPVHFDASVEDST
+>gi|48428552|sp|Q8SQ05.1|RNAS1_LAGLA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|19386963|gb|AAL87061.1|AF449640_1 pancreatic ribonuclease [Lagothrix lagotricha]
+MALEKSLALLPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDSDGSLSSNPTYCNNMMRRRNMTQGWCKPVNTFVHEPLV
+DVQDVCFQENVTCKNGQANCYKSSSSMHITDCRLTSGSRYPNCAYQTSQKERHIIVACEGNPYVPVHFDASVEDST
+>gi|333037671|gb|AEF13460.1| RNase A family pancreatic ribonuclease 1 [Myotis altarium] >gi|451583350|gb|AGF41062.1| RNase1 gamma2 [Myotis altarium]
+MAQEKPLILFPLLVLVLLVLGWVQPSLGKESRAMKFQRQHMDPGGPSNNSNYCNQMMRRRHMTEGRCKPVNTFIHEPLVD
+VQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|586526855|ref|XP_006918366.1| PREDICTED: ribonuclease pancreatic [Pteropus alecto] >gi|431898727|gb|ELK07104.1| Ribonuclease pancreatic [Pteropus alecto]
+MAQAKSLILFSLLLLVLLALGWVEPFRERESQAKKFIRQHMDPDGYPSISSSYCNQMMRRRNMTKGWCKPVNTFVHEPLV
+DVQAVCFQEKVTCKDGQSNCYQSSSSMSITDCRLTNGSKYPNCAYRTSQKKRHIIVACNGNPYVPVHFDASVEVST
+>gi|830223482|ref|XP_012589429.1| PREDICTED: LOW QUALITY PROTEIN: ribonuclease pancreatic [Condylura cristata]
+MALKSLVLFSLLVVGLLVLGGVQPSLGKESRALKFQRQHMDPGNFPNNPTYCNLMMRRRNMTQGRCKPVNTFVHETMVDV
+QAVCLERNITCKNGQPNCYQSRSSMRITDCRLTGGSRYPNCAYRTSQKERHIIVACEGNPYVPVHFDAAVEVSXPEAGAE
+APHQHSLEAPTLQGSSL
+>gi|197102414|ref|NP_001126810.1| ribonuclease pancreatic precursor [Pongo abelii] >gi|55732718|emb|CAH93057.1| hypothetical protein [Pongo abelii]
+MALEKSLVLLPLLVLILLVLGWVQPSLGKESRAKKFQRQHMDSGSSPNSNSTYCNQMMRRRNMTQGRCKPVNTFVHEPLV
+DVQNVCFQEKVTCKNGQGNCYKSNSSMHITDCRLTHGSRYPNCAYRTSPKERHIIVACEGSPYVPVHFDASVEDST
+>gi|48428556|sp|Q8SQ12.1|RNAS1_PONPY RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|19386943|gb|AAL87051.1|AF449630_1 pancreatic ribonuclease [Pongo pygmaeus] >gi|93209579|gb|ABF00145.1| pancreatic ribonuclease precursor [Pongo pygmaeus]
+MALEKSLVLLPLLVLILLVLGWVQPSLGKESRAKKFQRQHMDSGSSPNSNSTYCNQMMRRRNMTQGRCKPVNTFVHEPLV
+DVQNVCFQEKVTCKNGQGNCYKSNSSMHITDCRLTHGSRYPNCAYRTSTKERHIIVACEGSPYVPVHFDASVEDST
+>gi|133211|sp|P00680.1|RNAS1_GALMU RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+AESSAMKFQRQHMDSDGHPDTNTNYCNEMMVRRSMTQGRCKPVNTFVHEPLEAVQAVCSQKNVPCKNGQTNCYQSHSSMR
+ITDCRVTSSSKYPNCSYRMTQAQKSIIVACEGTPSVPVHFDATV
+>gi|333037713|gb|AEF13481.1| RNase A family pancreatic ribonuclease 1 [Myotis muricola]
+MAQEKPLILFPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDPDGPSNNSNYCNQMMRRRNMTEGRCKPVNTFVHEPLVD
+VQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCDYRTSQKERHIIVACEGNPYVPVHFDASVEVSS
+>gi|545894143|ref|XP_005658608.1| PREDICTED: ribonuclease pancreatic isoform X1 [Sus scrofa]
+MAQKSLVLFLWLALVLLVLGWVQPSLGKESPAKKFQRQHMDPDSSSSNSSNYCNLMMSRRNMTQGRCKPVNTFVHESLAD
+VQAVCSQINVNCKNGQXXXXQSNSTMHITDCRQTGSSKYPNCAYKASQQEKHIIVACEGNPPVPVHFDASV
+>gi|451583117|gb|AGF41059.1| RNase1 alpha [Myotis altarium]
+MAQEKSLILFPLLVLVLLVLGWVQPSLGKESRAMKFQRQHMDPDGPSNNSNYCNQMMRRRNMTEGRCKPVNTFVHEPLVD
+VQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCDYRTSQKKRHIIVACEGNPYVPVHFDASVEVST
+>gi|13124491|sp|Q9QYX3.1|RNAS1_MUSPA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|6224607|emb|CAB60000.1| pancreatic ribonuclease [Mus pahari]
+MGLEKSLILFPLFVLLLGWVQPSLGKESSAQKFERQHMDSSGSSNNSPTYCNQMMKSRSMTKESCKPVNTFVHEPLEDVQ
+AICSQENVTCKNGNRNCYKSSSALHITDCHLKGNSKYPNCNYNTNQYQKHIIVACDGNPYVPVHLDATV
+>gi|1044368189|ref|XP_017389379.1| PREDICTED: ribonuclease pancreatic [Cebus capucinus imitator] >gi|1044368191|ref|XP_017389380.1| PREDICTED: ribonuclease pancreatic [Cebus capucinus imitator] >gi|1044368193|ref|XP_017389381.1| PREDICTED: ribonuclease pancreatic [Cebus capucinus imitator] >gi|1044368195|ref|XP_017389382.1| PREDICTED: ribonuclease pancreatic [Cebus capucinus imitator]
+MALEKSLALLPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDSDGSPSSNPTYCNDMMRRRNMTQGRCKPVNTFVHEPLV
+DVQDVCFQEKITCKNGQANCYKSSSSMRITDCRLTNGSRYPNCAYRTSQKERHIIVACEGSPYVPVHFDASVEDST
+>gi|532056671|ref|XP_005371043.1| PREDICTED: ribonuclease pancreatic [Microtus ochrogaster]
+MALQKSLILLPLLVLVFGWVQPSLGKETSAQKFERQHMDSAGSSSSATYCNQMMKRRNMTQGYCKPVNTFVHEPQADVHA
+VCFQENVTCKNGNSNCYKSHSALHITDCRLKGNSKYPNCDYQTNQLQKHIIIACEGNPFVPVHFDASV
+>gi|31981520|ref|NP_035401.2| ribonuclease pancreatic precursor [Mus musculus] >gi|26344600|dbj|BAC35949.1| unnamed protein product [Mus musculus]
+MGLEKSLILFPLFVLLLGWVQPSLGRESAAQKFQRQHMDPDGSSINSPTYCNQMMKRRDMTNGSCKPVNTFVHEPLADVQ
+AVCSQENVTCKNRKSNCYKSSSALHITDCHLKGNSKYPNCDYKTTQYQKHIIVACEGNPYVPVHFDATV
+>gi|333037699|gb|AEF13474.1| RNase A family pancreatic ribonuclease 1 [Myotis siligorensis]
+MAQEKSLILFPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDPDGPSNNSNYCNQMMRRRNMTEGRCKPVNTFVHEPLVD
+VQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCDYRTSQKERHIIVACEGNPYVPVHFDASVEVSS
+>gi|451584175|gb|AGF41075.1| RNase1 [Pteropus faunulus]
+MAQAKSLILFSLLLLVLLALGWVEPFRERESQAKKFIRQHMDPDSYPNIGSSYCNQMMRRRNMTKGRCKPVNTFVHEPLV
+DVQAVCFQEKVTCKDGQSDCYQSSSSMSITDCRLTNGSKYPNCAYRTSQKKRHIIVACNGNPYVPVHFDASVEVST
+>gi|12381832|emb|CAC24723.1| brain-type ribonuclease ribonuclease [Tragulus javanicus]
+VLLPLLVLVLLVWVQPSLGRESAAAKFRRQHLDAGNSSINSNYCNLMMKRRKMTHGRCKPVNTFIHESLEDVKAICSEKN
+ITCKNGQPNCHQSNSTMNITDCRQTGGSKYPNCAYKTSQKQKYIIVACEGTPSVPVHFDGSAVLPTPPSPSPSPPRPRPR
+RHKHQGNSSI
+>gi|333037693|gb|AEF13471.1| RNase A family pancreatic ribonuclease 1 [Myotis chinensis]
+MAQKSLILFPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDPDGPSNNSNYCNQMMRRRNMTEGRCKPVNTFVHEPLVDV
+QAICFQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCDYRTSQKERHIIVACEGNPYVPVHFDASVEVST
+>gi|30519689|emb|CAD59679.1| pancreatic ribonuclease [Sciurus vulgaris]
+KESAANKFQRQHMDSSGSSGISPTYCNEMMRRRNMTKGHCKPVNTFVHESLVDVQAVCTQENVSCKNGQTNCYQSRSNMH
+ITDCRLTRGSKYPNCAYKTSQXERHIIVACEGNPYV
+>gi|330688781|gb|AEC33089.1| RNase1 [Balaenoptera physalus]
+RESPAMKFQRQHMDSGNSPGNNPNYCNQMMMRRKMTQGRCKPLNTFVHESLEDVKAVCSQKNVLCKNGRTNCYESSSTMH
+ITDCRQTGSSKYPNCAYKTSQKEKHIIVACEGDPYV
+>gi|554531563|ref|XP_005860551.1| PREDICTED: ribonuclease pancreatic [Myotis brandtii] >gi|521022329|gb|EPQ04117.1| Ribonuclease pancreatic [Myotis brandtii]
+MAQEKPPILFPLLVLVLLVLGWVQPSLVKESQAMKFQRQHMDPGGPSNNSNYCNQMMRSRNMTKGWCKPVNTFIHEPLAD
+VQAICLQGNVTCKNGQPNCHKSSSSMKITDCRVTNGSKYPNCDYQTSHKERHIIVACEGNPYVPVHFDASVEVST
+>gi|333037703|gb|AEF13476.1| RNase A family pancreatic ribonuclease 1 [Myotis ricketti] >gi|451583925|gb|AGF41071.1| RNase1 alpha [Myotis ricketti]
+MAQEKSLILFPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDPDGPSNNSNYCNQMMRRRNMTEGRCKPVNTFIHEPLVD
+VQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCDYRTSQKERHIIVACEGNPYVPVHFDASVEVSS
+>gi|4138341|emb|CAA06578.1| pancreatic ribonuclease [Pseudorca crassidens]
+KESPAMKFQRQHMDSGSSPGNNSNYCNQMMMRRKMTQGRCKPVNTFVHESLEDVKAVCFQKNIHCKNGKTNCYESNSTMY
+ITECRETGSSKYPNCAYKTSQKEKHIIVACEGDPYV
+>gi|589989035|ref|XP_006997661.1| PREDICTED: ribonuclease pancreatic [Peromyscus maniculatus bairdii]
+MGLEKSLILFPLLVLVVGWVQPSLGKETSAMKFERQHVDSDSSSSSPTYCNQMMKRREMTKGSCKPVNTFVHESLQDIHA
+VCSQENVKCKNGQTNCYKSHSALRITDCRLTGSSKYPNCEYKTSQQQKHIIVACEGNPSVPVHFDASA
+>gi|405944801|pdb|3TSR|A Chain A, X-ray Structure Of Mouse Ribonuclease Inhibitor Complexed With Mouse Ribonuclease 1 >gi|405944802|pdb|3TSR|B Chain B, X-ray Structure Of Mouse Ribonuclease Inhibitor Complexed With Mouse Ribonuclease 1 >gi|405944803|pdb|3TSR|C Chain C, X-ray Structure Of Mouse Ribonuclease Inhibitor Complexed With Mouse Ribonuclease 1 >gi|405944804|pdb|3TSR|D Chain D, X-ray Structure Of Mouse Ribonuclease Inhibitor Complexed With Mouse Ribonuclease 1
+MRESAAQKFQRQHMDPDGSSINSPTYCNQMMKRRDMTNGSCKPVNTFVHEPLADVQAVCSQENVTCKNRKSNCYKSSSAL
+HITDCHLKGNSKYPNCDYKTTQYQKHIIVACEGNPYVPVHFDATV
+>gi|133221|sp|P00683.2|RNAS1_MOUSE RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|53982|emb|CAA42697.1| pancreatic ribonuclease [Mus musculus] >gi|200763|gb|AAA40060.1| ribonuclease precursor (EC 3.1.27.5) [Mus musculus] >gi|148688900|gb|EDL20847.1| ribonuclease, RNase A family, 1 (pancreatic) [Mus musculus]
+MGLEKSLILFPLFFLLLGWVQPSLGRESAAQKFQRQHMDPDGSSINSPTYCNQMMKRRDMTNGSCKPVNTFVHEPLADVQ
+AVCSQENVTCKNRKSNCYKSSSALHITDCHLKGNSKYPNCDYKTTQYQKHIIVACEGNPYVPVHFDATV
+>gi|4138362|emb|CAA06577.1| pancreatic ribonuclease [Phocoena phocoena]
+KESPAMKFQRQHMDSGSSPGNNSNYCNQMMTRRKMTQGRCKPVNTFVHESLEDVKAVCFQENVQCKNGKTNCYKSNSTMY
+ITDCRETGSSKYPNCAYRTSQKEKHIIVACEGDPYV
+>gi|573014574|tpe|CDG32019.1| TPA: ribonuclease A c1 [Mus musculus]
+MCKEAEVGESSVETEVGAAALLSICPFFLFLSFQAFPSSQATMGLEKSLILFPLFVLLLGWVQPSLGRESAAQKFQRQHM
+DPDGSSINSPTYCNQMMKRRDMTNGSCKPVNTFVHEPLADVQAVCSQENVTCKNRKSNCYKSSSALHITDCHLKGNSKYP
+NCDYKTTQYQKHIIVACEGNPYVPVHFDATV
+>gi|20987983|gb|AAH30036.1| Ribonuclease, RNase A family, 1 (pancreatic) [Mus musculus]
+MGLEKSLILFPLFFLLLGWVQPSPGRESAAQKFQRQHMDPDGSSINSPTYCNQMMKRRDMTNGSCKPVNTFVHEPLADVQ
+AVCSQENVTCKNRKSNCYKSSSALHITDCHLKGNSKYPNCDYKTTQYQKHIIVACEGNPYVPVHFDATV
+>gi|333037689|gb|AEF13469.1| RNase A family pancreatic ribonuclease 1 [Myotis blythii]
+MTQEKSLILFPLLVLVLLVLGWVQPSLGKESRAKKFQRQHMDPDGPSNNSNYCNQMMRRRHMTEGRCKPVNTFIHEPLVD
+VQAICLQGNITCKNGQPNCHKSSSIMKITDCRVTSGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASIEVST
+>gi|9910847|sp|Q9WTT5.1|RNAS1_ACOCA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor >gi|4688608|emb|CAB41464.1| pancreatic ribonuclease [Acomys cahirinus]
+MGLEKSLILLPLLVLVLAWVQPSLGKETPAMKFERQHMDSAGSSSSSPTYCNQMMKRREMTKGSCKRVNTFVHEPLADVQ
+AVCSQKNVTCKNGKKNCYKSRSALTITDCRLKGNSKYPDCDYQTSHQQKHIIVACEGSPYVPVHFDASV
+>gi|946781629|ref|XP_014401621.1| PREDICTED: ribonuclease pancreatic [Myotis brandtii] >gi|521030920|gb|EPQ12706.1| Ribonuclease pancreatic [Myotis brandtii]
+MAQEKSLILFPLLVLVLLVLGWVQPSLGKESRAMKFQRQHMDPDGPSNNSNYCNQMMRRRHMTEGWCKPVNTFVHEPLVD
+VQAVCLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCAYRTSQKEKHIIVACEGNPYVPVHFDASVEVST
+>gi|984080114|ref|XP_015343643.1| PREDICTED: ribonuclease pancreatic [Marmota marmota marmota]
+MALEKSLILFPMLVLVLLVLGWIPPTLGKESAAKKFQRQHMDSSGGSFSPSPTYCNEMMRRRNMTKGHCKPVNTFVHESL
+EDVQAVCTQENVTCKNGQTNCFQSRSNMHITDCRLTRGSKYPDCSYKTSQKERQIIVACEGNPYVPVHFDASVEGSA
+>gi|940730570|ref|XP_014310190.1| PREDICTED: ribonuclease pancreatic-like isoform X2 [Myotis lucifugus]
+MAQEKSPILFPLLVLVLLVLGWVQPSLGKESRAMKFQRQHMDPDGPSNNSNYCNQMMRRRLMTEGRCKPVNTFVHEPLVD
+VQAVCLQRNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCDYRTSQKERHIIVACEGNPYVPVHFDASVEASS
+>gi|333037701|gb|AEF13475.1| RNase A family pancreatic ribonuclease 1 [Myotis petax]
+MAQEKSLILFPLLVLVLLVLGWVQPSLGKESRAMKFQRQHMDPDGPGNSSNYCNQMMRRRLMTEGRCKPVNTFVHEPLVD
+VQAICLQGNITCKNGQPNCHKSSSSMKITDCRVTSGSKYPNCDYRTSQKERHIIVACEGNPYVPVHFDASVEVSS
+>gi|333037673|gb|AEF13461.1| RNase A family pancreatic ribonuclease 1 [Myotis horsfieldii]
+MTQEKPLILFPLLVLVLLVLGWVQPSLGKESRTKKFQRQHMDPDGYPSNDSNYCNQMMRRRHMTEGRCKPVNTFIHEPLV
+DVQAICLQGNITCKNGQPNCHRSSSSMKITDCRVTNGSKYPNCAYHTSQKERHIIVACEGNPYVPVHFDSSVEVSI

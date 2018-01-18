@@ -1,0 +1,500 @@
+>gi|541881756|pdb|4MBS|AChain A, Crystal Structure Of The Ccr5 Chemokine Receptor >gi|541881757|pdb|4MBS|B Chain B, Crystal Structure Of The Ccr5 Chemokine Receptor
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEE
+>gi|1212216439|pdb|5UIW|AChain A, Crystal Structure Of Cc Chemokine Receptor 5 (ccr5) In Complex With High Potency Hiv Entry Inhibitor 5p7-ccl5
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEE
+>gi|799532120|pdb|4XNV|AChain A, The Human P2y1 Receptor In Complex With Bptu >gi|799532122|pdb|4XNW|A Chain A, The Human P2y1 Receptor In Complex With Mrs2500 >gi|799532123|pdb|4XNW|C Chain C, The Human P2y1 Receptor In Complex With Mrs2500
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEE
+>gi|1200169791|pdb|5VBL|BChain B, Structure Of Apelin Receptor In Complex With Agonist Peptide
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEE
+>gi|489543006|ref|WP_003447684.1|rubredoxin [Clostridium pasteurianum] >gi|134108|sp|P00268.2|RUBR_CLOPA RecName: Full=Rubredoxin; Short=Rd >gi|13787054|pdb|1FHH|A Chain A, X-Ray Crystal Structure Of Oxidized Rubredoxin >gi|13787055|pdb|1FHM|A Chain A, X-Ray Crystal Structure Of Reduced Rubredoxin >gi|46015389|pdb|1R0F|A Chain A, Gallium-Substituted Rubredoxin >gi|46015390|pdb|1R0G|A Chain A, Mercury-Substituted Rubredoxin >gi|46015391|pdb|1R0H|A Chain A, Cobalt-Substituted Rubredoxin >gi|46015392|pdb|1R0I|A Chain A, Cadmium-Substituted Rubredoxin >gi|46015393|pdb|1R0J|A Chain A, Nickel-Substituted Rubredoxin >gi|157831494|pdb|1IRN|A Chain A, Rubredoxin (zn-substituted) At 1.2 Angstroms Resolution >gi|157831495|pdb|1IRO|A Chain A, Rubredoxin (Oxidized, Fe(Iii)) At 1.1 Angstroms Resolution >gi|144909|gb|AAA23279.1| rubredoxin [Clostridium pasteurianum] >gi|440218585|gb|ELP57804.1| Rubredoxin [Clostridium pasteurianum DSM 525 = ATCC 6013] >gi|736019712|gb|AJA49845.1| rubredoxin [Clostridium pasteurianum DSM 525 = ATCC 6013] >gi|736025695|gb|AJA53833.1| rubredoxin [Clostridium pasteurianum DSM 525 = ATCC 6013] >gi|953088892|gb|KRU14142.1| Rubredoxin domain containing protein [Clostridium pasteurianum DSM 525 = ATCC 6013] >gi|1095305616|gb|AOZ76988.1| Rubredoxin [Clostridium pasteurianum DSM 525 = ATCC 6013] >gi|1095311109|gb|AOZ80785.1| Rubredoxin [Clostridium pasteurianum] >gi|1134382988|gb|OMH21166.1| Rubredoxin [Clostridium pasteurianum]
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEE
+>gi|55669901|pdb|1T9Q|AChain A, Crystal Structure Of V44l Cp Rubredoxin
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGLGKDQFEEVEE
+>gi|13399664|pdb|1C09|AChain A, Rubredoxin V44a Cp >gi|13399665|pdb|1C09|B Chain B, Rubredoxin V44a Cp >gi|13399666|pdb|1C09|C Chain C, Rubredoxin V44a Cp
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGAGKDQFEEVEE
+>gi|5107456|pdb|1B13|AChain A, Clostridium Pasteurianum Rubredoxin G10a Mutant
+MKKYTCTVCAYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEE
+>gi|5107457|pdb|1B2J|AChain A, Clostridium Pasteurianum Rubredoxin G43a Mutant
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCAVGKDQFEEVEE
+>gi|47169171|pdb|1SMM|AChain A, Crystal Structure Of Cp Rd L41a Mutant In Oxidized State >gi|47169172|pdb|1SMU|A Chain A, Crystal Structure Of Cp Rd L41a Mutant In Reduced State 1 (Drop-Reduced) >gi|47169173|pdb|1SMW|A Chain A, Crystal Structure Of Cp Rd L41a Mutant In Reduced State 2 (Soaked)
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPACGVGKDQFEEVEE
+>gi|157830248|pdb|1BE7|AChain A, Clostridium Pasteurianum Rubredoxin C42s Mutant
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLSGVGKDQFEEVEE
+>gi|157830284|pdb|1BFY|AChain A, Solution Structure Of Reduced Clostridium Pasteurianum Rubredoxin, Nmr, 20 Structures
+KKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEE
+>gi|55669895|pdb|1T9O|AChain A, Crystal Structure Of V44g Cp Rubredoxin >gi|55669896|pdb|1T9O|B Chain B, Crystal Structure Of V44g Cp Rubredoxin >gi|55669897|pdb|1T9O|C Chain C, Crystal Structure Of V44g Cp Rubredoxin
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGGGKDQFEEVEE
+>gi|5107458|pdb|1B2O|AChain A, Clostridium Pasteurianum Rubredoxin G10vg43a Mutant >gi|5107459|pdb|1B2O|B Chain B, Clostridium Pasteurianum Rubredoxin G10vg43a Mutant
+MKKYTCTVCVYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCAVGKDQFEEVEE
+>gi|55669898|pdb|1T9P|AChain A, Crystal Structure Of V44a, G45p Cp Rubredoxin >gi|55669899|pdb|1T9P|B Chain B, Crystal Structure Of V44a, G45p Cp Rubredoxin >gi|55669900|pdb|1T9P|C Chain C, Crystal Structure Of V44a, G45p Cp Rubredoxin
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGAPKDQFEEVEE
+>gi|497918669|ref|WP_010232825.1|rubredoxin [Clostridium arbusti]
+MKKYTCTVCGYIYNPEDGDPDNGVNPGTAFQDIPEDWVCPLCGVGKDQFEEVEE
+>gi|505430497|ref|WP_015617599.1|rubredoxin [Clostridium pasteurianum] >gi|488452628|gb|AGK99330.1| rubredoxin [Clostridium pasteurianum BC1]
+MKKYTCVVCGYIYDPEDGDPDNGVNPGTAFEDIPEDWVCPLCGVGKDQFEEVEE
+>gi|163310871|pdb|2PVE|AChain A, Nmr And X-Ray Analysis Of Structural Additivity In Metal Binding Site-Swapped Hybrids Of Rubredoxin >gi|163310872|pdb|2PVE|B Chain B, Nmr And X-Ray Analysis Of Structural Additivity In Metal Binding Site-Swapped Hybrids Of Rubredoxin >gi|163310873|pdb|2PVE|C Chain C, Nmr And X-Ray Analysis Of Structural Additivity In Metal Binding Site-Swapped Hybrids Of Rubredoxin
+MKKYTCKICGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPICGAPKSEFEEVEE
+>gi|1180671155|ref|WP_084156336.1|rubredoxin [Clostridium akagii]
+MKSYVCTVCGYIYNPEDGDPDNGVNPGTAFESIPEDWVCPLCGVGKDQFEEVK
+>gi|1181461414|ref|WP_084756887.1|rubredoxin [Clostridium sp. DMHC 10]
+MKKYVCVVCGYIYDPAEGDPDNGVNPGTAFKDVPDDWTCPLCGVGKDQFEEVDE
+>gi|499268670|ref|WP_010966063.1|rubredoxin [Clostridium acetobutylicum] >gi|15896033|ref|NP_349382.1| rubredoxin [Clostridium acetobutylicum ATCC 824] >gi|20140212|sp|Q9AL94.1|RUBR_CLOAB RecName: Full=Rubredoxin; Short=Rd >gi|15025816|gb|AAK80722.1|AE007775_9 Rubredoxin [Clostridium acetobutylicum ATCC 824] >gi|12963891|gb|AAK07690.1| rubredoxin [Clostridium acetobutylicum ATCC 824] >gi|325510187|gb|ADZ21823.1| Rubredoxin [Clostridium acetobutylicum EA 2018] >gi|336292025|gb|AEI33159.1| rubredoxin [Clostridium acetobutylicum DSM 1731] >gi|724477224|gb|KHD37088.1| Rubredoxin [Clostridium acetobutylicum] >gi|1149418991|gb|OOL98918.1| rubredoxin [Clostridium acetobutylicum] >gi|1149429921|gb|OOM09660.1| rubredoxin [Clostridium acetobutylicum]
+MKKYVCVVCGYIYDPAEGDPDNGVNPGTSFEDIPDDWVCPLCGVGKDQFEPSEE
+>gi|1180632535|ref|WP_084117808.1|rubredoxin [Clostridium acidisoli] >gi|1175015705|emb|SMC29289.1| Rubredoxin [Clostridium acidisoli DSM 12555]
+MKKYVCVVCGYIYDPEDGDPDNGVDPGTAFENIPEDWVCPLCGVGKDQFEEVK
+>gi|1149897701|ref|WP_077832248.1|MULTISPECIES: rubredoxin [Clostridium] >gi|1149404472|gb|OOL84819.1| rubredoxin [Clostridium roseum] >gi|1149411107|gb|OOL91244.1| rubredoxin [Clostridium felsineum DSM 794] >gi|1149417649|gb|OOL97588.1| rubredoxin [Clostridium aurantibutyricum] >gi|1149423487|gb|OOM03295.1| rubredoxin [Clostridium roseum]
+MKKYVCVVCGYIYDPAEGDPDNGVNPGTSFEDVPDDWLCPLCGVGKDQFEVVED
+>gi|1053267604|ref|WP_066019882.1|rubredoxin [Clostridium pasteurianum]
+MKKYVCVVCGYIYDPAEGDPDNGVQPGTSFENIPDDWTCPLCGVGKDQFEEAQE
+>gi|1160382267|ref|WP_079426982.1|rubredoxin [Clostridium oryzae] >gi|1159624308|gb|OPJ58493.1| rubredoxin [Clostridium oryzae]
+MKKYVCIACGYIYDPAEGDPDNGVAPGTSFDDVPDDWVCPLCGVGKDQFEEVNE
+>gi|1154765133|ref|WP_078681791.1|rubredoxin [Clostridium sp. USBA 49] >gi|1152093408|emb|SKA78215.1| Rubredoxin [Clostridium sp. USBA 49]
+MKKYVCIACGYIYDPELGDPDNGVNPGTAWEDVPEDWVCPLCGVGKDQFEEAE
+>gi|1054855486|ref|WP_066617556.1|rubredoxin [Clostridium magnum] >gi|1020670104|gb|KZL93485.1| rubredoxin [Clostridium magnum DSM 2767] >gi|1110479812|emb|SHI27433.1| Rubredoxin [Clostridium magnum DSM 2767]
+MQKYVCVVCGYIYDPETGDPDNGVNPGTSFEDIPEDWVCPLCGVGKDQFE
+>gi|503127014|ref|WP_013361675.1|MULTISPECIES: rubredoxin [Acetoanaerobium] >gi|134110|sp|P23474.1|RUBR_CLOSD RecName: Full=Rubredoxin; Short=Rd >gi|308825544|emb|CBH21582.1| Rubredoxin (Rd) [ [[Clostridium] sticklandii] >gi|1153967749|emb|SKB25046.1| Rubredoxin [Acetoanaerobium noterae]
+MTKYVCTVCGYVYDPEVGDPDNNINPGTSFQDIPEDWVCPLCGVGKDQFEE
+>gi|494123114|ref|WP_007062891.1|rubredoxin [Clostridium carboxidivorans] >gi|255509170|gb|EET85523.1| Rubredoxin-type Fe(Cys)4 protein [Clostridium carboxidivorans P7] >gi|296049040|gb|EFG88471.1| rubredoxin [Clostridium carboxidivorans P7] >gi|848260912|gb|AKN31340.1| Rubredoxin [Clostridium carboxidivorans P7]
+MKQYVCSVCGYIYDPEQGDPDNGVNPGTAFENIPDSWVCPLCGVSKDQFEQA
+>gi|1176166936|gb|OQX82897.1|rubredoxin [Candidatus Omnitrophica bacterium 4484_49]
+MKKYKCMVCGYIYDPENGDPDSGINPGTSFQELPDDWVCPVCGVGKDEFEPVTE
+>gi|497761276|ref|WP_010075460.1|rubredoxin [Clostridium cellulovorans] >gi|302578206|gb|ADL52218.1| Rubredoxin-type Fe(Cys)4 protein [Clostridium cellulovorans 743B]
+MKKYVCLVCGYVYNPEEGDPDNGVQPGTDFDDIPDTWVCPLCGVGKDDF-EVEE
+>gi|1181264032|ref|WP_084572246.1|rubredoxin [Clostridium drakei]
+MQKYVCVVCGYIYDPEQGDPDNGVVPGTSFEDIPEDWVCPLCGVGKDQFEISE
+>gi|494119744|ref|WP_007059523.1|rubredoxin [Clostridium carboxidivorans] >gi|255512726|gb|EET88999.1| Rubredoxin-type Fe(Cys)4 protein [Clostridium carboxidivorans P7] >gi|848259487|gb|AKN29915.1| rubredoxin [Clostridium carboxidivorans P7]
+MQKYVCVVCGYIYDPEQGDPDNGVAPGTSFEGIPEDWVCPLCGVGKDQFETTE
+>gi|1120483371|ref|WP_073344696.1|rubredoxin [Caldanaerobius fijiensis] >gi|1109781493|emb|SHF46264.1| Rubredoxin [Caldanaerobius fijiensis DSM 17918]
+MKKWQCTVCGYIYDPAKGDPDNGIAPGTAFEDLPDDWVCPDCGVGKDQFEEMDE
+>gi|1125124748|gb|OLA85847.1|rubredoxin [Verrucomicrobia bacterium CAG:312_58_20]
+MKKYKCEVCGYIYDPAAGDPDNGVQPGTAFADIPEDWVCPLCGVGKDQFVETDE
+>gi|503409937|ref|WP_013644598.1|rubredoxin [Methanobacterium lacus] >gi|325330185|gb|ADZ09247.1| Rubredoxin-type Fe(Cys)4 protein [Methanobacterium lacus]
+MKKYLCTACGYVYDPEEGDPDNGIDPGTAFEDLPDDWVCPLCGVGKELFEETD
+>gi|524786906|emb|CDE85390.1|rubredoxin [Coraliomargarita sp. CAG:312]
+MKKYKCEVCGYIYDPEAGDPDNGVAAGTSFEDIPEDWVCPLCGVGKDQFVESED
+>gi|1175542446|ref|WP_082085077.1|rubredoxin [Clostridium scatologenes] >gi|800897185|gb|AKA69369.1| Rubredoxin-type Fe(Cys)4 protein [Clostridium scatologenes]
+MQKYVCVVCGYIYDPEQGDPDNGVVPGTSFENIPEDWVCPLCGVGKDQFEISE
+>gi|1093400692|ref|WP_070807446.1|MULTISPECIES: rubredoxin [Porphyromonadaceae]
+MKKYICTVCSYIYDPAEGDPDSGIAPGTAFEDLPDDWVCPLCGVGKEDFEPVEE
+>gi|504716438|ref|WP_014903540.1|rubredoxin [Desulfosporosinus meridiei] >gi|402254352|gb|AFQ44627.1| rubredoxin [Desulfosporosinus meridiei DSM 13257]
+MKKYVCSACGYIYDPEAGDPDSGIAPGTAFEDIPDDWVCPLCGVGKDMFEVSE
+>gi|740888503|ref|WP_038673751.1|rubredoxin [Pelosinus sp. UFO1] >gi|664790932|gb|AIF53605.1| Rubredoxin domain containing protein [Pelosinus sp. UFO1]
+MEKWVCVVCGYVYNPEEGDPDSGIAPGTKFEDIPEDWVCPLCGVGKDQFEK
+>gi|524340080|emb|CDA94551.1|rubredoxin [Prevotella sp. CAG:1320]
+MKKYVCDVCGYIYDPAVGDPDNGIAPGTAFEDIPDDWVCPLCGVGKDDFSVVEE
+>gi|1221438253|ref|WP_089612328.1|High molecular weight rubredoxin [Dehalobacterium formicoaceticum]
+MKKYVCSVCGYVYDPAEGDPDSGVAPGTAFEDIPDDWVCPVCGVGKDQF-EVEE
+>gi|1222549171|ref|WP_090598877.1|rubredoxin [Atribacteria bacterium JGI 0000014-F07]
+MLKYKCTVCGYIYEPEKGDPESGVNPGTPFEDLPDDWVCPVCGVGKDDFEEVS
+>gi|1234036090|ref|WP_094673777.1|rubredoxin [Hydrocoleum sp. CS-953]
+MKKYVCIVCGYIYDPEEGDPDSGIDPGTAFEDIPDDWVCPVCEVGKEEFEPVEE
+>gi|496414813|ref|WP_009123660.1|rubredoxin [Bacteroides fluxus] >gi|328532782|gb|EGF59564.1| rubredoxin [Bacteroides fluxus YIT 12057]
+MEKYICTVCDYIYDPEKGDPDSGIEPGTAFKDIPEDWVCPLCGVGKEDFEKLEE
+>gi|1120406174|ref|WP_073269424.1|rubredoxin [Alkalibacter saccharofermentans] >gi|1109689865|emb|SHE40973.1| Rubredoxin [Alkalibacter saccharofermentans DSM 14828]
+MQKYECVICGYIYDPAEGDPDNGVDPGTAFADIPDDWVCPLCGAGKEDFQEVE
+>gi|1210215283|dbj|BAZ34318.1|rubredoxin-type Fe(Cys)4 protein (plasmid) [Calothrix sp. NIES-4101] >gi|1210223766|dbj|BAZ42795.1| rubredoxin-type Fe(Cys)4 protein [Calothrix sp. NIES-4101]
+MKKYICSVCGYEYDPEMGDPDSGIEPGTAFEDIPDDWVCPICGATKEQFEEVEE
+>gi|502633300|ref|WP_012869872.1|rubredoxin [Thermanaerovibrio acidaminovorans] >gi|269792735|ref|YP_003317639.1| rubredoxin-type Fe(Cys)4 protein [Thermanaerovibrio acidaminovorans DSM 6589] >gi|269100370|gb|ACZ19357.1| Rubredoxin-type Fe(Cys)4 protein [Thermanaerovibrio acidaminovorans DSM 6589]
+MKKYVCTVCGYVYDPANGDPDSGIAPGTPFEEIPDDWVCPVCGVGKDMFEESE
+>gi|497284142|ref|WP_009598359.1|MULTISPECIES: rubredoxin [Alistipes] >gi|313157619|gb|EFR57034.1| rubredoxin [Alistipes sp. HGB5] >gi|390424248|gb|AFL78754.1| rubredoxin [Alistipes finegoldii DSM 17242] >gi|524209089|emb|CCZ76082.1| rubredoxin [Alistipes finegoldii CAG:68] >gi|1124921150|gb|OKY93197.1| rubredoxin [Alistipes sp. 58_9_plus]
+MKKYRCIVCEWIYDPAVGDPDGGIAPGTSFEDIPDDWVCPVCGVGKDQFEEVEE
+>gi|1008193589|ref|WP_061857135.1|rubredoxin [Clostridium colicanis] >gi|1007487776|gb|KYH30250.1| rubredoxin [Clostridium colicanis DSM 13634]
+MQKYVCIPCGYIYDPEKGDPDNGIEPGTVFEDIPDDWVCPICGVGKDQFEPIDE
+>gi|495988914|ref|WP_008713493.1|MULTISPECIES: rubredoxin [Synergistaceae] >gi|363612089|gb|EHL63647.1| rubredoxin [Synergistes sp. 3_1_syn1]
+MKKYVCTVCGYVYDPEAGDPDSGIAPGTAFEDIPDDWVCPVCGVGKDMFE
+>gi|501004462|ref|WP_012057410.1|rubredoxin [Thermosipho melanesiensis] >gi|149793603|gb|ABR31051.1| Rubredoxin-type Fe(Cys)4 protein [Thermosipho melanesiensis BI429] >gi|1129888101|gb|APT74145.1| Rubredoxin [Thermosipho melanesiensis]
+MKRYVCTVCGYIYDPEVGDPDNGIEPGTPFEKLPEDWVCPVCGVGKDQFEE
+>gi|1090687784|emb|SEG14641.1|Rubredoxin [Caloramator fervidus]
+MKKYQCSVCGYIYDPAIGDPDSGILPGTAFEDIPSDWVCPLCGVAKDQFEALE
+>gi|1175379065|ref|WP_081926857.1|rubredoxin [Pseudobacteroides cellulosolvens] >gi|913270181|gb|KNY30380.1| Rubredoxin domain containing protein [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]
+MDKYICTVCSYIYDPEAGDPDSGIAPGTSFEDIPDDWVCPLCGVGKDSFEKYTE
+>gi|524573729|emb|CDC95884.1|rubredoxin [Alistipes sp. CAG:268]
+MKKYRCTVCEWIYDPEVGDPEGGIAPGTAFEDIPEDWVCPLCGVGKDQFEEVVE
+>gi|1057357486|ref|WP_068717756.1|rubredoxin [Orenia metallireducens] >gi|1046952963|gb|OCL26188.1| Rubredoxin [Orenia metallireducens]
+MAKYECTVCGYIYDPEEGDPDSGIAPGTAFEDIPDDWECPLCGVSKDMFEKIED
+>gi|654865266|ref|WP_028317517.1|rubredoxin [Desulfobulbus elongatus]
+MKKYTCVVCGYEYDPAKGDPENGVAPGTAFEDIPDDWTCPLCGAGKDQFEEA
+>gi|1119574057|ref|WP_072515105.1|rubredoxin [Ndongobacter massiliensis]
+MKKYECTACGYIYDPALGDPDNGIAPGTAFEDLPEDWVCPMCGVGKDEFEPVAE
+>gi|780851242|gb|KJS50432.1|rubredoxin [Peptococcaceae bacterium BRH_c23] >gi|780916858|gb|KJS84292.1| rubredoxin [Desulfosporosinus sp. BICA1-9] >gi|780921856|gb|KJS89006.1| rubredoxin [Desulfosporosinus sp. BICA1-9]
+MKKYVCSACGYIYDPEAGDPDSGIAPGTAFEDIPEDWVCPLCGVGKDMFEVSE
+>gi|1175212678|ref|WP_081760585.1|rubredoxin [Prevotella pleuritidis]
+MKKYICDVCGYIYDPATGDPDSGIEPGTAFEDIPDDWVCPLCGVGKDDFSVVEE
+>gi|524019172|emb|CCY03296.1|rubredoxin [Prevotella sp. CAG:924]
+MKKYVCEVCGYIYDPEVGDPDNGIEPGTAFEDIPEDWTCPLCGVGKDDFKPVEE
+>gi|1120421292|ref|WP_073284101.1|rubredoxin [Anaerosporobacter mobilis] >gi|1110344257|emb|SHM18499.1| Rubredoxin [Anaerosporobacter mobilis DSM 15930]
+MKKYVCIVCGYIYDPEVGDPDNGVEPGTAFEDISDDWLCPLCSVGKDEFEECE
+>gi|639406809|ref|WP_024613438.1|rubredoxin [Clostridium sp. Ade.TY]
+MKKYICDICGYIYDPAVGDPDNGVNPGTSFEDIPEDWTCPLCGVGKDQFSVTE
+>gi|495059747|ref|WP_007784579.1|rubredoxin [Desulfosporosinus youngiae] >gi|374417832|gb|EHQ90267.1| rubredoxin [Desulfosporosinus youngiae DSM 17734]
+MKKYVCTACGYIYDPEAGDPDSGIAPGTAFEDIPEDWVCPICGVGKDMFEVSE
+>gi|542971628|gb|ERI69606.1|rubredoxin [Clostridium sp. KLE 1755]
+MKKYVCDVCGYIYDPELGDPDNGINPGTAFEDLPEDWLCPLCSVGKDQFSVTE
+>gi|1180842605|ref|WP_084315574.1|rubredoxin [Clostridium hydrogeniformans]
+MKKYLCVPCGYIYDPEVGDPDSGIEPGTSFEDIPDDWVCPLCGVGKEDFELVEE
+>gi|506404244|ref|WP_015923963.1|rubredoxin [Halothermothrix orenii] >gi|219994391|gb|ACL70994.1| Rubredoxin-type Fe(Cys)4 protein [Halothermothrix orenii H 168]
+MDKYECQVCGYIYDPDEGDPDNGIDPGTPFEDLPEDWVCPVCGVGKDQFEKVE
+>gi|545417175|ref|WP_021656099.1|rubredoxin [Clostridiales bacterium oral taxon 876] >gi|542996388|gb|ERI91636.1| rubredoxin [Clostridiales bacterium oral taxon 876 str. F0540]
+MKKYVCIACGYIYDPEIGDPDNGVEAGTSWENVPEDWLCPLCGVGKDQFEEVE
+>gi|1231851848|ref|WP_094401615.1|rubredoxin [Prevotella sp. P3-122] >gi|1231100894|gb|OYP59661.1| rubredoxin [Prevotella sp. P3-122]
+MKKYVCDICGYIYDPVNGDPDSGIAPGTAFEDIPDDWVCPLCGVGKDDFSVVEE
+>gi|489548243|ref|WP_003452884.1|Rubredoxin-2 [Clostridium perfringens] >gi|20141689|sp|P14072.2|RUBR2_CLOPE RecName: Full=Rubredoxin-2; Short=Rd 2 >gi|18144440|dbj|BAB80486.1| rubredoxin [Clostridium perfringens str. 13] >gi|110674112|gb|ABG83099.1| rubredoxin [Clostridium perfringens ATCC 13124] >gi|169297327|gb|EDS79436.1| rubredoxin [Clostridium perfringens C str. JGS1495] >gi|170663850|gb|EDT16533.1| rubredoxin [Clostridium perfringens E str. JGS1987] >gi|170712599|gb|EDT24781.1| rubredoxin [Clostridium perfringens B str. ATCC 3626] >gi|170714236|gb|EDT26418.1| rubredoxin [Clostridium perfringens CPE str. F4969] >gi|182380539|gb|EDT78018.1| rubredoxin [Clostridium perfringens NCTC 8239] >gi|373227958|gb|EHP50268.1| rubredoxin-2 [Clostridium perfringens WAL-14572] >gi|932128899|gb|ALG48160.1| Rubredoxin [Clostridium perfringens] >gi|933007377|emb|CUO19985.1| rubredoxin [Clostridium perfringens] >gi|942713190|gb|KQC93402.1| Rubredoxin [Clostridium perfringens CP4] >gi|1002727872|gb|AMN32249.1| Rubredoxin [Clostridium perfringens] >gi|1002730633|gb|AMN35009.1| Rubredoxin [Clostridium perfringens] >gi|1092199113|gb|AOY53183.1| Rubredoxin [Clostridium perfringens] >gi|1151239019|gb|AQW26078.1| Rubredoxin-2 [Clostridium perfringens] >gi|1151970563|gb|AQW23176.1| Rubredoxin-2 [Clostridium perfringens]
+MKKFICDVCGYIYDPAVGDPDNGVEPGTEFKDIPDDWVCPLCGVDKSQFSETE
+>gi|518020229|ref|WP_019190437.1|rubredoxin [Levyella massiliensis]
+MKKYECTACGHIYDPAVGDPDSGIKPGTAFEDLPDDWVCPVCGVGKDEFEPVEE
+>gi|490518062|ref|WP_004383586.1|rubredoxin [Prevotella veroralis] >gi|260535501|gb|EEX18118.1| rubredoxin [Prevotella veroralis F0319]
+MKKYECNTCGYIYDPEVGDPDSGIAPGTAFEDIPDDWVCPLCGVGKDDFSPVEE
+>gi|1081635319|emb|SCX82457.1|Rubredoxin [Desulfoluna spongiiphila]
+MKKYECTVCGYIYDPEEGDPENGIEAGTSFADLPEDWLCPVCGVGKSEFEEV
+>gi|1224305980|ref|WP_092332150.1|rubredoxin [Desulfosporosinus hippei] >gi|1086825426|emb|SDG88903.1| Rubredoxin [Desulfosporosinus hippei DSM 8344]
+MKKYVCSACGYVYDPEVGDPDSGIAPGTAFEDIPDDWVCPLCGVGKDMFEVSE
+>gi|646320716|ref|WP_025489001.1|rubredoxin [Clostridium sp. KLE 1755]
+MKKYVCDVCGYIYDPELGDPDNGINPGTAFEDLPEDWLCPLCSVGKDQFSVTE
+>gi|497003710|ref|WP_009434060.1|rubredoxin [Prevotella sp. oral taxon 306] >gi|383356790|gb|EID34280.1| rubredoxin [Prevotella sp. oral taxon 306 str. F0472]
+MKKYECETCGYIYDPEVGDPDSGIAPGTAFEDIPDDWVCPLCGVGKDDFSPVEE
+>gi|1101219718|gb|OIP68335.1|High molecular weight rubredoxin [Candidatus Atribacteria bacterium CG2_30_33_13]
+MAKYECSVCGYIYDPEKGDPESGVNPGTPFEDLPDDWVCPICGAGKDEFEEL
+>gi|501003563|ref|WP_012056643.1|rubredoxin [Thermosipho melanesiensis] >gi|149792834|gb|ABR30282.1| Rubredoxin-type Fe(Cys)4 protein [Thermosipho melanesiensis BI429] >gi|1129887416|gb|APT73460.1| Rubredoxin [Thermosipho melanesiensis] >gi|1145625278|gb|OOC37406.1| Rubredoxin [Thermosipho melanesiensis] >gi|1145627668|gb|OOC39768.1| Rubredoxin [Thermosipho melanesiensis] >gi|1145627774|gb|OOC39873.1| Rubredoxin [Thermosipho melanesiensis] >gi|1145631739|gb|OOC43801.1| Rubredoxin [Thermosipho melanesiensis] >gi|1145633081|gb|OOC45120.1| Rubredoxin [Thermosipho melanesiensis]
+MKRYVCSVCGYVYDPEVGDPDNGIEPGTSFEELPENWVCPVCGVGKDQFEE
+>gi|1061389474|ref|WP_069187817.1|rubredoxin [Clostridium argentinense] >gi|745735995|gb|KIE45525.1| rubredoxin [Clostridium argentinense CDC 2741] >gi|1169607796|gb|ARC83207.1| rubredoxin [Clostridium argentinense]
+MKKYVCVVCGYVYDPAEGDPDNGVAPGTSWEDVPEEWLCPLCGVGKDQFEE
+>gi|1203220103|ref|WP_087679302.1|rubredoxin [Garciella nitratireducens] >gi|1152076607|emb|SJZ87080.1| Rubredoxin [Garciella nitratireducens DSM 15102]
+MKKYVCTVCGYVYNPEVGDPDGGIAPGTAFEDIPDDWVCPECGVGKDMFEPQE
+>gi|488621473|ref|WP_002558186.1|MULTISPECIES: rubredoxin [Bacteroides] >gi|392650204|gb|EIY43875.1| rubredoxin [Bacteroides nordii CL02T12C05] >gi|482612588|gb|EOA60598.1| rubredoxin [Bacteroides sp. HPS0048] >gi|1124933114|gb|OKZ04826.1| rubredoxin [Bacteroides sp. 41_26]
+MKKYICTVCDYIYDPEMGDPDSGIEPGTAFEDIPDDWVCPLCGVGKEDFEEYNE
+>gi|1180821618|ref|WP_084295241.1|rubredoxin [Caldanaerobius polysaccharolyticus]
+MKKWQCIVCGYIYDPAVGDPDNGIAPGTAFEDLPEDWVCPECGVGKDQFEEIDE
+>gi|217986341|gb|EEC52678.1|rubredoxin [Bacteroides eggerthii DSM 20697]
+MEKYICTICEYVYDPEQGDPENGIEPGTAFEDLPDDWVCPLCGVGKDEFEKA
+>gi|496429375|ref|WP_009138222.1|rubredoxin [Odoribacter laneus] >gi|373222602|gb|EHP44972.1| rubredoxin [Odoribacter laneus YIT 12061] >gi|524214678|emb|CCZ80837.1| rubredoxin [Odoribacter laneus CAG:561]
+MKKYICTVCEYIYDPAKGDPDSGIEPGTAFEDLPDDWVCPLCGVGKEDFEPVEE
+>gi|110682595|gb|ABG85965.1|rubredoxin [Clostridium perfringens SM101]
+MKKFICDVCGYIYDPTVGDPDNGVEPGTEFKDIPDDWVCPLCGVDKSQFSETE
+>gi|1082226190|gb|OFW47441.1|rubredoxin [Actinobacteria bacterium RBG_13_35_12]
+MAQFKCTVCGYIYEPEKGDPESGVNPGTSFEDLPDDWVCPVCGAGKDDFEEV
+>gi|1084537066|gb|OGN97618.1|High molecular weight rubredoxin [Chloroflexi bacterium RBG_13_51_36]
+MAKYKCTVCGYIYDPESGDPDGGIKPGTPFEKLPDDWVCPVCGASKDQFEKIEE
+>gi|1120011725|ref|WP_072886612.1|rubredoxin [Tepidibacter formicigenes] >gi|1109767334|emb|SHJ53444.1| Rubredoxin [Tepidibacter formicigenes DSM 15518]
+MKKYVCVVCGYVYDPEVGDPDNGVNSGTSWENVPEDWLCPLCGVGKDQFEE
+>gi|1120159454|ref|WP_073029351.1|rubredoxin [Desulfosporosinus lacus] >gi|1110418205|emb|SHH90382.1| Rubredoxin [Desulfosporosinus lacus DSM 15449]
+MKKYVCSACGYIYDPEVGDPDSGIAPGTAFEDIPEDWVCPLCGVGKDMFEVSE
+>gi|503951760|ref|WP_014185754.1|rubredoxin [Desulfosporosinus orientis] >gi|357214328|gb|AET68946.1| rubredoxin [Desulfosporosinus orientis DSM 765]
+MKKYVCSACGYIYDPEVGDPDSGIAPGTAFEDIPDDWVCPICGVGKDMFEVSE
+>gi|490755991|ref|WP_004618291.1|rubredoxin [[Clostridium] papyrosolvens] >gi|325987421|gb|EGD48248.1| Rubredoxin-type Fe(Cys)4 protein [ [[Clostridium] papyrosolvens DSM 2782]
+MDKYVCTVCGYVYDPEEGDPDSGIAPGTAFEDIPDEWVCPLCGVGKDMFEK
+>gi|1034540558|ref|WP_064505530.1|rubredoxin [Defluviitalea phaphyphila]
+MSKWVCLVCGYVYDPAEGDPDNGIAAGTAFEDIPDDWVCPLCGVGKDQFEE
+>gi|523977834|emb|CCX66435.1|rubredoxin [Firmicutes bacterium CAG:791]
+MKKYVCNVCGYVYDPEIGDPDNGIAPGTAFEAIPDDWVCPLCGVGKDDFSPVE
+>gi|490493565|ref|WP_004359765.1|rubredoxin [Prevotella melaninogenica] >gi|288334952|gb|EFC73388.1| rubredoxin [Prevotella melaninogenica D18]
+MKKYECETCGYIYDPELGDPDSGIAPGTAFEDIPDDWVCPLCGVGKDDFTPVEE
+>gi|495992084|ref|WP_008716663.1|MULTISPECIES: rubredoxin [unclassified Clostridiales (miscellaneous)] >gi|239516833|gb|EEQ56699.1| rubredoxin [Clostridiales bacterium 1_7_47FAA]
+MKKYVCDPCGWIYDPEVGDPDGGIAPGTAFEDIPDDWVCPLCGVGKDMFSEVEE
+>gi|974238511|gb|KUO77990.1|rubredoxin [Desulfosporosinus sp. BRH_c37]
+MKKYVCSACGYVYDPEVGDPDSGVAPGTAFEDIPDDWVCPVCGVGKDEFEVSE
+>gi|503928226|ref|WP_014162220.1|rubredoxin [Thermovirga lienii] >gi|355396366|gb|AER65795.1| Rubredoxin-type Fe(Cys)4 protein [Thermovirga lienii DSM 17291]
+MQKYVCSVCGYVYDPEAGDPDNGVNPGTPFEDVPEEWVCPVCGVGKDMFE
+>gi|1123820969|ref|WP_074364190.1|rubredoxin [Clostridium sp. N3C] >gi|1119158909|emb|SCN21410.1| Rubredoxin [Clostridium sp. N3C]
+MKKYVCLACGYIYDPAEGDPDNGVAPGTAWEDVPEDWLCPLCGVGKDQFEPADE
+>gi|503030819|ref|WP_013265795.1|MULTISPECIES: rubredoxin [Prevotella] >gi|302151098|gb|ADK97359.1| rubredoxin [Prevotella melaninogenica ATCC 25845] >gi|573496338|gb|ETS96934.1| rubredoxin [Prevotella sp. ICM33] >gi|690803818|gb|KGF48887.1| rubredoxin [Prevotella melaninogenica DNF00666] >gi|1210942750|gb|ASE18647.1| rubredoxin [Prevotella melaninogenica]
+MKKYECETCGYIYDPELGDPDSGIEPGTAFEDIPDDWVCPLCGVGKDDFTPVEE
+>gi|1122461058|ref|WP_074078758.1|MULTISPECIES: rubredoxin [Peptostreptococcaceae]
+MKKYVCDACGYIYDPEVGDPDNGIAPGTSFEDLPDDWLCPLCSVGKDEFSETE
+>gi|1057327484|ref|WP_068688229.1|rubredoxin [Culturomica massiliensis]
+MKKYICTVCDYIYDPAIGDPDNGIEPGTAFEDLPDDWLCPLCGVGKEEFEPVKE
+>gi|495794470|ref|WP_008519049.1|rubredoxin [Dethiobacter alkaliphilus] >gi|225167305|gb|EEG76124.1| Rubredoxin-type Fe(Cys)4 protein [Dethiobacter alkaliphilus AHT 1]
+MEKWVCSVCGYVYNPEEGDPDNGVSPGTSFDDLPDDWVCPECGVGKDMFEK
+>gi|505075468|ref|WP_015262570.1|rubredoxin [Desulfitobacterium dichloroeliminans] >gi|430784307|gb|AGA69590.1| rubredoxin [Desulfitobacterium dichloroeliminans LMG P-21439]
+MKKYVCTICQYVYDPAVGDPDSGVAPGTAFEDIPEDWVCPTCGVSKDQFEVVEE
+>gi|304335198|gb|EFM01469.1|rubredoxin [Prevotella marshii DSM 16973 = JCM 13450]
+MKKYVCVPCGYIYDPKEGDPDGGIAPGTAFEDIPDDWVCPICGVGKDEFEPVED
+>gi|517060108|ref|WP_018248926.1|rubredoxin [Orenia marismortui]
+MKRYVCTVCGYVYDPEQGDPDSGIEAGTAFEDIPDDWECPLCGVGKDMFEE
+>gi|495796136|ref|WP_008520715.1|MULTISPECIES: rubredoxin [Jonquetella] >gi|260630512|gb|EEX48706.1| rubredoxin [Jonquetella anthropi E3_33 E1] >gi|363986126|gb|EHM12956.1| rubredoxin [Jonquetella anthropi DSM 22815] >gi|544365458|gb|ERL23503.1| rubredoxin [Jonquetella sp. BV3C21]
+MKKYVCTVCGFVYDPEVGDPDSGIAPGTAFEDIPDDWVCPECGVGKDMFEE
+>gi|1222036337|ref|WP_090093754.1|rubredoxin [Clostridium uliginosum] >gi|1097631683|emb|SFD29859.1| Rubredoxin [Clostridium uliginosum]
+MEKYICTVCGYIYDPEIGDPDNGVAPGTKFKDISEDWVCPLCGVGKSDFEKEE
+>gi|163310876|pdb|2PVX|AChain A, Nmr And X-ray Analysis Of Structural Additivity In Metal Binding Site-swapped Hybrids Of Rubredoxin >gi|163310877|pdb|2PVX|B Chain B, Nmr And X-ray Analysis Of Structural Additivity In Metal Binding Site-swapped Hybrids Of Rubredoxin >gi|163310878|pdb|2PVX|C Chain C, Nmr And X-ray Analysis Of Structural Additivity In Metal Binding Site-swapped Hybrids Of Rubredoxin >gi|163310879|pdb|2PVX|D Chain D, Nmr And X-ray Analysis Of Structural Additivity In Metal Binding Site-swapped Hybrids Of Rubredoxin >gi|163310880|pdb|2PVX|E Chain E, Nmr And X-ray Analysis Of Structural Additivity In Metal Binding Site-swapped Hybrids Of Rubredoxin >gi|163310881|pdb|2PVX|F Chain F, Nmr And X-ray Analysis Of Structural Additivity In Metal Binding Site-swapped Hybrids Of Rubredoxin >gi|163310882|pdb|2PVX|G Chain G, Nmr And X-ray Analysis Of Structural Additivity In Metal Binding Site-swapped Hybrids Of Rubredoxin >gi|163310883|pdb|2PVX|H Chain H, Nmr And X-ray Analysis Of Structural Additivity In Metal Binding Site-swapped Hybrids Of Rubredoxin
+KKWVCTVCGYIYDEDAGDPDNGISPGTKFEELPDDWVCPLCGVGKDQFEKLED
+>gi|496683631|ref|WP_009325829.1|MULTISPECIES: rubredoxin [Ruminococcaceae] >gi|363613341|gb|EHL64859.1| rubredoxin [Subdoligranulum sp. 4_3_54A2FAA] >gi|766954834|gb|KJF41463.1| rubredoxin [Ruthenibacterium lactatiformans] >gi|969661937|gb|KUE75447.1| rubredoxin [Ruthenibacterium lactatiformans]
+MKKYVCTVCGYIYDEAAGDPDNGVEPGTKWEDVPEDWVCPVCGVGKDQFEEA
+>gi|546160496|ref|WP_021802364.1|rubredoxin [Clostridium intestinale] >gi|544194555|gb|ERK30524.1| rubredoxin [Clostridium intestinale URNW]
+MKSYICDVCGYVYDPAIGDEDNGIAPGTSFEDIPEDWVCPLCGVGKDQFSEVE
+>gi|495133816|ref|WP_007858625.1|MULTISPECIES: rubredoxin [Clostridiales] >gi|354816042|gb|EHF00631.1| rubredoxin [ [[Clostridium] citroniae WAL-17108] >gi|769360134|gb|KJJ71154.1| rubredoxin [Clostridium sp. FS41] >gi|891187109|gb|KMW18176.1| rubredoxin [[Clostridium] citroniae WAL-19142] >gi|1053016073|emb|SCH32042.1| Rubredoxin [uncultured Clostridium sp.] >gi|1099496941|emb|SFS15561.1| Rubredoxin [[Clostridium] citroniae]
+MKKYVCDPCGWIYDPEVGDPDGGIAPGTAFEDIPDDWVCPLCGVGKDMFSEIEE
+>gi|640648459|ref|WP_025075222.1|MULTISPECIES: rubredoxin [Bacteroides] >gi|1110289158|emb|SHF51009.1| Rubredoxin [Bacteroides faecichinchillae]
+MRKYICTVCDYIYDPEQGDPDGGIDPGTAFEDIPDDWVCPLCGVGKEDFEPYEE
+>gi|492751607|ref|WP_005949758.1|MULTISPECIES: rubredoxin [Fusobacterium] >gi|251835113|gb|EES63656.1| rubredoxin [Fusobacterium varium ATCC 27725] >gi|1080399343|gb|OFL85978.1| rubredoxin [Fusobacterium sp. HMSC073F01]
+MKKYECKVCGYIYDPVEGDPDSGIAPGTAFEDIPDDWVCPLCGVGKDDFEAI
+>gi|640559372|ref|WP_024990821.1|rubredoxin [Prevotella marshii]
+MKKYVCVPCGYIYDPKEGDPDGGIAPGTAFEDIPDDWVCPICGVGKDEFEPVED
+>gi|851347208|ref|WP_048190841.1|rubredoxin [Methanobacterium sp. SMA-27]
+MKKFLCTACGYIYDPEVGDPDAGIDPGTSFEDLPDDWVCPLCGVGKELFEETD
+>gi|1041848100|ref|WP_065219960.1|MULTISPECIES: rubredoxin [Butyricimonas] >gi|1125134297|gb|OLA94484.1| rubredoxin [Candidatus Melainabacteria bacterium LEY3_CP_29_8] >gi|1198479504|gb|OUN66567.1| rubredoxin [Butyricimonas sp. An62]
+MKKYICTVCSYIYDPAVGDPDGGIAPGTAFEDIPEDWVCPLCGVGKEDFEPVEE
+>gi|157836996|pdb|4RXN|AChain A, Crystallographic Refinement Of Rubredoxin At 1.2 Angstroms Resolution >gi|157837076|pdb|5RXN|A Chain A, Combined Crystallographic Refinement And Energy Minimization Of Rubredoxin At 1.2 Angstrom Resolution
+MKKYTCTVCGYIYDPEDGDPDDGVNPGTDFKDIPDDWVCPLCGVGKDEFEEVEE
+>gi|1082199695|gb|OFW32544.1|rubredoxin [Actinobacteria bacterium GWC2_53_9]
+MDKYECLVCGYIYNPEEGDPDSGVSAGTAFEDLPDEWVCPVCGAGKDQFEKV
+>gi|736591981|ref|WP_034600797.1|rubredoxin [Desulfosporosinus sp. HMP52] >gi|695880832|gb|KGK86701.1| rubredoxin [Desulfosporosinus sp. HMP52]
+MKKYVCSACGYVYDPEVGDPDSGIAPGTAFEDIPEDWVCPLCGVGKDMFEVSE
+>gi|524180619|emb|CCZ50621.1|rubredoxin [Acinetobacter sp. CAG:196]
+MQKYVCTVCHYIYDPEVGDPDNGIAPGTAFEDLPSDWVCPLCAVGKDMFEEA
+>gi|1124636566|ref|WP_074917389.1|rubredoxin [Terrisporobacter glycolicus] >gi|1097538166|emb|SFJ25644.1| Rubredoxin [Terrisporobacter glycolicus]
+MKKYICDICDYVYDPEIGDPDHGINPGTSFEDLPDDWECPLCGVGKDQFSETE
+>gi|510836513|ref|WP_016208133.1|MULTISPECIES: rubredoxin [Clostridium] >gi|507128555|gb|EOR21159.1| rubredoxin [Clostridium sartagoforme AAU1]
+MKKYICIPCGYIYDPAEGDPDGGIAPGTAFEDIPDDWVCPICGVGKDDFEVVEE
+>gi|1084706283|gb|OGP52010.1|rubredoxin [Deltaproteobacteria bacterium RBG_13_43_22]
+MKKYVCEVCGYVYDPAEGDPDNGIAPGTAFEDLPDDWLCPLCGVGKDQF
+>gi|550921852|ref|WP_022670369.1|rubredoxin [Hippea alviniae]
+MKKYRCTVCGYIYNPEEGDPDSGIAPETPFEDIPDDWTCPICGVSKEDFEEYTE
+>gi|545304771|ref|WP_021584066.1|rubredoxin [Prevotella pleuritidis] >gi|544001618|gb|ERK01064.1| rubredoxin [Prevotella pleuritidis F0068]
+MKKYICDVCGYIYDPATGDPDSGIEPGTALEDIPDDWVCPLCGVGKDDFSVVEE
+>gi|1199627288|ref|WP_087360831.1|rubredoxin [Alistipes sp. An31A] >gi|1198536924|gb|OUO22856.1| rubredoxin [Alistipes sp. An31A]
+MKKYRCTVCDWIYDPAVGDPEGGIAPGTAFEDIPEDWVCPLCGVGKDQFEVVEE
+>gi|1181511971|ref|WP_084804524.1|rubredoxin [Halonatronum saccharophilum]
+MAKYECTVCGYVYDPEVGDPDSGVEAGTAFEDIPDDWECPLCGVGKDMFEKVE
+>gi|524789478|emb|CDE87271.1|rubredoxin [Prevotella sp. CAG:891]
+MKKYYCVVCQWVYDPAVGDPDGGIEPGTAFEDIPDDWVCPLCGVGKDQFELVEE
+>gi|490422354|ref|WP_004294592.1|rubredoxin [Bacteroides eggerthii] >gi|316907444|gb|EFV29149.1| rubredoxin [Bacteroides eggerthii 1_2_48FAA] >gi|524076324|emb|CCY56311.1| rubredoxin [Bacteroides eggerthii CAG:109]
+MEKYICTICEYVYDPEQGDPENGIEPGTAFEDLPDDWVCPLCGVGKDEFEKA
+>gi|1055257108|ref|WP_066925947.1|rubredoxin [Murdochiella massiliensis]
+MKKYECTACGHIYDPEIGDPENGIKPGTAFEDLPEDWVCPVCGVGKDEFEPVNE
+>gi|504081417|ref|WP_014315411.1|MULTISPECIES: rubredoxin [Clostridiales] >gi|373947137|gb|AEY68058.1| rubredoxin [Clostridium sp. BNL1100] >gi|523374992|gb|EPR09537.1| rubredoxin [ [[Clostridium] papyrosolvens C7]
+MDKYVCTVCGYVYDPEEGDPDGGIAPGTAFEDIPEDWVCPLCGVGKDMFEK
+>gi|1199592246|ref|WP_087326759.1|rubredoxin [Clostridium perfringens] >gi|1198465541|gb|OUN52770.1| rubredoxin [Clostridium perfringens] >gi|1198665204|gb|OUP46938.1| rubredoxin [Clostridium perfringens]
+MKKFICDVCGYIYDPAVGDPNNGVEPGTEFKDIPDDWVCPLCGVDKSQFSETE
+>gi|516362806|ref|WP_017752839.1|rubredoxin [Clostridium tyrobutyricum] >gi|587650968|emb|CDL90695.1| Rubredoxin [Clostridium tyrobutyricum DIVETGP] >gi|1027453349|gb|AND84149.1| rubredoxin [Clostridium tyrobutyricum] >gi|1042046985|gb|ANP68875.1| Rubredoxin [Clostridium tyrobutyricum]
+MDKYVCSACGYVYDPEKGDPDNGVNPGTAFENLPDDWVCPLCGVSKDEFEK
+>gi|493631405|ref|WP_006583293.1|rubredoxin [Thermanaerovibrio velox] >gi|363983593|gb|EHM09800.1| rubredoxin [Thermanaerovibrio velox DSM 12556]
+MKKYVCTVCGYVYDPANGDPDSGIAPGTPFEEIPDDWVCPVCGVGKDMFEVSE
+>gi|1081486949|emb|SCZ79175.1|Rubredoxin [Acidaminobacter hydrogenoformans DSM 2784]
+MEKYVCTACGYVYDPELGDPDGGVAPGTAFADIPDDWVCPLCGVGKDMFE
+>gi|1084755418|gb|OGP97116.1|Rubredoxin [Deltaproteobacteria bacterium RBG_19FT_COMBO_46_9]
+MGKYECTVCGYVYDPVDGDPDNGIDPGTEFEDLPDDWVCPVCGATKDQFERI
+>gi|1082896119|gb|OGC04757.1|Rubredoxin [candidate division WOR-1 bacterium RIFOXYA12_FULL_43_27] >gi|1082911464|gb|OGC19478.1| Rubredoxin [candidate division WOR-1 bacterium RIFOXYB2_FULL_46_45] >gi|1082922654|gb|OGC30466.1| Rubredoxin [candidate division WOR-1 bacterium RIFOXYA2_FULL_46_56] >gi|1082933789|gb|OGC41065.1| Rubredoxin [candidate division WOR-1 bacterium RIFOXYC2_FULL_46_14]
+MDKYVCKVCGYIYDPAAGDPDNGVKAGTSFADVPDSWVCPICGVGKDQFEQIK
+>gi|1084686800|gb|OGP33696.1|rubredoxin [Deltaproteobacteria bacterium GWC2_65_14]
+MNKWRCIVCAYVYDPAEGDPDNGVEPGTPFRSIPDDWVCPLCGAGKDEFEEITE
+>gi|1160018542|gb|OPL15343.1|rubredoxin [delta proteobacterium ML8_D]
+MAKYVCTVCGYIYDPEKGDPDGGIEPGTAFEDIPDDWVCPVCGAAKDQFER
+>gi|1123479775|ref|WP_074210035.1|rubredoxin [Peptoclostridium litorale] >gi|649360200|gb|KDR94196.1| hypothetical protein CLIT_23c04690 [Peptoclostridium litorale DSM 5388] >gi|1116018393|emb|SIN82137.1| Rubredoxin [Peptoclostridium litorale DSM 5388]
+MKKYVCLACGYVYDPEVGDPDSGVSPGTAFEDIPEDWLCPLCGVGKDMFKEEE
+>gi|1172359692|ref|WP_080742963.1|rubredoxin [Clostridium novyi]
+MQKYICDVCGYIYDPVVGDPDNGVAAGTSFEDIPDDWVCPLCGVGKDQFSKTE
+>gi|851301370|ref|WP_048164681.1|rubredoxin [Palaeococcus pacificus] >gi|664800853|gb|AIF69086.1| rubredoxin [Palaeococcus pacificus DY20341]
+MAKWKCIVCGYIYDEEAGDPDNGVNPGTKFEDIPDDWVCPLCGAPKDMFEKMEE
+>gi|1181051611|ref|WP_084460283.1|rubredoxin [Aminiphilus circumscriptus]
+MKKYICTVCGYVYDPANGDPDSGIAPGTAFEDIPEDWVCPVCGVAKDMFEPAE
+>gi|494609271|ref|WP_007367517.1|rubredoxin [Prevotella multiformis] >gi|324986780|gb|EGC18776.1| rubredoxin [Prevotella multiformis DSM 16608]
+MKKYECETCGYIYDPEAGDPDSGIAPGTAFEDLPDDWVCPLCGVGKDDFKPVDE
+>gi|489610630|ref|WP_003515071.1|rubredoxin [Ruminiclostridium thermocellum] >gi|125714874|gb|ABN53366.1| Rubredoxin-type Fe(Cys)4 protein [Ruminiclostridium thermocellum ATCC 27405] >gi|255991906|gb|EEU02004.1| Rubredoxin-type Fe(Cys)4 protein [Ruminiclostridium thermocellum DSM 2360] >gi|281406753|gb|EFB37022.1| Rubredoxin-type Fe(Cys)4 protein [Ruminiclostridium thermocellum JW20] >gi|316941769|gb|ADU75803.1| Rubredoxin-type Fe(Cys)4 protein [Ruminiclostridium thermocellum DSM 1313] >gi|380769750|gb|EIC03650.1| Rubredoxin-type Fe(Cys)4 protein [Ruminiclostridium thermocellum YS] >gi|551233659|emb|CDG36682.1| hypothetical protein CTHBC1_2079 [Ruminiclostridium thermocellum BC1] >gi|973200618|gb|ALX09835.1| Rubredoxin domain containing protein [Ruminiclostridium thermocellum AD2] >gi|1046314021|gb|ANV77609.1| Rubredoxin domain containing protein [Ruminiclostridium thermocellum DSM 2360]
+MEKYVCTACGYIYDPEKGDPDGGIAPGTAFEDIPDDWVCPICGVGKDMFEK
+>gi|1088536501|gb|OHD65312.1|Rubredoxin [Spirochaetes bacterium RBG_13_51_14]
+MKKYICSVCGYIYDPAAGDPDSGIKPGTAFKDLPDDWTCPQCGVAKDQFEPYED
+>gi|1176575270|ref|WP_082402260.1|rubredoxin [Anaeromassilibacillus sp. Marseille-P3371]
+MKKYVCTACGYVYDPAVGDPDSGIQPGTAFEDIPDDWVCPLCGVGKDMFE
+>gi|492848832|ref|WP_006002786.1|rubredoxin [Desulfuromonas acetoxidans] >gi|95132728|gb|EAT14406.1| Rubredoxin-type Fe(Cys)4 protein [Desulfuromonas acetoxidans DSM 684]
+MEKYVCTACGYVYDPAEGDPDSGIDPGTAFADIPDDWVCPVCGVSKDMFELVTE
+>gi|1167637183|ref|WP_080066461.1|rubredoxin [[Clostridium] hungatei] >gi|1162536897|gb|OPX42093.1| rubredoxin [[Clostridium] hungatei]
+MDKYVCTVCGYVYNPEDGDPDSGIAPGTAFEDIPEDWVCPLCGVDKSMFEK
+>gi|914738072|ref|WP_050698706.1|rubredoxin [Anaeromassilibacillus senegalensis]
+MKKYVCTACGYVYDPEVGDPDSGIQPGTAFEDIPDDWVCPLCGLGKDVFE
+>gi|503311928|ref|WP_013546589.1|rubredoxin [Bacteroides helcogenes] >gi|319415865|gb|ADV42976.1| Rubredoxin-type Fe(Cys)4 protein [Bacteroides helcogenes P 36-108]
+MEKYICTVCDYIYDPEKGDPDSGIDPGTAFEDIPEDWTCPLCGVGKEDFEKLEE
+>gi|500040542|ref|WP_011721260.1|MULTISPECIES: rubredoxin [Clostridium] >gi|118134774|gb|ABK61818.1| Rubredoxin [Clostridium novyi NT] >gi|658074054|gb|KEH87282.1| Rubredoxin [Clostridium novyi A str. NCTC 538] >gi|658076992|gb|KEH90157.1| Rubredoxin [Clostridium novyi A str. 4540] >gi|658077635|gb|KEH90774.1| Rubredoxin [Clostridium novyi A str. BKT29909] >gi|658079684|gb|KEH92695.1| Rubredoxin [Clostridium novyi A str. GD211209] >gi|658080332|gb|KEH93317.1| Rubredoxin [Clostridium botulinum C/D str. It1]
+MQKYICDVCGYIYDPAVGDPDNGVAPGTSFDDIPEDWLCPLCGVGKDQFSKTE
+>gi|545432664|ref|WP_021670706.1|rubredoxin [Prevotella sp. F0091] >gi|543971911|gb|ERJ77821.1| rubredoxin [Prevotella sp. F0091]
+MKKYECETCGYIYDPELGDPDSGIEPGTAFEDIPDDWVCPLCGVGKDDFKPVDE
+>gi|502626764|ref|WP_012863476.1|rubredoxin [Sebaldella termitidis] >gi|268616533|gb|ACZ10901.1| Rubredoxin-type Fe(Cys)4 protein [Sebaldella termitidis ATCC 33386]
+MKKWVCLVCGYVYDPEIGDPDSGIAPGTSFEDLPEDWVCPLCAVGKDQFEALD
+>gi|524295485|emb|CDA53482.1|rubredoxin [Prevotella sp. CAG:604]
+MKKYVCDVCGWVYDPEVGDPEGGIAPGTAFEDIPDDWVCPLCGVGKDEFSPVEE
+>gi|496300042|ref|WP_009010690.1|MULTISPECIES: rubredoxin [Prevotella] >gi|345044320|gb|EGW48361.1| rubredoxin [Prevotella sp. C561] >gi|1215984994|emb|SNR83984.1| Rubredoxin [Prevotella jejuni]
+MKKYECNTCGYIYDPEVGDPDSGIEPGTAFEDIPDDWVCPLCGVGKDDFSPVED
+>gi|547258945|ref|WP_021994018.1|rubredoxin [Prevotella sp. KHD1] >gi|524140059|emb|CCZ15164.1| rubredoxin [Prevotella sp. CAG:487] >gi|1124955269|gb|OKZ26348.1| rubredoxin [Prevotella sp. AG:487_50_53]
+MKKYVCETCGYVYDPEVGDPDSGIAPGTAFEDIPDDWVCPLCGVGKDDFSPVED
+>gi|746236974|ref|WP_039285513.1|MULTISPECIES: rubredoxin [Clostridium] >gi|658079992|gb|KEH92990.1| Rubredoxin [Clostridium botulinum C/D str. BKT12695]
+MQKYICDVCGYIYDPIVGDPDNGVAAGTSFEDIPDDWVCPLCGVGKDQFSKTE
+>gi|1199486940|ref|WP_087225057.1|rubredoxin [Lachnoclostridium sp. An14] >gi|1198734086|gb|OUQ13794.1| rubredoxin [Lachnoclostridium sp. An14]
+MKKYVCDVCGYIYDPEAGDPDNGVAAGTAWEDVPEDWVCPLCGVGKDQFSE
+>gi|504607259|ref|WP_014794361.1|rubredoxin [Desulfitobacterium dehalogenans] >gi|390525147|gb|AFM00878.1| rubredoxin [Desulfitobacterium dehalogenans ATCC 51507]
+MKKYVCSICQYVYDPEVGDPDSGVAPGTAFEDIPDDWVCPTCGVGKDQFEVYE
+>gi|647558627|ref|WP_025839407.1|rubredoxin [Prevotella scopos] >gi|1043184339|gb|ANR74071.1| rubredoxin [Prevotella scopos JCM 17725] >gi|1109863332|emb|SHG11067.1| Rubredoxin [Prevotella scopos JCM 17725]
+MKKYECETCGYIYDPEVGDPDSGIEPGTAFEDIPDDWVCPLCGVGKDDFKPVDE
+>gi|1120021598|ref|WP_072896084.1|rubredoxin [Clostridium fallax] >gi|1109760511|emb|SHE84702.1| Rubredoxin [Clostridium fallax]
+MKKYVCDVCGYIYDPELGDPDNGVEPGTAFENLPEDWVCPLCFVGKDEFSVVEE
+>gi|1057692051|ref|WP_068963812.1|rubredoxin [Desulfosporosinus sp. BG] >gi|1055959791|gb|ODA41301.1| Rubredoxin [Desulfosporosinus sp. BG]
+MKKYVCTACGYVYDPEVGDPDSGIAPGTAFEDIPDDWVCPLCGVSKSEFE
+>gi|504023048|ref|WP_014257042.1|rubredoxin [[Clostridium] clariflavum] >gi|359827772|gb|AEV70545.1| rubredoxin [ [[Clostridium] clariflavum DSM 19732]
+MEKYVCTVCGYIYDPAEGDPDGGIAPGTPFEDIPDDWVCPVCGVGKDMFEKA
+>gi|497310422|ref|WP_009624639.1|rubredoxin [Desulfosporosinus sp. OT] >gi|344324613|gb|EGW36162.1| rubredoxin [Desulfosporosinus sp. OT]
+MKKYVCTACGYVYDPEVGDPDSGIAPGTAFEDIPDDWVCPLCGVSKSEFE
+>gi|1223421824|ref|WP_091459727.1|rubredoxin [Acetomicrobium thermoterrenum]
+MMKYVCTVCGYVYDPAQGDPDSGISPGTAFDDLPDDWVCPVCGVGKDMFEPAE
+>gi|524601302|emb|CDD17183.1|rubredoxin [Prevotella sp. CAG:732]
+MKKYVCDVCGWVYDPAVGDPDGGIAPGTAFEDIPDDWVCPLCGVGKDEFSPVEE
+>gi|490203880|ref|WP_004102330.1|rubredoxin [Thermosipho africanus] >gi|217037502|gb|ACJ76024.1| rubredoxin [Thermosipho africanus TCF52B] >gi|407514668|gb|EKF49476.1| rubredoxin [Thermosipho africanus H17ap60334]
+MKRYVCTVCGYVYDPEVGDPDNGIEPGTPFEELPEDWVCPVCGVPKDQFEE
+>gi|1079299303|ref|WP_070110158.1|rubredoxin [Synergistes jonesii]
+MKKYVCTVCGYVYDPEIGDPDNGIAPGTAFEDIPEGWVCPVCGVGKDMFE
+>gi|1079270788|ref|WP_070099169.1|rubredoxin [Clostridium baratii] >gi|728872332|gb|AIY82993.1| rubredoxin [Clostridium baratii str. Sullivan] >gi|932948918|emb|CUQ05708.1| rubredoxin [Clostridium baratii] >gi|932969627|emb|CUP30151.1| rubredoxin [Clostridium baratii] >gi|1143700625|gb|AQM60606.1| rubredoxin [Clostridium baratii] >gi|1158999917|gb|OPF52665.1| Rubredoxin [Clostridium baratii] >gi|1159003505|gb|OPF56114.1| Rubredoxin [Clostridium baratii] >gi|1159005734|gb|OPF58291.1| Rubredoxin [Clostridium baratii] >gi|1159007013|gb|OPF59504.1| Rubredoxin [Clostridium baratii]
+MQKYICDVCGYIYDPEVGDPDNGVAAGTSFADVPEDWVCPLCGVGKDQFSVTE
+>gi|757125465|ref|WP_042679826.1|rubredoxin [Thermococcus paralvinellae] >gi|573024286|gb|AHF79820.1| Rubredoxin [Thermococcus paralvinellae]
+MAKWKCIVCGYIYDEEEGDPDNGIAPGTKFEDLPDDWVCPLCGAGKDMFEKIE
+>gi|496413334|ref|WP_009122198.1|rubredoxin [Bacteroides clarus] >gi|328524009|gb|EGF51085.1| rubredoxin [Bacteroides clarus YIT 12056] >gi|1109973636|emb|SHG99176.1| Rubredoxin [Bacteroides clarus YIT 12056] >gi|1124929235|gb|OKZ01038.1| rubredoxin [Bacteroides sp. 44_46] >gi|1198516248|gb|OUO02584.1| rubredoxin [Bacteroides clarus] >gi|1198653827|gb|OUP35807.1| rubredoxin [Bacteroides clarus]
+MEKYICTICEYVYDPELGDPENGIEPGTSFEDLPDDWVCPLCGVGKDEFEKA
+>gi|1111741151|gb|OJJ27562.1|rubredoxin [Roseofilum reptotaenium AO1-A]
+MKKYVCTVCAYVYDPEEGDPDSGIKPGTAFEDIPDDWVCPVCGVGKEDFE
+>gi|490503034|ref|WP_004369123.1|rubredoxin [Prevotella oralis] >gi|323095484|gb|EFZ38058.1| rubredoxin [Prevotella oralis ATCC 33269] >gi|514221163|gb|EPH16421.1| rubredoxin [Prevotella oralis HGA0225] >gi|1109772109|emb|SHF39643.1| Rubredoxin [Prevotella oralis]
+MKKYVCETCGYIYDPEVGDPDGGIAPGTAFEDIPDDWVCPLCGVGKDDFSPVDE
+>gi|503376830|ref|WP_013611491.1|rubredoxin [Odoribacter splanchnicus] >gi|324311719|gb|ADY32272.1| Rubredoxin-type Fe(Cys)4 protein [Odoribacter splanchnicus DSM 20712] >gi|524351494|emb|CDB09129.1| rubredoxin [Odoribacter splanchnicus CAG:14] >gi|1124970059|gb|OKZ40109.1| rubredoxin [Odoribacter sp. 43_10] >gi|1198511512|gb|OUN97961.1| rubredoxin [Odoribacter splanchnicus] >gi|1198528927|gb|OUO14955.1| rubredoxin [Odoribacter splanchnicus] >gi|1231720460|emb|SNV31485.1| rubredoxin [Odoribacter splanchnicus]
+MKKYICTVCDYVYDPVQGDPDAGIEPGTAFEDLPDDWVCPLCGVGKDEFEPYEE
+>gi|836660557|ref|WP_047808577.1|MULTISPECIES: rubredoxin [Desulfosporosinus] >gi|835418370|gb|KLU67434.1| rubredoxin [Desulfosporosinus acididurans]
+MKKYQCTVCGYVYDPALGDPDSGIAPGTSFEDIPEDWVCPTCGVSKDQFEPVD
+>gi|1130895507|ref|WP_075665548.1|MULTISPECIES: rubredoxin [Thermosipho] >gi|1042793032|gb|ANQ53452.1| rubredoxin [Thermosipho sp. 1070] >gi|1042793701|gb|ANQ54121.1| rubredoxin [Thermosipho sp. 1070] >gi|1129885856|gb|APT71901.1| Rubredoxin [Thermosipho sp. 1063] >gi|1129886521|gb|APT72566.1| Rubredoxin [Thermosipho sp. 1063]
+MKRYVCSVCGYVYDPEVGDPDNGVEPGTPFEKLPEDWVCPVCGVGKDQFE
+>gi|506349737|ref|WP_015869456.1|MULTISPECIES: rubredoxin [Kosmotoga] >gi|239507328|gb|ACR80815.1| Rubredoxin-type Fe(Cys)4 protein [Kosmotoga olearia TBF 19.5.1] >gi|1025631189|gb|OAA19254.1| rubredoxin [Kosmotoga sp. DU53]
+MKKYRCLICGYIYDPETGDPDNGVEPGTPFEEIPEDWVCPLCGAGKDDFEPVD
+>gi|544868677|ref|WP_021282192.1|rubredoxin [Clostridium sp. BL8] >gi|530691368|gb|EQB89354.1| rubredoxin [Clostridium sp. BL8]
+MKKYVCVVCGYVYDPELGDPDNGVEPGTAWDNVPEEWVCPLCGVGKDQFEE
+>gi|1224044906|ref|WP_092074792.1|rubredoxin [Dendrosporobacter quercicolus] >gi|1086582089|emb|SDN13719.1| Rubredoxin [Dendrosporobacter quercicolus]
+MEKWTCVVCGYVYDEEAGDPDSGIAPGTKFEDIPEDWVCPVCGVGKDQFEKTE
+>gi|822627233|ref|WP_047001253.1|rubredoxin [Clostridium sp. C8] >gi|822569575|gb|KLE15532.1| rubredoxin [Clostridium sp. C8]
+MKSFICDVCGYIYDPEVGDPDNGVEPGTAFADVPEDWLCPLCGVGKDEFSEVD
+>gi|941134859|ref|WP_055070062.1|rubredoxin [Clostridium sp. ND2]
+MKKFICDVCGYIYDPAVGDPDNGVEPGTEFNDIPEDWVCPLCGVDKAQFSEVE
+>gi|1181139316|ref|WP_084488405.1|rubredoxin [Bacteroides paurosaccharolyticus]
+MKKYVCTVCGWVYDPEVGDPEGGILPGTAFEDIPDDWVCPLCGVGKEDFEEQE
+>gi|763304612|ref|WP_044164647.1|rubredoxin [Bacteroides reticulotermitis] >gi|576500516|dbj|GAE85483.1| rubredoxin [Bacteroides reticulotermitis JCM 10512]
+MKKYICTVCEYIYDPELGDPDSGIDPGTAFEDIPEDWVCPLCGVGKDDFEPYED
+>gi|1054994598|ref|WP_066747226.1|rubredoxin [Cloacibacillus porcorum] >gi|1050318239|gb|ANZ45958.1| rubredoxin [Cloacibacillus porcorum]
+MKKYVCTVCGYVYDPEVGDPDSGIAPGTAFEDIPDGWVCPVCGVGKDMFE
+>gi|493767077|ref|WP_006715652.1|rubredoxin [Desulfitobacterium metallireducens] >gi|570735648|gb|AHF06679.1| rubredoxin [Desulfitobacterium metallireducens DSM 15288]
+MKKYVCSVCGYVYDPEIGDPDSGVAPGTAFENIPDDWACPECGVGKDSFEVSEE
+>gi|524622176|emb|CDD44398.1|rubredoxin [Clostridium sp. CAG:299]
+MKKYICDVCGYIYDPAEGDPDNGVAAGTSFEDIPEDWLCPLCGVGKDQFSVQE
+>gi|517959226|ref|WP_019129434.1|rubredoxin [Alistipes obesi]
+MKKYRCTVCEWIYDPAVGDPDGGIAAGTAFEDIPEDWVCPLCGVGKDQFEPVEE
+>gi|493797091|ref|WP_006745087.1|rubredoxin [Bacteroides coprosuis] >gi|332741449|gb|EGJ71931.1| Rubredoxin-type Fe(Cys)4 protein [Bacteroides coprosuis DSM 18011]
+MKKYVCTVCGYVYDPAEGDPDNGIKPGTAFEDLPDDWVCPECGVGKEDFEPSED
+>gi|1219306401|ref|WP_089322643.1|rubredoxin [Desulfurobacterium atlanticum] >gi|1215961068|emb|SNR69633.1| Rubredoxin [Desulfurobacterium atlanticum]
+MKKYRCTVCGYIYDPAKGDPASGIDPGTPFESIPDDWVCPVCGVGKEHFEPIKE
+>gi|652446910|ref|WP_026841888.1|rubredoxin [Geobacter bremensis]
+MKKYRCTVCGYIYNPETGDIDSGVQPGTAFEDIPEDWVCPLCGAEKSLFEEM
+>gi|565961359|ref|WP_023984153.1|MULTISPECIES: rubredoxin [Prevotella] >gi|564718602|gb|ETD18664.1| rubredoxin [Prevotella oralis CC98A]
+MKKYVCDTCGYIYDPEVGDPDGGIAPGTAFEDIPDDWVCPLCGVGKDDFSPVDE
+>gi|746191065|ref|WP_039249229.1|rubredoxin [Clostridium novyi] >gi|699763611|gb|KGN02640.1| Rubredoxin [Clostridium novyi A str. 4570]
+MQKYICDVCGYIYDPAVGDPDNGVAAGTSFDDIPDDWLCPLCGVGKDQFSKTE
+>gi|493344412|ref|WP_006301219.1|rubredoxin [Aminomonas paucivorans] >gi|310783603|gb|EFQ24001.1| Rubredoxin-type Fe(Cys)4 protein [Aminomonas paucivorans DSM 12260]
+MKKYVCTVCGYVYDPANGDPDSGIAPGTPFEEIPDDWVCPVCGVAKDMFEVTE
+>gi|740458621|ref|WP_038290204.1|MULTISPECIES: rubredoxin [Clostridiales] >gi|575087696|dbj|GAE89749.1| rubredoxin [[Clostridium] straminisolvens JCM 21531] >gi|1061073729|gb|ODM27007.1| rubredoxin [Clostridium sp. Bc-iso-3]
+MEKYVCTACGYIYDPAEGDPDGGIAPGTAFEDIPDDWVCPICGVGKDMFEK
+>gi|1175271476|ref|WP_081819271.1|rubredoxin [Prevotella sp. HUN102]
+MKKYECETCGYVYDPEVGDPDGGVAPGTAFEDIPDDWVCPLCGVGKDDFVVVEE
+>gi|517498779|ref|WP_018669356.1|rubredoxin [Bacteroides gallinarum]
+MEKYICTICEYVYDPEQGDPENGIEPGTAFEDLPDDWVCPLCGVGKEEFEKA
+>gi|1097752138|emb|SFR83521.1|Rubredoxin [[Clostridium] populeti]
+MKKYVCTVCGYEYDPEAGDPDSGIAAGTAFEDIPEDWVCPVCGVGKDQFE
+>gi|490952489|ref|WP_004814307.1|MULTISPECIES: rubredoxin [Anaerococcus] >gi|212676356|gb|EEB35963.1| rubredoxin [Anaerococcus hydrogenalis DSM 7454] >gi|256399773|gb|EEU13377.1| rubredoxin [Anaerococcus vaginalis ATCC 51170] >gi|1080171689|gb|OFJ69151.1| Rubredoxin [Anaerococcus sp. HMSC065G05] >gi|1080325548|gb|OFL15506.1| Rubredoxin [Anaerococcus sp. HMSC068A02] >gi|1080671644|gb|OFO44401.1| Rubredoxin [Anaerococcus sp. HMSC075B03]
+KYVCTACGYIYDPANGDPDNGIDAGTEFKDLPEDWVCPVCGVGKDMFEEQE
+>gi|547332338|ref|WP_022062991.1|MULTISPECIES: rubredoxin [Rikenellaceae] >gi|524232927|emb|CCZ99023.1| rubredoxin [Alistipes sp. CAG:157] >gi|1124911554|gb|OKY84555.1| rubredoxin [Alistipes sp. 56_11]
+MKKYICNVCGYIYDPAAGDPDSGVAPGTAFEDIPEDWVCPLCGVGKEDFSPVED
+>gi|515983128|ref|WP_017413711.1|rubredoxin [Clostridium tunisiense]
+MKKYVCVVCGYVYDPELGDPDNGVDAGTSWENVPEEWVCPLCGVGKDQFEE
+>gi|1062531070|ref|WP_069292703.1|rubredoxin [Fervidobacterium thailandensis] >gi|1061806459|gb|ODN30866.1| rubredoxin [Fervidobacterium thailandensis]
+KYRCTVCGYIYDPEVGDPDNGINPGTPFENLPDDWTCPVCGVSKDMFEPLEE
+>gi|1175405908|ref|WP_081953695.1|rubredoxin [Prevotella timonensis]
+MKKYVCETCGYVYDPEQGDPDSGIEPGTAFEDLPEDWVCPLCGVGKEDFSVVEE
+>gi|503151841|ref|WP_013386502.1|rubredoxin [Ilyobacter polytropus] >gi|309747168|gb|ADO81830.1| Rubredoxin-type Fe(Cys)4 protein [Ilyobacter polytropus DSM 2926] >gi|309747169|gb|ADO81831.1| Rubredoxin-type Fe(Cys)4 protein [Ilyobacter polytropus DSM 2926]
+MEKWVCVVCGYVYDPEVGDPDSGVEPGTKFEDIPEEWVCPLCGVGKDQFEKA
+>gi|1180244414|ref|WP_083763219.1|rubredoxin [Kosmotoga olearia]
+KKYRCKVCGYIYDPKNGDPDSGVAPGTPFEELPDNWVCPVCGVGKDKFEEVR
+>gi|1180811130|ref|WP_084284826.1|rubredoxin [Clostridium lundense]
+MDKYVCNVCGYIYDPAEGDPDNGVKPGTSFENIPDNWVCPICGVGKSEFEKVK
+>gi|640236768|ref|WP_024832550.1|rubredoxin [[Clostridium] josui]
+MDKYVCTVCGYVYDPEEGDPDGGIAPGTAFEDIPEDWVCPVCGVGKDMFEK
+>gi|490483149|ref|WP_004353445.1|rubredoxin [Prevotella denticola] >gi|325483233|gb|EGC86210.1| rubredoxin [Prevotella denticola CRIS 18C-A] >gi|326944588|gb|AEA20473.1| rubredoxin [Prevotella denticola F0289] >gi|690796273|gb|KGF42258.1| rubredoxin [Prevotella denticola DNF00960]
+MKKYECETCGYIYDPEVGDPDGGIEPGTAFEDIPDDWVCPLCGVGKDDFKPVDE
+>gi|503991581|ref|WP_014225575.1|rubredoxin [Tannerella forsythia] >gi|363407914|gb|AEW21600.1| rubredoxin [Tannerella forsythia 92A2] >gi|806918542|dbj|BAR49546.1| rubredoxin [Tannerella forsythia 3313] >gi|806921280|dbj|BAR52283.1| rubredoxin [Tannerella forsythia KS16] >gi|821155766|gb|KKY60280.1| rubredoxin [Tannerella forsythia] >gi|1072720511|emb|SCQ22098.1| Rubredoxin [Tannerella forsythia] >gi|1072723324|emb|SCQ23125.1| Rubredoxin [Tannerella forsythia] >gi|1072725992|emb|SCQ24325.1| Rubredoxin [Tannerella forsythia] >gi|1129274486|gb|OLQ19864.1| rubredoxin [Tannerella forsythia]
+MKKYRCIVCDYIYDPVEGDPDGGIDPGTAFEDIPDDWVCPLCGVGKDDFEPVE
+>gi|983365419|ref|WP_060544564.1|rubredoxin [Prevotella enoeca]
+MKKYICETCGYIYDPAVGDPDSGIEPGTAFEDIPEDWVCPLCGVGKDDFSVVEE
+>gi|506400620|ref|WP_015920339.1|MULTISPECIES: rubredoxin [Thermotoga] >gi|221573291|gb|ACM24103.1| Rubredoxin-type Fe(Cys)4 protein [Thermotoga neapolitana DSM 4359] >gi|682466616|gb|KFZ20892.1| Rubredoxin-type Fe(Cys)4 protein [Thermotoga neapolitana LA10] >gi|752579612|gb|AJG40125.1| rubredoxin [Thermotoga sp. RQ7]
+MKKYRCTLCGYIYDPEKGDPDSGIEPGTPFEELPDDWVCPLCGASKEDFEPVE
+>gi|1184143358|ref|WP_085058946.1|rubredoxin [Clostridium tetanomorphum] >gi|618854471|gb|KAJ53663.1| flavin reductase domain-containing FMN-binding protein [Clostridium tetanomorphum DSM 665]
+MDKYVCNVCGYIYDPAQGDPDNGVKPGTAFEQIPDNWVCPLCGVGKSEFEKVK
+>gi|239505342|gb|ACR78829.1|Rubredoxin-type Fe(Cys)4 protein [Kosmotoga olearia TBF 19.5.1]
+KKYRCKVCGYIYDPKNGDPDSGVAPGTPFEELPDNWVCPVCGVGKDKFEEVR
+>gi|649531012|gb|KDS38410.1|rubredoxin domain protein [Bacteroides vulgatus str. 3775 SR(B) 19] >gi|941510625|gb|ALK84160.1| Rubredoxin [Bacteroides vulgatus]
+MKKYVCTVCGWVYDPAEGDPEGGIAPGTAFEDIPDDWVCPLCGVGKDDFEVQED
+>gi|1199492976|ref|WP_087230914.1|rubredoxin [Anaeromassilibacillus sp. An250] >gi|1198591361|gb|OUO75483.1| rubredoxin [Anaeromassilibacillus sp. An250]
+MKKYVCTACGYVYDPAVGDPDSGIQPGTAFEDIPEDWVCPLCGVGKDMFE
+>gi|504638402|ref|WP_014825504.1|rubredoxin [Desulfosporosinus acidiphilus] >gi|391353792|gb|AFM39491.1| rubredoxin [Desulfosporosinus acidiphilus SJ4]
+MKKYQCSVCGYVYDPALGDPDSGIAPGTAFEDIPDDWVCPTCGVAKDQFE
+>gi|492442938|ref|WP_005845392.1|MULTISPECIES: rubredoxin [Bacteroides] >gi|149932419|gb|ABR39117.1| putative rubredoxin [Bacteroides vulgatus ATCC 8482] >gi|212664635|gb|EEB25207.1| rubredoxin [Bacteroides dorei DSM 17855] >gi|229436612|gb|EEO46689.1| rubredoxin [Bacteroides dorei 5_1_36/D4] >gi|229456587|gb|EEO62308.1| rubredoxin [Bacteroides sp. 9_1_42FAA] >gi|263234854|gb|EEZ20422.1| rubredoxin [Bacteroides sp. 3_1_33FAA] >gi|294448090|gb|EFG16656.1| rubredoxin [Bacteroides vulgatus PC510] >gi|317388585|gb|EFV69434.1| rubredoxin [Bacteroides sp. 3_1_40A] >gi|345457286|gb|EET13860.2| rubredoxin [Bacteroides sp. 4_3_47FAA] >gi|392631703|gb|EIY25672.1| rubredoxin [Bacteroides dorei CL02T00C15] >gi|392643138|gb|EIY36896.1| rubredoxin [Bacteroides dorei CL03T12C01] >gi|392643425|gb|EIY37175.1| rubredoxin [Bacteroides dorei CL02T12C06] >gi|392686891|gb|EIY80190.1| rubredoxin [Bacteroides vulgatus CL09T03C04] >gi|507738204|gb|EOR97339.1| rubredoxin [Bacteroides vulgatus dnLKV7] >gi|507755856|gb|EOS14749.1| rubredoxin [Bacteroides sartorii] >gi|524825494|emb|CDF18019.1| rubredoxin [Bacteroides vulgatus CAG:6] >gi|649525661|gb|KDS33241.1| rubredoxin [Bacteroides vulgatus str. 3775 SL(B) 10 (iv)] >gi|649550283|gb|KDS56920.1| rubredoxin [Bacteroides vulgatus str. 3975 RP4] >gi|671709754|gb|AII62027.1| Rubredoxin [Bacteroides dorei] >gi|671714696|gb|AII66968.1| Rubredoxin [Bacteroides dorei] >gi|922841964|gb|ALA76004.1| Rubredoxin [Bacteroides dorei] >gi|924424963|gb|ALB76208.1| rubredoxin [uncultured bacterium 35i19] >gi|933248819|emb|CUQ48167.1| rubredoxin [Bacteroides vulgatus] >gi|933260297|emb|CUO29722.1| rubredoxin [Bacteroides vulgatus] >gi|933280964|emb|CUO85262.1| rubredoxin [Bacteroides vulgatus] >gi|1026630560|gb|AND21766.1| Rubredoxin [Bacteroides dorei CL03T12C01] >gi|1094812529|emb|SEL26382.1| Rubredoxin [Bacteroides vulgatus] >gi|1124976390|gb|OKZ46034.1| rubredoxin [Bacteroides vulgatus] >gi|1198521706|gb|OUO07935.1| rubredoxin [Bacteroides dorei] >gi|1198714242|gb|OUP94617.1| rubredoxin [Bacteroides dorei]
+MKKYVCTVCGWVYDPAEGDPEGGIAPGTAFEDIPDDWVCPLCGVGKDDFEVQED
+>gi|547913287|ref|WP_022316159.1|MULTISPECIES: rubredoxin [Prevotella] >gi|524581828|emb|CDD06278.1| rubredoxin [Prevotella sp. CAG:592] >gi|755246250|gb|KIP54378.1| Rubredoxin [Prevotella sp. P5-60] >gi|755247306|gb|KIP55379.1| Rubredoxin [Prevotella sp. P4-76] >gi|755251463|gb|KIP59344.1| Rubredoxin [Prevotella sp. P4-65] >gi|755252563|gb|KIP60393.1| Rubredoxin [Prevotella sp. P5-119] >gi|755256246|gb|KIP63934.1| Rubredoxin [Prevotella sp. P5-125]
+MKKYVCDVCGYVYDPAVGDPDNGIAPGTAFEDLPADWACPLCGVGKDEFSETE
+>gi|505356881|ref|WP_015543983.1|MULTISPECIES: rubredoxin [Clostridiales] >gi|295092821|emb|CBK78928.1| Rubredoxin [ [[Clostridium] cf. saccharolyticum K10] >gi|295114636|emb|CBL35483.1| Rubredoxin [butyrate-producing bacterium SM4/1] >gi|524108564|emb|CCY81091.1| rubredoxin [Clostridium sp. CAG:149] >gi|1198706234|gb|OUP86795.1| rubredoxin [[Clostridium] saccharolyticum]
+MKKYVCDVCGYIYDPAEGDPDNGVAAGTAFEDIPESWVCPLCGVGKDQF-SVEE
+>gi|158439960|gb|EDP17708.1|hypothetical protein CLOBOL_01948 [ [[Clostridium] bolteae ATCC BAA-613]
+MKKYVCDPCGWIYDPEVGDPDGGIEPGTAFEDIPDDWVCPLCGVGKDMFSVVEE
+>gi|557312993|ref|WP_023388537.1|rubredoxin [Youngiibacter fragilis] >gi|564135926|gb|ETA82093.1| rubredoxin [Youngiibacter fragilis 232.1]
+MKSYVCTVCGYVYDPAVGDEENGVAPGTSFDDLPADWVCPLCGVGKDQFEE
+>gi|1104314626|ref|WP_071704845.1|rubredoxin [Murdochiella sp. Marseille-P2341]
+MKKYECTACGHIYDPAIGDPENGIKPGTAFEDLPEDWVCPVCGVGKDEFEPVNE
+>gi|1222675387|ref|WP_090722301.1|High molecular weight rubredoxin [Atribacteria bacterium JGI 0000014-F07]
+MKKFKCTVCGYVYDPEKGDPESGITPGTSFEELPDDWECPICGVGKDEFEEMK
+>gi|524257628|emb|CDA22255.1|rubredoxin [Bacteroides sp. CAG:144]
+MKKYKCSVCEWIYDPAIGDPDGGIAPGTAFEDIPEDWVCPLCGVGKDMFEVVEE
+>gi|516798367|ref|WP_018106636.1|MULTISPECIES: rubredoxin [Porphyromonas] >gi|1080975272|gb|OFR33269.1| Rubredoxin [Porphyromonas sp. HMSC065F10]
+MKKYECTVCGWVYDPEVGDPDGGIEPGTAFEDIPEDWVCPLCGATKDDFELVEE
+>gi|1088509183|gb|OHD39321.1|rubredoxin [Spirochaetes bacterium GWE1_32_154] >gi|1088517091|gb|OHD46934.1| rubredoxin [Spirochaetes bacterium GWF1_31_7] >gi|1088518946|gb|OHD48712.1| rubredoxin [Spirochaetes bacterium GWE2_31_10] >gi|1088555762|gb|OHD82599.1| rubredoxin [Spirochaetes bacterium RIFOXYB1_FULL_32_8]
+MKKYVCIACGYVYDPEAGDPDSGIAPGTAFEDIPDDWTCPLCGVGKSEFE
+>gi|518688996|ref|WP_019850689.1|rubredoxin [Desulfitobacterium sp. PCE1]
+MKKYVCSICQYVYDPEVGDPDSGVAPGTAFEDIPEDWVCPTCGVGKDQFEVYE
+>gi|1208966106|ref|WP_088228207.1|rubredoxin [Desulfosporosinus sp. FKB]
+MKKYQCTVCGYVYDPALGDPDSGIAPGTPFEDIPEDWVCPTCGVSKDQFEPVD
+>gi|1122358256|ref|WP_074042300.1|rubredoxin [Desnuesiella massiliensis]
+MQKYICVVCGYVYDPEIGDEDNGVAPGTAFENIPEDWLCPLCGVGKDQFEPTE
+>gi|1175236673|ref|WP_081784468.1|rubredoxin [Prevotella fusca]
+MKKYECETCGYIYDPEIGDPDSGIEPGTAFEDIPEDWVCPLCGVGKDDFKLVDE
+>gi|291073951|gb|EFE11315.1|rubredoxin [Clostridium sp. M62/1]
+MKKYVCDVCGYIYDPAEGDPDNGVAAGTAFEDIPESWVCPLCGVGKDQF-SVEE
+>gi|392682774|gb|EIY76116.1|rubredoxin [Bacteroides uniformis CL03T12C37] >gi|392683416|gb|EIY76751.1| rubredoxin [Bacteroides uniformis CL03T00C23] >gi|933193597|emb|CUO92350.1| Rubredoxin-type Fe(Cys)4 protein [Bacteroides uniformis]
+MEKYICTVCDYVYDPELGDPENGIEPGTSFEDLPEDWVCPLCGVGKEEFEKA
+>gi|506406979|ref|WP_015926698.1|rubredoxin [[Clostridium] cellulolyticum] >gi|220001045|gb|ACL77646.1| Rubredoxin-type Fe(Cys)4 protein [[Clostridium] cellulolyticum H10]
+MDKYVCTVCSYVYDPEEGDPDGGIAPGTAFEDIPEDWVCPLCGVGKDMFEK
+>gi|496519758|ref|WP_009228041.1|rubredoxin [Prevotella sp. oral taxon 299] >gi|288332680|gb|EFC71160.1| rubredoxin (plasmid) [Prevotella sp. oral taxon 299 str. F0039]
+MAKYVCDVCGWIYDPAVGDPDSGIEPGTAFEDIPDDWVCPLCGVGKDDFSLVEE
+>gi|496306439|ref|WP_009015617.1|MULTISPECIES: rubredoxin [Acidaminococcus] >gi|226904880|gb|EEH90798.1| rubredoxin [Acidaminococcus sp. D21] >gi|350278161|gb|AEQ21351.1| rubredoxin [Acidaminococcus intestini RyC-MR95] >gi|512072773|gb|EPD72049.1| rubredoxin [Acidaminococcus sp. HPA0509] >gi|524447839|emb|CDB95318.1| rubredoxin [Acidaminococcus intestini CAG:325] >gi|544360215|gb|ERL18565.1| rubredoxin [Acidaminococcus sp. BV3L6]
+MKKYVCQVCGYVYDEAAGDPDRGIAPGTKFEDLPDDWTCPLCGVGKDQFEE
+>gi|495839104|ref|WP_008563683.1|rubredoxin [Prevotella maculosa] >gi|371956873|gb|EHO74650.1| rubredoxin [Prevotella maculosa OT 289]
+MKKYVCDVCGYIYDPAVGDPDGGIAPGTAFEDIPDDWVCPTCGVTKDDFSEVEE
+>gi|295112104|emb|CBL28854.1|Rubredoxin [Fretibacterium fastidiosum]
+MKKYVCKVCGYVYDPEAGDPDNGVAPGTAFEDLPEGWVCPLCAVGKDEFE
+>gi|496453609|ref|WP_009162454.1|rubredoxin [Prevotella saccharolytica] >gi|429157991|gb|EKY00559.1| rubredoxin [Prevotella saccharolytica F0055]
+MKKYLCETCGYIYDPAVGDPDGGIAPGTAFEDIPDDWVCPICGVGKDDFSVVEE
+>gi|488627968|ref|WP_002564668.1|rubredoxin [[Clostridium] bolteae] >gi|480694993|gb|ENZ37795.1| rubredoxin [ [[Clostridium] bolteae 90B8] >gi|480713211|gb|ENZ55554.1| rubredoxin [ [[Clostridium] bolteae 90A5] >gi|480775351|gb|ENZ73898.1| rubredoxin [ [[Clostridium] bolteae 90B7] >gi|891177008|gb|KMW08272.1| rubredoxin [[Clostridium] bolteae WAL-14578] >gi|1220399611|gb|ASN96262.1| rubredoxin [[Clostridium] bolteae]
+MKKYVCDPCGWIYDPEVGDPDGGIEPGTAFEDIPDDWVCPLCGVGKDMFSVVEE
+>gi|1110678364|ref|WP_071906875.1|rubredoxin [Methanobacterium congolense] >gi|1063151078|emb|SCG85746.1| Rubredoxin [Methanobacterium congolense]
+MKKYICTACGYVYDPEEGDPNADIEPGTAFEDLPDDWVCPLCGVGKEMFNELE
+>gi|1110678320|ref|WP_071906831.1|rubredoxin [Methanobacterium congolense] >gi|1063151031|emb|SCG85699.1| Rubredoxin [Methanobacterium congolense]
+MKRYVCLVCDYIYDPEEGDPVGGIEPGTSFEDLPDEWLCPICGVGKDQFEEV
+>gi|1054785717|ref|WP_066549112.1|rubredoxin [Clostridium sp. AT4]
+MKKYVCDPCGYIYDPELGDPDSGIAPGTAFEDIPEDWVCPICGVGKDLFSVVEE
+>gi|490182499|ref|WP_004081114.1|MULTISPECIES: rubredoxin [Thermotoga] >gi|15643424|ref|NP_228468.1| rubredoxin [Thermotoga maritima MSB8] >gi|4981182|gb|AAD35743.1|AE001739_6 rubredoxin [Thermotoga maritima MSB8] >gi|147734961|gb|ABQ46301.1| Rubredoxin-type Fe(Cys)4 protein [Thermotoga petrophila RKU-1] >gi|170175577|gb|ACB08629.1| Rubredoxin-type Fe(Cys)4 protein [Thermotoga sp. RQ2] >gi|281372989|gb|ADA66551.1| Rubredoxin-type Fe(Cys)4 protein [Thermotoga naphthophila RKU-10] >gi|498539823|gb|AGL49584.1| Rubredoxin [Thermotoga maritima MSB8] >gi|568242866|gb|AHD17587.1| rubredoxin [Thermotoga maritima MSB8] >gi|723258860|gb|KHC90328.1| Rubredoxin-type Fe(Cys)4 protein [Thermotoga sp. Mc24] >gi|723261115|gb|KHC92566.1| Rubredoxin-type Fe(Cys)4 protein [Thermotoga sp. TBGT1765] >gi|723262094|gb|KHC93537.1| Rubredoxin-type Fe(Cys)4 protein [Thermotoga sp. TBGT1766] >gi|723265007|gb|KHC96420.1| Rubredoxin-type Fe(Cys)4 protein [Thermotoga sp. Xyl54] >gi|728866456|gb|AIY87635.1| Rubredoxin-type Fe(Cys)4 protein [Thermotoga sp. Cell2] >gi|811629980|gb|AKE26579.1| rubredoxin [Thermotoga maritima] >gi|811639968|gb|AKE28444.1| rubredoxin [Thermotoga maritima MSB8] >gi|811641908|gb|AKE30317.1| rubredoxin [Thermotoga maritima] >gi|973049150|gb|KUK23337.1| Rubredoxin [Thermotoga naphthophila] >gi|973061292|gb|KUK33372.1| Rubredoxin [Thermotoga sp. 47_83]
+MKKYRCKLCGYIYDPEQGDPDSGIEPGTPFEDLPDDWVCPLCGASKEDFEPVE
+>gi|490506558|ref|WP_004372607.1|MULTISPECIES: rubredoxin [Prevotella] >gi|281401622|gb|EFB32453.1| rubredoxin [Prevotella oris F0302] >gi|1080700260|gb|OFO71557.1| Rubredoxin [Prevotella sp. HMSC077E08] >gi|1080760333|gb|OFP28964.1| Rubredoxin [Prevotella sp. HMSC069G02] >gi|1080781610|gb|OFP48968.1| Rubredoxin [Prevotella sp. HMSC077E09]
+MKKYVCDVCGYIYDPAVGDPDNGIAPGTAFEDIPEDWVCPTCGVTKEDFSEVEE
+>gi|1053809084|ref|WP_066069374.1|rubredoxin [[Clostridium] paradoxum] >gi|1004129381|gb|KXZ39726.1| Rubredoxin domain containing protein [[Clostridium] paradoxum JW-YL-7 = DSM 7308]
+MKKYVCVVCGYVYDPELGDPDNGVSEGTPWENVPEDWVCPLCGVGKDQFEAQE
+>gi|488638315|ref|WP_002574973.1|MULTISPECIES: rubredoxin [Clostridiales] >gi|480666789|gb|ENZ10453.1| rubredoxin [ [[Clostridium] clostridioforme 90A7] >gi|480700940|gb|ENZ43629.1| rubredoxin [ [[Clostridium] bolteae 90B3] >gi|480708960|gb|ENZ51439.1| rubredoxin [ [[Clostridium] bolteae 90A9] >gi|524016624|emb|CCX98620.1| rubredoxin [Clostridium bolteae CAG:59] >gi|524416179|emb|CDB61303.1| rubredoxin [Clostridium clostridioforme CAG:132] >gi|933299072|emb|CUP77887.1| rubredoxin-type Fe(Cys)4 protein [[Clostridium] clostridioforme] >gi|973350558|emb|CUX67448.1| Rubredoxin [Clostridium sp. C105KSO14] >gi|1045260379|gb|ANU45243.1| rubredoxin [Lachnoclostridium sp. YL32] >gi|1217068421|gb|OXE63474.1| rubredoxin [[Clostridium] clostridioforme]
+MKKYVCDPCGWIYDPEAGDPDGGIEPGTAFEDIPDDWVCPICGVGKDMFSVVEE
+>gi|496097894|ref|WP_008822401.1|rubredoxin [Prevotella histicola] >gi|355369764|gb|EHG17155.1| rubredoxin [Prevotella histicola F0411]
+MKKYECETCGYIYDPEVGDPDSGIAPGTAFEDIPDDWVCPLCGVSKDDFKPVDE
+>gi|647361323|ref|WP_025774779.1|rubredoxin [Moorella thermoacetica] >gi|586912164|dbj|GAF27063.1| rubredoxin [Moorella thermoacetica Y72] >gi|1101662816|gb|OIQ56428.1| high molecular weight rubredoxin [Moorella thermoacetica]
+MEKYSCTVCGYVYDPAEGDPDNGIAPGTPFADLPDDWVCPLCSAGKEAFE
+>gi|1054585114|ref|WP_066353803.1|rubredoxin [Fervidicola ferrireducens] >gi|996041968|gb|KXG76058.1| Rubredoxin [Fervidicola ferrireducens]
+MKKWVCTVCGYVYDPDKGDPDNGIEPGTSFDDLPDDWTCPVCGAGKDMFEE

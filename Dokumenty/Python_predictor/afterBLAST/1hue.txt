@@ -1,0 +1,750 @@
+>gi|61222554|sp|P0A3H0.1|DBH_GEOSE RecName: Full=DNA-binding protein HU; AltName: Full=DNA-binding protein II; AltName: Full=HB >gi|61222555|sp|P0A3H1.1|DBH_BACCL RecName: Full=DNA-binding protein HU; AltName: Full=DNA-binding protein II; AltName: Full=HB >gi|61222556|sp|P0A3H2.1|DBH_BACCA RecName: Full=DNA-binding protein HU; AltName: Full=DNA-binding protein II; AltName: Full=HB >gi|1311345|pdb|1HUE|A Chain A, Histone-Like Protein >gi|1311346|pdb|1HUE|B Chain B, Histone-Like Protein >gi|4389195|pdb|1HUU|A Chain A, Dna-Binding Protein Hu From Bacillus Stearothermophilus >gi|4389196|pdb|1HUU|B Chain B, Dna-Binding Protein Hu From Bacillus Stearothermophilus >gi|4389197|pdb|1HUU|C Chain C, Dna-Binding Protein Hu From Bacillus Stearothermophilus >gi|143065|gb|AAA22532.1| hubst, partial [Geobacillus stearothermophilus] >gi|143067|gb|AAA22533.1| hubcalx, partial [, partial [[Bacillus] caldotenax] >gi|143069|gb|AAA22534.1| hubcald, partial [, partial [[Bacillus] caldolyticus] >gi|1065992|dbj|BAA07273.1| DNA binding protein HU [Geobacillus stearothermophilus] >gi|56380592|dbj|BAD76500.1| DNA-binding protein HU (DNA-binding protein II) [Geobacillus kaustophilus HTA426] >gi|134267306|gb|ABO67501.1| DNA binding protein HU [Geobacillus thermodenitrificans NG80-2] >gi|196211551|gb|EDY06310.1| histone family protein DNA-binding protein [Geobacillus sp. G11MC16] >gi|261374404|gb|ACX77147.1| histone family protein DNA-binding protein [Geobacillus sp. Y412MC61] >gi|297252867|gb|ADI26313.1| histone family protein DNA-binding protein [Geobacillus sp. C56-T3] >gi|317112107|gb|ADU94599.1| histone family protein DNA-binding protein [Geobacillus sp. Y412MC52] >gi|359288122|gb|AEV19806.1| DNA-binding protein HU 1 [Geobacillus thermoleovorans CCB_US3_UF5] >gi|445207350|gb|AGE22815.1| non-specific DNA-binding protein [Geobacillus sp. GHH01] >gi|514406897|dbj|GAD12440.1| DNA-binding protein HU [Geobacillus kaustophilus GBlys] >gi|530455869|gb|AGT30445.1| transcriptional regulator [Geobacillus sp. JF8] >gi|530701734|gb|EQB96084.1| transcriptional regulator [Geobacillus sp. A8] >gi|559462666|gb|ESU71233.1| transcriptional regulator [Geobacillus sp. MAS1] >gi|831464515|gb|AKM19445.1| DNA-binding protein HU [Geobacillus sp. 12AMOR1] >gi|928451216|gb|KPD00851.1| DNA-binding protein HU [Geobacillus sp. BCO2] >gi|941325900|gb|KQB92848.1| DNA-binding protein HU [Geobacillus sp. PA-3] >gi|1004915629|gb|KYD24885.1| hypothetical protein B4109_1740 [Geobacillus stearothermophilus] >gi|1004919348|gb|KYD28418.1| hypothetical protein B4113_3729 [Geobacillus sp. B4113_201601] >gi|1004926062|gb|KYD34841.1| hypothetical protein B4114_1823 [Geobacillus stearothermophilus] >gi|1017232252|gb|KZE97498.1| DNA-binding protein HU [Geobacillus stearothermophilus] >gi|1032271690|gb|OAO86118.1| DNA-binding protein HBsu [Geobacillus stearothermophilus]
+MNKTELINAVAETSGLSKKDATKAVDAVFDSITEALRKGDKVQLIGFGNFEVRERAARKGRNPQTGEEMEIPASKVPAFK
+PGKALKDAVK
+>gi|696474298|ref|WP_033013995.1| MULTISPECIES: DNA-binding protein [Geobacillus] >gi|899739793|gb|KMY60914.1| DNA-binding protein [Geobacillus stearothermophilus] >gi|899739827|gb|KMY60947.1| DNA-binding protein [Geobacillus stearothermophilus] >gi|899743508|gb|KMY64445.1| DNA-binding protein [Geobacillus stearothermophilus] >gi|924362013|gb|KOR95109.1| DNA-binding protein [Geobacillus stearothermophilus ATCC 12980] >gi|942230491|gb|KQC46995.1| DNA-binding protein [Geobacillus sp. Sah69]
+MNDMNKTELINAVAETSGLSKKDATKAVDAVFDSITEALRKGDKVQLIGFGNFEVRERAARKGRNPQTGEEMEIPASKVP
+AFKPGKALKDAVK
+>gi|523589925|ref|WP_020755319.1| MULTISPECIES: DNA-binding protein HU [Bacillaceae] >gi|523427983|gb|EPR28146.1| DNA-binding protein HU [Geobacillus sp. WSUCF1] >gi|618754184|dbj|GAJ58439.1| DNA-binding protein HU DNA-binding protein II [Geobacillus thermoleovorans B23] >gi|635251099|gb|KDE46828.1| DNA-binding protein [Geobacillus sp. CAMR12739] >gi|635252232|gb|KDE47918.1| DNA-binding protein [Geobacillus sp. CAMR5420] >gi|674749743|gb|KFL16316.1| DNA-binding protein [Geobacillus stearothermophilus] >gi|679860385|gb|KFX32133.1| DNA-binding protein [Geobacillus stearothermophilus] >gi|679861007|gb|KFX32664.1| DNA-binding protein [Geobacillus icigianus] >gi|829621945|gb|KLR73474.1| DNA-binding protein [Geobacillus sp. T6] >gi|909996066|gb|AKU25573.1| DNA-binding protein [Geobacillus sp. LC300] >gi|922675001|gb|ALA71518.1| DNA-binding protein [Geobacillus stearothermophilus 10] >gi|1005660789|gb|AMQ21008.1| DNA-binding protein [Geobacillus sp. JS12] >gi|1015429569|gb|AMV11358.1| DNA-binding protein [Geobacillus thermoleovorans] >gi|1016890632|gb|AMX83093.1| DNA-binding protein [Geobacillus subterraneus] >gi|1020970763|gb|KZM53957.1| DNA-binding protein [Geobacillus sp. 15] >gi|1022828104|gb|KZS24326.1| DNA-binding protein [Geobacillus subterraneus] >gi|1055235039|gb|ODA15154.1| DNA-binding protein [Geobacillus thermoleovorans]
+MNGMNKTELINAVAETSGLSKKDATKAVDAVFDSITEALRKGDKVQLIGFGNFEVRERAARKGRNPQTGEEMEIPASKVP
+AFKPGKALKDAVK
+>gi|765358891|gb|KJE27775.1| DNA-binding protein HU [Geobacillus kaustophilus]
+MNKTELINVVAETSGLSKKDATKAVDAVFDSITEALRKGDKVQLIGFGNFEVRERAARKGRNPQTGEEMEIPASKVPAFK
+PGKALKDAVK
+>gi|516006196|ref|WP_017436779.1| MULTISPECIES: transcriptional regulator [Geobacillus] >gi|611291610|dbj|GAJ40216.1| DNA-binding protein HU [Geobacillus caldoxylosilyticus NBRC 107762] >gi|612117901|gb|EZP75919.1| non-specific DNA-binding protein [Geobacillus stearothermophilus NUB3621] >gi|1004900191|gb|KYD09890.1| hypothetical protein B4119_2738 [Geobacillus caldoxylosilyticus]
+MNKTELINAVAETSGLSKKDATKAVDAVFESITEALRKGDKVQLIGFGNFEVRERAARKGRNPQTGEEMEIPASKVPAFK
+PGKALKDAVK
+>gi|765518758|ref|WP_044731005.1| DNA-binding protein [Geobacillus kaustophilus]
+MNGMNKTELINVVAETSGLSKKDATKAVDAVFDSITEALRKGDKVQLIGFGNFEVRERAARKGRNPQTGEEMEIPASKVP
+AFKPGKALKDAVK
+>gi|506344570|ref|WP_015864289.1| MULTISPECIES: transcriptional regulator [Geobacillus] >gi|239807799|gb|ACS24864.1| histone family protein DNA-binding protein [Geobacillus sp. WCH70] >gi|1004922865|gb|KYD31788.1| hypothetical protein B4110_2344 [Geobacillus toebii]
+MNKTDLINAVAETSGLSKKDATKAVDAVFESITEALRKGDKVQLIGFGNFEVRERAARKGRNPQTGEEMEIPASKVPAFK
+PGKALKDAVK
+>gi|992137389|gb|KXG11050.1| DNA-binding protein HU [Anoxybacillus sp. P3H1B] >gi|1024275861|gb|ANB58006.1| DNA-binding protein HU [Anoxybacillus sp. B2M1] >gi|1024278419|gb|ANB59847.1| DNA-binding protein HU [Anoxybacillus amylolyticus] >gi|1024283786|gb|ANB65225.1| DNA-binding protein HU [Anoxybacillus sp. B7M1]
+MNKTELINAVAETSGLSKKDATKAVDAVFESITEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEMEIPASKVPAFK
+PGKALKDAVK
+>gi|653159618|ref|WP_027408588.1| DNA-binding protein [Anoxybacillus tepidamans]
+MNGMNKTELINAVAETSGLSKKDATKAVDAVFESITEALKSGDKVQLIGFGNFEVRERAARKGRNPQTGEEMEIPASKVP
+AFKPGKALKDAVK
+>gi|1054556517|ref|WP_066325844.1| DNA-binding protein [Anoxybacillus amylolyticus]
+MNGMNKTELINAVAETSGLSKKDATKAVDAVFESITEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEMEIPASKVP
+AFKPGKALKDAVK
+>gi|765535133|ref|WP_044742247.1| MULTISPECIES: DNA-binding protein [Anoxybacillus]
+MLISPWEEVNGMNKTELINAVAETSGLSKKDATKAVDAVFESITEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEM
+EIPASKVPAFKPGKALKDAVK
+>gi|1035709230|ref|WP_064550192.1| DNA-binding protein [Geobacillus thermoglucosidasius] >gi|1034238806|gb|OAT74780.1| DNA-binding protein [Geobacillus thermoglucosidasius]
+MNKTELVNAVAEISGLSKKDATKAVDAVFESITEALKKGDKVQLIGFGNFEVRERAARKGRNPQTGEEMEIPASKVPAFK
+PGKALKDAVK
+>gi|489342394|ref|WP_003249561.1| MULTISPECIES: transcriptional regulator [Bacillaceae] >gi|311215542|gb|ADP74146.1| histone family protein DNA-binding protein [Geobacillus sp. Y4.1MC1] >gi|335361758|gb|AEH47438.1| histone family protein DNA-binding protein [Geobacillus thermoglucosidasius C56-YS93] >gi|383367550|gb|EID44827.1| DNA-binding protein HU 1 [Geobacillus thermoglucosidans TNO-09.020] >gi|617767336|dbj|GAJ43290.1| DNA-binding protein HU [Geobacillus thermoglucosidasius NBRC 107763] >gi|794550653|gb|KJX68028.1| DNA-binding protein [Geobacillus thermoglucosidasius] >gi|929561743|gb|ALF11321.1| DNA-binding protein [Geobacillus thermoglucosidasius] >gi|1004908973|gb|KYD18457.1| hypothetical protein B4168_1214 [Anoxybacillus flavithermus] >gi|1032274261|gb|OAO88638.1| DNA-binding protein HBsu [Geobacillus thermoglucosidasius] >gi|1050293583|gb|ANZ31398.1| DNA-binding protein [Geobacillus thermoglucosidasius] >gi|227370|prf||1702428A DNA binding protein HU [[Bacillus] caldolyticus]
+MNKTELINTVAEISGLSKKDATKAVDAVFESITEALKKGDKVQLIGFGNFEVRERAARKGRNPQTGEEMEIPASKVPAFK
+PGKALKDAVK
+>gi|765541309|ref|WP_044748048.1| DNA-binding protein [Bacillus alveayuensis]
+MNGMNKTELINSVAEASGLSKKDATKAVDAVFESITEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEMEIPASKVP
+AFKPGKALKDAVK
+>gi|1094409|prf||2106156A DNA-binding protein HU
+MNKTELINAVAETSGLSKKDATKAVDAVFDSITEALRKGDKVQLIGFGNFERERAARKGRVNPQTGEEMEIPASKVPAFK
+PGKALKDAVK
+>gi|212560411|gb|ACJ33466.1| DNA-binding protein HU-alpha (histone-like protein) [Anoxybacillus flavithermus WK1]
+MIHMLWEEVNGMNKTELINAVAEASGLSKKDASKAVDAVFDAITEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEI
+EIAASKVPAFKPGKALKDAVK
+>gi|489489571|ref|WP_003394524.1| MULTISPECIES: DNA-binding protein HU [Anoxybacillus] >gi|432001359|gb|ELK22237.1| DNA-binding protein HU [Anoxybacillus flavithermus TNO-09.006] >gi|460132508|gb|EMI09676.1| DNA-binding protein HU-alpha [Anoxybacillus sp. DT3-1] >gi|475643623|gb|EMT47374.1| DNA-binding protein HU [Anoxybacillus flavithermus AK1] >gi|528963707|gb|EPZ38431.1| DNA-binding protein HU-alpha [Anoxybacillus sp. SK3-4] >gi|683423088|gb|KFZ42124.1| DNA-binding protein [Anoxybacillus sp. KU2-6(11)] >gi|701226921|gb|KGP60201.1| DNA-binding protein [Anoxybacillus gonensis] >gi|727076257|gb|KHF30671.1| DNA-binding protein HU [Anoxybacillus sp. BCO1] >gi|755176143|gb|KIP20870.1| hypothetical protein JV16_01970 [Anoxybacillus ayderensis] >gi|756576101|gb|KIQ93648.1| hypothetical protein LH47_02273 [Anoxybacillus thermarum] >gi|906365096|gb|AKS38686.1| DNA-binding protein [Anoxybacillus gonensis] >gi|973977346|emb|CUA79501.1| bacterial nucleoid protein Hbs [Anoxybacillus suryakundensis] >gi|1032262367|gb|OAO77273.1| DNA-binding protein HBsu [Anoxybacillus flavithermus] >gi|1032264025|gb|OAO78826.1| DNA-binding protein HBsu [Anoxybacillus flavithermus]
+MNKTELINAVAEASGLSKKDASKAVDAVFDAITEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|479335064|dbj|GAC90369.1| DNA-binding protein HU-alpha [Anoxybacillus flavithermus NBRC 109594]
+MLWEEVNGMNKTELINAVAEASGLSKKDASKAVDAVFDAITEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIA
+ASKVPAFKPGKALKDAVK
+>gi|736628700|ref|WP_034636680.1| DNA-binding protein [Bacillus manliponensis] >gi|659906710|gb|KEK20530.1| DNA-binding protein [Bacillus manliponensis]
+MNKTELINAVAEASSLSKKDATKAVDAVFDSILEALKQGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|228599653|gb|EEK57256.1| DNA-binding protein HU [Bacillus cereus BGSC 6E1] >gi|228605505|gb|EEK62954.1| DNA-binding protein HU [Bacillus cereus 172560W] >gi|228633671|gb|EEK90271.1| DNA-binding protein HU [Bacillus cereus m1550] >gi|228639216|gb|EEK95632.1| DNA-binding protein HU [Bacillus cereus BDRD-ST24] >gi|228668197|gb|EEL23629.1| DNA-binding protein HU [Bacillus cereus Rock1-3] >gi|228674343|gb|EEL29587.1| DNA-binding protein HU [Bacillus cereus Rock1-15] >gi|228681114|gb|EEL35282.1| DNA-binding protein HU [Bacillus cereus Rock3-28] >gi|228687061|gb|EEL40966.1| DNA-binding protein HU [Bacillus cereus Rock3-29] >gi|228704474|gb|EEL56907.1| DNA-binding protein HU [Bacillus cereus Rock4-2] >gi|228726002|gb|EEL77241.1| DNA-binding protein HU [Bacillus cereus AH676] >gi|228775082|gb|EEM23475.1| DNA-binding protein HU [Bacillus thuringiensis serovar tochigiensis BGSC 4Y1] >gi|228781230|gb|EEM29431.1| DNA-binding protein HU [Bacillus thuringiensis Bt407] >gi|228801801|gb|EEM48678.1| DNA-binding protein HU [Bacillus thuringiensis serovar pakistani str. T13001] >gi|228807711|gb|EEM54233.1| DNA-binding protein HU [Bacillus thuringiensis serovar kurstaki str. T03a001] >gi|228820962|gb|EEM66983.1| DNA-binding protein HU [Bacillus thuringiensis serovar berliner ATCC 10792] >gi|591114205|gb|EXL34899.1| DNA-binding protein [Bacillus thuringiensis serovar israelensis] >gi|666942538|gb|KEZ84256.1| DNA-binding protein [Bacillus weihenstephanensis]
+MIIIQSYLWEEVNGMNKTDLINAVAEASSLSKKDATKAVDAVFDSILEALKQGDKVQLIGFGNFEVRERAARKGRNPQTG
+EEIEIAASKVPAFKPGKALKDAVK
+>gi|446966604|ref|WP_001043860.1| MULTISPECIES: transcriptional regulator [Bacillus] >gi|30261605|ref|NP_843982.1| DNA-binding protein HU [Bacillus anthracis str. Ames] >gi|49184437|ref|YP_027689.1| DNA-binding protein HU [Bacillus anthracis str. Sterne] >gi|49481024|ref|YP_035726.1| DNA-binding protein HU [[Bacillus thuringiensis] serovar konkukian str. 97-27] >gi|30255459|gb|AAP25468.1| DNA-binding protein HU [Bacillus anthracis str. Ames] >gi|42736631|gb|AAS40566.1| DNA-binding protein HU [Bacillus cereus ATCC 10987] >gi|47501953|gb|AAT30629.1| DNA-binding protein HU [Bacillus anthracis str. 'Ames Ancestor'] >gi|49178364|gb|AAT53740.1| DNA-binding protein HU [Bacillus anthracis str. Sterne] >gi|49332580|gb|AAT63226.1| DNA-binding protein HU [[Bacillus thuringiensis] serovar konkukian str. 97-27] >gi|51977306|gb|AAU18856.1| DNA-binding protein HU [Bacillus cereus E33L] >gi|152023785|gb|ABS21555.1| histone family protein DNA-binding protein [Bacillus cytotoxicus NVH 391-98] >gi|163861622|gb|ABY42681.1| histone family protein DNA-binding protein [Bacillus weihenstephanensis KBAB4] >gi|164714942|gb|EDR20460.1| DNA-binding protein HU [Bacillus anthracis str. A0488] >gi|167512964|gb|EDR88337.1| DNA-binding protein HU [Bacillus anthracis str. A0193] >gi|167531293|gb|EDR93971.1| DNA-binding protein HU [Bacillus anthracis str. A0442] >gi|170128533|gb|EDS97400.1| DNA-binding protein HU [Bacillus anthracis str. A0389] >gi|170670014|gb|EDT20755.1| DNA-binding protein HU [Bacillus anthracis str. A0465] >gi|172083782|gb|EDT68842.1| DNA-binding protein HU [Bacillus anthracis str. A0174] >gi|190560252|gb|EDV14232.1| DNA-binding protein HU [Bacillus anthracis str. Tsiankovskii-I] >gi|195993755|gb|EDX57711.1| DNA-binding protein HU [Bacillus cereus W] >gi|196022504|gb|EDX61187.1| DNA-binding protein HU [Bacillus cereus 03BB108] >gi|196030247|gb|EDX68847.1| DNA-binding protein HU [Bacillus cereus NVH0597-99] >gi|206734271|gb|EDZ51441.1| DNA-binding protein HU [Bacillus cereus AH1134] >gi|206747021|gb|EDZ58413.1| DNA-binding protein HU [Bacillus cereus H3081.97] >gi|217064829|gb|ACJ79079.1| DNA-binding protein HU [Bacillus cereus AH187] >gi|218161762|gb|ACK61754.1| DNA-binding protein HU [Bacillus cereus B4264] >gi|218539449|gb|ACK91847.1| DNA-binding protein HU [Bacillus cereus AH820] >gi|218542908|gb|ACK95302.1| DNA-binding protein HU [Bacillus cereus G9842] >gi|221239297|gb|ACM12007.1| DNA-binding protein HU [Bacillus cereus Q1] >gi|225788998|gb|ACO29215.1| DNA-binding protein HU [Bacillus cereus 03BB102] >gi|227005725|gb|ACP15468.1| DNA-binding protein HU [Bacillus anthracis str. CDC 684] >gi|228617030|gb|EEK74099.1| DNA-binding protein HU [Bacillus cereus AH621] >gi|228732037|gb|EEL82929.1| DNA-binding protein HU [Bacillus cereus AH1271] >gi|228826763|gb|EEM72531.1| DNA-binding protein HU [Bacillus thuringiensis serovar andalousiensis BGSC 4AW1] >gi|228839343|gb|EEM84637.1| DNA-binding protein HU [Bacillus thuringiensis serovar huazhongensis BGSC 4BD1] >gi|229266182|gb|ACQ47819.1| DNA-binding protein HU [Bacillus anthracis str. A0248] >gi|296323231|gb|ADH06159.1| DNA-binding protein HU [Bacillus thuringiensis BMB171] >gi|298725297|gb|EFI65949.1| DNA-binding protein HU [Bacillus cereus SJ1] >gi|300375316|gb|ADK04220.1| DNA-binding protein HU [Bacillus cereus biovar anthracis str. CI] >gi|324325626|gb|ADY20886.1| DNA-binding protein HU [Bacillus thuringiensis serovar finitimus YBT-020] >gi|326939227|gb|AEA15123.1| DNA-binding protein HU [Bacillus thuringiensis serovar chinensis CT-43] >gi|358352111|dbj|BAL17283.1| DNA-binding protein HU [Bacillus cereus NC7401] >gi|363618621|gb|EHL69965.1| DNA-binding protein HU [Bacillus sp. 7_6_55CFAA_CT2] >gi|364511252|gb|AEW54651.1| DNA-binding protein [Bacillus cereus F837/76] >gi|384385165|gb|AFH82826.1| DNA-binding protein HU [Bacillus anthracis str. H9401] >gi|401079379|gb|EJP87677.1| DNA-binding protein HU [Bacillus cereus VD022] >gi|401087129|gb|EJP95338.1| DNA-binding protein HU [Bacillus cereus VD142] >gi|401088255|gb|EJP96446.1| DNA-binding protein HU [Bacillus cereus IS075] >gi|401097624|gb|EJQ05646.1| DNA-binding protein HU [Bacillus cereus BAG3O-2] >gi|401101301|gb|EJQ09291.1| DNA-binding protein HU [Bacillus cereus AND1407] >gi|401102350|gb|EJQ10337.1| DNA-binding protein HU [Bacillus cereus BAG3X2-1] >gi|401115375|gb|EJQ23228.1| DNA-binding protein HU [Bacillus cereus BAG3X2-2] >gi|401121820|gb|EJQ29609.1| DNA-binding protein HU [Bacillus cereus BAG4O-1] >gi|401125334|gb|EJQ33094.1| DNA-binding protein HU [Bacillus cereus BAG4X12-1] >gi|401133222|gb|EJQ40855.1| DNA-binding protein HU [Bacillus cereus BAG5O-1] >gi|401135212|gb|EJQ42815.1| DNA-binding protein HU [Bacillus cereus BAG5X1-1] >gi|401140564|gb|EJQ48120.1| DNA-binding protein HU [Bacillus cereus BAG5X2-1] >gi|401144704|gb|EJQ52231.1| DNA-binding protein HU [Bacillus cereus BAG6X1-2] >gi|401155044|gb|EJQ62458.1| DNA-binding protein HU [Bacillus cereus CER074] >gi|401155935|gb|EJQ63342.1| DNA-binding protein HU [Bacillus cereus CER057] >gi|401165176|gb|EJQ72495.1| DNA-binding protein HU [Bacillus cereus HuA2-4] >gi|401170431|gb|EJQ77672.1| DNA-binding protein HU [Bacillus cereus HuA4-10] >gi|401177235|gb|EJQ84427.1| DNA-binding protein HU [Bacillus cereus HuB4-10] >gi|401183064|gb|EJQ90181.1| DNA-binding protein HU [Bacillus cereus HuB5-5] >gi|401186598|gb|EJQ93686.1| DNA-binding protein HU [Bacillus cereus ISP3191] >gi|401197027|gb|EJR03965.1| DNA-binding protein HU [Bacillus cereus MC67] >gi|401197586|gb|EJR04515.1| DNA-binding protein HU [Bacillus cereus MSX-A1] >gi|401206464|gb|EJR13255.1| DNA-binding protein HU [Bacillus cereus MSX-A12] >gi|401207670|gb|EJR14449.1| DNA-binding protein HU [Bacillus cereus MSX-D12] >gi|401217257|gb|EJR23951.1| DNA-binding protein HU [Bacillus cereus VD014] >gi|401224258|gb|EJR30816.1| DNA-binding protein HU [Bacillus cereus VD048] >gi|401227745|gb|EJR34274.1| DNA-binding protein HU [Bacillus cereus VD045] >gi|401231595|gb|EJR38098.1| DNA-binding protein HU [Bacillus cereus VD078] >gi|401241512|gb|EJR47900.1| DNA-binding protein HU [Bacillus cereus VD102] >gi|401249355|gb|EJR55661.1| DNA-binding protein HU [Bacillus cereus VD107] >gi|401253974|gb|EJR60210.1| DNA-binding protein HU [Bacillus cereus VD115] >gi|401255085|gb|EJR61310.1| DNA-binding protein HU [Bacillus cereus VD148] >gi|401267397|gb|EJR73457.1| DNA-binding protein HU [Bacillus cereus VD154] >gi|401273000|gb|EJR78988.1| DNA-binding protein HU [Bacillus cereus VD156] >gi|401275350|gb|EJR81317.1| DNA-binding protein HU [Bacillus cereus VD166] >gi|401285490|gb|EJR91329.1| DNA-binding protein HU [Bacillus cereus VD169] >gi|401295408|gb|EJS01032.1| DNA-binding protein HU [Bacillus cereus VDM022] >gi|401295901|gb|EJS01524.1| DNA-binding protein HU [Bacillus cereus VD200] >gi|401304045|gb|EJS09603.1| DNA-binding protein HU [Bacillus cereus VDM034] >gi|401307794|gb|EJS13219.1| DNA-binding protein HU [Bacillus cereus VDM062] >gi|401631337|gb|EJS49134.1| DNA-binding protein HU [Bacillus cereus BAG1O-2] >gi|401637925|gb|EJS55678.1| DNA-binding protein HU [Bacillus cereus BAG1X1-3] >gi|401643864|gb|EJS61558.1| DNA-binding protein HU [Bacillus cereus BAG1X1-2] >gi|401648022|gb|EJS65625.1| DNA-binding protein HU [Bacillus cereus BAG2X1-2] >gi|401649722|gb|EJS67300.1| DNA-binding protein HU [Bacillus cereus BAG2X1-1] >gi|401657624|gb|EJS75132.1| DNA-binding protein HU [Bacillus cereus BAG2X1-3] >gi|401790051|gb|AFQ16090.1| DNA-binding protein HU [Bacillus thuringiensis HD-771] >gi|401794219|gb|AFQ08078.1| DNA-binding protein HU [Bacillus cereus FRI-35] >gi|401822943|gb|EJT22092.1| DNA-binding protein HU [Bacillus anthracis str. UR-1] >gi|401873105|gb|AFQ25272.1| DNA-binding protein HU [Bacillus thuringiensis HD-789] >gi|402412703|gb|EJV45056.1| DNA-binding protein HU [Bacillus cereus BAG4X2-1] >gi|402415418|gb|EJV47742.1| DNA-binding protein HU [Bacillus cereus BAG6O-1] >gi|402428042|gb|EJV60140.1| DNA-binding protein HU [Bacillus cereus BAG6O-2] >gi|402435362|gb|EJV67396.1| DNA-binding protein HU [Bacillus cereus BAG6X1-1] >gi|402438604|gb|EJV70613.1| DNA-binding protein HU [Bacillus cereus BtB2-4] >gi|402447051|gb|EJV78909.1| DNA-binding protein HU [Bacillus cereus HuB1-1] >gi|402455321|gb|EJV87104.1| DNA-binding protein HU [Bacillus cereus HD73] >gi|402456721|gb|EJV88494.1| DNA-binding protein HU [Bacillus cereus HuA2-1] >gi|402461530|gb|EJV93243.1| DNA-binding protein HU [Bacillus cereus HuB2-9] >gi|403394146|gb|EJY91387.1| DNA-binding protein HU [Bacillus anthracis str. BF1] >gi|407381665|gb|AFU12166.1| DNA-binding protein HU [Bacillus thuringiensis MC28] >gi|409172940|gb|AFV17245.1| DNA-binding protein HU [Bacillus thuringiensis Bt407] >gi|449022154|gb|AGE77317.1| DNA-binding protein HU [Bacillus thuringiensis serovar kurstaki str. HD73] >gi|452103228|gb|AGG00168.1| DNA-binding protein HBsu [Bacillus thuringiensis serovar thuringiensis str. IS5056] >gi|482655847|emb|CCW07137.1| DNA-binding protein HBsu [Bacillus sp. GeD10] >gi|500282770|gb|EOO07507.1| DNA-binding protein HU [Bacillus cereus str. Schrouff] >gi|500291354|gb|EOO15284.1| DNA-binding protein HU [Bacillus cereus HuA2-9] >gi|500298880|gb|EOO22015.1| DNA-binding protein HU [Bacillus cereus HuA3-9] >gi|500304498|gb|EOO26715.1| DNA-binding protein HU [Bacillus cereus BAG1X1-1] >gi|500318117|gb|EOO38434.1| DNA-binding protein HU [Bacillus cereus VD133] >gi|500320210|gb|EOO40171.1| DNA-binding protein HU [Bacillus cereus VDM019] >gi|500331497|gb|EOO50660.1| DNA-binding protein HU [Bacillus cereus BAG1X2-2] >gi|500332101|gb|EOO51259.1| DNA-binding protein HU [Bacillus cereus BAG1X2-1] >gi|500342184|gb|EOO60876.1| DNA-binding protein HU [Bacillus cereus BAG1X2-3] >gi|500351784|gb|EOO69656.1| DNA-binding protein HU [Bacillus cereus VD196] >gi|500358832|gb|EOO76092.1| DNA-binding protein HU [Bacillus cereus VD021] >gi|500361782|gb|EOO78690.1| DNA-binding protein HU [Bacillus cereus BAG1O-1] >gi|500367854|gb|EOO84571.1| DNA-binding protein HU [Bacillus cereus K-5975c] >gi|500368389|gb|EOO85095.1| DNA-binding protein HU [Bacillus cereus IS845/00] >gi|500378229|gb|EOO94706.1| DNA-binding protein HU [Bacillus cereus IS195] >gi|500391351|gb|EOP07383.1| DNA-binding protein HU [Bacillus cereus BAG2O-1] >gi|500392563|gb|EOP08587.1| DNA-binding protein HU [Bacillus cereus BAG2O-3] >gi|500398013|gb|EOP13934.1| DNA-binding protein HU [Bacillus cereus MC118] >gi|500411875|gb|EOP27614.1| DNA-binding protein HU [Bacillus cereus VD131] >gi|500414491|gb|EOP30208.1| DNA-binding protein HU [Bacillus cereus HuA2-3] >gi|500422308|gb|EOP37251.1| DNA-binding protein HU [Bacillus cereus HuB13-1] >gi|500427351|gb|EOP41841.1| DNA-binding protein HU [Bacillus cereus VD146] >gi|500430024|gb|EOP44263.1| DNA-binding protein HU [Bacillus cereus VD214] >gi|500443792|gb|EOP56843.1| DNA-binding protein HU [Bacillus cereus VD136] >gi|500443951|gb|EOP57000.1| DNA-binding protein HU [Bacillus cereus VDM053] >gi|500457599|gb|EOP69884.1| DNA-binding protein HU [Bacillus cereus ISP2954] >gi|500459979|gb|EOP71895.1| DNA-binding protein HU [Bacillus cereus VD118] >gi|500462983|gb|EOP74827.1| DNA-binding protein HU [Bacillus cereus VDM006] >gi|500516313|gb|EOP82046.1| DNA-binding protein HU [Bacillus cereus BAG5X12-1] >gi|500527402|gb|EOP92596.1| DNA-binding protein HU [Bacillus cereus HuB4-4] >gi|500529997|gb|EOP95127.1| DNA-binding protein HU [Bacillus cereus BMG1.7] >gi|500535967|gb|EOQ00919.1| DNA-binding protein HU [Bacillus cereus VD140] >gi|500548863|gb|EOQ14206.1| DNA-binding protein HU [Bacillus cereus VDM021] >gi|500549351|gb|EOQ13430.1| DNA-binding protein HU [Bacillus cereus B5-2] >gi|500552452|gb|EOQ16742.1| DNA-binding protein HU [Bacillus cereus VD184] >gi|500569436|gb|EOQ33134.1| DNA-binding protein HU [Bacillus cereus BAG3O-1] >gi|500628232|gb|EOQ67938.1| DNA-binding protein HU [Bacillus cereus TIAC219] >gi|513458572|gb|EPF07015.1| DNA-binding protein HU [Bacillus cereus BAG2O-2] >gi|513462790|gb|EPF10878.1| DNA-binding protein HU [Bacillus cereus BAG1O-3] >gi|542050723|gb|ERI02457.1| hypothetical protein BTCBT_001390 [Bacillus thuringiensis T01-328] >gi|557476196|gb|AHA10018.1| DNA-binding protein HBsu [Bacillus toyonensis BCT-7112] >gi|558578779|gb|AHA70914.1| DNA-binding protein HU [Bacillus thuringiensis YBT-1518] >gi|565326584|gb|ETE89512.1| transcriptional regulator [Bacillus thuringiensis serovar aizawai str. Leapi01] >gi|565328373|gb|ETE91300.1| transcriptional regulator [Bacillus thuringiensis serovar aizawai str. Hu4-2] >gi|569023326|dbj|GAE41101.1| DNA-binding protein HU [Bacillus weihenstephanensis NBRC 101238 = DSM 11821] >gi|570711594|gb|AHE82933.1| DNA-binding protein [Bacillus anthracis str. A16R] >gi|570717499|gb|AHE88836.1| DNA-binding protein [Bacillus anthracis str. A16] >gi|573579896|gb|ETT78251.1| DNA-binding protein HU [Bacillus weihenstephanensis FSL H7-687] >gi|573582065|gb|ETT80384.1| DNA-binding protein HU [Bacillus weihenstephanensis FSL R5-860] >gi|576742416|dbj|GAE96978.1| DNA-binding protein HBsu [Bacillus anthracis CZC5] >gi|582077069|gb|EVT93331.1| transcriptional regulator [Bacillus anthracis 8903-G] >gi|582084337|gb|EVU00317.1| transcriptional regulator [Bacillus anthracis 9080-G] >gi|582088915|gb|EVU04778.1| transcriptional regulator [Bacillus anthracis 52-G] >gi|589081103|gb|AHK37618.1| DNA-binding protein HU [Bacillus anthracis str. SVA11] >gi|589235322|emb|CDN34907.1| unnamed protein product [Bacillus thuringiensis DB27] >gi|589838717|gb|EXJ20988.1| DNA-binding protein [Bacillus anthracis str. 95014] >gi|595878320|gb|EXY07849.1| DNA-binding protein [Bacillus thuringiensis] >gi|612489032|gb|AHX17700.1| DNA-binding protein [Bacillus bombysepticus str. Wang] >gi|633269688|gb|AHZ50465.1| DNA-binding protein HU [Bacillus thuringiensis serovar kurstaki str. YBT-1520] >gi|657515681|gb|KEH48453.1| DNA-binding protein HBsu [Bacillus thuringiensis serovar kurstaki str. HD-1] >gi|659909008|gb|KEK22756.1| DNA-binding protein [Bacillus gaemokensis] >gi|661908678|gb|AIE32863.1| DNA-binding protein HU [Bacillus thuringiensis serovar kurstaki str. HD-1] >gi|663078663|gb|AIE78830.1| histone family protein DNA-binding protein [Bacillus cereus] >gi|664793003|gb|AIF55857.1| DNA-binding protein [Bacillus anthracis] >gi|666459098|gb|KEY95707.1| DNA-binding protein [Bacillus anthracis str. Carbosap] >gi|673613075|gb|KFJ79808.1| DNA-binding protein HU [Bacillus anthracis] >gi|673963812|gb|AIK30946.1| DNA-binding protein HU [Bacillus anthracis] >gi|673977430|gb|AIK40420.1| DNA-binding protein HU [Bacillus mycoides] >gi|673986915|gb|AIK56425.1| DNA-binding protein HU [Bacillus anthracis] >gi|673993561|gb|AIK61944.1| DNA-binding protein HU [Bacillus anthracis str. Vollum] >gi|674003234|gb|AIK53568.1| DNA-binding protein HU [Bacillus anthracis] >gi|674471330|gb|KFK72174.1| DNA-binding protein HU [Bacillus cereus] >gi|674811816|gb|KFL64374.1| DNA-binding protein HU [Bacillus anthracis] >gi|674817736|gb|KFL70293.1| DNA-binding protein HU [Bacillus anthracis] >gi|674822243|gb|KFL74799.1| DNA-binding protein HU [Bacillus cereus ATCC 10876] >gi|674828680|gb|KFL81202.1| DNA-binding protein HU [Bacillus cereus] >gi|675468961|gb|KFM86786.1| DNA-binding protein HU [Bacillus cereus ATCC 4342] >gi|675484675|gb|KFN03378.1| DNA-binding protein HU [Bacillus mycoides] >gi|675498182|gb|KFN15645.1| DNA-binding protein HU [Bacillus mycoides] >gi|675833744|gb|AIM05417.1| DNA-binding protein HU [Bacillus anthracis] >gi|675839160|gb|AIM10832.1| DNA-binding protein HU [Bacillus anthracis] >gi|676322096|gb|AIM32935.1| bacterial nucleoid DNA-binding protein [Bacillus thuringiensis serovar kurstaki str. YBT-1520] >gi|706247900|gb|KGT44659.1| DNA-binding protein [Bacillus cereus] >gi|719645683|gb|AIW86097.1| DNA-binding protein HU [Bacillus weihenstephanensis] >gi|721780477|gb|KGZ41589.1| DNA-binding protein [Bacillus anthracis] >gi|721782652|gb|KGZ43745.1| DNA-binding protein [Bacillus anthracis] >gi|721787077|gb|KGZ48154.1| DNA-binding protein [Bacillus anthracis] >gi|721797826|gb|KGZ58111.1| DNA-binding protein [Bacillus anthracis] >gi|721798775|gb|KGZ59059.1| DNA-binding protein [Bacillus anthracis] >gi|721799724|gb|KGZ60006.1| DNA-binding protein [Bacillus anthracis] >gi|721823725|gb|KGZ83711.1| DNA-binding protein [Bacillus anthracis] >gi|721824183|gb|KGZ84166.1| DNA-binding protein [Bacillus anthracis] >gi|721826331|gb|KGZ86282.1| DNA-binding protein [Bacillus anthracis] >gi|721832305|gb|KGZ92095.1| DNA-binding protein [Bacillus anthracis] >gi|721832765|gb|KGZ92553.1| DNA-binding protein [Bacillus anthracis] >gi|721836057|gb|KGZ95839.1| DNA-binding protein [Bacillus anthracis] >gi|721850010|gb|KHA09569.1| DNA-binding protein [Bacillus anthracis] >gi|721850531|gb|KHA10087.1| DNA-binding protein [Bacillus anthracis] >gi|721861567|gb|KHA20852.1| DNA-binding protein [Bacillus anthracis] >gi|721867631|gb|KHA26845.1| DNA-binding protein [Bacillus anthracis] >gi|721868224|gb|KHA27435.1| DNA-binding protein [Bacillus anthracis] >gi|721873999|gb|KHA33080.1| DNA-binding protein [Bacillus anthracis] >gi|721885866|gb|KHA44735.1| DNA-binding protein [Bacillus anthracis] >gi|728961275|gb|KHG50533.1| DNA-binding protein [Bacillus anthracis] >gi|728968260|gb|KHG57454.1| DNA-binding protein [Bacillus anthracis] >gi|728973540|gb|KHG62713.1| DNA-binding protein [Bacillus anthracis] >gi|734581800|gb|AJA19012.1| DNA-binding protein [Bacillus thuringiensis serovar galleriae] >gi|741047612|gb|AJA85890.1| DNA-binding protein [Bacillus anthracis] >gi|751420456|gb|AJF89242.1| DNA-binding protein [Bacillus anthracis] >gi|752325768|gb|AJG28360.1| DNA-binding protein [Bacillus anthracis] >gi|753271533|gb|AJG46712.1| DNA-binding protein HU [Bacillus anthracis str. Turkey32] >gi|753285728|gb|AJG55005.1| DNA-binding protein HU [Bacillus cereus 03BB102] >gi|753294439|gb|AJG58384.1| DNA-binding protein HU [Bacillus cereus D17] >gi|753305674|gb|AJG64926.1| DNA-binding protein HU [Bacillus anthracis] >gi|753313794|gb|AJG68361.1| DNA-binding protein HU [Bacillus anthracis] >gi|753331809|gb|AJG79318.1| DNA-binding protein HU [Bacillus thuringiensis] >gi|753343310|gb|AJG84820.1| DNA-binding protein HU [Bacillus anthracis] >gi|753354111|gb|AJG90508.1| DNA-binding protein HU [Bacillus anthracis] >gi|753361772|gb|AJG94696.1| DNA-binding protein HU [Bacillus cereus] >gi|753374692|gb|AJH21978.1| DNA-binding protein HU [Bacillus mycoides] >gi|753401203|gb|AJH28769.1| DNA-binding protein HU [Bacillus anthracis] >gi|753415306|gb|AJH33427.1| DNA-binding protein HU [Bacillus anthracis] >gi|753432595|gb|AJH37976.1| DNA-binding protein HU [Bacillus anthracis] >gi|753451891|gb|AJH44570.1| DNA-binding protein HU [Bacillus anthracis str. Sterne] >gi|753473597|gb|AJH51872.1| DNA-binding protein HU [Bacillus anthracis] >gi|753494808|gb|AJH58730.1| DNA-binding protein HU [Bacillus anthracis] >gi|753527334|gb|AJH64785.1| DNA-binding protein HU [Bacillus cereus] >gi|753547337|gb|AJI02490.1| DNA-binding protein HU [Bacillus anthracis str. V770-NP-1R] >gi|753588885|gb|AJH67735.1| DNA-binding protein HU [Bacillus thuringiensis] >gi|753608416|gb|AJH74705.1| DNA-binding protein HU [Bacillus cereus ATCC 4342] >gi|753667665|gb|AJI10281.1| DNA-binding protein HU [Bacillus cereus 03BB108] >gi|753708390|gb|AJI18511.1| DNA-binding protein HU [Bacillus thuringiensis str. Al Hakam] >gi|753715538|gb|AJH82536.1| DNA-binding protein HU [Bacillus thuringiensis] >gi|753723725|gb|AJH90702.1| DNA-binding protein HU [Bacillus anthracis] >gi|753733095|gb|AJI28859.1| DNA-binding protein HU [Bacillus cereus E33L] >gi|753737555|gb|AJH92787.1| DNA-binding protein HU [Bacillus anthracis] >gi|753743304|gb|AJI33294.1| DNA-binding protein HU [Bacillus thuringiensis] >gi|753762733|gb|AJI42603.1| DNA-binding protein HU [Bacillus anthracis] >gi|755217311|gb|KIP28078.1| DNA-binding protein HU [Bacillus thuringiensis serovar morrisoni] >gi|755732972|gb|AJH04095.1| DNA-binding protein HU [Bacillus thuringiensis HD1002] >gi|755998184|gb|AJK34411.1| DNA-binding protein HU [Bacillus cereus] >gi|756042499|gb|AJK41601.1| DNA-binding protein HU [Bacillus thuringiensis serovar kurstaki] >gi|756572266|gb|KIQ89966.1| DNA-binding protein [Bacillus sp. L_1B0_5] >gi|756573038|gb|KIQ90730.1| DNA-binding protein [Bacillus sp. L_1B0_8] >gi|756781702|gb|AJM80168.1| DNA-binding protein [Bacillus anthracis] >gi|758667525|gb|KIU71149.1| DNA-binding protein HU [Bacillus thuringiensis Sbt003] >gi|758838207|gb|KIV76692.1| DNA-binding protein HBsu [Bacillus mycoides] >gi|763434840|gb|KIZ29446.1| DNA-binding protein [Bacillus cereus] >gi|764022936|gb|AJQ58273.1| DNA-binding protein [Bacillus thuringiensis serovar morrisoni] >gi|764024976|gb|AJQ60313.1| DNA-binding protein [Bacillus thuringiensis serovar morrisoni] >gi|803762523|gb|KKB32819.1| DNA-binding protein HU [Bacillus thuringiensis serovar mexicanensis] >gi|806769888|emb|CRG01730.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|806799210|gb|KKC56685.1| DNA-binding protein HU [Bacillus sp. UMTAT18] >gi|811094553|gb|AKE15915.1| DNA-binding protein HBsu [Bacillus cereus] >gi|814300472|emb|CGF97261.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|814306519|emb|CGG56124.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|814313518|emb|CKF93392.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|814318874|emb|CJB39652.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|814504031|emb|CKF72443.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|814511642|emb|CJG55698.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|814523264|emb|CKE92591.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|816640629|gb|KKM33368.1| DNA-binding protein [Bacillus anthracis] >gi|816642281|gb|KKM34994.1| DNA-binding protein [Bacillus anthracis] >gi|821582576|dbj|GAO64216.1| DNA-binding protein HU [Bacillus anthracis] >gi|821587959|dbj|GAO58499.1| DNA-binding protein HU [Bacillus anthracis] >gi|821610674|gb|KKZ92028.1| hypothetical protein B4147_1264 [Bacillus cereus] >gi|821616952|gb|KKZ98226.1| hypothetical protein B4153_1488 [Bacillus cereus] >gi|821619598|gb|KLA00853.1| hypothetical protein B4086_1477 [Bacillus cereus] >gi|821633544|gb|KLA14543.1| hypothetical protein B4087_2003 [Bacillus cereus] >gi|821634971|gb|KLA15912.1| hypothetical protein B4078_1445 [Bacillus cereus] >gi|821649500|gb|KLA30166.1| hypothetical protein B4077_1909 [Bacillus cereus] >gi|821652742|gb|KLA33342.1| hypothetical protein B4080_1917 [Bacillus cereus] >gi|821656188|gb|KLA36682.1| hypothetical protein B4158_1454 [Bacillus cereus] >gi|823275518|dbj|BAR85366.1| DNA-binding protein HU [Bacillus thuringiensis serovar tolworthi] >gi|827033033|gb|AKJ57771.1| DNA-binding protein [Bacillus thuringiensis] >gi|837632523|gb|KLV15716.1| DNA-binding protein [Bacillus anthracis] >gi|857271356|gb|KMN46384.1| DNA-binding protein [Bacillus sp. LK2] >gi|857303573|gb|KMN73431.1| DNA-binding protein [Bacillus cereus] >gi|859491880|gb|KMP16378.1| DNA-binding protein [Bacillus cereus] >gi|859494165|gb|KMP18605.1| DNA-binding protein [Bacillus cereus] >gi|859502372|gb|KMP26626.1| DNA-binding protein [Bacillus cereus] >gi|859507836|gb|KMP32020.1| DNA-binding protein [Bacillus cereus] >gi|859511054|gb|KMP35164.1| DNA-binding protein [Bacillus cereus] >gi|859521570|gb|KMP45293.1| DNA-binding protein [Bacillus cereus] >gi|859530536|gb|KMP53889.1| DNA-binding protein [Bacillus cereus] >gi|859532827|gb|KMP56118.1| DNA-binding protein [Bacillus cereus] >gi|859546431|gb|KMP69338.1| DNA-binding protein [Bacillus cereus] >gi|859553067|gb|KMP75721.1| DNA-binding protein [Bacillus cereus] >gi|859554334|gb|KMP76966.1| DNA-binding protein [Bacillus cereus] >gi|859566086|gb|KMP88359.1| DNA-binding protein [Bacillus cereus] >gi|859566577|gb|KMP88843.1| DNA-binding protein [Bacillus cereus] >gi|859567990|gb|KMP90221.1| DNA-binding protein [Bacillus cereus] >gi|859573423|gb|KMP95552.1| DNA-binding protein [Bacillus cereus] >gi|859574360|gb|KMP96453.1| DNA-binding protein [Bacillus cereus] >gi|859583827|gb|KMQ05718.1| DNA-binding protein [Bacillus cereus] >gi|859592068|gb|KMQ13778.1| DNA-binding protein [Bacillus mycoides] >gi|859599795|gb|KMQ21310.1| DNA-binding protein [Bacillus cereus] >gi|859603691|gb|KMQ25120.1| DNA-binding protein [Bacillus cereus] >gi|859614068|gb|KMQ35203.1| DNA-binding protein [Bacillus cereus] >gi|859615877|gb|KMQ36925.1| DNA-binding protein [Bacillus cereus] >gi|873529650|gb|KMT50709.1| DNA-binding protein [Bacillus cytotoxicus] >gi|880793440|emb|CJB03284.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882799871|emb|CJA57566.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882806598|emb|CJQ05940.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882812639|emb|CJG83422.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882827131|emb|CJC46875.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882833295|emb|CJH77530.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882847381|emb|CJJ38176.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882856606|emb|CJC11991.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882867223|emb|CJB11908.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882875983|emb|CJI66184.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882881892|emb|CJN51552.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882890246|emb|CJI98229.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882898872|emb|CJF70355.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882905148|emb|CJN81369.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882912336|emb|CJG68512.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882919218|emb|CJC16538.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882928133|emb|CJO47296.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|882937033|emb|CJB82939.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|884839895|emb|CKF64963.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|884852321|emb|CKE41853.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|884865651|emb|CJU61426.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|884877282|emb|CKG53256.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|884893210|emb|CKG53072.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|895720847|emb|COK99087.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|895733458|emb|COE84129.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|895739963|emb|COE48478.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|895754907|emb|COP04245.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|895768405|emb|COF10666.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|895776245|emb|COS57373.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|895785255|emb|COQ65192.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|895792587|emb|COS32394.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|895799488|emb|COJ69179.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|895812341|emb|COQ43103.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|896575553|gb|AKR08653.1| DNA-binding protein [Bacillus thuringiensis] >gi|899760344|gb|AKR34475.1| DNA-binding protein HU [Bacillus thuringiensis serovar indiana] >gi|910863785|gb|KNH40236.1| DNA-binding protein [Bacillus thuringiensis] >gi|920907805|gb|KOM63693.1| DNA-binding protein [Bacillus anthracis] >gi|920908740|gb|KOM64541.1| DNA-binding protein [Bacillus anthracis] >gi|920915118|gb|KOM70630.1| DNA-binding protein [Bacillus anthracis] >gi|920923149|gb|KOM78344.1| DNA-binding protein [Bacillus anthracis] >gi|920929440|gb|KOM84340.1| DNA-binding protein [Bacillus anthracis] >gi|920936689|gb|KOM91118.1| DNA-binding protein [Bacillus anthracis] >gi|920951024|gb|KON04753.1| DNA-binding protein [Bacillus anthracis] >gi|920963341|gb|KON16352.1| DNA-binding protein [Bacillus anthracis] >gi|920971597|gb|KON24054.1| DNA-binding protein [Bacillus anthracis] >gi|922896054|gb|KOO61035.1| DNA-binding protein [Bacillus thuringiensis] >gi|923584564|gb|KOR62545.1| DNA-binding protein [Bacillus anthracis] >gi|923588655|gb|KOR66434.1| DNA-binding protein [Bacillus anthracis] >gi|924086610|emb|CUB46430.1| DNA-binding protein HU [Bacillus cereus] >gi|924097327|emb|CUB54698.1| DNA-binding protein HU [Bacillus subtilis] >gi|924108833|emb|CUB11288.1| DNA-binding protein HU [Bacillus cereus] >gi|924548581|gb|ALC33762.1| DNA-binding protein [Bacillus anthracis] >gi|924569588|gb|ALC53831.1| DNA-binding protein [Bacillus cereus] >gi|939134391|gb|KPU51003.1| DNA-binding protein HU [Bacillus cereus] >gi|940630710|gb|KQB21048.1| DNA-binding protein [Bacillus thuringiensis] >gi|942013059|gb|ALL23076.1| DNA-binding protein [Bacillus thuringiensis] >gi|944304021|gb|ALL60450.1| DNA-binding protein [Bacillus thuringiensis] >gi|946335214|gb|KRD86224.1| DNA-binding protein [Bacillus sp. Root11] >gi|946345630|gb|KRD96589.1| DNA-binding protein [Bacillus sp. Root131] >gi|958623551|gb|ALQ67245.1| DNA-binding protein [Bacillus thuringiensis] >gi|970409676|gb|KUF33019.1| DNA-binding protein [Bacillus sp. G3(2015)] >gi|971472811|gb|KUH45036.1| hypothetical protein M2E15_4239 [Bacillus mycoides] >gi|975012004|gb|ALZ62730.1| DNA-binding protein HU [Bacillus cereus] >gi|983215982|gb|KWU56337.1| DNA-binding protein [Bacillus mycoides] >gi|983218302|gb|KWU58804.1| DNA-binding protein [Bacillus cereus] >gi|984811988|gb|KWW53374.1| DNA-binding protein [Bacillus cereus] >gi|998191821|gb|KXH91008.1| DNA-binding protein [Bacillus sp. JH7] >gi|999873284|gb|KXI39951.1| DNA-binding protein [Bacillus cereus] >gi|999873800|gb|KXI40441.1| DNA-binding protein [Bacillus cereus] >gi|999880952|gb|KXI46129.1| DNA-binding protein [Bacillus cereus] >gi|999882785|gb|KXI47897.1| DNA-binding protein [Bacillus cereus] >gi|999893673|gb|KXI58144.1| DNA-binding protein [Bacillus cereus] >gi|999901226|gb|KXI65538.1| DNA-binding protein [Bacillus cereus] >gi|999903822|gb|KXI68103.1| DNA-binding protein [Bacillus cereus] >gi|999909449|gb|KXI73182.1| DNA-binding protein [Bacillus cereus] >gi|999917113|gb|KXI80648.1| DNA-binding protein [Bacillus cereus] >gi|999923922|gb|KXI86556.1| DNA-binding protein [Bacillus cereus] >gi|999930125|gb|KXI92548.1| DNA-binding protein [Bacillus cereus] >gi|999935019|gb|KXI95796.1| DNA-binding protein [Bacillus cereus] >gi|1001031295|gb|KXO04110.1| DNA-binding protein [Bacillus thuringiensis] >gi|1003783629|gb|KXX83566.1| DNA-binding protein [Bacillus cereus] >gi|1003793326|gb|KXX92708.1| DNA-binding protein [Bacillus cereus] >gi|1003799072|gb|KXX98189.1| DNA-binding protein [Bacillus cereus] >gi|1003799513|gb|KXX98471.1| DNA-binding protein [Bacillus cereus] >gi|1003801884|gb|KXY00603.1| DNA-binding protein [Bacillus wiedmannii] >gi|1003826116|gb|KXY23219.1| DNA-binding protein [Bacillus cereus] >gi|1003828431|gb|KXY25392.1| DNA-binding protein [Bacillus cereus] >gi|1003834801|gb|KXY31256.1| DNA-binding protein [Bacillus cereus] >gi|1003835402|gb|KXY31810.1| DNA-binding protein [Bacillus cereus] >gi|1003840718|gb|KXY36606.1| DNA-binding protein [Bacillus cereus] >gi|1003848970|gb|KXY44262.1| DNA-binding protein [Bacillus cereus] >gi|1003849953|gb|KXY45202.1| DNA-binding protein [Bacillus cereus] >gi|1003860382|gb|KXY55040.1| DNA-binding protein [Bacillus cereus] >gi|1003865125|gb|KXY59521.1| DNA-binding protein [Bacillus cereus] >gi|1003871771|gb|KXY65713.1| DNA-binding protein [Bacillus cereus] >gi|1003878409|gb|KXY71718.1| DNA-binding protein [Bacillus cereus] >gi|1003883653|gb|KXY76693.1| DNA-binding protein [Bacillus cereus] >gi|1003888818|gb|KXY81609.1| DNA-binding protein [Bacillus wiedmannii] >gi|1003893698|gb|KXY86029.1| DNA-binding protein [Bacillus cereus] >gi|1003895471|gb|KXY87702.1| DNA-binding protein [Bacillus cereus] >gi|1003909835|gb|KXZ00680.1| DNA-binding protein [Bacillus cereus] >gi|1003910858|gb|KXZ01401.1| DNA-binding protein [Bacillus cereus] >gi|1005541367|gb|KYG36882.1| DNA-binding protein [Bacillus gaemokensis] >gi|1008810036|gb|AMR01959.1| DNA-binding protein [Bacillus thuringiensis] >gi|1010937736|gb|AMR83971.1| DNA-binding protein [Bacillus thuringiensis] >gi|1012429299|gb|KYQ03918.1| DNA-binding protein HBsu [Bacillus cereus] >gi|1015497671|gb|KYZ67093.1| DNA-binding protein [Bacillus sp. GZT] >gi|1016865842|gb|AMX76450.1| DNA-binding protein [Bacillus thuringiensis] >gi|1017039614|gb|KZD29996.1| DNA-binding protein HBsu [Bacillus cereus] >gi|1017040814|gb|KZD31178.1| DNA-binding protein HBsu [Bacillus cereus] >gi|1017047579|gb|KZD37847.1| DNA-binding protein HBsu [Bacillus cereus] >gi|1017057329|gb|KZD47429.1| DNA-binding protein HBsu [Bacillus cereus] >gi|1017058348|gb|KZD48435.1| DNA-binding protein HBsu [Bacillus cereus] >gi|1017069411|gb|KZD59321.1| DNA-binding protein HBsu [Bacillus cereus] >gi|1017070358|gb|KZD60258.1| DNA-binding protein HBsu [Bacillus cereus] >gi|1017072786|gb|KZD62648.1| DNA-binding protein HBsu [Bacillus cereus] >gi|1017083283|gb|KZD73003.1| DNA-binding protein HBsu [Bacillus cereus] >gi|1017083791|gb|KZD73494.1| DNA-binding protein HBsu [Bacillus cereus] >gi|1017116088|gb|KZE05270.1| DNA-binding protein HBsu [Bacillus mycoides] >gi|1024778111|gb|ANC07003.1| DNA-binding protein [Bacillus cereus] >gi|1024783938|gb|ANC12828.1| DNA-binding protein [Bacillus cereus] >gi|1024789733|gb|ANC18621.1| DNA-binding protein [Bacillus cereus] >gi|1026611170|gb|AND07101.1| DNA-binding protein [Bacillus thuringiensis serovar alesti] >gi|1026637710|gb|AND23477.1| DNA-binding protein [Bacillus thuringiensis serovar israelensis] >gi|1028656057|gb|ANE84860.1| DNA-binding protein [Bacillus cereus] >gi|1028731469|gb|OAJ99909.1| DNA-binding protein [Bacillus cereus] >gi|1028731726|gb|OAK00117.1| DNA-binding protein [Bacillus cereus] >gi|1028734053|gb|OAK02452.1| DNA-binding protein [Bacillus cereus] >gi|1028747770|gb|OAK15990.1| DNA-binding protein [Bacillus cereus] >gi|1028749225|gb|OAK17431.1| DNA-binding protein [Bacillus cereus] >gi|1028759286|gb|OAK27330.1| DNA-binding protein [Bacillus cereus] >gi|1028761044|gb|OAK29070.1| DNA-binding protein [Bacillus cereus] >gi|1028769240|gb|OAK37101.1| DNA-binding protein [Bacillus cereus] >gi|1028777507|gb|OAK45300.1| DNA-binding protein [Bacillus cereus] >gi|1033844973|gb|ANH85823.1| DNA-binding protein [Bacillus anthracis] >gi|1040089382|gb|ANN31700.1| DNA-binding protein [Bacillus thuringiensis serovar coreanensis] >gi|1041087055|gb|OBV08990.1| DNA-binding protein [Bacillus anthracis] >gi|1041087181|gb|OBV09113.1| DNA-binding protein [Bacillus anthracis] >gi|1041741325|gb|OBW53062.1| DNA-binding protein [Bacillus cereus] >gi|1041783675|gb|OBW89221.1| DNA-binding protein [Bacillus cereus] >gi|1042058775|gb|ANP80656.1| DNA-binding protein [Bacillus sp. B25(2016b)] >gi|1043116900|gb|ANR04114.1| DNA-binding protein [Bacillus anthracis] >gi|1043122196|gb|ANR09409.1| DNA-binding protein [Bacillus anthracis] >gi|1043127498|gb|ANR14710.1| DNA-binding protein [Bacillus anthracis] >gi|1043132800|gb|ANR20011.1| DNA-binding protein [Bacillus anthracis] >gi|1043138102|gb|ANR25312.1| DNA-binding protein [Bacillus anthracis] >gi|1043143403|gb|ANR30612.1| DNA-binding protein [Bacillus anthracis] >gi|1043148707|gb|ANR35915.1| DNA-binding protein [Bacillus anthracis] >gi|1043154004|gb|ANR41211.1| DNA-binding protein [Bacillus anthracis] >gi|1043159299|gb|ANR46505.1| DNA-binding protein [Bacillus anthracis] >gi|1043164596|gb|ANR51801.1| DNA-binding protein [Bacillus anthracis] >gi|1043169892|gb|ANR57096.1| DNA-binding protein [Bacillus anthracis] >gi|1043271158|gb|OBZ58877.1| DNA-binding protein [Bacillus cereus] >gi|1043271205|gb|OBZ58923.1| DNA-binding protein [Bacillus cereus] >gi|1043717137|gb|ANS47128.1| DNA-binding protein HU [Bacillus thuringiensis] >gi|1046288720|gb|ANV72856.1| DNA-binding protein [Bacillus thuringiensis] >gi|1049639235|emb|SCC11095.1| DNA-binding protein HU [Bacillus weihenstephanensis] >gi|1049649874|emb|SCC12192.1| DNA-binding protein HU [Bacillus cereus] >gi|1049655983|emb|SCA98595.1| DNA-binding protein HU [Bacillus weihenstephanensis] >gi|1049663460|emb|SCC02857.1| DNA-binding protein HU [Bacillus cereus] >gi|1049670520|emb|SCC08287.1| DNA-binding protein HU [Bacillus cereus] >gi|1049676312|emb|SCC11604.1| DNA-binding protein HU [Bacillus thuringiensis] >gi|1049688115|emb|SCC10005.1| DNA-binding protein HU [Bacillus cereus]
+MNKTDLINAVAEASSLSKKDATKAVDAVFDSILEALKQGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|118416288|gb|ABK84707.1| bacterial nucleoid protein Hbs [Bacillus thuringiensis str. Al Hakam] >gi|821575849|dbj|BAR77739.1| DNA-binding protein HU [Bacillus anthracis]
+MQKLPTNESKTHFMIIIQSYLWEEVNGMNKTDLINAVAEASSLSKKDATKAVDAVFDSILEALKQGDKVQLIGFGNFEVR
+ERAARKGRNPQTGEEIEIAASKVPAFKPGKALKDAVK
+>gi|228587707|gb|EEK45765.1| DNA-binding protein HU [Bacillus cereus m1293] >gi|228593740|gb|EEK51545.1| DNA-binding protein HU [Bacillus cereus ATCC 10876] >gi|228611235|gb|EEK68493.1| DNA-binding protein HU [Bacillus cereus MM3] >gi|228622970|gb|EEK79801.1| DNA-binding protein HU [Bacillus cereus R309803] >gi|228628302|gb|EEK85017.1| DNA-binding protein HU [Bacillus cereus ATCC 4342] >gi|228645195|gb|EEL01432.1| DNA-binding protein HU [Bacillus cereus BDRD-ST26] >gi|228651123|gb|EEL07104.1| DNA-binding protein HU [Bacillus cereus BDRD-ST196] >gi|228656523|gb|EEL12350.1| DNA-binding protein HU [Bacillus cereus BDRD-Cer4] >gi|228662271|gb|EEL17874.1| DNA-binding protein HU [Bacillus cereus 95/8201] >gi|228692774|gb|EEL46498.1| DNA-binding protein HU [Bacillus cereus Rock3-42] >gi|228698689|gb|EEL51405.1| DNA-binding protein HU [Bacillus cereus Rock3-44] >gi|228713914|gb|EEL65798.1| DNA-binding protein HU [Bacillus cereus F65185] >gi|228720109|gb|EEL71693.1| DNA-binding protein HU [Bacillus cereus AH603] >gi|228738218|gb|EEL88700.1| DNA-binding protein HU [Bacillus cereus AH1272] >gi|228744427|gb|EEL94501.1| DNA-binding protein HU [Bacillus cereus AH1273] >gi|228750317|gb|EEM00147.1| DNA-binding protein HU [Bacillus mycoides DSM 2048] >gi|228756868|gb|EEM06150.1| DNA-binding protein HU [Bacillus mycoides Rock1-4] >gi|228763041|gb|EEM11951.1| DNA-binding protein HU [Bacillus mycoides Rock3-17] >gi|228769150|gb|EEM17748.1| DNA-binding protein HU [Bacillus pseudomycoides DSM 12442] >gi|228788126|gb|EEM36082.1| DNA-binding protein HU [Bacillus thuringiensis serovar thuringiensis str. T01001] >gi|228795118|gb|EEM42615.1| DNA-binding protein HU [Bacillus thuringiensis serovar sotto str. T04001] >gi|228814444|gb|EEM60709.1| DNA-binding protein HU [Bacillus thuringiensis serovar monterrey BGSC 4AJ1] >gi|228833016|gb|EEM78584.1| DNA-binding protein HU [Bacillus thuringiensis serovar pondicheriensis BGSC 4BA1] >gi|228845389|gb|EEM90424.1| DNA-binding protein HU [Bacillus thuringiensis serovar pulsiensis BGSC 4CC1] >gi|228852382|gb|EEM97176.1| DNA-binding protein HU [Bacillus thuringiensis IBL 200] >gi|228859460|gb|EEN03888.1| DNA-binding protein HU [Bacillus thuringiensis IBL 4222]
+MNGMNKTDLINAVAEASSLSKKDATKAVDAVFDSILEALKQGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVP
+AFKPGKALKDAVK
+>gi|489356056|ref|WP_003263075.1| transcriptional regulator [Bacillus cereus] >gi|30019658|ref|NP_831289.1| DNA-binding protein HU [Bacillus cereus ATCC 14579] >gi|29895202|gb|AAP08490.1| DNA-binding protein HU [Bacillus cereus ATCC 14579] >gi|74488445|gb|EAO52059.1| DNA-binding protein HU [Bacillus thuringiensis serovar israelensis ATCC 35646]
+MPTNESKTHFMIIIQSYLWEEVNGMNKTDLINAVAEASSLSKKDATKAVDAVFDSILEALKQGDKVQLIGFGNFEVRERA
+ARKGRNPQTGEEIEIAASKVPAFKPGKALKDAVK
+>gi|1053740275|ref|WP_066047575.1| DNA-binding protein [Bacillus korlensis]
+MNKTELINAVAEASELSKKDATKAVDAVFDSILEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEISASKVPAFK
+PGKALKDAVK
+>gi|1021801557|ref|WP_063388591.1| MULTISPECIES: DNA-binding protein [Bacillaceae] >gi|1020969397|gb|KZM52706.1| DNA-binding protein [Geobacillus sp. 8] >gi|1021578264|gb|KZN95857.1| DNA-binding protein [Aeribacillus pallidus]
+MNKTELINAVAEASELSKKDATKAVDAVFDTILESLKKGDKVQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDAVAGK
+>gi|497970073|ref|WP_010284229.1| transcriptional regulator [Bacillus timonensis]
+MNKTELVNAVAESAELSKKDATKAVDAVFDSILEALKSGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|487899501|ref|WP_001972967.1| transcriptional regulator [Bacillus cereus] >gi|47556889|gb|EAL15219.1| DNA-binding protein HU [Bacillus cereus G9241] >gi|633265596|gb|KDB44125.1| DNA-binding protein [Bacillus cereus] >gi|728880050|gb|AIY75837.1| DNA-binding protein HU [Bacillus cereus] >gi|753560003|gb|AJI02968.1| DNA-binding protein HU [Bacillus cereus G9241]
+MNKTDLINAVAEASSLSKKDATKAVDAVFDSILEALKQGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKAFKDAVK
+>gi|502824040|ref|WP_013059016.1| MULTISPECIES: transcriptional regulator [Bacillus] >gi|294351014|gb|ADE71343.1| non-specific DNA-binding protein HBsu [Bacillus megaterium QM B1551] >gi|294804084|gb|ADF41150.1| non-specific DNA-binding protein HBsu [Bacillus megaterium DSM 319] >gi|675486335|gb|KFN00384.1| DNA-binding protein HU 1 [Bacillus megaterium] >gi|694294280|gb|KGJ73010.1| DNA-binding protein [Bacillus megaterium NBRC 15308 = ATCC 14581] >gi|753726185|gb|AJI21954.1| DNA-binding protein HU 1 [Bacillus megaterium NBRC 15308 = ATCC 14581] >gi|770606120|gb|KJL04123.1| DNA-binding protein [Bacillus aryabhattai B8W22] >gi|837651719|gb|KLV34104.1| DNA-binding protein [Bacillus megaterium] >gi|848319637|gb|KML29387.1| DNA-binding protein [Bacillus aryabhattai] >gi|857333326|gb|KMO00988.1| DNA-binding protein [Bacillus aryabhattai] >gi|873989297|gb|AKP79335.1| hypothetical protein AS52_04375 [Bacillus megaterium Q3] >gi|910845459|gb|KNH22825.1| DNA-binding protein [Bacillus flexus] >gi|923183419|gb|KOP76316.1| DNA-binding protein [Bacillus sp. FJAT-21351] >gi|945353933|gb|KQU11155.1| DNA-binding protein [Bacillus sp. Leaf75] >gi|946338571|gb|KRD89565.1| DNA-binding protein [Bacillus sp. Root147] >gi|946354690|gb|KRE05596.1| DNA-binding protein [Bacillus sp. Root239] >gi|946507698|gb|KRF57619.1| DNA-binding protein [Bacillus sp. Soil531] >gi|983221701|gb|KWU61922.1| DNA-binding protein [Bacillus megaterium] >gi|1017120758|gb|KZE09470.1| DNA-binding protein [Bacillus aryabhattai] >gi|1026533972|gb|OAD50063.1| DNA-binding protein [Bacillus megaterium] >gi|1030075337|gb|ANF47975.1| DNA-binding protein [Bacillus sp. IHB B 7164]
+MNKTELINAVAEASELSKKDATKAVDAVFDTILEALKAEDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDAVK
+>gi|902801417|ref|WP_049670554.1| MULTISPECIES: DNA-binding protein [Bacillus] >gi|899707148|gb|KMY44164.1| DNA-binding protein [Bacillus sp. FJAT-27916] >gi|1043529471|gb|OCA83574.1| DNA-binding protein [Bacillus sp. FJAT-27986]
+MNKTELINAVAEASELSKKDATKAVDAVFESILEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEISASKVPAFK
+PGKALKDAVK
+>gi|1054617218|ref|WP_066385056.1| DNA-binding protein [Bacillus mesonae]
+MNKTELINAVAETSELSKKDATKAVDAVFDTILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIGASKVPAFK
+PGKALKDAVK
+>gi|1054677969|ref|WP_066444147.1| DNA-binding protein [Bacillus gottheilii]
+MNKTELINAVAEASELSKKDATKAVDAVFDTILEALKNGDKIQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|857572977|emb|CRK83931.1| non-specific DNA-binding protein HBsu [Bacillus sp. LF1]
+MNKTELINAVAETSELSKKDATKAVDAVFDAILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIGASKVPAFK
+PGKALKDAVK
+>gi|517984099|ref|WP_019154307.1| transcriptional regulator [Bacillus massiliosenegalensis]
+MNKTELVNAVAESSELSKKDATKAVDAVFDSILNALKDGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEISASKVPAFK
+PGKALKDAVK
+>gi|924339203|ref|WP_053476815.1| MULTISPECIES: DNA-binding protein [Bacillus] >gi|923190375|gb|KOP83251.1| DNA-binding protein [Bacillus sp. FJAT-21945] >gi|944256018|gb|KQL20278.1| DNA-binding protein [Bacillus sp. FJAT-18043]
+MNKTELINAVAESSELSKKDATKAVDAVFDAILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|345442766|gb|AEN87783.1| DNA-binding protein HU-alpha (Histone-like protein) [Bacillus megaterium WSH-002]
+MIRFWEEVNGMNKTELINAVAEASELSKKDATKAVDAVFDTILEALKAEDKVQLIGFGNFEVRERAARKGRNPQTGEEIE
+IPASKVPAFKPGKALKDAVK
+>gi|518221467|ref|WP_019391675.1| MULTISPECIES: transcriptional regulator [Bacillus] >gi|868709571|gb|AKO93972.1| DNA-binding protein [Bacillus endophyticus]
+MNKTDLINAVAEASELSKKDATKAVDAVFDTILDALKEGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIPASKVPAFK
+PGKALKDAVK
+>gi|953346379|ref|WP_057997427.1| DNA-binding protein [Bacillus humi]
+MNKTELVNAVAESAELSKKDATKAVDAVFDSILEALKGGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|1054510497|ref|WP_066294243.1| DNA-binding protein [Bacillus sp. FJAT-29937]
+MNKTELINAVAESSELSKKDATKAVDAVFDAILDALKAGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|736669592|ref|WP_034676225.1| MULTISPECIES: DNA-binding protein [Bacillus] >gi|699061521|gb|KGM45130.1| DNA-binding protein [Bacillus niacini]
+MNKTELINAVAEASELSKKDATKAVDAVFDSILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIGASKVPAFK
+PGKALKDAVK
+>gi|701634322|gb|KGP93137.1| DNA-binding protein [Pontibacillus chungwhensis BH030062]
+MNSMNKTDLINAVAEKSDLSKKDATKAVDAVFDSITETLKDGDKVQLIGFGNFEVRERAARKGRNPQTGQEIEISASKVP
+AFKPGKALKDSVK
+>gi|490570277|ref|WP_004435297.1| transcriptional regulator [Bacillus methanolicus] >gi|387590989|gb|EIJ83308.1| DNA-binding protein HU [Bacillus methanolicus MGA3] >gi|662719343|gb|AIE60553.1| DNA-binding protein HU [Bacillus methanolicus MGA3]
+MNKTELINAVAEATELSKKDATKAVDAVFDAILEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|518071826|ref|WP_019242034.1| MULTISPECIES: transcriptional regulator [Bacillus]
+MNKTELINAVAEASELSKKDATKAVDAVFDTILDALKSGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|736251244|ref|WP_034328581.1| DNA-binding protein [Bacillus sp. FJAT-14578]
+MNKTDLINAVAEASELSKKDATKAVDAVFDTILDALKDGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIPASKVPAFK
+PGKALKDAVK
+>gi|654941385|ref|WP_028391560.1| MULTISPECIES: DNA-binding protein [Bacillales] >gi|899713599|gb|KMY50613.1| DNA-binding protein [Bacillus sp. FJAT-27997]
+MNKTELINAVAETGELSKKDATKAVDAVFDTILDALKSGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|1053875582|ref|WP_066089318.1| DNA-binding protein [Bacillus novalis]
+MNKTELINAVAENSELSKKDATKAVDAVFDAILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|738892071|ref|WP_036779415.1| DNA-binding protein [Pontibacillus chungwhensis]
+MNKTDLINAVAEKSDLSKKDATKAVDAVFDSITETLKDGDKVQLIGFGNFEVRERAARKGRNPQTGQEIEISASKVPAFK
+PGKALKDSVK
+>gi|984943275|ref|WP_060784060.1| DNA-binding protein [Bacillus anthracis] >gi|984730074|gb|AMC03629.1| DNA-binding protein [Bacillus anthracis]
+MNKTDLINAVAEASSLSKKGATKAVDAVFDSILEALKQGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|567928044|ref|WP_024030636.1| MULTISPECIES: DNA-binding protein HU [Bacillus] >gi|566067514|gb|ETI66476.1| DNA-binding protein HU [Bacillus vireti LMG 21834] >gi|830238866|gb|KLT17162.1| DNA-binding protein [Bacillus vireti]
+MNKTELINAVAEASELSKKDATKAVDAVFDAILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|647635649|ref|WP_025908380.1| MULTISPECIES: DNA-binding protein [Bacillus] >gi|959359314|gb|KSU89512.1| DNA-binding protein [Bacillus sp. SGD-V-76] >gi|1016047306|gb|KZB92566.1| DNA-binding protein [Bacillus sp. VT 712] >gi|1049614081|emb|SCB80415.1| bacterial nucleoid protein Hbs [Bacillus sp. v-76]
+MNKTELINAVAEASELSKKDATKAVDAVFDTILDALKDGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|923000858|ref|WP_053402298.1| DNA-binding protein [Bacillus koreensis] >gi|922878291|gb|KOO44089.1| DNA-binding protein [Bacillus koreensis]
+MNKTDLINAVSEASELSKKDATKAVDAVFESILDALKDGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDAVK
+>gi|751589749|ref|WP_041058022.1| DNA-binding protein [Jeotgalibacillus campisalis] >gi|751160983|gb|KIL48069.1| transcriptional regulator [Jeotgalibacillus campisalis]
+MNKTELINAVAESAELSKKDATKAVDAVFDSVQDALAKGDKVQLIGFGNFEVRERAARKGRNPQTGQEIEIAASKVPAFK
+PGKALKDAVK
+>gi|1049943078|gb|OCS87814.1| DNA-binding protein [Caryophanon tenue]
+MNKTELVNSVAEAAGLSKKDASKAVDAVFDTIQDALAKGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|748254058|ref|WP_039809415.1| MULTISPECIES: DNA-binding protein [Jeotgalibacillus] >gi|747143049|gb|AJD91310.1| transcriptional regulator [Jeotgalibacillus malaysiensis] >gi|751161864|gb|KIL48939.1| transcriptional regulator [Jeotgalibacillus alimentarius]
+MNKTELINAVAESAELSKKDATKAVDAVFDTVQDALAKGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEISASKVPAFK
+PGKALKDAVK
+>gi|736663707|ref|WP_034670714.1| DNA-binding protein [Bacillus panaciterrae]
+MNKTDLINAVAEASDLSKKDATKAVDAVFDAILEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVQQ
+>gi|502938089|ref|WP_013173065.1| transcriptional regulator [[Bacillus] selenitireducens] >gi|297142886|gb|ADH99643.1| histone family protein DNA-binding protein [ [[Bacillus] selenitireducens MLS10]
+MNKTELINAVAESADLSKKDATSAVDAVFEVITDSLKKGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIPASNVPAFK
+PGKALKDAVK
+>gi|1054250707|ref|WP_066200607.1| DNA-binding protein [Bacillus eiseniae]
+MNKTELINAVAEASELSKKDATKAVDAVFDTVLDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|1054649391|ref|WP_066416887.1| DNA-binding protein [Bacillus cohnii]
+MNKTDLINAVAEASEISKKDATKAVDAVFDTIQEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|510830969|ref|WP_016203034.1| MULTISPECIES: DNA-binding protein HU [Bacillus] >gi|507131181|gb|EOR23604.1| DNA-binding protein HU [Bacillus nealsonii AAU1] >gi|837644935|gb|KLV27806.1| DNA-binding protein [Bacillus circulans]
+MNKTELINAVAEASELSKKDATKAVDAVFDTILNALKDGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|755001861|ref|WP_042355261.1| MULTISPECIES: DNA-binding protein [Bacillus]
+MNKTELINAVAEASELSKKDATKAVDAVFDTILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIGASKVPAFK
+PGKALKDAVK
+>gi|1006558849|ref|WP_061801832.1| DNA-binding protein [Bacillus endophyticus] >gi|1005540349|gb|KYG35899.1| DNA-binding protein [Bacillus endophyticus]
+MNKTDLINTVAEASELSKKDATKAVDAVFDTILDALKEGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIPASKVPAFK
+PGKALKDAVK
+>gi|560440845|ref|WP_023627533.1| MULTISPECIES: transcriptional regulator [Bacillus] >gi|559166609|gb|ESU30256.1| transcriptional regulator [Bacillus sp. 17376] >gi|571146796|dbj|GAE43472.1| DNA-binding protein HBsu [Bacillus boroniphilus JCM 21738] >gi|730208790|dbj|GAM13852.1| DNA-binding protein HBsu [Bacillus selenatarsenatis SF-1]
+MNKTELINAVAEASELSKKDATKAVDAVFDSILNALKDGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEISASKVPAFK
+PGKALKDAVK
+>gi|489245272|ref|WP_003153447.1| MULTISPECIES: DNA-binding protein HU 1 [Bacillales] >gi|16079336|ref|NP_390160.1| DNA-binding protein HU 1 [Bacillus subtilis subsp. subtilis str. 168] >gi|118263|sp|P08821.2|DBH1_BACSU RecName: Full=DNA-binding protein HU 1; AltName: Full=DNA-binding protein II; AltName: Full=HB >gi|39936|emb|CAA36669.1| unnamed protein product [Bacillus subtilis subsp. subtilis str. JH642] >gi|39938|emb|CAA47064.1| hbsu [Bacillus subtilis] >gi|143071|gb|AAA22535.1| hubgl, partial [Bacillus subtilis subsp. globigii] >gi|143073|gb|AAA22536.1| hubsub, partial [Bacillus subtilis] >gi|2634697|emb|CAB14195.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus subtilis subsp. subtilis str. 168] >gi|154352378|gb|ABS74457.1| HupA [Bacillus amyloliquefaciens subsp. plantarum str. FZB42] >gi|296149834|gb|EFG90726.1| hypothetical protein BSU6633_17908 [Bacillus subtilis subsp. spizizenii ATCC 6633] >gi|305413157|gb|ADM38276.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus subtilis subsp. spizizenii str. W23] >gi|307606935|emb|CBI43306.1| non-specific DNA-binding protein HBsu [Bacillus amyloliquefaciens DSM 7] >gi|310869311|gb|ADP32786.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus atrophaeus 1942] >gi|320018023|gb|ADV93009.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus subtilis BSn5] >gi|328552803|gb|AEB23295.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus amyloliquefaciens TA208] >gi|328912401|gb|AEB63997.1| DNA-binding protein HU 1 [Bacillus amyloliquefaciens LL3] >gi|341827055|gb|AEK88306.1| non-specific DNA-binding protein HBsu; signal [Bacillus amyloliquefaciens XH7] >gi|349595110|gb|AEP91297.1| DNA-binding protein HU 1 [Bacillus subtilis subsp. subtilis str. RO-NN-1] >gi|349599339|gb|AEP87127.1| DNA-binding protein HU 1 [Bacillus subtilis subsp. spizizenii TU-B-10] >gi|371568787|emb|CCF05637.1| DNA-binding protein HU DNA-binding protein II [Bacillus velezensis CAU B946] >gi|380499229|emb|CCG50267.1| DNA-binding protein HU DNA-binding protein II [Bacillus velezensis YAU B9601-Y2] >gi|384932142|gb|AFI28820.1| non-specific DNA-binding protein HBsu [Bacillus sp. JS] >gi|388475380|gb|EIM12093.1| DNA-binding protein HU DNA-binding protein II [Bacillus atrophaeus C89] >gi|393805646|gb|EJD67020.1| non-specific DNA-binding protein HBsu [Bacillus sp. 916] >gi|402481718|gb|AFQ58227.1| Non-specific DNA-binding protein HBsu [Bacillus subtilis QB928] >gi|407075377|gb|EKE48364.1| non-specific DNA-binding protein [Bacillus velezensis M27] >gi|407959520|dbj|BAM52760.1| non-specific DNA-binding protein HBsu [Bacillus subtilis BEST7613] >gi|407965096|dbj|BAM58335.1| non-specific DNA-binding protein HBsu [Bacillus subtilis BEST7003] >gi|429487256|gb|AFZ91180.1| non-specific DNA-binding protein [Bacillus velezensis AS43.3] >gi|430022980|gb|AGA23586.1| Non-specific DNA-binding protein Hbsu [Bacillus subtilis subsp. subtilis str. BSP1] >gi|443345318|gb|ELS59383.1| non-specific DNA-binding protein HBsu [Bacillus subtilis subsp. inaquosorum KCTC 13429] >gi|449850294|gb|AGF27286.1| non-specific DNA-binding protein [Bacillus amyloliquefaciens IT-45] >gi|452080299|emb|CCP22061.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus velezensis UCMB5036] >gi|452115375|gb|EME05771.1| DNA-binding protein HU 1 [Bacillus subtilis MB73/2] >gi|459390088|gb|AGG61674.1| DNA-binding protein HU 1 HupA [Bacillus subtilis subsp. subtilis 6051-HGW] >gi|472254894|gb|AGI29425.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus subtilis subsp. subtilis str. BAB-1] >gi|530334159|emb|CDG30202.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus velezensis UCMB5033] >gi|530337839|emb|CDG26315.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus velezensis UCMB5113] >gi|542009574|gb|ERH55442.1| transcriptional regulator [Bacillus amyloliquefaciens EGD-AQ14] >gi|542114395|gb|ERI42244.1| transcriptional regulator [Bacillus sp. EGD-AK10] >gi|544265299|gb|ERK82937.1| transcriptional regulator [Bacillus amyloliquefaciens UASWS BA1] >gi|549061399|emb|CDH95273.1| DNA-binding protein HU [Bacillus velezensis NAU-B3] >gi|556019833|gb|AGZ56861.1| non-specific DNA-binding protein HBsu [Bacillus amyloliquefaciens CC178] >gi|558568747|gb|AHA78153.1| DNA-binding protein HU 1 [Bacillus subtilis PY79] >gi|566056930|gb|AHC42678.1| transcriptional regulator [Bacillus amyloliquefaciens LFB112] >gi|588501773|gb|EXF54184.1| transcriptional regulator [Bacillus subtilis QH-1] >gi|589092874|gb|AHK49626.1| DNA-binding protein [Bacillus velezensis TrigoCor1448] >gi|597506574|gb|EYB37197.1| DNA-binding protein [Bacillus amyloliquefaciens EBL11] >gi|631801724|gb|AHZ16389.1| DNA-binding protein HU DNA-binding protein II [Bacillus velezensis SQR9] >gi|635179429|gb|KDE23433.1| DNA-binding protein [Bacillus subtilis] >gi|641405796|gb|KDN93794.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|649011671|gb|AIC40725.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus subtilis subsp. subtilis str. JH642 substr. AG174] >gi|649016035|gb|AIC44957.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus subtilis subsp. subtilis str. AG1839] >gi|655531236|gb|AIC98677.1| DNA-binding protein [Bacillus subtilis subsp. subtilis str. OH 131.1] >gi|659924447|emb|CCU58782.1| DNA-binding protein HBsu [Bacillus subtilis E1] >gi|668754591|gb|KFC30500.1| DNA-binding protein [Bacillus subtilis] >gi|670921061|gb|AII36074.1| transcriptional regulator [Bacillus subtilis TO-A] >gi|671704247|gb|KFF56181.1| DNA-binding protein [Bacillus subtilis] >gi|672776299|gb|KFH35872.1| DNA-binding protein [Bacillus subtilis subsp. subtilis] >gi|672777495|gb|KFH37067.1| DNA-binding protein [Bacillus subtilis subsp. subtilis] >gi|672858305|gb|KFI01202.1| DNA-binding protein [Bacillus sp. BSC154] >gi|672875079|gb|KFI17504.1| DNA-binding protein [Bacillus subtilis] >gi|673982617|gb|AIK49313.1| DNA-binding protein HU 1 [Bacillus atrophaeus subsp. globigii] >gi|674556109|gb|KFK76966.1| DNA-binding protein HU 1 [Bacillus subtilis] >gi|674582732|gb|KFK82908.1| DNA-binding protein HU 1 [Bacillus subtilis subsp. niger] >gi|675437360|dbj|GAK79450.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus subtilis Miyagi-4] >gi|679910573|gb|KFX39641.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|700306797|gb|AIU77677.1| DNA-binding protein [Bacillus subtilis] >gi|700309900|gb|AIU82263.1| DNA-binding protein HU 1 [Bacillus velezensis] >gi|703574418|gb|AIW30307.1| DNA-binding protein [Bacillus subtilis] >gi|703581873|gb|AIW34234.1| DNA-binding protein [Bacillus subtilis] >gi|703585543|gb|AIW37903.1| DNA-binding protein [Bacillus subtilis] >gi|721329893|gb|AIX07892.1| DNA-binding protein HU 1 [Bacillus subtilis] >gi|723798801|emb|CEI57494.1| DNA-binding protein HU 1 [Bacillus subtilis] >gi|724427996|emb|CEJ77916.1| DNA-binding protein HU 1 [Bacillus sp.] >gi|728885204|gb|AIY93599.1| DNA-binding protein [Bacillus subtilis subsp. subtilis str. 168] >gi|728889513|gb|AIY97907.1| DNA-binding protein [Bacillus subtilis] >gi|743684863|gb|AJC26995.1| DNA-binding protein [Bacillus sp. Pc3] >gi|745816135|gb|AJD36804.1| DNA-binding protein [Bacillus subtilis subsp. spizizenii] >gi|748277156|gb|KIH39097.1| DNA-binding protein [Bacillus sp. A053] >gi|749173266|gb|AJE79121.1| DNA-binding protein [Bacillus sp. BH072] >gi|749186271|gb|AJE94981.1| DNA-binding protein [Bacillus subtilis subsp. subtilis] >gi|751135956|gb|KIL33239.1| hypothetical protein B4067_2495 [Bacillus subtilis subsp. subtilis] >gi|751416663|gb|AJF85450.1| DNA-binding protein [Bacillus atrophaeus] >gi|751877992|gb|KIN29999.1| hypothetical protein B4069_2170 [Bacillus subtilis] >gi|751883013|gb|KIN34904.1| hypothetical protein B4068_2232 [Bacillus subtilis] >gi|751885413|gb|KIN37259.1| hypothetical protein B4071_2268 [Bacillus subtilis] >gi|751886766|gb|KIN38591.1| hypothetical protein B4070_2165 [Bacillus subtilis] >gi|751890041|gb|KIN41804.1| hypothetical protein B4072_2184 [Bacillus subtilis] >gi|751895488|gb|KIN47132.1| hypothetical protein B4145_2407 [Bacillus subtilis] >gi|751900531|gb|KIN52092.1| hypothetical protein B4146_2426 [Bacillus subtilis] >gi|751905575|gb|KIN57037.1| hypothetical protein B4073_2210 [Bacillus subtilis] >gi|752645695|gb|KIO59516.1| hypothetical protein B4143_2244 [Bacillus subtilis] >gi|753766561|gb|AJH24445.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|755962172|gb|AJK65831.1| DNA-binding protein HU [Bacillus amyloliquefaciens KHG19] >gi|756870394|gb|KIR04279.1| DNA-binding protein [Bacillus velezensis] >gi|758180826|gb|AJO58705.1| DNA-binding protein [Bacillus sp. YP1] >gi|758318285|gb|KIU11409.1| hypothetical protein SC09_Contig24orf00383 [Bacillus subtilis] >gi|760455266|gb|KIX81345.1| DNA-binding protein HU 1 [Bacillus subtilis] >gi|765095726|gb|KJD57826.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|768926791|gb|KJJ41800.1| DNA-binding protein [Bacillus subtilis] >gi|772682163|gb|AJW83863.1| DNA-binding protein [Bacillus subtilis] >gi|778489929|gb|KJR69410.1| DNA-binding protein [Bacillus velezensis] >gi|806467972|gb|KKB92652.1| DNA-binding protein [Bacillus sp. CMAA 1185] >gi|807074651|gb|AKC47857.1| DNA-binding protein [Bacillus subtilis KCTC 1028] >gi|808204427|gb|AKD22630.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|808334013|gb|AKD30396.1| non-specific DNA-binding protein HBsu [Bacillus velezensis NJN-6] >gi|808340653|gb|AKD35511.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus subtilis HJ5] >gi|811395489|emb|CON23563.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|817158612|gb|AKF31138.1| DNA-binding protein [Bacillus velezensis] >gi|817595620|gb|AKF76198.1| DNA-binding protein [Bacillus velezensis] >gi|825064813|gb|AKI92537.1| DNA-binding protein [Bacillus subtilis] >gi|829578485|gb|AKL76778.1| non-specific DNA-binding protein HBsu [Bacillus velezensis] >gi|830325176|gb|AKL84950.1| Hbs [Bacillus atrophaeus UCMB-5137] >gi|846136829|gb|AKN14276.1| DNA-binding protein [Bacillus subtilis] >gi|857284890|gb|KMN57520.1| DNA-binding protein [Bacillus sp. LK7] >gi|857326322|gb|KMN94216.1| DNA-binding protein [Bacillus subtilis] >gi|857393010|gb|KMO08971.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|882818160|emb|CJS51086.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|895759907|emb|COC99154.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|899710811|gb|KMY47826.1| DNA-binding protein [Bacillus sp. FJAT-27445] >gi|906390349|gb|KNB77094.1| DNA-binding protein [Bacillus subtilis] >gi|912475145|gb|KNX33796.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|914786219|gb|KOC23522.1| DNA-binding protein [Bacillus velezensis] >gi|914792475|gb|KOC29759.1| DNA-binding protein [Bacillus velezensis] >gi|916376937|gb|KOC83906.1| DNA-binding protein [Bacillus velezensis] >gi|922818010|gb|KOO01294.1| DNA-binding protein [Bacillus murimartini] >gi|922879740|gb|KOO45527.1| DNA-binding protein [Jeotgalibacillus marinus] >gi|924001914|emb|CUB46961.1| DNA-binding protein HU 1 [Bacillus subtilis] >gi|924002692|emb|CUB36288.1| DNA-binding protein HU 1 [Bacillus subtilis] >gi|924009039|emb|CUB26949.1| DNA-binding protein HU 1 [Bacillus amyloliquefaciens] >gi|924013418|emb|CUB55371.1| DNA-binding protein HU 1 [Bacillus subtilis] >gi|924018789|emb|CUB14001.1| DNA-binding protein HU 1 [Bacillus subtilis] >gi|924020147|emb|CUB46008.1| DNA-binding protein HU 1 [Bacillus amyloliquefaciens] >gi|924031511|emb|CUB37527.1| DNA-binding protein HU 1 [Bacillus subtilis] >gi|924105255|emb|CUB17657.1| DNA-binding protein HU 1 [Bacillus cereus] >gi|924903429|gb|KOS52295.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|925225980|gb|KOS70675.1| DNA-binding protein [Bacillus tequilensis] >gi|928547910|gb|KPD37037.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|949332638|gb|KRQ91424.1| DNA-binding protein [Bacillus velezensis] >gi|951625459|gb|KRT33246.1| DNA-binding protein [Bacillus velezensis] >gi|959996531|gb|KSV97951.1| DNA-binding protein [Bacillus velezensis] >gi|960001740|gb|KSW03135.1| DNA-binding protein [Bacillus velezensis] >gi|960005720|gb|KSW07075.1| DNA-binding protein [Bacillus velezensis] >gi|961583572|gb|ALS81740.1| DNA-binding protein [Bacillus subtilis subsp. subtilis] >gi|966554899|gb|KTF55662.1| DNA-binding protein [Bacillus velezensis] >gi|966560285|gb|KTF60901.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|971164051|gb|ALV01786.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|974720834|gb|KUP30127.1| DNA-binding protein [Bacillus malacitensis] >gi|974721294|gb|KUP30586.1| DNA-binding protein [[Brevibacterium] halotolerans] >gi|974729632|gb|KUP38874.1| DNA-binding protein [Bacillus velezensis] >gi|974732885|gb|KUP42110.1| DNA-binding protein [Bacillus axarquiensis] >gi|975827330|emb|CUX93926.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus velezensis] >gi|982207556|gb|AMA52793.1| DNA-binding protein [Bacillus subtilis subsp. inaquosorum] >gi|983207072|gb|AMB24533.1| DNA-binding protein [Bacillus subtilis subsp. subtilis] >gi|987472907|gb|AME08334.1| DNA-binding protein [Bacillus sp. SDLI1] >gi|998749408|gb|AMK72750.1| DNA-binding protein [Bacillus subtilis subsp. natto] >gi|1000054539|gb|KXJ35119.1| DNA-binding protein [Bacillus subtilis] >gi|1004086887|gb|KXZ16122.1| DNA-binding protein [Bacillus atrophaeus] >gi|1004097656|gb|KXZ21578.1| DNA-binding protein [Bacillus nakamurai] >gi|1004324075|gb|AMP31388.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|1004876893|gb|KYC86949.1| hypothetical protein B4140_2631 [Bacillus amyloliquefaciens] >gi|1004885868|gb|KYC95782.1| hypothetical protein B425_2636 [Bacillus amyloliquefaciens] >gi|1004892487|gb|KYD02336.1| hypothetical protein B4144_2829 [Bacillus vallismortis] >gi|1007406984|gb|AMQ68206.1| transcriptional regulator [Bacillus amyloliquefaciens UMAF6639] >gi|1007413459|gb|AMQ74548.1| transcriptional regulator [Bacillus amyloliquefaciens UMAF6614] >gi|1009037028|gb|AMR46666.1| DNA-binding protein [Bacillus subtilis subsp. subtilis] >gi|1009067135|gb|AMR50812.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|1009289316|gb|AMR62414.1| DNA-binding protein [Bacillus subtilis subsp. globigii] >gi|1012902041|gb|AMS47856.1| DNA-binding protein [Bacillus subtilis] >gi|1017095528|gb|KZD85089.1| DNA-binding protein HBsu [Bacillus subtilis] >gi|1017102063|gb|KZD91511.1| DNA-binding protein HBsu [Bacillus subtilis] >gi|1017174373|gb|KZE62116.1| DNA-binding protein [Bacillus amyloliquefaciens] >gi|1024255688|gb|ANB49141.1| DNA-binding protein [Bacillus velezensis] >gi|1024401612|gb|ANB84166.1| DNA-binding protein [Bacillus velezensis] >gi|1026722396|gb|OAD99899.1| DNA-binding protein [Bacillus subtilis] >gi|1030032425|gb|ANF37066.1| transcriptional regulator [Bacillus velezensis] >gi|1030050379|gb|OAL91604.1| DNA-binding protein [Bacillus velezensis] >gi|1030052600|gb|OAL93787.1| DNA-binding protein [Bacillus velezensis] >gi|1035536293|gb|ANJ31111.1| DNA-binding protein [Bacillus subtilis subsp. subtilis] >gi|1036011693|gb|OAY89836.1| DNA-binding protein [Bacillus subtilis subsp. subtilis] >gi|1036315713|gb|OAZ59085.1| DNA-binding protein HU-1 [Bacillus siamensis] >gi|1036323596|gb|OAZ66874.1| DNA-binding protein HU-1 [Bacillus subtilis] >gi|1036601347|gb|OBA09458.1| DNA-binding protein [Bacillus subtilis] >gi|1039345195|gb|OBR26887.1| DNA-binding protein HU-1 [Bacillus amyloliquefaciens] >gi|1039351652|gb|OBR33275.1| DNA-binding protein HU-1 [Bacillus velezensis] >gi|1043708299|gb|ANS38777.1| DNA-binding protein [Bacillus velezensis] >gi|1044619482|gb|OCB94028.1| DNA-binding protein HU-1 [Bacillus amyloliquefaciens] >gi|1044624289|gb|OCB98777.1| DNA-binding protein HU-1 [Bacillus velezensis] >gi|1045030548|gb|ANU30537.1| DNA-binding protein [Bacillus velezensis] >gi|1046155403|gb|OCJ71303.1| DNA-binding protein [Bacillus velezensis] >gi|1049083723|gb|ANX07844.1| DNA-binding protein [Bacillus subtilis subsp. subtilis] >gi|1049333692|gb|ANY32512.1| DNA-binding protein [Bacillus subtilis subsp. subtilis] >gi|1049336533|gb|ANY35352.1| DNA-binding protein [Bacillus subtilis subsp. subtilis] >gi|1049339296|gb|ANY38114.1| DNA-binding protein [Bacillus subtilis subsp. subtilis] >gi|1051022249|gb|AOA11611.1| DNA-binding protein [Bacillus subtilis subsp. subtilis] >gi|1051351597|gb|AOA55003.1| DNA-binding protein HU-1 [Bacillus subtilis] >gi|1052481190|gb|AOC91528.1| DNA-binding protein HU-1 [Bacillus amyloliquefaciens] >gi|383705|prf||1904151A DNA-binding protein HBsu
+MNKTELINAVAEASELSKKDATKAVDSVFDTILDALKNGDKIQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDAVAGK
+>gi|1004351067|ref|WP_061527703.1| DNA-binding protein [Bacillus nakamurai] >gi|1004098082|gb|KXZ22003.1| DNA-binding protein [Bacillus nakamurai]
+MNKTELINAVAEASELSKKDATKAVDSVFDTILDALKNGDKIQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDAVSGK
+>gi|727678601|ref|WP_033828544.1| MULTISPECIES: DNA-binding protein [Bacillus]
+MNKTDLVNAVAETAELSKKDATKAVDAVFDSILNALKQGDKVQLIGFGNFEVRERSARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|765542340|ref|WP_044749063.1| DNA-binding protein [Bacillus alveayuensis]
+MNKTELINQVAELSELSKKDATKAVEAVFDTILEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDAVAGK
+>gi|951396504|ref|WP_057771366.1| DNA-binding protein [Bacillus sp. FJAT-25496]
+MNKTELINVVAESSELSKKDATKAVDAVFDAILDALKTGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|505407661|ref|WP_015594763.1| transcriptional regulator [Bacillus sp. 1NLA3E] >gi|484577913|gb|AGK54711.1| DNA-binding protein HU [Bacillus sp. 1NLA3E]
+MNKTELISAVAEASELSKKDATKAVDAVFDTILEALKGGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|497879487|ref|WP_010193643.1| MULTISPECIES: transcriptional regulator [Bacillus] >gi|845003442|gb|KMJ59765.1| DNA-binding protein [Bacillus sp. LL01] >gi|928238234|gb|KPB06675.1| DNA-binding protein [Bacillus sp. CHD6a]
+MNKTDLINAVAEASELSKKDATKAVDAVFDTILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|490572357|ref|WP_004437377.1| transcriptional regulator [Bacillus methanolicus] >gi|387586364|gb|EIJ78688.1| DNA-binding protein HU [Bacillus methanolicus PB1]
+MNKTELINAVAEAAELSKKDATKAVDAVFDAILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|387172995|gb|AFJ62456.1| non-specific DNA-binding protein [Bacillus amyloliquefaciens Y2]
+MKGMNKTELINAVAEASELSKKDATKAVDSVFDTILDALKNGDKIQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVP
+AFKPGKALKDAVAGK
+>gi|351471423|gb|EHA31544.1| hypothetical protein BSSC8_19870 [Bacillus subtilis subsp. subtilis str. SC-8] >gi|449028688|gb|AGE63927.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus subtilis XF-1] >gi|638114319|dbj|BAI85778.2| non-specific DNA-binding protein HBsu [Bacillus subtilis subsp. natto BEST195] >gi|811156403|gb|AKE24021.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus sp. LM 4-2]
+MIINELNVSFWEEVKGMNKTELINAVAEASELSKKDATKAVDSVFDTILDALKNGDKIQLIGFGNFEVRERSARKGRNPQ
+TGEEIEIPASKVPAFKPGKALKDAVAGK
+>gi|1011459568|ref|WP_062356321.1| DNA-binding protein [bacterium SIT5]
+MNKTELVNAVAEAAELSKKDATKAVDAVFDSILNALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|651535161|ref|WP_026563932.1| DNA-binding protein [Bacillus sp. UNC41MFS5]
+MNKTELINAVAEASELSKKDATKAVDAVFDAILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIDIAASKVPAFK
+PGKALKDAVK
+>gi|494145131|ref|WP_007084878.1| DNA-binding protein HU [Bacillus bataviensis] >gi|409932652|gb|EKN69610.1| DNA-binding protein HU [Bacillus bataviensis LMG 21833]
+MNKTELINAVAEASELSKKDATKAVDAVFDAILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIAASKVPAFK
+PGKALKDAVK
+>gi|1054699304|ref|WP_066465151.1| DNA-binding protein [Caryophanon latum] >gi|1049944770|gb|OCS89472.1| DNA-binding protein [Caryophanon latum]
+MNKTELVNSVAEAAGLSKKDASKAVDAVFDTIQDALAKGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIAASKVPAFK
+PGKALKDAVK
+>gi|207999|gb|AAA72912.1| HBsu protein [synthetic construct]
+VDIEGRMNKTELINAVAEASELSKKDATKAVDSVFDTILDALKNGDKIQLIGFGNFEVRERSARKGRNPQTGEEIEIPAS
+KVPAFKPGKALKDAVAGK
+>gi|544878242|ref|WP_021291258.1| MULTISPECIES: transcriptional regulator [Bacillaceae] >gi|530447406|gb|EQB35646.1| transcriptional regulator [Virgibacillus sp. CM-4] >gi|635561364|emb|CDQ39800.1| hypothetical protein BN990_02114 [Virgibacillus sp. Vm-5]
+MNKTDLVNAVAEKSELSKKDATKAVDAVFDSVMDSLQKGEKVQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDSVK
+>gi|740750588|ref|WP_038535872.1| DNA-binding protein [Bacillus sp. X1(2014)] >gi|675843778|gb|AIM15449.1| DNA-binding protein [Bacillus sp. X1(2014)]
+MNKTELINAVAEASELSKKDATKAVDAVFDTILEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIAASKVPAFK
+PGKALKEAVK
+>gi|652403744|ref|WP_026799520.1| DNA-binding protein [Pontibacillus halophilus] >gi|717932953|gb|KGX92168.1| transcriptional regulator [Pontibacillus halophilus JSM 076056 = DSM 19796]
+MNKTDLINAVAEKSDISKKDATKAVDAVFESITDSLKDGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEITASKVPAFK
+PGKALKDAVK
+>gi|736296299|ref|WP_034332307.1| MULTISPECIES: DNA-binding protein [Bacillus] >gi|815865547|gb|KKI88796.1| DNA-binding protein [Bacillus sp. SA1-12] >gi|1033891029|gb|OAS86346.1| DNA-binding protein [Bacillus litoralis]
+MNKTELINAVAEASELSKKDATKAVDAVFDTILDALKDGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVAGK
+>gi|1024743387|gb|KZZ86423.1| DNA-binding protein [Bacillus sp. SJS]
+MNKTELINAVAEASELSKKDATKAVESVFDTILDALKDGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDAVAGK
+>gi|385149749|gb|EIF13686.1| non-specific DNA-binding protein HBsu [Bacillus sp. 5B6]
+MIPFWEEVKGMNKTELINAVAEASELSKKDATKAVDSVFDTILDALKNGDKIQLIGFGNFEVRERSARKGRNPQTGEEIE
+IPASKVPAFKPGKALKDAVAGK
+>gi|751622234|ref|WP_041090115.1| DNA-binding protein [Jeotgalibacillus soli Cunha et al. 2012] >gi|751157105|gb|KIL44208.1| transcriptional regulator [Jeotgalibacillus soli Cunha et al. 2012]
+MNKTELINAVAETAELSKKDATKAVDAVFETVQDALAKGDKVQLIGFGNFEVRERAARKGRNPQTGQEIEIAASKVPAFK
+PGKALKDAVK
+>gi|496691212|ref|WP_009332755.1| MULTISPECIES: transcriptional regulator [Bacillales] >gi|317396884|gb|EFV77593.1| DNA-binding protein HU 1 [Bacillus sp. 2_A_57_CT2] >gi|583922173|gb|EWG10837.1| non-specific DNA-binding protein HBsu [Bacillus firmus DS1] >gi|848337065|gb|KML46213.1| DNA-binding protein [Bacillus firmus] >gi|922803908|gb|KON87228.1| DNA-binding protein [Sporosarcina globispora] >gi|1026661170|gb|AND41246.1| DNA-binding protein [Bacillus oceanisediminis 2691]
+MNKTELINAVAEAGELSKKDATKAVDAVFDTILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|495632154|ref|WP_008356733.1| transcriptional regulator [Bacillus xiamenensis] >gi|407414622|gb|EKF36257.1| non-specific DNA-binding protein HBsu [Bacillus xiamenensis]
+MNKTELINAVAEASELSKKDATKAVDSVFDTILEALKNGDKIQLIGFGNFEVRERSARKGRNPQTGAEIEIPASKVPAFK
+PGKALKDAVAGK
+>gi|737341055|ref|WP_035323343.1| DNA-binding protein [Bacillus kribbensis]
+MNKTDLINAVAEASELSKKDATKAVDAVFDSILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAESKVPAFK
+PGKALKDAVK
+>gi|944527901|ref|WP_055739433.1| DNA-binding protein [Bacillus shackletonii] >gi|944290110|gb|KQL53699.1| DNA-binding protein [Bacillus shackletonii]
+MNKTELINAVAESTELSKKDATKAVDAIFDTIQSALANGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|701592171|gb|KGP73006.1| DNA-binding protein [Pontibacillus yanchengensis Y32]
+MNSMNKTDLINAVAEKSDLSKKDATQAVDAVFESISDSLQNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEISASKVP
+AFKPGKALKDAVK
+>gi|657037070|ref|WP_029280242.1| MULTISPECIES: DNA-binding protein [Bacillus] >gi|666910850|gb|KEZ50727.1| DNA-binding protein [Bacillus indicus LMG 22858] >gi|666913180|gb|KEZ53054.1| DNA-binding protein [Bacillus cibi]
+MNKTELINAVAEASELSKKDATKAVDAVFDTLLDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVAGK
+>gi|926264996|ref|WP_053603182.1| DNA-binding protein [Bacillus gobiensis] >gi|925178459|gb|ALC81425.1| DNA-binding protein [Bacillus gobiensis]
+MNKTELINAVAEASELSKKDATKAVDSVFDTILDALKSGEKIQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDAVSGK
+>gi|489425484|ref|WP_003331160.1| DNA-binding protein HU [Bacillus azotoformans] >gi|409930358|gb|EKN67359.1| DNA-binding protein HU [Bacillus azotoformans LMG 9581] >gi|656683960|gb|KEF40550.1| bacterial nucleoid protein Hbs [Bacillus azotoformans MEV2011]
+MNKTDLINAVAEGTELSKKDATKAVDAVFDAIMGALQQGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIPASKVPAFK
+PGKALKDAVK
+>gi|764496915|ref|WP_044393505.1| DNA-binding protein [Bacillus subterraneus] >gi|761634513|gb|KIY22119.1| DNA-binding protein [Bacillus subterraneus]
+MNKTELINAVAEASELSKKDATKAVEAVFDSILNALKDGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEISASKVPAFK
+PGKALKDAVK
+>gi|738932259|ref|WP_036818539.1| DNA-binding protein [Pontibacillus yanchengensis]
+MNKTDLINAVAEKSDLSKKDATQAVDAVFESISDSLQNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEISASKVPAFK
+PGKALKDAVK
+>gi|913007850|ref|WP_050352950.1| DNA-binding protein [Virgibacillus pantothenticus] >gi|908956650|gb|KNE20375.1| DNA-binding protein [Virgibacillus pantothenticus]
+MNKTDLINAVAEKSELSKKDATKAVDAVFESVMDSLKKGEKVQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDSVK
+>gi|493892649|ref|WP_006838628.1| transcriptional regulator [Bacillus sp. SG-1] >gi|148848589|gb|EDL62828.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus sp. SG-1]
+MNKTELINAVAEAAELSKKDATKAVDAVFESIQDALANGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEISASKVPAFK
+PGKALKDAVK
+>gi|953352395|ref|WP_058002355.1| DNA-binding protein [Bacillus farraginis]
+MNKTELINAVAESTELSKKDATKAVDAIFESIQNALASGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|489275311|ref|WP_003183006.1| MULTISPECIES: DNA-binding protein HU 1 [Bacillus] >gi|52003999|gb|AAU23941.1| non-specific DNA-binding protein HBsu signal recognition particle-like (SRP) component [Bacillus licheniformis DSM 13 = ATCC 14580] >gi|52348660|gb|AAU41294.1| DNA-binding protein Hbsu [Bacillus licheniformis DSM 13 = ATCC 14580] >gi|317393064|gb|EFV73858.1| DNA-binding protein HU 1 [Bacillus sp. BT1B_CT2] >gi|452976678|gb|EME76493.1| DNA-binding protein HU1 [Bacillus sonorensis L12] >gi|510143119|gb|AGN36850.1| non-specific DNA-binding protein Hbsu [Bacillus paralicheniformis ATCC 9945a] >gi|532551153|gb|EQM27245.1| transcriptional regulator [Bacillus licheniformis CG-B52] >gi|564402060|gb|ETB69558.1| transcriptional regulator [Bacillus sp. CPSM8] >gi|584580928|gb|EWH20278.1| DNA-binding protein [Bacillus licheniformis S 16] >gi|675473582|gb|KFM91391.1| DNA-binding protein HU 1 [Bacillus paralicheniformis] >gi|757435433|gb|AJO18761.1| non-specific DNA-binding protein HBsu signal recognition particle-like (SRP) component [Bacillus paralicheniformis] >gi|765363305|gb|KJE32187.1| DNA-binding protein HU 1 [Bacillus licheniformis] >gi|768324203|gb|KJH56161.1| DNA-binding protein [Bacillus licheniformis] >gi|805642638|gb|KKB74750.1| DNA-binding protein [Bacillus sp. TH008] >gi|855286105|gb|KMM61389.1| DNA-binding protein [Bacillus glycinifermentans] >gi|891269545|gb|AKQ73616.1| non-specific DNA-binding protein [Bacillus licheniformis WX-02] >gi|907408647|gb|KND06909.1| DNA-binding protein [Bacillus licheniformis] >gi|952938143|gb|KRT87503.1| DNA-binding protein [Bacillus paralicheniformis] >gi|952945675|gb|KRT94924.1| DNA-binding protein [Bacillus glycinifermentans] >gi|973167394|gb|KUL06869.1| transcriptional regulator [Bacillus licheniformis LMG 7559] >gi|973171298|gb|KUL10686.1| transcriptional regulator [Bacillus licheniformis LMG 17339] >gi|973179829|gb|KUL18816.1| transcriptional regulator [Bacillus licheniformis LMG 6934] >gi|1004861914|gb|KYC72220.1| hypothetical protein B4092_2754 [Bacillus licheniformis] >gi|1004865692|gb|KYC75912.1| hypothetical protein B4090_2598 [Bacillus licheniformis] >gi|1004875922|gb|KYC85996.1| hypothetical protein B4091_2664 [Bacillus licheniformis] >gi|1004887922|gb|KYC97802.1| hypothetical protein B4164_2541 [Bacillus licheniformis] >gi|1008879282|gb|AMR10957.1| DNA-binding protein [Bacillus licheniformis] >gi|1027400533|gb|OAG81016.1| DNA-binding protein [Bacillus licheniformis] >gi|1036321798|gb|OAZ65090.1| DNA-binding protein HU-1 [Bacillus licheniformis] >gi|1045924949|gb|OCI06775.1| DNA-binding protein [Bacillus paralicheniformis] >gi|1049470565|emb|SCA86512.1| DNA-binding protein HU 1 [Bacillus glycinifermentans]
+MNKTELINAVAEASELSKKDATKAVDSVFDTILDALKNGEKIQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDAVAGK
+>gi|755107086|ref|WP_042457856.1| DNA-binding protein [Bacillus sp. FF4]
+MNKTELINAVAEAGELSKKDATKAVDAVFDTILDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIGASKVPAFK
+PGKALKDAVK
+>gi|489561638|ref|WP_003466169.1| non-specific DNA-binding protein [Gracilibacillus halophilus] >gi|477569919|gb|ENH97344.1| non-specific DNA-binding protein [Gracilibacillus halophilus YIM-C55.5]
+MNKTDLINAVADKSELSKKDATKAVDAVFESIMDSLKDGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIPASKVPAFK
+PGKALKDAVK
+>gi|1054344190|ref|WP_066228667.1| DNA-binding protein [Bacillus sporothermodurans] >gi|1004899563|gb|KYD09273.1| hypothetical protein B4102_2539 [Bacillus sporothermodurans]
+MNKTELINAVAESTELSKKDATKAVDAIFESIQNALANGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|974580476|ref|WP_059170964.1| DNA-binding protein [Bacillus sp. FJAT-27445]
+MNKTELINAVAEASELSRKDATKAVDAVFDSILEALKNGDKVSLIGFGNFEVRERSARKGRNPQTGEEIEIAASKVPAFK
+PGKQLKDAVK
+>gi|928969876|ref|WP_053994313.1| DNA-binding protein [Lysinibacillus macroides] >gi|927331310|gb|KOY83065.1| DNA-binding protein [Lysinibacillus macroides]
+MNKTELVNSVAEAAGLSKKDASKAVEAVFDTIQDALAKGDKVQLIGFGNFEVRERAARKGRNPQSGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|1054227105|ref|WP_066193194.1| DNA-binding protein [Gracilibacillus sp. Marseille-P2481]
+MNKTDLINAVAEKSELSKKDATKAVDAVFESIMDSLKDGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIPASKVPAFK
+PGKALKDTVK
+>gi|738948363|ref|WP_036832932.1| DNA-binding protein [Pontibacillus litoralis] >gi|717928659|gb|KGX87969.1| transcriptional regulator [Pontibacillus litoralis JSM 072002]
+MNKTDLINAVAEKSDLSKKDATQAVDAVFESISESLQQGDKVQLIGFGNFEVRERAARKGRNPQTGAEIEIAASKVPAFK
+PGKALKDAVK
+>gi|738198529|ref|WP_036154459.1| DNA-binding protein [Lysinibacillus odysseyi] >gi|704828651|gb|KGR84962.1| DNA-binding protein [Lysinibacillus odysseyi 34hs-1 = NBRC 100172]
+MNKTELVNSVAEAAGLSKKDASKAVEAVFDTIQDALAKGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIAASKVPAFK
+PGKALKDAVK
+>gi|740354401|ref|WP_038190738.1| MULTISPECIES: DNA-binding protein [Viridibacillus] >gi|573582850|gb|ETT81154.1| DNA-binding protein HU [Viridibacillus arenosi FSL R5-213] >gi|922883324|gb|KOO49061.1| DNA-binding protein [Viridibacillus arvi]
+MNKTELVNSVAEAAGLSKKDASKAVEAVFDTIQEALTTGDKVQLIGFGNFEVRERAARKGRNPQSGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|692165184|ref|WP_032087878.1| MULTISPECIES: DNA-binding protein [Bacillus] >gi|848283257|gb|KMK93607.1| DNA-binding protein [Bacillus marisflavi] >gi|848291219|gb|KML01458.1| DNA-binding protein [Bacillus marisflavi] >gi|848324441|gb|KML34062.1| DNA-binding protein [Bacillus marisflavi] >gi|922808235|gb|KON91541.1| DNA-binding protein [Bacillus marisflavi] >gi|945403282|gb|KQU59776.1| DNA-binding protein [Bacillus sp. Leaf406] >gi|959333010|gb|KSU63477.1| DNA-binding protein [Bacillus enclensis] >gi|1017157502|gb|KZE45604.1| DNA-binding protein [Bacillus marisflavi] >gi|1034287643|gb|OAT84037.1| DNA-binding protein [Bacillus sp. MKU004] >gi|1049617933|emb|SCB84581.1| DNA-binding protein HU-beta [Bacillus enclensis]
+MNKTELINAVAEAAELSKKDATKAVDAVFDTIQESLANGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEISASKVPAFK
+PGKALKEAVK
+>gi|489308431|ref|WP_003215863.1| MULTISPECIES: transcriptional regulator [Bacillus] >gi|157681536|gb|ABV62680.1| DNA-binding protein [Bacillus pumilus SAFR-032] >gi|194011509|gb|EDW21078.1| DNA-binding protein HU 1 (DNA-binding protein II) (HB) [Bacillus pumilus ATCC 7061] >gi|388427256|gb|EIL85065.1| DNA-binding protein HU 1 (DNA-binding protein II) (HB) [Bacillus sp. M 2-6] >gi|585724502|gb|AHJ59466.1| non-specific DNA-binding protein Hbsu [Bacillus pumilus] >gi|594023874|gb|AHL71878.1| DNA-binding protein [Bacillus pumilus] >gi|635185615|gb|KDE29530.1| non-specific DNA-binding protein HBsu [Bacillus safensis FO-36b] >gi|635187085|gb|KDE30990.1| non-specific DNA-binding protein HBsu [Bacillus altitudinis 41KF2b] >gi|635275062|gb|KDE52810.1| DNA-binding protein [Bacillus pumilus] >gi|660485037|gb|KEO49913.1| DNA-binding protein [Bacillus pumilus] >gi|660776074|gb|KEP27314.1| DNA-binding protein [Bacillus sp. DW5-4] >gi|660806685|gb|KEP29706.1| DNA-binding protein [Bacillus safensis] >gi|731484785|gb|AIZ60620.1| DNA-binding protein [Bacillus sp. WP8] >gi|751111240|gb|KIL11445.1| hypothetical protein B4107_2059 [Bacillus pumilus] >gi|751115012|gb|KIL15200.1| hypothetical protein B4129_2104 [Bacillus pumilus] >gi|751116988|gb|KIL17155.1| hypothetical protein B4127_2420 [Bacillus pumilus] >gi|751121302|gb|KIL21428.1| hypothetical protein B4134_2189 [Bacillus pumilus] >gi|751127404|gb|KIL27465.1| hypothetical protein B4133_2226 [Bacillus pumilus] >gi|763484410|gb|KIZ54721.1| DNA-binding protein [Bacillus safensis] >gi|766987546|gb|KJF47866.1| DNA-binding protein [Bacillus altitudinis] >gi|807220115|gb|AKC66443.1| DNA-binding protein [Bacillus pumilus] >gi|807224742|gb|KKD42910.1| DNA-binding protein [Bacillus safensis] >gi|816327708|gb|KKK10056.1| DNA-binding protein [Bacillus sp. L_1B0_12] >gi|826985869|gb|KLK99040.1| DNA-binding protein [Bacillus pumilus] >gi|837640095|gb|KLV23145.1| DNA-binding protein [Bacillus altitudinis] >gi|846991068|gb|KMK70580.1| DNA-binding protein [Bacillus pumilus] >gi|848289737|gb|KMK99995.1| DNA-binding protein [Bacillus stratosphericus] >gi|848302893|gb|KML12998.1| DNA-binding protein [Bacillus pumilus] >gi|848306027|gb|KML16063.1| DNA-binding protein [Bacillus stratosphericus] >gi|848341228|gb|KML50226.1| DNA-binding protein [Bacillus pumilus] >gi|848343143|gb|KML52034.1| DNA-binding protein [Bacillus stratosphericus] >gi|848346663|gb|KML55566.1| DNA-binding protein [Bacillus stratosphericus] >gi|857255967|gb|KMN31777.1| DNA-binding protein [Bacillus stratosphericus] >gi|857303787|gb|KMN73642.1| DNA-binding protein [Bacillus sp. LK10] >gi|857309063|gb|KMN78700.1| DNA-binding protein [Bacillus pumilus] >gi|897415685|gb|KMY22092.1| DNA-binding protein [Bacillus pumilus] >gi|910003253|gb|AKU32773.1| DNA-binding protein [Bacillus pumilus] >gi|914448734|gb|KOA77948.1| DNA-binding protein [Bacillus stratosphericus] >gi|923995265|emb|CUB21732.1| DNA-binding protein HU 1 [Bacillus pumilus] >gi|937239090|gb|KPN15423.1| DNA-binding protein [Bacillus sp. NH7I_1] >gi|944274732|gb|KQL38570.1| DNA-binding protein [Bacillus sp. FJAT-21955] >gi|945355089|gb|KQU12306.1| DNA-binding protein [Bacillus sp. Leaf49] >gi|946364421|gb|KRE15275.1| DNA-binding protein [Bacillus sp. Root920] >gi|946723342|gb|ALM28856.1| DNA-binding protein [Bacillus pumilus] >gi|947261052|gb|ALM45395.1| DNA-binding protein [Bacillus pumilus] >gi|951289662|dbj|BAT49157.1| non-specific DNA-binding protein HBsu [Bacillus pumilus] >gi|953091983|gb|KRU16379.1| DNA-binding protein [Bacillus pumilus] >gi|953238334|gb|KRV45482.1| DNA-binding protein [Bacillus sp. TH007] >gi|959340772|gb|KSU71169.1| DNA-binding protein [Bacillus cellulasensis] >gi|970401231|gb|KUF24783.1| DNA-binding protein [Bacillus sp. G1(2015b)] >gi|975013787|gb|KUR59169.1| DNA-binding protein [Bacillus sp. AM 13(2015)] >gi|984716618|gb|AMB90183.1| DNA-binding protein [Bacillus pumilus] >gi|985280944|gb|KWZ66771.1| DNA-binding protein [Bacillus altitudinis] >gi|987303380|emb|CVM13113.1| DNA-binding protein HU 1 [Streptococcus pneumoniae] >gi|999804426|gb|KXI33957.1| DNA-binding protein [Bacillus sp. P003] >gi|1002178374|gb|AMM89396.1| DNA-binding protein [Bacillus pumilus] >gi|1002186687|gb|AMM97706.1| DNA-binding protein [Bacillus pumilus] >gi|1040308461|gb|OBS85465.1| DNA-binding protein [Bacillus pumilus] >gi|1041740630|gb|OBW52368.1| DNA-binding protein [Bacillus safensis] >gi|1044508368|gb|ANT57058.1| DNA-binding protein [Bacillus pumilus] >gi|1049599382|emb|SCC22547.1| bacterial nucleoid protein Hbs [Bacillus sp. nio-1130] >gi|1050174499|gb|ANY96874.1| DNA-binding protein [Bacillus pumilus] >gi|1052163642|gb|AOC56343.1| DNA-binding protein [Bacillus pumilus]
+MNKTELINAVAEASELSKKDATKAVDSVFDTILDALKNGDKIQLIGFGNFEVRERSARKGRNPQTGAEIEIPASKVPAFK
+PGKALKDAVAGK
+>gi|460147675|gb|EMI12082.1| dna-binding protein hu [Bacillus stratosphericus LAMA 585]
+MNAYFWEEVKGMNKTELINAVAEASELSKKDATKAVDSVFDTILDALKNGDKIQLIGFGNFEVRERSARKGRNPQTGAEI
+EIPASKVPAFKPGKALKDAVAGK
+>gi|656246382|ref|WP_029193008.1| MULTISPECIES: DNA-binding protein [Paenibacillus] >gi|945714448|gb|KQX68765.1| DNA-binding protein [Paenibacillus sp. Root444D2] >gi|946381698|gb|KRE32428.1| DNA-binding protein [Paenibacillus sp. Soil724D2] >gi|946462032|gb|KRF12193.1| DNA-binding protein [Paenibacillus sp. Soil787]
+MNKSELINKVAETSELSKKDATKAVDAVFDAISEALQGGDKVQLVGFGNFEVRERSARKGRNPQTGDEIEIPASKIPAFK
+PGKALKDGIQ
+>gi|953327203|ref|WP_057982214.1| DNA-binding protein [Bacillus cecembensis]
+MNKTELVNAVAEAAGLSKKDASKAVEAVFDTIQDALAKGDKVQLIGFGNFEVRERAARKGRNPQTGMEIEIAASKVPAFK
+PGKALKDAVK
+>gi|703359332|ref|WP_033405291.1| DNA-binding protein [Gracilibacillus lacisalsi]
+MNKTDLINAVAEKSELSKKDATKAVDAVFESIMDSLKDGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIPASKVPAFK
+PGKALKDIVK
+>gi|1055035214|ref|WP_066786039.1| DNA-binding protein [Rummeliibacillus stabekisii] >gi|1016267503|gb|AMW98634.1| DNA-binding protein [Rummeliibacillus stabekisii]
+MNKTDLVNSVAETAELSKKDATKAVDAVFESIQAALAKGDKVQLIGFGNFEIRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|503253799|ref|WP_013488460.1| transcriptional regulator [Bacillus cellulosilyticus] >gi|315473521|gb|ADU30124.1| histone family protein DNA-binding protein [Bacillus cellulosilyticus DSM 2522]
+MNKTELINAVAEKSDLSKKDATSAVDAVFDVITGSLQNGEKVQLIGFGNFEVRERAARKGRNPQTGEEIEIPASNVPAFK
+PGKALKDAVK
+>gi|703124897|ref|WP_033354088.1| DNA-binding protein [Virgibacillus halodenitrificans] >gi|635569448|emb|CDQ35634.1| hypothetical protein BN993_05118 [Virgibacillus halodenitrificans] >gi|664690974|gb|AIF43562.1| DNA-binding protein [Virgibacillus sp. SK37]
+MNKTDLVNAVAEKSDLSKKDATKAVDAVFESVMDSLKNGDKVQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDIVK
+>gi|490352845|ref|WP_004232618.1| MULTISPECIES: transcriptional regulator [Bacillales] >gi|126589883|gb|EAZ84014.1| DNA-binding protein HU (DNA-binding protein II) [Bacillus sp. B14905] >gi|298726145|gb|EFI66737.1| DNA-binding protein HU [Lysinibacillus fusiformis ZC1] >gi|327440783|dbj|BAK17148.1| bacterial nucleoid DNA-binding protein [Solibacillus silvestris StLB046] >gi|405386562|gb|EKB45989.1| bacterial nucleoid DNA-binding protein [Solibacillus isronensis B3W22] >gi|422949595|gb|EKU43969.1| DNA-binding protein HU (DNA-binding protein II) [Lysinibacillus fusiformis ZB2] >gi|496193375|gb|EON72882.1| DNA-binding protein HU [Lysinibacillus sphaericus OT4b.31] >gi|597827738|gb|AHN21291.1| transcriptional regulator [Lysinibacillus varians] >gi|659840405|gb|KEK09997.1| DNA-binding protein [Lysinibacillus sphaericus] >gi|685221060|gb|KGA83162.1| DNA-binding protein [Lysinibacillus fusiformis] >gi|704817552|gb|KGR74132.1| DNA-binding protein [Lysinibacillus sinduriensis BLB-1 = JCM 15800] >gi|704824744|gb|KGR81088.1| DNA-binding protein [Lysinibacillus boronitolerans JCM 21713 = 10a = NBRC 103108] >gi|733378843|gb|KHK53842.1| DNA-binding protein [Lysinibacillus sp. A1] >gi|756120953|gb|AJK88643.1| DNA-binding protein [Lysinibacillus fusiformis] >gi|857266169|gb|KMN41591.1| DNA-binding protein [Lysinibacillus sp. LK3] >gi|899695452|gb|KMY33056.1| DNA-binding protein [Lysinibacillus xylanilyticus] >gi|923187786|gb|KOP80665.1| DNA-binding protein [Lysinibacillus sp. FJAT-14745] >gi|925213387|gb|KOS63645.1| DNA-binding protein [Bacillus decisifrondis] >gi|937652834|gb|KPN95315.1| DNA-binding protein [Lysinibacillus sp. ZYM-1] >gi|970409813|gb|KUF33151.1| DNA-binding protein [Lysinibacillus sp. F5] >gi|1003325087|gb|AMO34317.1| DNA-binding protein [Lysinibacillus sphaericus] >gi|1004385924|gb|AMO84957.1| DNA-binding protein [Solibacillus silvestris] >gi|1010944343|gb|AMR90571.1| DNA-binding protein [Lysinibacillus sphaericus] >gi|1020310271|gb|KZL44085.1| DNA-binding protein [Lysinibacillus sphaericus] >gi|1021453921|gb|ANA44621.1| DNA-binding protein [Lysinibacillus sphaericus] >gi|1041744879|gb|OBW56544.1| DNA-binding protein [Solibacillus silvestris] >gi|1052505714|gb|OCX61789.1| DNA-binding protein [Lysinibacillus sp. AR18-8]
+MNKTELVNSVAEAAGLSKKDASKAVEAVFDTIQDALAKGDKVQLIGFGNFEVRERAARKGRNPQTGKEIEIAASKVPAFK
+PGKALKDAVK
+>gi|750682193|ref|WP_040957078.1| DNA-binding protein [Virgibacillus sp. SK37]
+MSIERFWEEVNVMNKTDLVNAVAEKSDLSKKDATKAVDAVFESVMDSLKNGDKVQLIGFGNFEVRERSARKGRNPQTGEE
+IEIPASKVPAFKPGKALKDIVK
+>gi|497480642|ref|WP_009794840.1| MULTISPECIES: transcriptional regulator [Bacillus] >gi|89086264|gb|EAR65386.1| non-specific DNA-binding protein HBsu; signal recognition particle-like (SRP) component [Bacillus sp. NRRL B-14911] >gi|548702665|gb|AGX02025.1| transcriptional regulator [Bacillus infantis NRRL B-14911]
+MNKTELINAVAEAGELSKKDATKAVDAVFDTILNALKNGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIAASKVPAFK
+PGKALKDAVK
+>gi|751272537|ref|WP_040981409.1| MULTISPECIES: DNA-binding protein [Oceanobacillus] >gi|718349927|emb|CEI83754.1| DNA-binding protein HU 1 [Oceanobacillus oncorhynchi]
+MNKTDLVNAVAEKSDLSKKDATKAVDAVFDAVMDSLKNGEKVQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDSVK
+>gi|750068624|ref|WP_040373308.1| DNA-binding protein [Bacillus psychrosaccharolyticus]
+MNKTELINSVAEAGELSKKDATKAVDAVFDTILDALKSGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIAASKVPAFK
+PGKALKDAVK
+>gi|516365557|ref|WP_017755590.1| transcriptional regulator [Bacillus sp. ZYK]
+MNKTDLINAVAEGTELSKKDATKAVDSVFEAIMGALKQGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDAVK
+>gi|515280976|ref|WP_016836952.1| transcriptional regulator [Ureibacillus thermosphaericus]
+MNKTELVNSVAEAAGLSKKDASKAVDAVFDTIQNTLAKGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKEAVK
+>gi|497858940|ref|WP_010173096.1| transcriptional regulator [Bacillus coahuilensis] >gi|974387546|gb|KUP06581.1| DNA-binding protein [Bacillus coahuilensis p1.1.43] >gi|974388778|gb|KUP07781.1| DNA-binding protein [Bacillus coahuilensis m2-6]
+MNKTELINAVAEATELSKKDATKAVDAVFESIQNALANGDKVQLIGFGNFEVRERSARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|648650743|ref|WP_026342494.1| DNA-binding protein [Paenibacillus fonticola]
+MNKSDLVNHVAESTELSKKDATKAVDAVFEAISEALQKGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|1054451380|ref|WP_066262658.1| DNA-binding protein [Bacillus acidicola]
+MNKTELINAVAEAAEISKKDATKAVDAIFDTIQNALANGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|738664131|ref|WP_036572809.1| MULTISPECIES: DNA-binding protein [Oceanobacillus] >gi|595761212|emb|CDO02031.1| hypothetical protein BN988_00485 [Oceanobacillus picturae] >gi|960508069|dbj|GAQ17454.1| transcriptional regulator [Oceanobacillus picturae]
+MNKTDLINAVAEKSDLSKKDATKAVDAVFESVMDSLKDGEKVQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDSVK
+>gi|737226497|ref|WP_035210873.1| DNA-binding protein [Bacillus chagannorensis]
+MNKTELINAVAEKTDLSKKDATGAVDAVFDIITESLQKEEKVQLIGFGNFEVRERAARKGRNPQTGEEIEIPASNVPAFK
+PGKALKDAVK
+>gi|922768036|ref|WP_053366964.1| DNA-binding protein [Bacillus sp. FJAT-27245]
+MNKTELINAVAEASELSRKDATKAVDAVFDSILEALKKGEKVSLIGFGNFEVRERSARKGRNPQTGDEIEIAASKVPAFK
+PGKQLKDAVK
+>gi|497781737|ref|WP_010095921.1| transcriptional regulator [Ornithinibacillus scapharcae]
+MNKTDLVNAVAEKSELSKKDATKAVDAVFEAVMDSLKKGEKVQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDSVK
+>gi|926245757|ref|WP_053584035.1| DNA-binding protein [Lysinibacillus contaminans] >gi|925224473|gb|KOS69173.1| DNA-binding protein [Lysinibacillus contaminans]
+MNKTELVNSVAEAAGLSKKDASKAVEAVFDTIQDALAKGDKVQLIGFGNFEVRERAARKGRNPQTGMEIEIAASKVPAFK
+PGKALKDAVK
+>gi|1011280795|ref|WP_062198273.1| DNA-binding protein [Bacillaceae bacterium mt8]
+MNKTELINAVAEATELSKKDATKAVEAVFDTITGALKDGDKVQLIGFGNFEVRTRSARKGRNPQTGEEIEIPESKVPAFK
+PGKALKDAVK
+>gi|763297719|ref|WP_044157824.1| DNA-binding protein [Salinibacillus aidingensis]
+MNKTELVNAVAEKGDLSKKDAAQAVDAVFESITDSLTDGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIPASKVPAFK
+PGKALKDAVK
+>gi|737200969|ref|WP_035186220.1| DNA-binding protein [Bacillus aurantiacus]
+MNKTELINAVSEKTELSKKDATNAVDAVFDVITDSLQKAEKVQLIGFGNFEVRERAARKGRNPQTGEEIEIPASNVPAFK
+PGKALKDAVK
+>gi|518998680|ref|WP_020154555.1| transcriptional regulator [Caldibacillus debilis] >gi|1004910811|gb|KYD20249.1| hypothetical protein B4135_2025 [Caldibacillus debilis]
+MNKTELVNAVAEAAQLSKKDATKAVDAVFDTILNALKEGEKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKEAVK
+>gi|498336523|ref|WP_010650679.1| MULTISPECIES: transcriptional regulator [Oceanobacillus] >gi|22777476|dbj|BAC13748.1| non-specific DNA-binding protein [Oceanobacillus iheyensis HTE831]
+MNKTDLVNAVAEKSELSKKDATKAVDAVFESVMDSLKNGEKVQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDSVK
+>gi|797185671|ref|WP_045851420.1| DNA-binding protein [Domibacillus enclensis]
+MNKTDLINEVAETAELSKKDATKAVDAIFDAIQDTLAKGDKVQLIGFGNFEVRERSARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|755127679|ref|WP_042477970.1| MULTISPECIES: DNA-binding protein [Bacillus] >gi|1005921633|gb|KYG88944.1| DNA-binding protein [Bacillus sp. KCTC 13219]
+MNKTELVNSVAEAAGLSKKDASKAVEAVFDTIQGALAKGDKVQLIGFGNFEVRERAARKGRNPQTGKEIEIAASKVPAFK
+PGKALKDAVK
+>gi|738228361|ref|WP_036183797.1| DNA-binding protein [Lysinibacillus manganicus] >gi|704823141|gb|KGR79558.1| DNA-binding protein [Lysinibacillus manganicus DSM 26584]
+MNKTELVNSVAEAAALSKKDASKAVEAVFDTIQDALAKGDKVQLIGFGNFEVRERAARKGRNPQSGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|738856658|ref|WP_036745644.1| DNA-binding protein [Paenibacillus sp. UNC451MF]
+MNKSELINKVAETSELSKKDATKAVEAVFEAISEALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPSSKIPAFK
+PGKALKDGIQ
+>gi|736754751|ref|WP_034758336.1| MULTISPECIES: DNA-binding protein [Bacillus] >gi|933905114|gb|KPL59771.1| DNA-binding protein [Bacillus vietnamensis]
+MNKTELINAVAEAAELSKKDATKAVDAVFDTIQNSLANGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEISASKVPAFK
+PGKALKEAVK
+>gi|737446400|ref|WP_035426707.1| MULTISPECIES: DNA-binding protein [Bacillaceae]
+MNKTELINTVAEKSDLSKKDATKAVDAVFESIMDSLKDGEKVQLIGFGNFEVRERAARKGRNPQTGDEIEIPASKVPAFK
+PGKALKDNVK
+>gi|740775634|ref|WP_038560918.1| DNA-binding protein [Terribacillus aidingensis] >gi|664798423|gb|AIF66658.1| DNA-binding protein [Terribacillus aidingensis]
+MNKTDLINTVAEKSDLSKKDATKAVDAVFDSIMDSLKQGDKVQLIGFGNFEVRERAARKGRNPQTGNEIEIPASKVPAFK
+AGKALKDNVK
+>gi|737368158|ref|WP_035350245.1| DNA-binding protein [Fictibacillus gelatini]
+MNKTDLVNAVAEQTELSKKDASKAVDAVFEAITETLKEGNKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|737752472|ref|WP_035721086.1| DNA-binding protein [Gracilibacillus boraciitolerans] >gi|575085754|dbj|GAE91360.1| DNA-binding protein HBsu [Gracilibacillus boraciitolerans JCM 21714]
+MNKTDLINAVAEKSELSKKDATKAVDAVFESIMDSLKDGEKVQLIGFGNFEVRERAARKGRNPQTGDEIEIPASKVPAFK
+PGKALKDIVK
+>gi|1056393855|ref|WP_067836543.1| DNA-binding protein [Amphibacillus sediminis]
+MNKTDLINAVAEKSELSKKDATKAVDAVFESIMDSLKDGEKVQLIGFGNFEVRERAARKGRNPQTGAEIEIPASKVPAFK
+PGKALKDSVK
+>gi|738225200|ref|WP_036180726.1| DNA-binding protein [Lysinibacillus massiliensis] >gi|704823917|gb|KGR80305.1| DNA-binding protein [Lysinibacillus massiliensis 4400831 = CIP 108448 = CCUG 49529]
+MNKTELVNSVAEAAALSKKDASKAVEAVFDTIQDALAKGDKVQLIGFGNFEVRERAARKGRNPQTGKEIEIAASKVPAFK
+PGKALKDAVK
+>gi|817169119|ref|WP_046524150.1| MULTISPECIES: DNA-binding protein [Bacillus] >gi|816385224|gb|KKK37590.1| DNA-binding protein [Bacillus campisalis]
+MNKTELINAVAEAGELSKKDATKAVDAVFDSILNALANGEKVQLIGFGNFEVRERAARKGRNPQTGDEIEISASKVPAFK
+PGKALKDAVK
+>gi|495862907|ref|WP_008587486.1| transcriptional regulator [Salimicrobium jeotgali] >gi|407019882|gb|EKE32596.1| DNA-binding protein HU [Salimicrobium jeotgali] >gi|817636434|gb|AKG04404.1| DNA-binding protein [Salimicrobium jeotgali]
+MNKTDLINAVSEQADLSKKDATKAVDSVFESIMDSLKDGEKVQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDAVK
+>gi|806814951|ref|WP_046173727.1| MULTISPECIES: DNA-binding protein [Domibacillus]
+MNKTDLINEVAETAELSKKDATKAVDALFDAIQDTLAKGDKVQLIGFGNFEVRERSARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|640600263|ref|WP_025028874.1| DNA-binding protein [Bacillus mannanilyticus]
+MNKTELVNKVAELSELTKKDATKAVDAVFQSITDALQSGDKVQIIGFGNFEVRERAARKGRNPQTGEEIEISASKVPAFK
+PGKALKDGIK
+>gi|852222073|ref|WP_048309232.1| DNA-binding protein [Anaerobacillus macyae] >gi|850322469|gb|KMM38149.1| DNA-binding protein [Anaerobacillus macyae]
+MNKTDLINAVAESAELSKKEATKAVDSVFDNIMQSLQEGDKVQLIGFGNFEVRERSARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|889526861|ref|WP_048825270.1| DNA-binding protein [Bacillus sp. B-jedd] >gi|695915166|emb|CEG27661.1| DNA-binding protein HU [Bacillus sp. B-jedd]
+MNKTELINAVAEASQLSRKDATKAVDAVFDSILEALKNGEKVSLIGFGNFEVRERSARKGRNPQTGDEIEIAASKVPAFK
+PGKQLKDAVK
+>gi|953347392|ref|WP_057998134.1| DNA-binding protein [Bacillus humi]
+MNKTELISAVAESSELSKKDATKAVDAVFEAVQNALSSGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVAGK
+>gi|754286642|ref|WP_041846368.1| DNA-binding protein [Bacillus thermoamylovorans] >gi|752649472|gb|KIO63080.1| hypothetical protein B4064_0555 [Bacillus thermoamylovorans] >gi|752657386|gb|KIO70482.1| hypothetical protein B4166_0646 [Bacillus thermoamylovorans] >gi|752659396|gb|KIO72286.1| hypothetical protein B4167_0614 [Bacillus thermoamylovorans]
+MNKTELVSAVAEAAELSKKDAAKAVDAVFDSILNALKKGDKVQLIGFGNFEVRERSARKGRNPQTGEEIEIAASKVPAFK
+PGKALKEAVK
+>gi|517716040|ref|WP_018886248.1| MULTISPECIES: transcriptional regulator [Paenibacillus]
+MNKTDLINQVAEKTELSKKDVTKAVDALFDTISEALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|168991978|gb|ACA39518.1| DNA-binding protein HU (DNA-binding protein II) (HB) [Lysinibacillus sphaericus C3-41] >gi|584607459|gb|EWH33618.1| transcriptional regulator [Lysinibacillus sphaericus CBAM5]
+MNGVNKTELVNSVAEAAGLSKKDASKAVEAVFDTIQDALAKGDKVQLIGFGNFEVRERAARKGRNPQTGKEIEIAASKVP
+AFKPGKALKDAVK
+>gi|497986951|ref|WP_010301107.1| transcriptional regulator [Kurthia sp. JC8E]
+MNKTELVNAVAEASELSKKDASKAVEAVFETIQDALAKGDKVQLIGFGNFEVRERAARKGRNPQTGKEIEIAASKVPAFK
+PGKALKDAVKA
+>gi|493235499|ref|WP_006209463.1| MULTISPECIES: transcriptional regulator [Paenibacillus] >gi|261282503|gb|ACX64474.1| histone family protein DNA-binding protein [Paenibacillus sp. Y412MC10] >gi|315278061|gb|EFU41381.1| histone family protein DNA-binding protein [Paenibacillus vortex V453] >gi|328935863|gb|EGG32324.1| DNA-binding protein HU-beta [Paenibacillus sp. HGF5] >gi|573544566|gb|ETT43467.1| histone family protein DNA-binding protein [Paenibacillus sp. FSL R5-808] >gi|573559682|gb|ETT58379.1| histone family protein DNA-binding protein [Paenibacillus sp. FSL H8-457] >gi|1022707669|gb|ANA82031.1| DNA-binding protein [Paenibacillus glucanolyticus] >gi|1023076123|gb|KZS48072.1| DNA-binding protein [Paenibacillus glucanolyticus]
+MNKSDLITQVAESTELSKKDATKAVDAVFDAISEALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|924356142|ref|WP_053488776.1| MULTISPECIES: DNA-binding protein [Bacillales] >gi|923170907|gb|KOP63846.1| DNA-binding protein [Bacillus sp. FJAT-18019] >gi|924322779|gb|KOR88736.1| DNA-binding protein [Paenibacillus sp. FJAT-22460]
+MNKSDLITQVAESTELSKKDATKAVDAVFDAISEALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|947954456|ref|WP_056614405.1| MULTISPECIES: DNA-binding protein [Paenibacillus] >gi|946418863|gb|KRE69280.1| DNA-binding protein [Paenibacillus sp. Soil750] >gi|946447973|gb|KRE98209.1| DNA-binding protein [Paenibacillus sp. Soil766] >gi|1033305235|gb|OAS14067.1| DNA-binding protein [Paenibacillus sp. 1ZS3-15]
+MNKSELINKVAETSELSKKDATKAVDAVFDAISEALQGGDKVQLVGFGNFEVRERSARKGRNPQTGGEIDIPASKIPAFK
+PGKALKDGIQ
+>gi|763051211|ref|WP_043933595.1| MULTISPECIES: DNA-binding protein [Bacillus] >gi|925187146|gb|ALC90110.1| DNA-binding protein [Bacillus sp. FJAT-18017] >gi|1043536891|gb|OCA90937.1| DNA-binding protein [Bacillus sp. FJAT-27225]
+MNKTELINAVAEASELSRKEATKAVDAVFDSILDALKNGDKVSLIGFGNFEVRERSARKGRNPQTGEEIEIAASKVPAFK
+PGKQLKDAVK
+>gi|738797027|ref|WP_036688170.1| MULTISPECIES: DNA-binding protein [Bacillaceae]
+MNKTDLVNAVAEKSELSKKDATKAVDAVFEAVMDSLKNGEKVQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDSVK
+>gi|1054043609|ref|WP_066137785.1| DNA-binding protein [Bacillus lentus]
+MNKTELINSVAEATELSKKDATKAVDAVFQSIQDALSNGDKVALIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|565875891|ref|WP_023957207.1| DNA-binding protein HBsu [Paenibacillus sp. JCM 10914] >gi|560946981|dbj|GAE04661.1| DNA-binding protein HBsu [Paenibacillus sp. JCM 10914]
+MNKSDLVTHVAESTELSKKDATKAVDAVFDAISEALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|827087716|ref|WP_047185013.1| DNA-binding protein [Oceanobacillus caeni] >gi|808690221|gb|KKE79338.1| DNA-binding protein [Bacilli bacterium VT-13-104] >gi|930215435|gb|KPH76035.1| DNA-binding protein [Oceanobacillus caeni]
+MNKTDLINAVAEKSELSKKDATKAVDAVFEAVMDSLKNGEKVQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDVVK
+>gi|494211415|ref|WP_007129815.1| MULTISPECIES: transcriptional regulator [Bacillales] >gi|353198934|gb|EHB64400.1| histone family protein DNA-binding protein [Paenibacillus lactis 154] >gi|1049758583|gb|ANY71836.1| DNA-binding protein [Paenibacillus sp. IHBB 9852]
+MNKSDLITQVAESAELSKKDATKAVDAVFDAISEALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|647283883|ref|WP_025729088.1| DNA-binding protein [Bacillus ginsengihumi] >gi|724793054|gb|KHD85780.1| DNA-binding protein [Bacillus ginsengihumi]
+MNKTELINAVAEATELSKKDTTKAVDAIFEAIQNALASGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|738852891|ref|WP_036741983.1| MULTISPECIES: DNA-binding protein [Paenibacillus] >gi|1049968767|gb|OCT12524.1| DNA-binding protein [Paenibacillus pectinilyticus]
+MNKSELINKVAETSELSKKDATKAVDAVFDAISEALQGGDKVQLVGFGNFEVRERSARKGRNPQTGEEIDIAASKIPAFK
+PGKALKDGIQ
+>gi|648284064|ref|WP_026065213.1| DNA-binding protein [Amphibacillus jilinensis]
+MNKTDLINAVAEKSELSKKDATKAVDAVFESIMDSLKDGEKVQLIGFGNFEVRERAARKGRNPQTGAEIEIPASKVPAFK
+PGKALKDIVK
+>gi|517204977|ref|WP_018393795.1| MULTISPECIES: transcriptional regulator [Bacillus] >gi|1028001043|gb|OAH55901.1| DNA-binding protein [[Bacillus] aminovorans] >gi|1028003421|gb|OAH58220.1| DNA-binding protein [[Bacillus] aminovorans]
+MNKTDLINEVAETAELSKKDATKAVDALFDAIQNTLAKGDKVQLIGFGNFEVRERSARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|751606396|ref|WP_041074507.1| DNA-binding protein [Bacillus sp. OxB-1] >gi|743958019|dbj|BAQ10807.1| DNA-binding protein hu [Bacillus sp. OxB-1]
+MNKTELINSVAETAGLTKKDATKAVEAVFDTIQATLAKGDKVQLIGFGNFEVRERAARKGRNPQSGEEIDIAASKVPAFK
+AGKALKDAVK
+>gi|497971971|ref|WP_010286127.1| transcriptional regulator [Kurthia massiliensis]
+MNKTELVNAVAEAAELSKKDASKAVEAVFETIQDALAKGDKVQLIGFGNFEVRERAARKGRNPQSGEEIEIAASKVPAFK
+PGKALKDAVKA
+>gi|748817602|ref|WP_040058643.1| DNA-binding protein [Bacillus sp. REN51N]
+MNKTDLINAVAEKSEISKKDATKAVDAVFDSILDTLKAGDKVQLIGFGNFEVRERSARKGRNPQTGEEIEIAASKVPAFK
+AGKALKDAVK
+>gi|495913995|ref|WP_008638574.1| MULTISPECIES: DNA-binding protein HU [Bacillaceae] >gi|432188123|gb|ELK45341.1| DNA-binding protein HU [Halobacillus sp. BAB-2008] >gi|635342527|emb|CDQ27796.1| hypothetical protein BN981_02078 [Halobacillus trueperi] >gi|635347124|emb|CDQ19493.1| hypothetical protein BN982_01788 [Halobacillus dabanensis] >gi|662983049|emb|CDQ21955.1| hypothetical protein BN983_00151 [Halobacillus karajensis]
+MNKTDLINAVSEKADLSKKDATQAVDSVFESIMDSLKDGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEISASKVPAFK
+PGKALKDAVK
+>gi|497357772|ref|WP_009671985.1| MULTISPECIES: transcriptional regulator [Paenibacillus] >gi|333608294|gb|EGL19595.1| putative integration host factor, beta subunit [Paenibacillus sp. HGF7] >gi|512138186|gb|EPD80769.1| DNA-binding protein HU [Paenibacillus sp. HGH0039]
+MNKSELIAKVSETSELSKKDATKAVDAVFDAISEALQQGDKVQLVGFGNFEVRERSARKGRNPQTGDEIEIPASKIPAFK
+PGKALRDGIQ
+>gi|1055813340|ref|WP_067407118.1| DNA-binding protein [Sporosarcina sp. HYO08] >gi|998182770|gb|KXH82028.1| DNA-binding protein [Sporosarcina sp. HYO08]
+MNKTELINSVAEAAGLTKKDATKAVEAVFDTIQSALAKGEKVQLIGFGNFEVRERAARKGRNPQSGEEIEIAASKVPAFK
+AGKALKDAVK
+>gi|960415630|ref|WP_058307577.1| DNA-binding protein [Gracilibacillus sp. Awa-1]
+MNKTDLINAVAEKSELSKKDATKTVDAVFESIMDSLKDGEKVQLIGFGNFEVRERAARKGRNPQTGDEIEIPASKVPAFK
+PGKALKDIVK
+>gi|849042670|ref|WP_047980041.1| DNA-binding protein [Ornithinibacillus contaminans]
+MNKTDLVNAVAEKSELSKKDATKAVDAVFEAVMDSLKKGEKVQLIGFGNFEVRERSARKGRNPQTGAEIEIPASKVPAFK
+PGKALKDSVK
+>gi|517489847|ref|WP_018660424.1| transcriptional regulator [Bacillus acidiproducens]
+MNKTDLINAVAEATELSKKDTTKAVDAIFDTIQNALASGDKVQLIGFGNFEVRERAARKGRNPQTGEEIDISASKVPAFK
+PGKALKDAVK
+>gi|519033729|ref|WP_020189604.1| MULTISPECIES: transcriptional regulator [Kurthia]
+MNKTELVNAVAEAAELSKKDASKAVEAVFETIQDALAKGDKVQLIGFGNFEVRERAARKGRNPQSGEEIEIAASKVPAFK
+PGKALKDAVKG
+>gi|740270851|ref|WP_038111180.1| DNA-binding protein [Tuberibacillus calidus]
+MNKTELVNAVVESTQLSKKDAAKAVDSVFSAITEALKEGGKVQLVGFGNFEVRERAARKGRNPQTGEEIDIPASKVPAFK
+PGKALKDAVN
+>gi|738958882|ref|WP_036843149.1| DNA-binding protein [Pontibacillus marinus] >gi|717924578|gb|KGX84101.1| transcriptional regulator [Pontibacillus marinus BH030004 = DSM 16465]
+MNKTDLINAVAEKSELSKKDATQAVDAVIESITDSLKDGEKVQLIGFGNFEVRERAARKGRNPQSGEEIEISASKVPAFK
+PGKALKDAVK
+>gi|653072694|ref|WP_027323815.1| DNA-binding protein [Bacillus sp. URHB0009]
+MNKTELINAVAEAGELSKKDATKAVDAVFDAILNALKNGDKVSLIGFGNFEVRERSARKGRNPQTGDEIEIAASKVPAFK
+PGKALKDAVK
+>gi|517581208|ref|WP_018751416.1| MULTISPECIES: transcriptional regulator [Paenibacillus]
+MNKSDLISQVAESTELSKKDATKAVDAVFEAISEALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|503625437|ref|WP_013859513.1| transcriptional regulator [Bacillus coagulans] >gi|335367669|gb|AEH53620.1| histone family protein DNA-binding protein [Bacillus coagulans 2-6] >gi|347585863|gb|AEP02130.1| histone family protein DNA-binding protein [Bacillus coagulans 36D1] >gi|685883113|gb|KGB28555.1| DNA-binding protein [Bacillus coagulans] >gi|706209343|gb|KGT40268.1| DNA-binding protein [Bacillus coagulans P38] >gi|753712914|gb|AJH79932.1| DNA-binding protein HU 1 [Bacillus coagulans DSM 1 = ATCC 7050] >gi|757439451|gb|AJO22778.1| histone family protein DNA-binding protein [Bacillus coagulans] >gi|850402403|gb|AKN55707.1| DNA-binding protein [Bacillus coagulans] >gi|1002354865|gb|KXT21278.1| DNA-binding protein [Bacillus coagulans] >gi|1004850131|gb|KYC60847.1| hypothetical protein B4098_3091 [Bacillus coagulans] >gi|1004853412|gb|KYC63975.1| hypothetical protein B4100_3109 [Bacillus coagulans] >gi|1004859518|gb|KYC69887.1| hypothetical protein B4099_3163 [Bacillus coagulans] >gi|1004877174|gb|KYC87226.1| hypothetical protein B4096_3138 [Bacillus coagulans]
+MNKTDLINAVAEATELSKKDTTKAVDAIFDTIQNALANGDKVQLIGFGNFEVRERAARKGRNPQTGEEIDIAASKVPAFK
+PGKALKDAVK
+>gi|985294385|gb|KWZ79482.1| DNA-binding protein HU-beta [Bacillus coagulans]
+MTSTFLLEEVNGMNKTDLINAVAEATELSKKDTTKAVDAIFDTIQNALANGDKVQLIGFGNFEVRERAARKGRNPQTGEE
+IDIAASKVPAFKPGKALKDAVK
+>gi|498363111|ref|WP_010677267.1| transcriptional regulator [Bacillus timonensis]
+MNKTELISAVAESAELSKKDATKAVDAVFEAVQNALSSGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVAGK
+>gi|740139102|ref|WP_037985717.1| MULTISPECIES: DNA-binding protein [Thalassobacillus]
+MNKTDLINTVSEKADLSKKDATKAVDSVFESIMDSLKDGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEISASKVPAFK
+PGKALKDAVK
+>gi|736767187|ref|WP_034770652.1| DNA-binding protein [Bacillus thermoamylovorans] >gi|678287228|emb|CEE01878.1| DNA-binding protein HU [Bacillus thermoamylovorans] >gi|752652182|gb|KIO65593.1| hypothetical protein B4065_0518 [Bacillus thermoamylovorans]
+MNKTELVSAVAEAAELSKKDAAKAVDAVFDSILNALKEGDKVQLIGFGNFEVRERSARKGRNPQTGEEIEIAASKVPAFK
+PGKALKEAVK
+>gi|489449781|ref|WP_003355150.1| transcriptional regulator [Bacillus smithii] >gi|363623047|gb|EHL74178.1| DNA-binding protein HU [Bacillus smithii 7_3_47FAA] >gi|873409947|gb|AKP47587.1| DNA-binding protein HBsu [Bacillus smithii]
+MNKTELINEVAEAAELSKKDATKAVDAVFTAIQNALASGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|939725015|ref|WP_054957132.1| DNA-binding protein [Paenibacillus sp. FF9]
+MNKSDLITQVAESTELSKKDATKAVDAVFDAISQALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPSSKVPAFK
+PGKALKDGIK
+>gi|736206551|ref|WP_034308023.1| MULTISPECIES: DNA-binding protein [Bacillus] >gi|701526862|emb|CEG33480.1| DNA-binding protein HU [Bacillus simplex] >gi|922077901|gb|KON69894.1| DNA-binding protein [Bacillus butanolivorans] >gi|924305765|gb|KOR79510.1| DNA-binding protein [Bacillus sp. FJAT-21352] >gi|924317041|gb|KOR86813.1| DNA-binding protein [Bacillus sp. FJAT-22058] >gi|945363472|gb|KQU20537.1| DNA-binding protein [Bacillus sp. Leaf13] >gi|946508968|gb|KRF58871.1| DNA-binding protein [Bacillus sp. Soil745] >gi|946513710|gb|KRF63508.1| DNA-binding protein [Bacillus sp. Soil768D1] >gi|1002182668|gb|AMM93689.1| DNA-binding protein [Bacillus simplex]
+MNKTELINEVVTATEISKKDATKAVDAVFDTILEALKNGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIAASKVPAFK
+PGKALKDAVK
+>gi|972437268|ref|WP_059043418.1| DNA-binding protein [Paenibacillus sp. MT18]
+MNKSDLISQVAESTELSKKDATKAVDAVFEAISEALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|738819635|ref|WP_036710010.1| DNA-binding protein [Paenibacillus sp. P1XP2] >gi|727081050|gb|KHF35315.1| DNA-binding protein HU 1 [Paenibacillus sp. P1XP2]
+MNKSELISQVAETAELSKKDATKAVDAVFEAIAQALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPSSKIPAFK
+PGKALKDGIK
+>gi|1000888292|ref|WP_061144292.1| DNA-binding protein [Bacillus simplex] >gi|984392482|gb|KWW11352.1| DNA-binding protein [Bacillus simplex]
+MNKTELINEVVTATEISKKDATKAVDAVFDTILEALKTGDKVQLIGFGNFEVRERAARKGRNPQTGDEIEIAASKVPAFK
+PGKALKDAVK
+>gi|1057335295|ref|WP_068695953.1| DNA-binding protein [Paenibacillus yonginensis] >gi|1043655748|gb|ANS74868.1| DNA-binding protein [Paenibacillus yonginensis]
+MNKSELITQVAESTELSKKDVTKAVDAVFEAISEALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|1033158356|ref|WP_064463664.1| DNA-binding protein [Bacillus muralis] >gi|1028806941|gb|OAK73448.1| DNA-binding protein [Bacillus muralis]
+MIFYKDSFWEEVNGMNKTELINEVVTATEISKKDATKAVDAVFDTILEALKNGDKVQLIGFGNFEVRERAARKGRNPQTG
+DEIEIAASKVPAFKPGKALKDAVK
+>gi|1011407531|ref|WP_062319305.1| DNA-binding protein [Halolactibacillus sp. JCM 19043]
+MNKTDLINAVAEKSELSKKDATKAVDAVFESIMDSLKDGEKVQLIGFGNFEVRDRAARKGRNPQTGAEIEIPASKVPAFK
+PGKALKDIVK
+>gi|749604721|ref|WP_040228344.1| DNA-binding protein [Bhargavaea cecembensis]
+MNKTDLVNSVAEATGLSRKDATNAVESVFNSISDALANGDKVQLIGFGNFEVRERAARKGRNPQSGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|512480557|ref|WP_016427421.1| DNA-binding protein HU 1 [Paenisporosarcina sp. HGH0030] >gi|512053616|gb|EPD53180.1| DNA-binding protein HU 1 [Paenisporosarcina sp. HGH0030]
+MNKTELVNSVAEAADLSKKDASKAVDALFDTIQDALAKGEKIQLIGFGNFEVRERAARKGRNPQTGKEIEIAASKVPAFK
+PGKALKDAVK
+>gi|1057435925|ref|WP_068781750.1| DNA-binding protein [Paenibacillus sp. GM2]
+MNKSDLVSKVAESTELSKKDATKAVDAVFEAISEALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|504456421|ref|WP_014643523.1| MULTISPECIES: transcriptional regulator [Halobacillus] >gi|384074139|emb|CCG45632.1| DNA-binding protein HU [Halobacillus halophilus DSM 2266] >gi|725820069|gb|KHE72152.1| DNA-binding protein [Halobacillus sp. BBL2006]
+MNKTDLINAVSEKTDLSKKDATQAVDSVFESIMDSLKDGEKVQLIGFGNFEVRERAARKGRNPQTGEEIEISASKVPAFK
+PGKALKDAVK
+>gi|738784945|ref|WP_036676223.1| MULTISPECIES: DNA-binding protein [Paenibacillus] >gi|573569922|gb|ETT68447.1| hypothetical protein C171_01950 [Paenibacillus sp. FSL H8-237] >gi|686526168|gb|AIQ36868.1| DNA-binding protein [Paenibacillus sp. FSL R5-0345] >gi|686564789|gb|AIQ75482.1| DNA-binding protein [Paenibacillus odorifer] >gi|690624133|gb|AIQ25147.1| DNA-binding protein [Paenibacillus sp. FSL H7-0737] >gi|962303670|gb|KTD87162.1| DNA-binding protein [Paenibacillus etheri]
+MNKSDLINVVTEATELPKKDATKAVDAVFEAITEALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDGIK
+>gi|657024092|ref|WP_029267861.1| DNA-binding protein [Virgibacillus alimentarius]
+MNKTDLVNAVAEKSELSKKDAGKAVDAVFETVMDSLKDGEKVQLIGFGNFEVRERSARKGRNPQTGEEIEIPASKVPAFK
+PGKALKDAVK
+>gi|647408705|ref|WP_025784891.1| DNA-binding protein [Sporosarcina sp. D27]
+MNKTELINSVAEAAGLSKKDATKAVETVFETIQDALSKGEKVQLIGFGNFEVRERAARKGRNPQSGEEIEIAASKVPAFK
+AGKALKDAVK
+>gi|953333274|ref|WP_057988285.1| MULTISPECIES: DNA-binding protein [Bacillaceae] >gi|946745277|gb|KRG12514.1| DNA-binding protein [Virgibacillus soli] >gi|946748886|gb|KRG15948.1| DNA-binding protein [Bacillus galactosidilyticus] >gi|1028803223|gb|OAK69774.1| DNA-binding protein [Bacillus galactosidilyticus]
+MNKTELINSVAEAAELSKKDATKAVDAVFQSIQDTLANGDKVALIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|1054387152|ref|WP_066241877.1| DNA-binding protein [Fictibacillus phosphorivorans] >gi|1017178604|gb|KZE66254.1| DNA-binding protein [Fictibacillus phosphorivorans] >gi|1026252629|gb|ANC77690.1| DNA-binding protein [Fictibacillus phosphorivorans]
+MNKTDLINAVSEQAELSKKDASKAVDAVFEAITGTLQSGDKVQLIGFGNFEVRERAARKGRNPQTGQEIEISASKVPAFK
+PGKALKDAVK
+>gi|817727124|ref|WP_046680139.1| DNA-binding protein [Paenibacillus sp. DMB20] >gi|817368795|gb|KKO52010.1| DNA-binding protein [Paenibacillus sp. DMB20]
+MNKSDLIAQVAESTELSKKDATKAVDAVFEAISEALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|743524591|ref|WP_039041781.1| DNA-binding protein [Sporosarcina sp. ZBG7A]
+MNKTELINSVAEEAGLSKKDATKAVETVFETIQDALSKGEKVQLIGFGNFEVRERAARKGRNPQSGEEIEIAASKVPAFK
+AGKALKDAVK
+>gi|655096461|ref|WP_028544248.1| DNA-binding protein [Paenibacillus taiwanensis]
+MNKSELINEVAEATELSKKDVTKAVDAVFEAISNALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|518363862|ref|WP_019534069.1| transcriptional regulator [Paenibacillus ginsengihumi]
+MNKTDLINKVAEVTELSKKDATKAVEAVFDAISEALQAGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPSSKVPAFK
+PGKALKEGIQ
+>gi|811048487|emb|CQR46696.1| DNA-binding protein HU 1 [Paraliobacillus sp. PM-2]
+MNKTDLINAVADKSELSKKDATKAVDSVFETIMDSLKDGEKVQLIGFGNFEVRERAARKGRNPQTGAEIEIPASKVPAFK
+PGKALKDSVK
+>gi|1057046329|ref|WP_068454434.1| DNA-binding protein [Kurthia sp. 11kri321] >gi|982219181|gb|AMA64416.1| DNA-binding protein HU 1 [Kurthia sp. 11kri321]
+MNKTELVNSVAEAAELSKKDAAKAVESVFETIQEALAKGDKVQLIGFGNFEVRERAARKGRNPQTGEEIQIDASKVPAFK
+PGKALKDAIK
+>gi|739707566|ref|WP_037561579.1| MULTISPECIES: DNA-binding protein [Sporosarcina]
+MNKTELINSVAEAAGLTKKDATKAVEAVFDTIQSTLANGDKVQLIGFGNFEVRERAARKGRNPQSGEEIEIAASKVPAFK
+AGKALKDAVK
+>gi|922743522|ref|WP_053358048.1| MULTISPECIES: DNA-binding protein [Bacillaceae]
+MNKTDLVNTVSEQTQLSKKDATKAVDAVFEAIAETLKEGDKVQLIGFGNFEVRERAARKGRNPQTGQEIEIAASKVPAFK
+PGKALKDALK
+>gi|1057217096|ref|WP_068590179.1| DNA-binding protein [Paenibacillus macquariensis] >gi|1025853666|gb|OAB30755.1| DNA-binding protein [Paenibacillus macquariensis subsp. macquariensis] >gi|1025870039|gb|OAB46924.1| DNA-binding protein [Paenibacillus antarcticus]
+MNKSELISQVAETSELSKKDATKAVDAVFEAIASALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIAASKIPAFK
+PGKALKDGIK
+>gi|749690984|ref|WP_040286736.1| DNA-binding protein [Sporosarcina koreensis]
+MNKTELINSVAEAAGLSKKDATKAVETVFETIQDALAKGEKVQLIGFGNFEVRERAARKGRNPQSGEEIEIAASKVPAFK
+AGKALKDAVK
+>gi|751578102|ref|WP_041046822.1| DNA-binding protein [Paenibacillus sp. VKM B-2647] >gi|751153307|gb|KIL41538.1| DNA-binding protein [Paenibacillus sp. VKM B-2647]
+MNKSDLINKVAEVSELSKKDATKAVDAVFDAISEALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIDIPASKIPAFK
+PGKSLRDLCTK
+>gi|515754318|ref|WP_017186918.1| transcriptional regulator [Alkalibacillus haloalkaliphilus]
+MNKTDLVNAVAENADLSKKDASKAVDSVFEAITDSLTKSEKVQLIGFGNFEVRERSARKGRNPQTGQEIDIPASKVPAFK
+PGKALKDAVK
+>gi|497175509|ref|WP_009497146.1| transcriptional regulator [Sporosarcina newyorkensis] >gi|339623066|gb|EGQ27575.1| DNA-binding protein HU [Sporosarcina newyorkensis 2681]
+MNKTELINSVAEAAGLTKKDATKAVEAVFDTIQATLAKGEKVQLIGFGNFEVRERAARKGRNPQSGEEIEIAASKVPAFK
+AGKALKDAVK
+>gi|737181178|ref|WP_035167114.1| DNA-binding protein [Lactobacillus curieae] >gi|723275183|gb|KHD02265.1| DNA-binding protein [Lactobacillus curieae]
+MANKAELVSSVATSTGLTKKDATAAVDAVFDSIQASLAKGDKVQLIGFGNFEVRERAARKGRNPQTGQEIQIPASKVPAF
+KPGKALKDAVK
+>gi|825867146|ref|WP_047152631.1| DNA-binding protein [Aneurinibacillus tyrosinisolvens]
+MNKTELIAKVSETAELTKKDATKAVDAVFDAIAEALKEGDKVQLIGFGNFEVRERAARKGRNPQTGQEIEIAASKVPAFK
+PGKALKDEIQ
+>gi|496517591|ref|WP_009225874.1| MULTISPECIES: transcriptional regulator [Paenibacillus] >gi|251844298|gb|EES72316.1| DNA-binding protein HU-beta [Paenibacillus sp. oral taxon 786 str. D14] >gi|507799931|gb|EOS57490.1| DNA-binding protein HU 1 [Paenibacillus barengoltzii G22]
+MNKSDLIAQVAESTELSKKDATKAVDAVFDAISTALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|498216668|ref|WP_010530824.1| transcriptional regulator [Lentibacillus jeotgali]
+MNKTDLVNAVAEKSDLSKKDATKAVDAVFESVMDSLKQGEKVQLIGFGNFEVRERSERKGRNPQTGEEIKIPASKVPAFK
+PGKALKESVK
+>gi|1011014069|ref|WP_061970679.1| DNA-binding protein [Fictibacillus enclensis] >gi|959355264|gb|KSU85588.1| DNA-binding protein [Fictibacillus enclensis] >gi|1049622780|emb|SCB99308.1| DNA-binding protein HU-beta [Fictibacillus enclensis]
+MNKTDLVNTVAEQTQLSKKDATKAVDAVFEAIADTLKEGDKVQLIGFGNFEVRERAARKGRNPQTGQEIEIAASKVPAFK
+PGKALKDALK
+>gi|737741573|ref|WP_035710276.1| DNA-binding protein [Bacillus aidingensis]
+MNKTDLINAVAEQADISKKDASKAVDAVFDSITETLKKGDKIQLVGFGSFEVRERAARKGRNPQTGEEIKIPATKNPAFR
+PGKQLKDAVN
+>gi|767001134|ref|WP_044876428.1| DNA-binding protein [Paenibacillus sp. IHBB 10380] >gi|766901297|gb|AJS58029.1| DNA-binding protein [Paenibacillus sp. IHBB 10380]
+MNKSELISQVAETSELSKKDATKAVDAVFEAISGALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIAASKIPAFK
+PGKALKDGIK
+>gi|1057031609|ref|WP_068442558.1| DNA-binding protein [Lentibacillus amyloliquefaciens] >gi|973702579|gb|ALX47965.1| DNA-binding protein [Lentibacillus amyloliquefaciens]
+MNKTDLVNAVSEKSELSKKDATKAVDAVFESVMDSLKKGEKVQLIGFGNFEVRERSERKGRNPQTGEEIKIPASKVPAFK
+PGKALKESVK
+>gi|498031602|ref|WP_010345758.1| transcriptional regulator [Paenibacillus peoriae]
+MNKTDLINQVAESTELSKKDVTKAIDAVFEAISGALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|489432972|ref|WP_003338529.1| MULTISPECIES: transcriptional regulator [Brevibacillus] >gi|372458013|emb|CCF14232.1| DNA-binding protein HU [Brevibacillus laterosporus GI-9] >gi|548621921|gb|ERM20053.1| transcriptional regulator [Brevibacillus laterosporus PE36] >gi|666896533|gb|AIG26210.1| bacterial nucleoid DNA-binding protein [Brevibacillus laterosporus LMG 15441] >gi|817623211|gb|AKF95441.1| DNA-binding protein (plasmid) [Brevibacillus laterosporus] >gi|1028607755|gb|OAJ75109.1| DNA-binding protein [Brevibacillus sp. SKDU10]
+MNKTELIAKVAETSELTKKDATKAVDAVLDAISDALKEGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIASSKIPAFK
+PGKQLKDSIK
+>gi|738756553|ref|WP_036650076.1| DNA-binding protein [Paenibacillus pini] >gi|585396420|dbj|GAF09050.1| DNA-binding protein HBsu [Paenibacillus pini JCM 16418]
+MNKSELISQVAESTELSKKDATKAVDSVFEAIAQALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPSSKIPAFK
+PGKALKDGIK
+>gi|1057226063|ref|WP_068598449.1| DNA-binding protein [Paenibacillus macquariensis] >gi|1025855555|gb|OAB32622.1| DNA-binding protein [Paenibacillus macquariensis subsp. defensor]
+MNKSELISQVAETSELSKKDATKAVDAVFEAIATALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIAASKIPAFK
+PGKALKDGIK
+>gi|1057294295|ref|WP_068657800.1| DNA-binding protein [Paenibacillus sp. LPB0068] >gi|1025926426|gb|OAB74464.1| DNA-binding protein [Paenibacillus sp. LPB0068]
+MNKSELISQVAETSELSKKDATKAVDAVFEAISVALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIAASKIPAFK
+PGKALKDGIK
+>gi|1054517061|ref|WP_066297461.1| DNA-binding protein [Bacillus sp. FJAT-29937]
+MNKTELVNAVAEISELSKKDSNKAVDAVFQAIEDALKNGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIQASKLPTFK
+PGKALRDAVKVEA
+>gi|504048107|ref|WP_014282101.1| transcriptional regulator [Paenibacillus terrae] >gi|357203512|gb|AET61409.1| DNA-binding protein HU 1 (DNA-binding protein II) [Paenibacillus terrae HPL-003] >gi|764116651|gb|KJD44915.1| DNA-binding protein [Paenibacillus terrae]
+MNKTDLINQVSESTELSKKDVTKAVDAVFEAISGALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|545380900|ref|WP_021622640.1| MULTISPECIES: DNA-binding protein HU-beta [Aneurinibacillus] >gi|542057171|gb|ERI08371.1| DNA-binding protein HU-beta [Aneurinibacillus aneurinilyticus ATCC 12856] >gi|758783945|gb|KIV51883.1| DNA-binding protein [Aneurinibacillus migulanus] >gi|758786571|gb|KIV54420.1| DNA-binding protein [Aneurinibacillus migulanus] >gi|917806728|emb|CEH30006.1| DNA-binding protein HU-beta [Aneurinibacillus migulanus] >gi|922814708|gb|KON98004.1| DNA-binding protein [Aneurinibacillus migulanus] >gi|928457346|gb|KPD06816.1| DNA-binding protein [Aneurinibacillus migulanus]
+MNKTELITKVSEVAELTKKDATKAVDAVFDAITEALKDGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKEDIQ
+>gi|738727799|ref|WP_036621920.1| DNA-binding protein [Paenibacillus macerans] >gi|675491903|gb|KFN09556.1| DNA-binding protein HU 1 [Paenibacillus macerans]
+MNKSDLISQVAESTELSKKDATKAVDAVFEAISTALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|764883413|ref|WP_044479031.1| DNA-binding protein [Paenibacillus sp. GD11]
+MNKTDLISQVAESTELSKKDATKAVDAVFEAIAGALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|1011184209|ref|WP_062104801.1| DNA-binding protein [Bacillus niameyensis]
+MNKTELINSVAEAAELSKKDATKAVDAVFQAIQDTLANGDKVALIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKDAVK
+>gi|1054504248|ref|WP_066290474.1| DNA-binding protein [Fictibacillus arsenicus] >gi|1049090510|gb|ANX12709.1| DNA-binding protein [Fictibacillus arsenicus]
+MNKTDLINAVSEQAQLSKKDASKAVDAVFEAITGTLQSGSKVQLIGFGNFEVRERAARKGRNPQTGQEIEISASKVPAFK
+PGKALKDAVK
+>gi|489482116|ref|WP_003387097.1| DNA-binding protein HU [Brevibacillus borstelensis] >gi|475660585|gb|EMT53604.1| DNA-binding protein HU [Brevibacillus borstelensis AK1] >gi|820881493|gb|KKX53016.1| DNA-binding protein [Brevibacillus borstelensis cifa_chp40]
+MNKTELIAKVAETTELTKKDATKAVDAVLDAIAEALKDGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIASSKVPAFK
+PGKQLKDSIK
+>gi|1011514464|ref|WP_062408868.1| DNA-binding protein [Paenibacillus naphthalenovorans] >gi|961444488|gb|ALS22689.1| transcriptional regulator [Paenibacillus naphthalenovorans]
+MNKSDLINKVAETSELSKKDATKAVEAVFEAISEALQNGEKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPSSKIPAFK
+PGKALKDLANN
+>gi|503075809|ref|WP_013310732.1| MULTISPECIES: transcriptional regulator [Paenibacillus] >gi|660638421|gb|KEO79360.1| DNA-binding protein [Paenibacillus polymyxa] >gi|703594900|gb|AIW40473.1| DNA-binding protein [Paenibacillus polymyxa CR1] >gi|920790229|gb|ALA42748.1| DNA-binding protein [Paenibacillus peoriae] >gi|924429909|gb|KOS01156.1| DNA-binding protein [Paenibacillus polymyxa] >gi|1005933612|gb|KYG95835.1| DNA-binding protein [Paenibacillus polymyxa] >gi|1055225546|gb|ODA07111.1| DNA-binding protein [Paenibacillus polymyxa]
+MNKTDLINQVSESTELSKKDVTKAIDAVFEAISGALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|503682422|ref|WP_013916498.1| transcriptional regulator [Paenibacillus mucilaginosus] >gi|336298234|gb|AEI41337.1| Hup [Paenibacillus mucilaginosus KNP414] >gi|378569577|gb|AFC29887.1| Hup [Paenibacillus mucilaginosus 3016] >gi|384090636|gb|AFH62072.1| transcriptional regulator [Paenibacillus mucilaginosus K02]
+MNKSDLINKVSESTELSKKDATKAVEAVFEAISEALQSGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPSSKIPAFK
+PGKALKDGIQ
+>gi|938517364|ref|WP_054635514.1| DNA-binding protein [Thalassobacillus sp. C254]
+MNKTDLINAVAEQADLSKKDASKAVDAVFDSITDTLKQGDKVQLVGFGSFEVRERASRKGRNPQTGEEIEIPATKNPAFR
+PGKQLKDSVN
+>gi|751629159|ref|WP_041096968.1| MULTISPECIES: DNA-binding protein [Bacillus] >gi|751189959|gb|KIL75140.1| DNA-binding protein HBsu [Bacillus badius] >gi|751194717|gb|KIL79873.1| DNA-binding protein HBsu [Bacillus badius] >gi|899717907|gb|KMY54622.1| DNA-binding protein [Bacillus sp. FJAT-27231] >gi|1021595844|gb|KZN98964.1| DNA-binding protein [Bacillus encimensis] >gi|1022122300|gb|KZR60245.1| DNA-binding protein [Bacillus badius] >gi|1043538710|gb|OCA92746.1| DNA-binding protein [Bacillus sp. FJAT-27215] >gi|1049939073|gb|OCS83900.1| DNA-binding protein [Bacillus encimensis]
+MNKTDLINQVAETAELSKKDATKAVEAVFDAIQNSLASGDKVQLIGFGNFEVRERSARKGRNPQTGAEIEIAASKVPAFK
+PGKALKDAVK
+>gi|494672897|ref|WP_007430838.1| transcriptional regulator [Paenibacillus sp. Aloe-11] >gi|375078352|gb|EHS56579.1| histone family protein DNA-binding protein [Paenibacillus sp. Aloe-11]
+MNKTDLINQVSESTELSKKDVTKAIDAVFEAISGALQNGDKVQLVGFGNFEVRERSARKGRNPQTGEEIEIPASKIPAFK
+PGKALKDGIK
+>gi|653174515|ref|WP_027417483.1| DNA-binding protein [Aneurinibacillus terranovensis]
+MNKTELIAKVSEVAELTKKDATKAVDAVFDAITEALKTGDKVQLIGFGNFEVRERAARKGRNPQTGEEIEIAASKVPAFK
+PGKALKEDIQ
+>gi|737539093|ref|WP_035512372.1| DNA-binding protein [Halalkalibacillus halophilus]
+MNKTDLVNAVAEKADLSKKDASNAVDSVFDAITGSLEKSEKVQLIGFGNFEVRERSARKGRNPQTGEEIKIPASKVPAFK
+PGKALKDAVK

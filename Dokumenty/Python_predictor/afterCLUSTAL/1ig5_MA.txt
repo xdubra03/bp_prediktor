@@ -1,0 +1,42 @@
+>gi|157830571|pdb|1CDN|A Chain A, Solution Structure Of (Cd2+)1-Calbindin D9k Reveals Details Of The Stepwise Structural Changes Along The Apo--> (Ca2+)
+-------------------------------------------------------MKSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEFPSLLKGGSTLDELFEELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|157834688|pdb|2BCB|A Chain A, High-Resolution Solution Structure Of Calcium-Loaded Calbindin D9k >gi|343197784|pdb|1B1G|A Chain A, Solvated Refineme
+--------------------------------------------------------KSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEFPSLLKGGSTLDELFEELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|17942671|pdb|1KCY|A Chain A, Nmr Solution Structure Of Apo Calbindin D9k (F36g + P43m Mutant)
+--------------------------------------------------------KSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEGPSLLKGMSTLDELFEELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|7245345|pdb|1D1O|A Chain A, Cooperativity In Ef-Hand Ca2+-Binding Proteins: Evidence Of Site-Site Communication From Binding-Induced Changes In St
+--------------------------------------------------------KSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEFPSLLKGMSTLDELFEELDKAGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|14277910|pdb|1HT9|A Chain A, Domain Swapping Ef-Hands >gi|14277911|pdb|1HT9|B Chain B, Domain Swapping Ef-Hands
+-------------------------------------------------------MKSPEELKGIFEKYAAKEGDPNNLSKEELKLLLQTEFPSLLKGMSTLDELFEELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|157836959|pdb|4ICB|A Chain A, Proline Cis-trans Isomers In Calbindin D9k Observed By X-ray Crystallography >gi|208045|gb|AAA72542.1| intestinal calc
+-------------------------------------------------------MKSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEFPSLLKGPSTLDELFEELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|27806285|ref|NP_776682.1| protein S100-G [Bos taurus] >gi|426256722|ref|XP_004021986.1| PREDICTED: protein S100-G [Ovis aries] >gi|548531887|ref|XP_00570
+----------------------------------------------------MSAKKSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEFPSLLKGPSTLDELFEELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|14278356|pdb|1IG5|A Chain A, Bovine Calbindin D9k Binding Mg2+ >gi|14278357|pdb|1IGV|A Chain A, Bovine Calbindin D9k Binding Mn2+ >gi|157836826|pdb
+--------------------------------------------------------KSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEFPSLLKGPSTLDELFEELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|18655738|pdb|1KSM|A Chain A, Average Nmr Solution Structure Of Ca Ln Calbindin D9k >gi|18655906|pdb|1KQV|A Chain A, Family Of Nmr Solution Structur
+----------------------------------------------------MSAKKSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEFPSLLKGMSTLDELFEELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|39654236|pdb|1N65|A Chain A, Family Of Nmr Solution Structures Of Ca Ce Calbindin D9k In Denaturating Conditions >gi|529280659|pdb|2MAZ|A Chain A, 
+--------------------------------------------------------KSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEFPSLLKGMSTLDELFEELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|594648311|ref|XP_007173609.1| PREDICTED: protein S100-G [Balaenoptera acutorostrata scammoni] >gi|602685317|ref|XP_007454904.1| PREDICTED: protein S100-G [Li
+----------------------------------------------------MSTNKFPEELKSIFEKYAAKEGDPNQLSKEELKLLIQTEFPSLLKGPSTLDDLFQELDRNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|593772605|ref|XP_007124623.1| PREDICTED: protein S100-G-like [Physeter catodon]
+----------------------------------------------------MSTNKFPEELKGIFEKYAAKEGDPNQLSKEELKLLIQTEFPSLLKGPSTLDDLFQELDKNGDGEVSFEEFQGLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|585169350|ref|XP_006736722.1| PREDICTED: protein S100-G-like [Leptonychotes weddellii]
+----------------------------------------------------MSIKKSPEELKSIFEKYAAKEGDPDQLSKEELKLLIQAEFPSLLKGPSTLDELFQELDKNGDGEVSFEEFQVLVNKIAQNCBICXXExceptionErrorBLASTDBCSeqDBExceptioneArgErrblastdbdataextract-cpplinencbiCBlastDBExtractorSetSeqId---EntrynotfoundinBLASTdatabase
+>gi|472387735|ref|XP_004413205.1| PREDICTED: protein S100-G [Odobenus rosmarus divergens]
+----------------------------------------------------MSVKKSPEELKSIFEKYAAKEGDPDQLSKEELKLLIQMEFPSLLKGPSTLDELFQELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|671007537|ref|XP_008694639.1| PREDICTED: protein S100-G [Ursus maritimus]
+----------------------------------------------------MSVKKSPEELKNIFEKYAAKEGDPDQLSKEELKLLIQTEFPSLLKGPSTLDDLFQELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|301769549|ref|XP_002920189.1| PREDICTED: protein S100-G [Ailuropoda melanoleuca] >gi|281340585|gb|EFB16169.1| hypothetical protein PANDA_008900 [Ailuropoda m
+----------------------------------------------------MSVKKSPEELKNMFEKYAAKEGDPDQLSKEELKLLIQTEFPSLLKGPSTLDDLFQELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|410988162|ref|XP_004000357.1| PREDICTED: protein S100-G [Felis catus] >gi|591333183|ref|XP_007092328.1| PREDICTED: protein S100-G [Panthera tigris altaica]
+----------------------------------------------------MSAKKSPEELKSIFAKYAAKEGDPDQLSKEELKLLIQTEFPSLLKGPSTLDDLFQELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|511877997|ref|XP_004758957.1| PREDICTED: protein S100-G [Mustela putorius furo]
+----------------------------------------------------MSGKKSPEELKSIFEKYAAKEGDPNQLSKEELKLLIQTEFPSLLKGPSTLDDLFQELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|560938312|ref|XP_006194950.1| PREDICTED: protein S100-G [Camelus ferus] >gi|743718223|ref|XP_010952836.1| PREDICTED: protein S100-G [Camelus bactrianus] >gi|
+----------------------------------------------------MSIKKSPEELKGIFEKYAAKEGDPNQLSKEELKLLIQNEFPSLLKGPSTLDDLFQELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|530668790|gb|EQB79091.1| hypothetical protein CB1_039750002 [Camelus ferus]
+MFPLQVLAFWGLLELSGLSTLVFTTVKITLFCCPLHSLKIFSTSLLDEQDIKMSIKKSPEELKGIFEKYAAKEGDPNQLSKEELKLLIQNEFPSLLKGPSTLDDLFQELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------
+>gi|560992025|ref|XP_006218153.1| PREDICTED: protein S100-G [Vicugna pacos]
+----------------------------------------------------MSIKKSPEELKGIFEKYAAKEGDPNQLSKEELKLLVQNEFPSLLKGPSTLDDLFQELDKNGDGEVSFEEFQVLVKKISQ----------------------------------------------------------------------------------------------------------------------------------------

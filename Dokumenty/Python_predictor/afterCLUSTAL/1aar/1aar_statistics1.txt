@@ -1,0 +1,14 @@
+---------------
+
+file: 1aar1-60.txt
+original acid: K
+mutated acid: E
+at position: 6
+
+Statistics:
+
+No all proteins: 250
+Is same at position: count = 249
+No. basic acids at position: 0
+No. mutated acids at position: 1
+Originals vs mutated : 99.600000

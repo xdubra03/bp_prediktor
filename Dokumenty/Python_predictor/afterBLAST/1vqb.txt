@@ -1,0 +1,457 @@
+>gi|17426220|ref|NP_510887.1| helix destabilising protein [Enterobacteria phage M13] >gi|730977591|ref|YP_009111299.1| V [Enterobacteria phage fd] >gi|61249916|sp|P69542.1|G5P_BPFD RecName: Full=DNA-Binding protein G5P; Short=G5P; AltName: Full=GPV; AltName: Full=Single-stranded DNA-binding protein >gi|61249919|sp|P69543.1|G5P_BPF1 RecName: Full=DNA-Binding protein G5P; Short=G5P; AltName: Full=GPV; AltName: Full=Single-stranded DNA-binding protein >gi|61250073|sp|P69544.1|G5P_BPM13 RecName: Full=DNA-Binding protein G5P; Short=G5P; AltName: Full=Single-stranded DNA-binding protein >gi|157831261|pdb|1GVP|A Chain A, Gene V Protein (Single-Stranded Dna Binding Protein) >gi|157834154|pdb|1VQB|A Chain A, Gene V Protein (Single-Stranded Dna Binding Protein) >gi|157835041|pdb|2GN5|A Chain A, Refined Structure Of The Gene 5 Dna Binding Protein From Bacteriophage Fd >gi|8489184|gb|AAF75603.1|AF217317_6 cytosolic single-stranded DNA binding protein pV [Filamentous phage cloning vector fd-tet] >gi|14962|emb|CAA23858.1| helix destabilising protein [Enterobacteria phage M13] >gi|14976|emb|CAA23868.1| unnamed protein product [Enterobacteria phage f1] >gi|166204|gb|AAA32211.1| protein V [Enterobacteria phage f1] >gi|215397|gb|AAA32305.1| V [Enterobacteria phage fd] >gi|21667068|gb|AAM73885.1| cytosolic single-stranded DNA binding protein pV [Filamentous phage display vector f8-5] >gi|21667082|gb|AAM73897.1| cytosolic single-stranded DNA binding protein pV [Filamentous phage display vector c8-4] >gi|47420033|gb|AAT27362.1| pV [VCSM13 interference-resistant helper phage] >gi|58091834|gb|AAW65336.1| gene V protein [synthetic construct] >gi|153902262|dbj|BAF74204.1| protein V [Enterobacteria phage f1] >gi|153902273|dbj|BAF74214.1| protein V [Enterobacteria phage f1] >gi|262064155|gb|ACY07138.1| V [Enterobacteria phage f1] >gi|262064166|gb|ACY07148.1| V [Enterobacteria phage f1] >gi|262064177|gb|ACY07158.1| V [Enterobacteria phage f1] >gi|332715040|gb|AEE98858.1| protein V [Cloning vector HPdO] >gi|350280598|gb|AEQ25522.1| V protein [Enterobacteria phage f1] >gi|350280609|gb|AEQ25532.1| V protein [Enterobacteria phage f1] >gi|401823916|gb|AFQ21792.1| helix destabilizing protein [Enterobacteria phage M13] >gi|402239537|gb|AFQ39714.1| p5 [synthetic construct] >gi|402239558|gb|AFQ39734.1| p5 [synthetic construct] >gi|731189334|gb|AIZ50672.1| pV [M13HT HaloTag-displaying helper phage] >gi|939227856|gb|KPU82314.1| DNA-binding protein [SAR11 cluster bacterium PRT-SC02] >gi|939229662|gb|KPU83776.1| DNA-binding protein [Psychromonas sp. PRT-SC03] >gi|223543|prf||0812197G DNA,phage
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEYPVLVKITLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|157834162|pdb|1VQJ|A Chain A, Gene V Protein Mutant With Val 35 Replaced By Ile 35 (V35i)
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYIDLGNEYPVLVKITLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|262064144|gb|ACY07128.1| V [Enterobacteria phage f1] >gi|350280587|gb|AEQ25512.1| V protein [Enterobacteria phage f1]
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEYPVLVKITLDEGQPAYAPGLYTVHLSSFKIGQFGSLMIDR
+LRLVPAK
+>gi|157834161|pdb|1VQI|A Chain A, Gene V Protein Mutant With Ile 47 Replaced By Val 47 (I47v)
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEYPVLVKVTLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|157834159|pdb|1VQG|A Chain A, Gene V Protein Mutant With Ile 47 Replaced By Leu 47 (I47l)
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEYPVLVKLTLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|157834160|pdb|1VQH|A Chain A, Gene V Protein Mutant With Ile 47 Replaced By Met 47 (I47m)
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEYPVLVKMTLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|157834158|pdb|1VQF|A Chain A, Gene V Protein Mutant With Val 35 Replaced By Ile 35 And Ile 47 Replaced By Val 47 (V35i, I47v)
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYIDLGNEYPVLVKVTLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|157834310|pdb|1YHB|A Chain A, Crystal Structures Of Y41h And Y41f Mutants Of Gene V Protein From Ff Phage Suggest Possible Protein-Protein Interactions In Gvp-Ssdna Complex
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEFPVLVKITLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|576356|pdb|1YHA|A Chain A, Crystal Structures Of Y41h And Y41f Mutants Of Gene V Protein From Ff Phage Suggest Possible Protein-Protein Interactions In Gvp-Ssdna Complex >gi|576357|pdb|1YHA|B Chain B, Crystal Structures Of Y41h And Y41f Mutants Of Gene V Protein From Ff Phage Suggest Possible Protein-Protein Interactions In Gvp-Ssdna Complex >gi|1311201|pdb|2GVB|A Chain A, Refined Solution Structure Of The Tyr 41--> His Mutant Of The M13 Gene V Protein. A Comparison With The Crystal Structure >gi|1311202|pdb|2GVB|B Chain B, Refined Solution Structure Of The Tyr 41--> His Mutant Of The M13 Gene V Protein. A Comparison With The Crystal Structure >gi|1311203|pdb|2GVA|A Chain A, Refined Solution Structure Of The Tyr 41--> His Mutant Of The M13 Gene V Protein. A Comparison With The Crystal Structure >gi|1311204|pdb|2GVA|B Chain B, Refined Solution Structure Of The Tyr 41--> His Mutant Of The M13 Gene V Protein. A Comparison With The Crystal Structure
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEHPVLVKITLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|157834156|pdb|1VQD|A Chain A, Gene V Protein Mutant With Val 35 Replaced By Ile 35 And Ile 47 Replaced By Leu 47 (V35i, I47l)
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYIDLGNEYPVLVKLTLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|157834157|pdb|1VQE|A Chain A, Gene V Protein Mutant With Val 35 Replaced By Ile 35 And Ile 47 Replaced By Met 47 (V35i, I47m)
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYIDLGNEYPVLVKMTLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|157831198|pdb|1GKH|A Chain A, Mutant K69h Of Gene V Protein (Single-Stranded Dna Binding Protein)
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEYPVLVKITLDEGQPAYAPGLYTVHLSSFHVGQFGSLMIDR
+LRLVPAK
+>gi|58091850|gb|AAW65347.1| gene V protein [synthetic construct]
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGDEYPVLVKITLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|157834155|pdb|1VQC|A Chain A, Gene V Protein Mutant With Val 35 Replaced By Ile 35 And Ile 47 Replaced By Phe 47 (V35i, I47f)
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYIDLGNEYPVLVKFTLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|157829820|pdb|1AE2|A Chain A, Mutant L32r Of Gene V Protein (Single-Stranded Dna Binding Protein)
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQRCYVDLGNEYPVLVKITLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|166213|gb|AAA32219.1| gene V protein [Enterobacteria phage f1]
+MIKVEIKPSQAQFTTRSGVSRQGKPYSVNEQLCYVDLGNQYPVLVKITLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|157834153|pdb|1VQA|A Chain A, Gene V Protein Mutant With Val 35 Replaced By Ala 35 And Ile 47 Replaced By Leu 47 (V35a, I47l)
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYADLGNEYPVLVKLTLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LRLVPAK
+>gi|157829821|pdb|1AE3|A Chain A, Mutant R82c Of Gene V Protein (Single-Stranded Dna Binding Protein)
+MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEYPVLVKITLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR
+LCLVPA
+>gi|939231128|gb|KPU84984.1| DNA-binding protein [Marinosulfonomonas sp. PRT-SC04]
+MIKVEIKPSQAQFTTRSGVSRQGKPSSLNEQLCYVDLGNEYPVLVKITLDEGQPAYAPGLYTV
+>gi|166227|gb|AAA32226.1| gene V protein [Enterobacteria phage f1]
+FTTRSGVSRQGKPYSLNEQLCYVDLGNEYPVLVKITLDEGQPAYA
+>gi|585375889|ref|WP_024257438.1| hypothetical protein [Escherichia sp. TW09231]
+MIKIEIKPSQAVADTRSGVSKSTGKPYTISEQSGYIFLGGDYPQLFKIPLEQGQAPYAAGLYELHPSSIFVGDFQKLRVG
+RIILTPIAGK
+>gi|810907636|ref|WP_046359128.1| hypothetical protein [Hafnia alvei] >gi|809152751|gb|KKF38868.1| hypothetical protein PU01_21110 [Hafnia alvei]
+MIKIEIKPSQAVADTRSGVSKTTGKAYTISEQSAYIFLGGDYPQMFKINLENGQPPYPAGLYSLHESSIYVGDFQKLRVG
+KIVLVPYQDSSK
+>gi|693050469|ref|WP_032219751.1| hypothetical protein [Escherichia coli]
+MIKIEIKPSQAVADTRSGVSKSTGKPYTISEQSGYIFLGGDYPQLFKIPLEQGQAPYAAGLYELHPSSIYVGDFQKLRVG
+KIVLTPISEK
+>gi|780028391|ref|WP_045442788.1| hypothetical protein [Citrobacter sp. S-77]
+MIKIEIKPSQAVADTRSGVSKSTGKPYTISEQSGYIFLGGDYPQLFKIPLEQGQAPYAAGLYELHPSSIFVGDFQKLRVG
+KIILTPIAEK
+>gi|1035704042|ref|WP_064545470.1| hypothetical protein [Kluyvera georgiana] >gi|1033980051|gb|OAT52691.1| Gp5 family phage ssDNA binding protein [Kluyvera georgiana ATCC 51603]
+MIKIEIKPSQAIADTRSGISKSTGQAYTINEQAAYIFLGQDYPQLFKLNLENGQAPYPAGLYTLHPSSIYVGDFQKLRVG
+KIVLVPYQDNKESTK
+>gi|647242769|ref|WP_025693571.1| hypothetical protein [Escherichia coli] >gi|651843296|gb|KDX17279.1| DNA-Binding protein G5P [Escherichia coli 2-210-07_S3_C3] >gi|651843514|gb|KDX17459.1| DNA-Binding protein G5P [Escherichia coli 2-210-07_S3_C3] >gi|651843870|gb|KDX17761.1| DNA-Binding protein G5P [Escherichia coli 2-210-07_S3_C3] >gi|922228407|emb|CTZ72129.1| Helix-destabilising protein [Escherichia coli] >gi|934295738|emb|CTX76468.1| Helix-destabilising protein [Escherichia coli] >gi|934387348|emb|CTY44762.1| Helix-destabilising protein [Escherichia coli] >gi|1001441750|gb|KXR18466.1| hypothetical protein AUQ20_24560 [Escherichia coli]
+MIKIEIKQSQAIADTRSGVSKSTGQAYTINEQSAYIFLGQDYPQLFKLNLDAGQAPYPAGLYTLHPSSIYVGDFQKLRVG
+RIVLIPYQENKEQTK
+>gi|446512773|ref|WP_000590119.1| DNA-binding protein [Escherichia coli] >gi|378030574|gb|EHV93169.1| DNA-Binding protein G5P [Escherichia coli DEC7D]
+MIKIEIKPTQAVADTRSGVSKNTGKPYTISEQSGYIFLGGDYPQLFKIPLEQGQAPYPAGLYQLHPSSIFVGDFQKLRIG
+KIVLIPIAEK
+>gi|755716252|gb|KIQ38483.1| hypothetical protein IY33_25940 [Escherichia coli] >gi|755815104|gb|KIQ44283.1| hypothetical protein IY32_22285 [Escherichia coli]
+MIKIEIKPSQAVADTRSGVSKSTGKPYTISEQSGYIFLGGDYPQLFKIPLEQGQAPYPAGFYDLHPSSIFVGDFQKLRIG
+KIVLTPSSDK
+>gi|655642826|gb|KED41273.1| fumarate reductase [Vibrio parahaemolyticus]
+MLKIEIFPENVQIETRTIPAKEGKPPRNIYEQVAYAHLGGKFPVEMKLQLEEGQPAYVAGLYTIHPSSFVINQFGSLELK
+TLRLTH
+>gi|970527367|ref|WP_058799999.1| hypothetical protein [Salmonella enterica] >gi|968924546|gb|KTZ60320.1| hypothetical protein DE05_14690 [Salmonella enterica subsp. enterica serovar Senftenberg] >gi|968937512|gb|KTZ72910.1| hypothetical protein DE09_14830 [Salmonella enterica subsp. enterica serovar Senftenberg] >gi|968989302|gb|KUA23493.1| hypothetical protein DE17_00915 [Salmonella enterica subsp. enterica serovar Senftenberg]
+MIKIEIKQSQAIADTRSGVSKSTGQAYTINEQSAYIFLGQDYPQLFKLNLEAGQAPYPAGLYTLHPSSIYVGDFQKLRVG
+RIVLVPYQENKELTK
+>gi|835714593|ref|WP_047627887.1| DNA-binding protein [Escherichia coli] >gi|729858185|gb|KHH51558.1| DNA-binding protein [Escherichia coli]
+MIKIEIKPSQAVVDTRSGVSKSTGKPYTISEQSGYIFLGGDYPQLFKIPLEQGQAPYPAGLYQLHPSSIFVGDFQKLRIG
+KIVLISITEK
+>gi|647033160|ref|WP_025630509.1| fumarate reductase [Vibrio parahaemolyticus] >gi|573512680|gb|ETT12656.1| DNA-Binding protein G5P [Vibrio parahaemolyticus 50] >gi|589847418|gb|EXJ24597.1| DNA-Binding protein G5P [Vibrio parahaemolyticus VPTS-2009] >gi|655650882|gb|KED48237.1| fumarate reductase [Vibrio parahaemolyticus] >gi|655655637|gb|KED52074.1| fumarate reductase [Vibrio parahaemolyticus] >gi|655655932|gb|KED52342.1| fumarate reductase [Vibrio parahaemolyticus] >gi|655661597|gb|KED57411.1| fumarate reductase [Vibrio parahaemolyticus] >gi|655776581|gb|KEE59238.1| fumarate reductase [Vibrio parahaemolyticus 98-513-F52] >gi|738582637|gb|KHQ85999.1| fumarate reductase [Vibrio parahaemolyticus] >gi|738582642|gb|KHQ86004.1| fumarate reductase [Vibrio parahaemolyticus] >gi|1014766177|gb|KYY40195.1| fumarate reductase [Vibrio parahaemolyticus] >gi|1014766183|gb|KYY40201.1| fumarate reductase [Vibrio parahaemolyticus]
+MLKIEIFPENVQIETRTIPAKEGKPPRNIYEQVAYAHLGGKFPVEMKLQLEEGQPAYVAGLYTIHPSSFVINQFGSLELK
+RFGLLIDPIDEK
+>gi|491775872|ref|WP_005592749.1| MULTISPECIES: fumarate reductase [Vibrio] >gi|342807204|gb|EGU42397.1| fumarate reductase subunit C [Vibrio scophthalmi LMG 19158] >gi|749736358|gb|KII75455.1| fumarate reductase [Vibrio renipiscarius] >gi|749736816|gb|KII75892.1| fumarate reductase [Vibrio renipiscarius] >gi|749739900|gb|KII78908.1| fumarate reductase [Vibrio renipiscarius] >gi|749742107|gb|KII81047.1| fumarate reductase [Vibrio renipiscarius] >gi|1043679311|gb|ANS87587.1| DNA-Binding protein G5P [Vibrio scophthalmi] >gi|1043679319|gb|ANS87595.1| DNA-Binding protein G5P [Vibrio scophthalmi]
+MLKIEIFPEDEKFTTRTIKGKDDKPDRNIYEQEAYAYLGGKFPTLMKLSLEEGQPAHVAGIYTVHSSSFVVNNFGGLELK
+RFGMLIEPLELVDL
+>gi|550276814|ref|WP_022603386.1| fumarate reductase subunit C [Vibrio nigripulchritudo] >gi|548984877|emb|CCN70141.1| Fumarate reductase subunit C [Vibrio nigripulchritudo SFn118]
+MLKIEIFPENAHVETRTIPAKDDKPARTIYEQIAYAHLGGKFPVEMKIQLEQGQPAYVAGLYTIHHSSFVINNYGSIEVK
+RFGMLLEPLADNK
+>gi|9626235|ref|NP_040572.1| G V protein [Enterobacteria phage Ike] >gi|138385|sp|P03670.1|G5P_BPIKE RecName: Full=DNA-Binding protein G5P; Short=G5P; AltName: Full=GPV; AltName: Full=Single-stranded DNA-binding protein [Enterobacteria phage Ike] >gi|14945|emb|CAA26069.1| unnamed protein product [Enterobacteria phage Ike] >gi|14958|emb|CAA25988.1| unnamed protein product [Enterobacteria phage Ike] >gi|58091867|gb|AAW65359.1| gene V protein [synthetic construct]
+MLTVEIHDSQVSVKERSGVSQKSGKPYTIREQEAYIDLGGVYPALFNFNLEDGQQPYPAGKYRLHPASFKINNFGQVAVG
+RVLLESVK
+>gi|502325282|ref|WP_012763641.1| fumarate reductase subunit C [Vibrio parahaemolyticus] >gi|242134076|ref|YP_002985202.1| fumarate reductase subunit C [Vibrio parahaemolyticus] >gi|240129609|gb|ACS44818.1| fumarate reductase subunit C [Vibrio parahaemolyticus]
+MLKIEIFSENEQTETRIIPAKDDKPSRNIYEQVAYAHLGGKFPVEMKLQLDQGQPAYTAGLYTIHPSSFAINQYGSLELK
+RFGLLIEPMTKNA
+>gi|515165421|ref|WP_016793952.1| MULTISPECIES: hypothetical protein [Vibrio]
+MLKIEIFPENAQVESRSIPAKDNKPPRNIYEQIAYAYLGGKFPVEMKLQLEQGQPAYVAGTYTLHPSSFVINQYGSLELK
+RFGILITPINDK
+>gi|342805340|gb|EGU40613.1| fumarate reductase subunit C [Vibrio scophthalmi LMG 19158]
+KHTKDITMLKIEIFPEDVKTTTRTIKGKDDKPDRNIYEQEAYAYLGGKFPTLMKLSLEEGQPAHVAGIYTVHSSSFIVNN
+FGGLELKRFGMLIEPLEIEL
+>gi|750475943|ref|WP_040757816.1| fumarate reductase [Vibrio scophthalmi]
+MLKIEIFPEDVKTTTRTIKGKDDKPDRNIYEQEAYAYLGGKFPTLMKLSLEEGQPAHVAGIYTVHSSSFIVNNFGGLELK
+RFGMLIEPLEIEL
+>gi|739143304|ref|WP_037008082.1| hypothetical protein [Pseudomonas nitroreducens]
+MDIQVEIESNEVTIKSGNSARTGKPYQIREQKAYVTLPGQKYPQNIKVTLDDNAAPYAPGLYTVGPDSFFVGRFEDLQMR
+LRLVPLAKQVVRAAS
+>gi|1015929049|ref|WP_062887419.1| fumarate reductase [Vibrio parahaemolyticus] >gi|1014711223|gb|KYX85755.1| fumarate reductase [Vibrio parahaemolyticus] >gi|1014711228|gb|KYX85760.1| fumarate reductase [Vibrio parahaemolyticus]
+MLKIEIFKEDERLITRTIPGREGKAPRTIYEQTAYAYLGGKFPVEMKLSLDEGQPPYVAGDYTVHSSSYVVNNFGGLELK
+RFGLLISPMEAEL
+>gi|754545262|ref|WP_041942547.1| fumarate reductase [Vibrio furnissii]
+MLKIEIFPENAHIETRTIPGKDDQPGREIYEQVAYVHLGGKFPVEMKLQLEKGQPAYVAGQYAVHPSSFAVNKYGSLELK
+RFGFLIEPINQK
+>gi|759552985|ref|WP_043272796.1| hypothetical protein [Pseudomonas sp. AAC] >gi|664808126|gb|KES21071.1| hypothetical protein FG99_26890 [Pseudomonas sp. AAC]
+MDIQVEIESAEVVVKSGNSAKTGKPYQIREQKAYVTLPGQKYPQHIKVTLDDNAAPYAPGLYTVGPDSFYVGRFEDLQMR
+LRLVPLQKAPVRAAS
+>gi|782733787|ref|WP_045623774.1| fumarate reductase [Vibrio vulnificus]
+MLKIEIFPENAHIETRTIPGKDDQPGREIYEQVAYVHLGGKFPVEMKLQLEKGQPAYVAGQYAIHPSSFAVNKYGSLELK
+RFGFLIEPINEK
+>gi|759596374|ref|WP_043314724.1| MULTISPECIES: hypothetical protein [Pseudomonas] >gi|960440065|gb|KSW21493.1| hypothetical protein AOX63_08420 [Pseudomonas sp. ADP] >gi|982556537|gb|KWR80744.1| hypothetical protein RN02_12030 [Pseudomonas sp. PI1] >gi|1038993260|gb|OBP12051.1| hypothetical protein BAE52_06145 [Pseudomonas sp. EGD-AKN5]
+MDIQVEIESAEVVVKSGNSAKTGKPYQIREQKAYVTLPGQKYPQHIKVTLDDNAAPYAPGLYTVGPDSFYVGRFEDLQMR
+LRLVPLVKPVRQAS
+>gi|848620825|gb|AKN38574.1| hypothetical protein [Vibrio tasmaniensis]
+MIKIEIFKEDERVETRTSRAKDDKPARTFFEQAAYAYLGGKFPTLIKLSLEEGQPPHVAGLYTLHSSSYVVNNFGALELK
+RFGQVITPWEVEL
+>gi|823638492|ref|WP_047085514.1| hypothetical protein [Escherichia coli] >gi|822973542|gb|KLG97271.1| hypothetical protein WR03_16785 [Escherichia coli]
+MIRIEILKSDITTRSFTSNGKDVTFFEQTAYIHLGDDYPAKFSLTLQKNQQAYAPGDYTVHPGSLRVGNYGSLEFQRNVI
+LVPLKQ
+>gi|408856813|gb|EKL96505.1| DNA-Binding protein G5P [Vibrio cholerae HC-46B1]
+MLRIEIFKENERAEPRTINGKDGKPPRTIYEQTAYVYLGGKFPVEMKLGLQEGQPPYAPGIYTPHSSSYVVNAFGGLELQ
+KIRINH
+>gi|518111136|ref|WP_019281344.1| hypothetical protein [Vibrio anguillarum] >gi|1035528040|gb|ANJ22861.1| fumarate reductase [Vibrio anguillarum] >gi|1035528042|gb|ANJ22863.1| fumarate reductase [Vibrio anguillarum] >gi|1035529461|gb|ANJ24281.1| fumarate reductase [Vibrio anguillarum] >gi|1035529465|gb|ANJ24285.1| fumarate reductase [Vibrio anguillarum]
+MLKIEIFKENENLQTRTIPGKDGKQPRTIYEQTAYAYLGGKFPVEMKLNLEEGQPPHVAGFYTVHSSSFVINNFGGLELK
+RFGLLLTSLEPDL
+>gi|550305609|ref|WP_022609993.1| hypothetical protein [Vibrio nigripulchritudo] >gi|548966578|emb|CCN34510.1| conserved hypothetical protein [Vibrio nigripulchritudo AM115] >gi|548997501|emb|CCN40442.1| conserved hypothetical protein [Vibrio nigripulchritudo FTn2] >gi|549017381|emb|CCN79419.1| conserved hypothetical protein [Vibrio nigripulchritudo SO65]
+MIKIEIFKEDERIETRTSRAKDDKPARTFYEQDAYAYLGGKFPSLIKLSLEKDQPPYAAGLYTLHSSSYVINNFGALELK
+RFGQLIVPLDTDLIDSVLTEAQA
+>gi|851914407|ref|WP_048216449.1| hypothetical protein [Citrobacter sp. MGH105] >gi|838569774|gb|KLV54290.1| hypothetical protein SK35_05309 [Citrobacter sp. MGH105]
+MIRIEILKSEITTRSFTANGKDVTIFEQTAYIHLGDDYPAKFSLTLQKNQQAYQPGDYTIHPGSLRVGNYGSLEFQRNVI
+LVPLKN
+>gi|646369874|ref|WP_025510747.1| hypothetical protein [Vibrio parahaemolyticus] >gi|567323488|gb|ETJ84725.1| DNA-Binding protein G5P [Vibrio parahaemolyticus 970107]
+MLKIQIFEENETIEMRTIPAKEEKPARTIYEQIAYVHLGGKFPVEMKLSLEKGQVPYAPGFYTLHPSSFVVNQYGALELK
+RFGQVFSSLEPEL
+>gi|1035801050|ref|WP_064604185.1| fumarate reductase [Photobacterium sp. J15]
+MLKIEVFQDDVKTNVRTMPGKDGKPPRTIYEQEAYAHIGGRFPTLMKLQLEEGQPPYAAGEYTVHSSSFIVNNFGGLELK
+RFGQVIEPLEIEA
+>gi|491776074|ref|WP_005592839.1| fumarate reductase [Vibrio scophthalmi] >gi|342806898|gb|EGU42104.1| fumarate reductase subunit C [Vibrio scophthalmi LMG 19158]
+MLKIEVFEDDVKINTRQIKAKDDKPGREIYEQNAYAYLGGKFPTLMKLSLDKGQDPYVAGIYTVHSSSFTINNFGSLELK
+RFGQLIEPLEPAL
+>gi|446394721|ref|WP_000472576.1| hypothetical protein [Escherichia coli] >gi|331045533|gb|EGI17660.1| helix-destabilizing protein (Single-stranded DNA-binding protein)(GPV) [Escherichia coli M605]
+MFKIEIKPSQTEVIERSGEKDGRKWVSREQYGYIYLGGDYPELFVFRLEDGQPPYEAGFYEVAEKSVEVGEFKRLRFSRT
+FVLRPLQKDKA
+>gi|446866950|ref|WP_000944206.1| fumarate reductase [Vibrio cholerae] >gi|340047374|gb|EGR08299.1| DNA-Binding protein G5P [Vibrio cholerae HE48] >gi|669368797|gb|KFD96929.1| DNA-Binding protein G5P [Vibrio cholerae] >gi|910946941|gb|KNH52145.1| helix-destabilizing protein [Vibrio cholerae 623-39]
+MLRIEIFKENERAEPRTINGKDGKPPRTIYEQTAYVYLGGKFPVEMKLGLQEGQPPYAPGIYTPHSSSYLVNPFGGLELK
+KYGLIIEPLEAPEL
+>gi|518110828|ref|WP_019281036.1| hypothetical protein [Vibrio anguillarum] >gi|537382579|gb|AGU59814.1| hypothetical protein N175_14690 [Listonella anguillarum M3] >gi|723801148|emb|CDQ48322.1| DNA-binding protein G5p (single-stranded DNA-binding, helix-destabilising protein) [Vibrio anguillarum]
+MLKIEIFPENERIEIREIPSKDDKPPRKIYEQIAYVHLGGKFPVEMKVQLEKDQIPHATGLYTVHPSSFVVNNYGSLELK
+RFGMLLDPLPQK
+>gi|494790106|ref|WP_007525514.1| DNA-binding protein [Haemophilus sputorum] >gi|400376970|gb|EJP29857.1| putative DNA-Binding protein G5P [Haemophilus sputorum HK 2154]
+MSNQNINQYLLKVQVFATSRIDERSGVSQKTGKDWYIRNQEAYIDLGGQFPVMVKIPLQKDQIPYGPGNYYVHPSSFRVS
+GYSDLQVSDIVLVPSDEK
+>gi|446866953|ref|WP_000944209.1| fumarate reductase [Vibrio cholerae] >gi|395942100|gb|EJH52777.1| DNA-Binding protein G5P [Vibrio cholerae HC-43B1] >gi|408628038|gb|EKL00817.1| helix-destabilising family protein [Vibrio cholerae HC-41B1] >gi|408856864|gb|EKL96552.1| DNA-Binding protein G5P [Vibrio cholerae HC-46B1]
+MLRIEIFKENERAEPRTINGKDGKPPRTIYEQTAYVYLGGKFPVEMKLGLQEGQPPYAPGIYTPHSSSYVVNAFGGLELK
+KYGLTIEPLEVEL
+>gi|446866952|ref|WP_000944208.1| hypothetical protein, partial [Vibrio cholerae] >gi|408860844|gb|EKM00451.1| DNA-binding protein G5P, partial [Vibrio cholerae HC-44C1]
+MLRIEIFKENERAEPRTINGKDGKPPRTIYEQTAYVYLGGKFPVEMKLGLQEGQPPYAPGIYTPHSSSYVVNAFGGLELK
+KY
+>gi|992332780|ref|WP_061051259.1| fumarate reductase [Vibrio mimicus] >gi|991833949|gb|AMG02258.1| fumarate reductase [Vibrio mimicus] >gi|991833954|gb|AMG02263.1| fumarate reductase [Vibrio mimicus]
+MLKIEIFKENERAEPRTINGKDGKPPRTIYEQTAYVYLGGKFPVEMKLSLQEGQPPYAAGLYTPHSSSYVVNAFGGLELK
+KYGLTIEPVEVEL
+>gi|940966786|ref|WP_055034067.1| fumarate reductase [Vibrio metoecus] >gi|940605388|gb|KQA97640.1| fumarate reductase [Vibrio metoecus]
+MLRIEIFKENERAEPRTINGKDGKPPRTIYEQTAYVYLGGKFPVEMKLGLQEGQPPYAPGIYTPHSSSYLVNPFGGLELK
+KYGLTIEPLEAPEF
+>gi|446866951|ref|WP_000944207.1| fumarate reductase [Vibrio sp. RC341] >gi|260838957|gb|EEX65589.1| hypothetical protein VCJ_001870 [Vibrio sp. RC341]
+MLRIEIFKENERAEPRTINGKDGKPPRTIYEQTAYVYLGGKFPVEMKLGLQEGQPPYAPGIYTPHSSSYLVNPFGGLELK
+KYGLTIEPLEAPEL
+>gi|1027714175|ref|WP_063648326.1| fumarate reductase [Aliivibrio fischeri]
+MLKIEIFSDSKTTTRTIKGKDGKADRSLQEQEAYAYLGGKFPTQMKLSIEEGQEPYVAGIYTVHSSSFIVNNFGGLELKR
+FGMLIEPVELEL
+>gi|755136904|ref|WP_042487086.1| fumarate reductase [Vibrio diazotrophicus]
+MLKIEIFPENVRVETRNIPSKEDRPGRIIYEQIAYAHLGGKFPVEMKLTLEKDQEPYAAGSYTPHSSSYAVNNFGGLELK
+RFGMILEALEDKPLDIGLRKTSA
+>gi|517482424|ref|WP_018653002.1| DNA-binding protein [Actinobacillus capsulatus]
+MSNQDIKKYLLKVQIFPTSRIDERSGVSQKTGKEWFMRTQEAYIDLGGQFPVQFKVPLQKDQVSYAPGHYYVHPQSFKTS
+SYFDLQVGDIILVPVE
+>gi|335343153|gb|AEH34435.1| hypothetical protein VAA_00322 [Vibrio anguillarum 775]
+MWGVLALCNGAGTPHKNGYYLDKLGLYNMLKIEIFPENERIEIREIPSKDDKPPRKIYEQIAYVHLGGKFPVEMKVQLEK
+DQIPHATGLYTVHPSSFVVNNYGSLELKRFGMLLDPLPQK
+>gi|446835070|ref|WP_000912326.1| hypothetical protein, partial [Vibrio cholerae] >gi|408862014|gb|EKM01568.1| DNA-binding protein G5P, partial [Vibrio cholerae HC-44C1]
+MLKIEVFKENERVETRTIKGKEDKPSRVIYEQTAYVYLGGKFPVEMKLGLEEGQPPYAAGLYTPHSSSYVVNAFGGLELK
+KY
+>gi|446835071|ref|WP_000912327.1| MULTISPECIES: fumarate reductase [Vibrio] >gi|262350927|gb|EEZ00060.1| hypothetical protein VOA_000108 [Vibrio sp. RC586] >gi|262350932|gb|EEZ00065.1| hypothetical protein VOA_000113 [Vibrio sp. RC586] >gi|262350937|gb|EEZ00070.1| hypothetical protein VOA_000118 [Vibrio sp. RC586] >gi|262350942|gb|EEZ00075.1| hypothetical protein VOA_000123 [Vibrio sp. RC586] >gi|395940359|gb|EJH51040.1| DNA-Binding protein G5P [Vibrio cholerae HC-43B1] >gi|408627139|gb|EKK99960.1| helix-destabilising family protein [Vibrio cholerae HC-41B1] >gi|408855813|gb|EKL95508.1| DNA-Binding protein G5P [Vibrio cholerae HC-46B1] >gi|469677624|gb|EMP93779.1| DNA-binding protein [Vibrio cholerae O1 str. 116063] >gi|469755975|gb|EMQ68156.1| rstB1 [Vibrio cholerae O1 str. NHCC-008D] >gi|669356729|gb|KFD86225.1| DNA-Binding protein G5P [Vibrio cholerae] >gi|669380737|gb|KFE07443.1| DNA-Binding protein G5P [Vibrio cholerae] >gi|808159725|emb|CFW11105.1| FIG01201031: hypothetical protein [Vibrio cholerae] >gi|811511024|emb|CPR29274.1| FIG01201031: hypothetical protein [Vibrio cholerae] >gi|811516002|emb|CPR29271.1| FIG01201031: hypothetical protein [Vibrio cholerae] >gi|903076825|emb|CSC90691.1| helix-destabilizing protein [Vibrio cholerae] >gi|903198826|emb|CSE23475.1| helix-destabilizing protein [Vibrio cholerae] >gi|967478373|gb|KTL49162.1| fumarate reductase [Vibrio albensis]
+MLKIEVFKENERVETRTIKGKEDKPSRVIYEQTAYVYLGGKFPVEMKLGLEEGQPPYAAGLYTPHSSSYVVNAFGGLELK
+KYGLTIEPLEVEL
+>gi|12751370|gb|AAK07628.1|AF319656_2 RstB1 [Vibrio cholerae]
+MLKIEIFKENERADPRIINGKDGKPPRTIYEQTAYVYLGGKFPVEIKIGLQEGQPPYAAGIYTPHSSSYVVNAFGGLELK
+KYGLIIESVELEL
+>gi|769994824|ref|WP_045110431.1| fumarate reductase [Moritella viscosa]
+MLHIEIFPENVALITRTLPPKDGKPGRSFNEQIAYAHLGGKFPVEMKLSVQDGQLPYGAGTYSVDASSFAINNYGGLELK
+RFGLTIKPIELDL
+>gi|516399731|ref|WP_017789129.1| fumarate reductase [Vibrio vulnificus] >gi|586663095|gb|EWS66791.1| fumarate reductase [Vibrio vulnificus BAA87] >gi|674442411|gb|KFK59557.1| fumarate reductase [Vibrio vulnificus] >gi|674448963|gb|KFK65200.1| fumarate reductase [Vibrio vulnificus] >gi|674454845|gb|KFK70240.1| fumarate reductase [Vibrio vulnificus] >gi|675336118|gb|AIL70632.1| fumarate reductase [Vibrio vulnificus] >gi|675338352|gb|AIL72865.1| fumarate reductase [Vibrio vulnificus] >gi|1039808366|gb|ANN26602.1| hypothetical protein FORC17_1539 [Vibrio vulnificus] >gi|1039810610|gb|ANN28805.1| hypothetical protein FORC17_3742 [Vibrio vulnificus]
+MIKIEIFSEDVRINTRTTKAKDDKPSREIYEQDAYVYLGGKFPVQMKLQLEKGQEPYAAGLYTPHSSSYLVNNFGGLELK
+KFGMIIEPLEAEL
+>gi|1040955138|ref|WP_065172035.1| fumarate reductase [Photobacterium damselae] >gi|1040608710|gb|OBU42107.1| fumarate reductase [Photobacterium damselae]
+MLKIEVFPEHEKKQSKLIPSKDGKPAKTIFEQIAYAYLGGKFPVEIKLTLSEEDQAYKAGLYTLDSSSFTVNNFGSLELK
+RYGLKIVELNEGELL
+>gi|1010914903|ref|WP_061900676.1| fumarate reductase [Vibrio cidicii] >gi|1009785475|gb|KYN82626.1| fumarate reductase [Vibrio cidicii]
+MIKIEIFSEDVRINTRTTKAKDDKPSREIYEQDAYVYLGGKFPVQMKLQLEKGQEPYAAGLYTPHSSSYLVNNFGGLELK
+KFGMIIEPLETEL
+>gi|446512769|ref|WP_000590115.1| MULTISPECIES: fumarate reductase [Vibrio] >gi|229349663|gb|EEO14618.1| hypothetical protein VCB_000898 [Vibrio cholerae TMA 21] >gi|229349669|gb|EEO14624.1| hypothetical protein VCB_000904 [Vibrio cholerae TMA 21] >gi|261892587|gb|EEY38573.1| hypothetical protein VII_002332 [Vibrio mimicus MB-451] >gi|395940702|gb|EJH51383.1| DNA-Binding G5P domain protein [Vibrio cholerae HC-43B1] >gi|408628351|gb|EKL01105.1| helix-destabilising family protein [Vibrio cholerae HC-41B1] >gi|408855806|gb|EKL95501.1| DNA-Binding G5P domain protein [Vibrio cholerae HC-46B1] >gi|408862342|gb|EKM01860.1| DNA-binding protein [Vibrio cholerae HC-44C1]
+MIKIEIFQEDVKVSTRTTKAKDDKPARDIYEQTAYVYLGGKFPVQMKLQLEKGQEPYAAGLYTPHSASYIVNNFGGLELK
+KFGMIIEPLEAEL
+>gi|446512770|ref|WP_000590116.1| fumarate reductase [Vibrio cholerae] >gi|341642395|gb|EGS66791.1| helix-destabilising family protein [Vibrio cholerae HC-02A1] >gi|408006225|gb|EKG44395.1| helix-destabilising family protein [Vibrio cholerae HC-50A1] >gi|408025064|gb|EKG62132.1| helix-destabilising family protein [Vibrio cholerae HC-52A1] >gi|408029680|gb|EKG66388.1| helix-destabilising family protein [Vibrio cholerae HC-57A1] >gi|408051466|gb|EKG86552.1| helix-destabilising family protein [Vibrio cholerae HC-51A1] >gi|408633195|gb|EKL05577.1| helix-destabilising family protein [Vibrio cholerae HC-55C2] >gi|408648213|gb|EKL19611.1| helix-destabilising family protein [Vibrio cholerae HC-59A1] >gi|408649912|gb|EKL21215.1| helix-destabilising family protein [Vibrio cholerae HC-61A2] >gi|408850339|gb|EKL90305.1| helix-destabilising family protein [Vibrio cholerae HC-02C1] >gi|550387436|gb|ERP69871.1| helix-destabilising family protein [Vibrio cholerae HC-36A1] >gi|669356711|gb|KFD86216.1| helix-destabilising family protein [Vibrio cholerae]
+MIKIEIFQEDVKVSTRTTKAKDDKPARDIYEQTAYVYLGGKFPVQMKLQLEKGQEPYAAGLYTPHSASYIVNNFGGLELK
+KFGMIIEPVEAEL
+>gi|446512765|ref|WP_000590111.1| fumarate reductase [Vibrio cholerae] >gi|340047510|gb|EGR08434.1| DNA-Binding G5P domain protein [Vibrio cholerae HE48] >gi|903076780|emb|CSC92456.1| helix-destabilizing protein [Vibrio cholerae] >gi|903198821|emb|CSE23432.1| helix-destabilizing protein [Vibrio cholerae]
+MIKIEIFQDDVKVSTRTTKAKDDKPAREIYEQTAYVYLGGKFPVQMKLQLEKGQEPYAAGLYTPHSASYIVNNFGGLELK
+KFGMIIEPLEVDL
+>gi|694140073|ref|WP_032478413.1| fumarate reductase [Vibrio cholerae] >gi|669354445|gb|KFD84249.1| DNA-Binding protein G5P [Vibrio cholerae]
+MLKIEIFKENERADPRIINGKDGKPPRTIYEQTAYVYLGGKFPVEMKIGLQEGQPPYAAGIYTPHSSSYVVNAFGGLELK
+KYGLIIESVELEL
+>gi|446512766|ref|WP_000590112.1| fumarate reductase [Vibrio cholerae] >gi|297536012|gb|EFH74846.1| fumarate reductase subunit C [Vibrio cholerae RC385] >gi|297536016|gb|EFH74850.1| fumarate reductase subunit C [Vibrio cholerae RC385]
+MIKIEIFQEDVKVITRTTKAKDDKPARDIYEQTAYVYLGGKFPVQMKLQLEKGQEPYAAGLYTPHSASYIVNNFGGLELK
+KFGMIIEPLEAEL
+>gi|848620250|gb|AKN38106.1| hypothetical protein [Vibrio tasmaniensis]
+MLKIEVFKEDVRVTPRTMPGKEGKPPRTIYEQDAYVYLQGRFPTLTKVQLEEGQPPYEAGFYTFHSSSYIVNNFGSVELK
+KYGKIITPMEVDL
+>gi|694140788|ref|WP_032479082.1| fumarate reductase [Vibrio cholerae] >gi|669352666|gb|KFD82673.1| DNA-Binding protein G5P [Vibrio cholerae]
+MLKIEIFKENERAEPRTINGKDGKPPRTIYEQTAYVYLGGKFPVEMKLGLQEGQPPYAAGVYTPHSSSYVVNAFGGLELK
+KYGLTIEPLESPDL
+>gi|979424480|ref|WP_059320815.1| hypothetical protein [Escherichia coli] >gi|975266122|gb|KUS82563.1| hypothetical protein AWE77_17535 [Escherichia coli] >gi|975266128|gb|KUS82569.1| hypothetical protein AWE77_17565 [Escherichia coli]
+MIKIEIKPSQVAVDERSGEKDGKSWVSREQQGYLYLGNDYPDLFVFPLAEGQPPYEAGFYELTEKCLEIGKYKKLGFSRS
+FVLRPLSSKEL
+>gi|446512768|ref|WP_000590114.1| fumarate reductase [Vibrio cholerae] >gi|902707098|gb|KNA57808.1| helix-destabilising protein [Vibrio cholerae V51] >gi|903140558|emb|CSC87426.1| helix-destabilizing protein [Vibrio cholerae] >gi|903335530|emb|CSD44918.1| helix-destabilizing protein [Vibrio cholerae] >gi|910945166|gb|KNH50838.1| fumarate reductase subunit C [Vibrio cholerae V52] >gi|977939762|gb|KVI47488.1| fumarate reductase [Vibrio cholerae] >gi|1025945668|gb|OAB92356.1| fumarate reductase [Vibrio cholerae]
+MIKIEIFQEDVKVSTRATKAKDDKPARDIYEQTAYAYLGGKFPVQMKLQLEKGQEPYAAGLYTPHSASYIVNNFGGLELK
+KFGMIIEPLEAEL
+>gi|518663531|ref|WP_019825259.1| fumarate reductase [Vibrio splendidus]
+MLKIEVFKEDVRVTPRTMPGKDGKPPRTIYEQDAYVHLQGRFPTLTKVQLEEGQPPYEAGFYTFHSSSYIVNNFGTVELK
+KYGKIITPMEVEL
+>gi|515658436|ref|WP_017091036.1| fumarate reductase [Vibrio splendidus] >gi|848618064|gb|AKN36252.1| hypothetical protein [Vibrio splendidus] >gi|848619772|gb|AKN37695.1| hypothetical protein [Vibrio ordalii]
+MLKIEVFKEDVLITPRTMPGKDGKPPRTIYEQDAYVHLQGRFPTLTKVQLEEGQPPYEAGFYTFHSSSYIVNNFGSVELK
+KYGKIITPMEVEL
+>gi|491968714|ref|WP_005697568.1| MULTISPECIES: DNA-binding protein [Haemophilus] >gi|385193404|gb|EIF40771.1| putative DNA-Binding protein G5P [Haemophilus parainfluenzae HK262] >gi|1041980903|gb|OBX69621.1| DNA-binding protein [Haemophilus parainfluenzae] >gi|1041981428|gb|OBX70133.1| DNA-binding protein [Haemophilus parainfluenzae]
+MSNQNIEQYLLKVQIFSTSRIDERSGVSEKTGKDWFIRTQEAYIELGGQFPVQIKVPLKKDQVPYSPGNYYVHPTSFKVS
+GYFDLKVSDIVLVPAIDK
+>gi|896666829|ref|WP_049544675.1| hypothetical protein [Vibrio nigripulchritudo]
+MEIALVVEIFAENESLDVREGVNDKGKPWKMITQIGYAYTGGKFPVEMKIKLSEGTPAYKAGKYYLAPSSFVVSAFGDLG
+IGRETLLLPYDGKGKAF
+>gi|848617386|gb|AKN35748.1| hypothetical protein [Vibrio tasmaniensis]
+MLKIEVFKEDVKVTSRTMPGKDGKPPRTIYEQDAYAHLQGRFPTLTKVQLEEGQPPYEAGFYTFHSSSYIVNNFGTVELK
+KYGKIITPMEVDL
+>gi|515171335|ref|WP_016799612.1| MULTISPECIES: fumarate reductase [Vibrio] >gi|857886132|emb|CDT58384.1| Putative helix-destabilizing protein (RstB1-phage) [Vibrio sp. J2-4]
+MLKIEVFKEDVKITSRVMPGRDGKPSRTIYEQDAYVFLEGRFPTLTKVQLDEGQEPYEAGLYTFHSSSYVVNNFNSVELK
+KYGKIIVPLEVEL
+>gi|487889561|ref|WP_001963027.1| fumarate reductase [Vibrio cholerae] >gi|408630756|gb|EKL03334.1| helix-destabilising family protein [Vibrio cholerae CP1035(8)]
+MIKIEIFQEDVKVSTRTTKAKDDKPARDIYEQTAYVYLGGKFPVQMKLQLEKGQEPYVAGLYTPHSASYIVNNFGGLELK
+KFGMIIEPLEAEL
+>gi|487889851|ref|WP_001963317.1| fumarate reductase [Vibrio cholerae] >gi|408629239|gb|EKL01947.1| helix-destabilising family protein [Vibrio cholerae CP1035(8)]
+MLKIEVFPENVSVIIRTTQPKDDKPGREIFEQEAYAYLGGKFPVQMKLQLEKGQPPYAAGIYTPHSSSYVINNFGGLELK
+KFGMVIEPLEPEL
+>gi|446512771|ref|WP_000590117.1| fumarate reductase [Vibrio cholerae] >gi|408028973|gb|EKG65808.1| helix-destabilising family protein [Vibrio cholerae HC-55A1] >gi|408029272|gb|EKG66037.1| helix-destabilising family protein [Vibrio cholerae HC-56A1] >gi|408647638|gb|EKL19118.1| helix-destabilising family protein [Vibrio cholerae HC-60A1] >gi|408649898|gb|EKL21201.1| helix-destabilising family protein [Vibrio cholerae HC-61A2] >gi|408860108|gb|EKL99757.1| helix-destabilising family protein [Vibrio cholerae HC-59B1] >gi|408864118|gb|EKM03573.1| helix-destabilising family protein [Vibrio cholerae HC-55B2] >gi|443455863|gb|ELT19593.1| helix-destabilising family protein [Vibrio cholerae HC-78A1] >gi|550387419|gb|ERP69854.1| helix-destabilising family protein [Vibrio cholerae HC-36A1]
+MIKIEIFQEDVKVSTRTTKAKDDKPARDIYEQTAYVYLGGKFPVQMKLQLEKGQEPYVAGLYTPHSASYIVNNFGGLELK
+KFGMIIEPVEAEL
+>gi|947642610|ref|WP_056305422.1| MULTISPECIES: hypothetical protein [Lysobacter] >gi|946182134|gb|KRC33941.1| hypothetical protein ASE10_13475 [Lysobacter sp. Root76] >gi|946318121|gb|KRD69275.1| hypothetical protein ASE45_08915 [Lysobacter sp. Root96]
+MDKLIVKAEVESDFIDSRGGVSAKGKPYEIHEQKVWVYLGSKFPKEMNINHDDARNALKPGLYTFDLMPALTIGDFGRLS
+IDGRRLAFIPERPAAVAAKG
+>gi|1046190336|ref|WP_065585057.1| fumarate reductase [Vibrio sp. ZF57] >gi|1045771750|gb|OCH50598.1| fumarate reductase [Vibrio sp. ZF57]
+MLKIEVFKEDVKTTSRVMPGRDGKPSRTIYEQDAYVFLEGRFPTLTKVQLDEGQEPYEAGLYTFHSSSYVVNNFNSVELK
+KYGKVIVPLEVEL
+>gi|446512767|ref|WP_000590113.1| fumarate reductase [Vibrio cholerae] >gi|340046256|gb|EGR07186.1| DNA-Binding G5P domain protein [Vibrio cholerae HE48]
+MIKIEIFQEDVKVITRTTKAKDDKPARDIYEQTAYVYLGGKFPVQMKLQLEKGQEPYVAGLYTPHSASYIVNNFGGLELK
+KFGMIIEPLEAEL
+>gi|498126646|ref|WP_010440802.1| fumarate reductase [Vibrio cyclitrophicus]
+MLKIEVFKEDVKTTSRVMPGRDGKPSRTIYEQDAYVFLEGRFPTLTKVQLDEGQEPYEAGLYTFHSSSYIVNNFNSVELK
+KYGKIIVPLEVEL
+>gi|837863823|ref|WP_047880878.1| fumarate reductase [Photobacterium aquae] >gi|836446649|gb|KLV02930.1| fumarate reductase [Photobacterium aquae]
+MPKIEIFAEDVKVSSRTMPGKDGKPPRTIYEQDAYIYCEGKFPTLMKVSLEDGQPPYAAGLYTFHGSSYIVNNFGNVELK
+KFGKVITPMEVEI
+>gi|751579585|ref|WP_041048290.1| fumarate reductase [Vibrio cholerae] >gi|657186152|dbj|BAP02880.1| hypothetical protein MS6_1225 [Vibrio cholerae MS6] >gi|922575623|gb|ALA63903.1| RstB1 [Vibrio cholerae]
+MIKIEIFQEDVKVSTRATKAKDDKPARDIYEQTAYAYLGGKFPVQMKLQLEKGQEPYVAGLYTPHSASYIVNNFGGLELK
+KFGMIIEPLEAEL
+>gi|504468889|ref|WP_014655991.1| hypothetical protein [Providencia stuartii] >gi|384478121|gb|AFH91916.1| hypothetical protein S70_00055 [Providencia stuartii MRSN 2154]
+MIKIEINDVDGKVNNKQVISKSTGEVLTFREQVAYIYNGGVYPEKFIVQLDKDASPYAAGFYTLDDSSFTVGDFGSLKIK
+SIKLIPISNK
+>gi|738955354|ref|WP_036839785.1| V protein [Photorhabdus temperata] >gi|662548109|gb|KER02592.1| Helix-destabilising protein [Photorhabdus temperata subsp. temperata Meg1]
+MVRIEINELDGKVNTKQVISKSSGEVLTFREQTAYIYNGGIYPEKIIVQLDKDDAPYPAGFYTLDDSSYSVGDFGALKIK
+RIKLVPVK
+>gi|647463920|ref|WP_025796353.1| fumarate reductase [Vibrio parahaemolyticus]
+MLKIEIFQEDVRVDVRTTKPKDDKPARKIYEQVAYVYLGGKFPTQMKLSLDEDQKPYPAGMYTVESSSYVVNNFGSLELK
+RFGLSVVALEPEL
+>gi|802097614|ref|WP_046024589.1| V protein [Morganella morganii] >gi|796746666|gb|KJY04704.1| Helix-destabilising protein [Morganella morganii]
+MIKIEINETDGKMNNKQVVSKSTGEVLTFREQVAYIYNGGIYPEKFILQLDKDDSPYPAGFYTLDSTSFSVGDFGSLKIK
+KVKMIPFK
+>gi|546181871|ref|WP_021822574.1| DNA-Binding protein G5P [Vibrio parahaemolyticus] >gi|532605176|gb|EQM38978.1| DNA-Binding protein G5P [Vibrio parahaemolyticus NIHCB0757] >gi|758016221|gb|KIT28145.1| fumarate reductase [Vibrio parahaemolyticus 3355]
+MLKIEIFEDDVKVHTRKTKPKDDKPGREIFEQDAYAYLGGKFPVQMKLQLEKDQVPYASGIYTVHSSSFTINNFGGLELK
+RFGLTIEPLEPEL
+>gi|880810081|ref|WP_048661941.1| fumarate reductase [Vibrio crassostreae] >gi|857892120|emb|CDT57316.1| Putative helix-destabilizing protein (RstB1-phage) [Vibrio crassostreae] >gi|857942114|emb|CDT56472.1| Putative helix-destabilizing protein (RstB1-phage) [Vibrio crassostreae] >gi|857960877|emb|CDS96819.1| Putative helix-destabilizing protein (RstB1-phage) [Vibrio crassostreae] >gi|857986845|emb|CDT16563.1| Putative helix-destabilizing protein (RstB1-phage) [Vibrio crassostreae]
+MIKIEIFKEDERVEQRTSRAKDDKPSRTFYEQDAYAYLVGKFPSLIKISMEKDQTPYAAGLYTLHSSSYAINNFGALELK
+RFGQLITPIEA
+>gi|739101344|ref|WP_036971998.1| V protein [Proteus mirabilis] >gi|702062997|gb|KGQ14778.1| V protein [Proteus mirabilis] >gi|960432492|gb|KSW14334.1| V protein [Proteus mirabilis]
+MIKIEINDIDGKLNSKQVVSKSTGEILTFREQVAYIYNGGVYPEKFIIQLDKDASPYAAGFYTLDDSSFTVGDFGLLKIK
+SIKLIPISNK
+>gi|501365422|ref|WP_012396988.1| RstB1 protein [Vibrio tapetis] >gi|187729873|ref|YP_001853767.1| RstB1 protein [Vibrio tapetis] >gi|182894432|gb|ACB99597.1| RstB1 protein [Vibrio tapetis]
+MLKIEVFKEDVKSTPRTMQGKDGKPPRTIYEQDAYVFLEGRFPTLTKVQLEEGQPPYQAGIYTFHSSSYIVNHFNTVELK
+KYGKMIVPMEPEL
+>gi|928825693|ref|WP_053885325.1| hypothetical protein [Escherichia coli] >gi|921551338|emb|CTW79187.1| Helix-destabilising protein [Escherichia coli] >gi|921695501|emb|CTV86878.1| Helix-destabilising protein [Escherichia coli] >gi|921720841|emb|CTU34016.1| Helix-destabilising protein [Escherichia coli] >gi|921756164|emb|CTW02060.1| Helix-destabilising protein [Escherichia coli] >gi|922236708|emb|CTZ37177.1| Helix-destabilising protein [Escherichia coli] >gi|934305679|emb|CTY09574.1| Helix-destabilising protein [Escherichia coli] >gi|934308903|emb|CTX60721.1| Helix-destabilising protein [Escherichia coli] >gi|934341653|emb|CTY34511.1| Helix-destabilising protein [Escherichia coli]
+MIKIEIKPSQVAVDERSGEKDGKKWVSREQKGYIYLGADYPELFVFPLADGQPPYDAGFYELTEQCIAVGKYHRLAYARS
+FVLRPLSSKEL
+>gi|913771270|ref|WP_050489382.1| hypothetical protein [Escherichia coli] >gi|651806731|gb|KDW82375.1| DNA-Binding protein G5P [Escherichia coli 2-210-07_S4_C1] >gi|651807968|gb|KDW83550.1| DNA-Binding protein G5P [Escherichia coli 2-210-07_S4_C1] >gi|651808647|gb|KDW84221.1| DNA-Binding protein G5P [Escherichia coli 2-210-07_S4_C1]
+MIKIEIKPSQVAVDERSGEKDGKKWVSREQKGYIYLGADYPELFVFPLADGQPPYDAGFYELTEQCIAVGKYHRLAYARS
+FVLRPLSSKDL
+>gi|229339513|gb|EEO04530.1| hypothetical protein VCA_003579 [Vibrio albensis VL426] >gi|229341653|gb|EEO06656.1| hypothetical protein VIF_002092 [Vibrio cholerae TM 11079-80] >gi|229347589|gb|EEO12548.1| hypothetical protein VCB_002535 [Vibrio cholerae TMA 21]
+MFKENERVETRTIKGKEDKPSRVIYEQTAYVYLGGKFPVEMKLGLEEGQPPYAAGLYTPHSSSYVVNAFGGLELKKYGLT
+IEPLEVEL
+>gi|518111627|ref|WP_019281835.1| hypothetical protein [Vibrio anguillarum]
+MIKNDLIIEIFKENESLDIREGEKNGKPWKQISQIGYAHLGGKFPLECKVKIQDGQPAYVAGKYRLSVNSFTVGRYGDIE
+IGREMILLPLD
+>gi|919493017|ref|WP_052835318.1| hypothetical protein [Escherichia coli]
+MIKIEIKPSQVAVDERSGEKNGKKWVSREQKGYIYLGGDYPELFVFPLADGQPPYDAGFYELTEQCIVVGKYHKLDYSRA
+FAFRPLSSRES
+>gi|754659889|ref|WP_042042469.1| hypothetical protein [Aeromonas rivuli]
+MKIEIVSDKVTVKSGISQRTQKPYSINKQEGFFFAAADTKYPVRFEFNLAEGATAFAPGMYKFDDSNFYVDRFGSLSISG
+QLVLLPLNASQPATRVA
+>gi|492365165|ref|WP_005821707.1| MULTISPECIES: DNA-binding protein [Pasteurellaceae] >gi|257451386|gb|EEV25429.1| hypothetical protein AM202_04377 [Actinobacillus minor 202] >gi|529272596|gb|EQA15107.1| helix-destabilising protein [Haemophilus parasuis 174]
+MSNQDIKQYLLKVQIFPTSRIDERSGKSEKTGKDWFIRTQEAYIDLGGQFPVQFKVPLAKDQIPYGAGSYYVHPKSFKTS
+GYFDLQVGDVILVPAEDK
+>gi|515980721|ref|WP_017411304.1| hypothetical protein [Aeromonas hydrophila]
+MKIEIANVNVRNQSGTSQKTGKPYSMNKQEAYLHLEGQPYPVRFEFNLADGATPFQKGFYTVTDKSFIVDRFGSLGVSGQ
+LELVPIVAGQQARPAA
+>gi|916569197|ref|WP_051176288.1| hypothetical protein [Xanthomonas citri]
+MSRIIIRKAVAQQRSVKGKNGTTYNFNEQNAALEKDGEDFPHPFRVRLADGQPPYPAGDYAVAPASFEIGQFGDLVIGRR
+LQLVPIVPPANPSAPK
+>gi|491777136|ref|WP_005593480.1| fumarate reductase subunit C, partial [Vibrio scophthalmi] >gi|342804936|gb|EGU40224.1| fumarate reductase subunit C [Vibrio scophthalmi LMG 19158]
+MKTTDGLTIEIFEDNVLVDTREIPARGERSAMKLFSQVAFVHLGGRFPVEFSLSLEENQAPYPAGKYSLHASSFKVGQYG
+RLEFERNLLLIPQTSS
+>gi|694133050|ref|WP_032473211.1| fumarate reductase [Vibrio cholerae]
+TRATKAKDDKPARDIYEQTAYAYLGGKFPVQMKLQLEKGQEPYAAGLYTPHSASYIVNNFGGLELKKFGMIIEPLEAEL
+>gi|565849504|ref|WP_023932212.1| rstB1 [Photobacterium leiognathi] >gi|531077650|dbj|GAD29675.1| rstB1 [Photobacterium leiognathi lrivu.4.1]
+MTKLIIEIFKENESIDTRTIPANEKRGELKLYSQVAYAHLGGKFPVETSIGLEEGQPAYIAGKYELHQSSFQVGNYDRLE
+FSRKIVLVPLGKDF
+>gi|755136848|ref|WP_042487030.1| fumarate reductase [Vibrio diazotrophicus]
+MKRSSQNVRVETRSIPSKDDKLGRTIYEQIAYAHLGGKFPMEMKLTLEKDQEPYAAGTYTPHSSSYVVNNFGGLELKRFG
+MIIEPLEDKPIDIGLKKTMA
+>gi|951204813|ref|WP_057679725.1| hypothetical protein [Xanthomonas axonopodis]
+MSRIIIRKAIAQQRSVKGKNGTTYNFNEQNAALEKDGEDFPHPFRVRLADGQAPYPAGDYAVAPASFEIGQFGDLVIGRR
+LQLVPIMPAANPAAPK
+>gi|940425255|gb|KPZ41723.1| hypothetical protein IM53_12875 [Xanthomonas axonopodis pv. dieffenbachiae]
+MIIRKAIAQQRSVKGKNGTTYNFNEQNAALEKDGEDFPHPFRVRLADGQAPYPAGDYAVAPASFEIGQFGDLVIGRRLQL
+VPIMPAANPAAPK
+>gi|1027714156|ref|WP_063648307.1| hypothetical protein [Aliivibrio fischeri]
+MSKALIIEVFKENESLDIREGVSAKTQKPWKMITQIGYAHTGDKFPIQMKIKMQDGQPFYPAGKYELSPSSLTVNPYGDL
+ELGREMILIPCSGNPELNK
+>gi|806402881|ref|WP_046121613.1| hypothetical protein [Vibrio cholerae] >gi|803437197|gb|AKB02174.1| helix-destabilising family protein [Vibrio cholerae] >gi|803437913|gb|AKB02890.1| helix-destabilising family protein [Vibrio cholerae] >gi|803438747|gb|AKB03724.1| helix-destabilising family protein [Vibrio cholerae]
+MQIEPLVIEIFKDNVIVDSRVIPAKGDRAEMTLYSQVAFAHLGGRFPVEFSLPLEKGDAPYAEGKYQLHASSFKVGDYGR
+LTFERKMVLIPLAHSAIKAA
+>gi|385693105|gb|EIG23760.1| helix-destabilizing protein [Haemophilus paraphrohaemolyticus HK411]
+MSNQNINQYLLKVQVFATSRIDERSGVSQKTGKDWFIRTQEAYIDLGGQFPVMVKIPLQKDQIPYGPGNYYVQSG
+>gi|733429892|gb|KHL24086.1| DNA-binding protein, partial [Porphyrobacter mercurialis]
+LGGVYPALFNFNLEDGQHPYPAGKYRVHSSSFKINNFGQVSVGRVLLESVKSA
+>gi|447163575|ref|WP_001240831.1| heavy metal transporter [Escherichia coli] >gi|331043820|gb|EGI15956.1| helix-destabilizing protein (Single-stranded DNA-binding protein)(GPV) [Escherichia coli M605]
+MAMINIDERYLVIIEFEEDDVRVDSFEYEKKDKKTGQVKVDSLGVPVKGVMCSQVGLVKLGRQLIECKVPLDEGQPPYAA
+GKYLIHPSSYAVGDFGSLEFAFKLILIPLSDSKIK
+>gi|445983961|ref|WP_000061816.1| heavy metal transporter [Escherichia coli] >gi|378009921|gb|EHV72870.1| helix-destabilising family protein [Escherichia coli DEC6D] >gi|378012778|gb|EHV75706.1| helix-destabilising family protein [Escherichia coli DEC6E]
+MSMINVDERYLVIIEFEEDDVRVDSFEYDKKDKKTGLVVVDSLGSPVKGIMYSQVGVVRLGRQVIECKVSLDEGQPPYAA
+GKYLIHPSSYTVGNFGSIEFAFKLVLFPLTVPGSK
+>gi|918467085|ref|WP_052508856.1| heavy metal transporter [Escherichia coli]
+MAMINIDERYLVIIEFEEDDVRVDSFEYDKKDKKTGLVVVDSLGSPVKGIMYSQVGVVRLGRQVIECKVSLDEGQPPYAA
+GKYLIHPSSYTVGNFGSIEFAFKLVLFPLTVPGSK
+>gi|896552622|ref|WP_049452903.1| hypothetical protein [Stenotrophomonas maltophilia]
+MMKDGEDFPHPFRLGLDDAQAPYPPGDYVVDASSFNVGQYGDLIVGRRLMLVPVAPAATATASTRA
+>gi|974375687|gb|KUP00614.1| hypothetical protein AR274_20255 [Stenotrophomonas maltophilia] >gi|1016446485|gb|KZC92437.1| hypothetical protein AR273_16045 [Stenotrophomonas maltophilia]
+MMKDGEDFPHPFRLGLDDAQAPYPPGDYVVDASSFNVGQYGDLIVGRRLMLVPVAPAATATASAKA
+>gi|504320706|ref|WP_014507808.1| MULTISPECIES: DNA-binding protein [Xanthomonas] >gi|341937096|gb|AEL07235.1| V protein [Xanthomonas campestris pv. raphani 756C] >gi|739128483|gb|KHS05635.1| DNA-binding protein [Xanthomonas axonopodis pv. phaseoli] >gi|1045676357|gb|OCG93805.1| DNA-binding protein [Xanthomonas euvesicatoria]
+MKVQIMSSAVAIRSFPARDGKPATHFREQTAAVLREGDFPLPFTISLDEDQAPYAEGFYVIDPKSMQNNKYGGLEFGRRI
+RLIPDSAAKAVQPAARVA
+>gi|821384599|ref|WP_046833616.1| DNA-binding protein [Xanthomonas axonopodis] >gi|712566409|gb|KGT49337.1| DNA-binding protein [Xanthomonas axonopodis pv. phaseoli] >gi|821047788|gb|KKY07184.1| DNA-binding protein [Xanthomonas axonopodis pv. phaseoli]
+MKVQIMSSAVAIRSFPARDGKPATHFREQTAAVLREGDFPLPFTISLDEDQAPYAEGFYVIDPKSMQNNKYGGLEFGRRI
+RLIPDATAKAAQPAARVA
+>gi|1033973318|gb|OAT46079.1| hypothetical protein M998_3831 [Providencia heimbachae ATCC 35613]
+MAVYTLEKFIIQLDKDASPYAAGFYTLDDSSFTVGDFGSLKIKSIKLIPISNK
+>gi|646920860|ref|WP_025613276.1| hypothetical protein [Vibrio parahaemolyticus]
+MKQISSLVIEIFQDNVVVDKRELPAKGDRAAMTLCSQVAFAHLGGRFPVEFSLSLQDGDAPYPAGKYFLDASSFEVGQYG
+RLGFTRNLVLIPIDQASKAA
+>gi|762953388|ref|WP_043889961.1| DNA-binding protein [Xanthomonas hortorum]
+MKVQIISTETETRSFPAKEGRAAISFREQKAAVLRPGDFPLPFKFSLDEDQPAYPVGEYELLPESLEAGQYGGLDFGRRI
+KLGPVAGVEASKPARAA
+>gi|564589457|gb|ETC82754.1| filamentous phage phiLf replication initiation protein II [Xanthomonas hortorum pv. carotae str. M081]
+MADGSQARMCRFCGVGVAIFRDGMCAHCTMHDASEILHQVRSQKTPTLDAIDQWVATAQAASRRQEIAAETVHRYKRASG
+ASLQEFCRHEPIRLTEEGRREAAALGLVNYKTSGTQSGIGRVTIEIDALQSKSNRLRKSVITGARLHDQEAKRGAFRGAW
+YFLTLTYRDGCDSSPRDVSELLTRMRRHFNRIRSQRKRYANQSFRYVWVGELTQRFRPHYHLMVWVPTGMWFGRVDNRGW
+WPHGKTQIEKARNCVGYLAKYASKFTSLTAGMFPKGFRTHGVGGLGQESKRELRWWKAPKEAREVLGPDADIRKIKGGWF
+DKLTGELWPSPWKVSFVFGRLIAWKLIPPMKVQIISTETETRSFPAKEGRAAISFREQKAAVLRPGDFPLPFKFSLDEDQ
+PAYPVGEYELLPESLEAGQYGGLDFGRRIKLGPVAGVEASKPARAA
+>gi|951210854|ref|WP_057683663.1| hypothetical protein [Xylella fastidiosa] >gi|943369095|gb|KQH72968.1| hypothetical protein AOT81_10885 [Xylella fastidiosa]
+MSIVRVKDNVLIERAVNTKMGPQIFREQRAAVVMGGAYETVFSLKLGSAPLYSPGEYLVHPDSYGTDDYGNLVLRRLKLI
+PLSSALKEFASKEPVSVVSSKAS
+>gi|951210917|ref|WP_057683726.1| hypothetical protein [Xylella fastidiosa] >gi|943368994|gb|KQH72874.1| hypothetical protein AOT81_11420 [Xylella fastidiosa]
+MSIVRVKDTFLIERSVNTKMGPQVFREQRAAVVMGGAYETVFSLKLGTAPVYSPGEYLVHPDSYGTDDYGNLVLRRLKLI
+SLSSALKEFASKESVSLVSSKVS
+>gi|951210930|ref|WP_057683739.1| hypothetical protein [Xylella fastidiosa] >gi|943369007|gb|KQH72887.1| hypothetical protein AOT81_11495 [Xylella fastidiosa]
+MSIVRVKDTFLIERSVNTKMGPQVFREQRAAVVMGGAYETVFSLKLGTAPVYSPGEYLVHPDSYGTDDYGNLVLRRLKLI
+SLSSALKEFASKESVSLVSSKVA
+>gi|757583794|ref|WP_042836560.1| hypothetical protein [Xylella fastidiosa] >gi|647819321|gb|AIC11436.1| hypothetical protein D934_09240 [Xylella fastidiosa subsp. sandyi Ann-1]
+MSIVRVKDNILIERSVTTKTGPQIFREQRACVVMGGAYETVFNLKLGTAPVYPPGDYLIHPDSYGTDDYANLLLKRLKLI
+PLSSALKEFASKEPVSVVSSKVA
+>gi|639836431|ref|WP_024749106.1| hypothetical protein [Xylella fastidiosa] >gi|647819308|gb|AIC11423.1| hypothetical protein D934_09140 [Xylella fastidiosa subsp. sandyi Ann-1]
+MSIVRVKDTVLIERSVTTKTGPQIFREQRACVVMGGAYETVFNLKLGTAPVYPPGDYLIHPDSYGTDDYANLLLKRLKLI
+PLSSALKEFASKEPVSVVHSKVS
+>gi|1011142866|ref|WP_062064537.1| hypothetical protein [Cellvibrio sp. OA-2007]
+MVKVSVVNGHHFPQSRNTSKGVRYYQSAYVHLGGAYPHEIEIPLKTPADAFPVGDYEVGVGSFRVGKYKNLELNPFELKL
+EILKAAGVLSKAG
+>gi|632912417|gb|KDB12208.1| DNA-dependent RNA polymerase II beta subunit [Ustilaginoidea virens] >gi|781085869|dbj|GAO15573.1| hypothetical protein UVI_02050060 [Ustilaginoidea virens]
+MADYDEDYDYENYGEDDEGITPEDCWTVISSFFETKGLVSQQTDSFDEFTQTTIQDLVNEYSTITLDQPNPPSAPGVKIA
+LRRYEIKFGTVMVSRPTISETDGTVTSLLPYECRDRNLTYASPLYINITKKVSAAIEKEVPLHEMDDAQQAEYARTGENP
+TKLVWEQEESLDDDEAGKSQDWKNMVFVGKLPIMVKSKICHLSRETEESLFTVNECPYDQGGYFVINGSEKVLIAQERSA
+ANIVQVFKKAQPSPYTYTAEIRSALEKGSRLISSLTLKLYGKGDSARGGFGQTIHTTLPFVKSDLPIAIVFRALGVVSDE
+DILNHICYDRKDSQMLEMLRPCIEEAFCVQDREVALDFIGKRGNRDQAGLGREKRVRVAKDILQKETLPHISQTEGSETR
+KAFFLGYMVHKLLQCALGRREPDDRDHFGKKRLDLAGPLLAKLFRGIVRRMNNELSNYLRRCVEGNRHFNLAVGIKPGTL
+SNGLKYSLATGNWGDQKKAMSSTAGVSQVLNRYTFASTLSHLRRTNTPIGRDGKLAKPRQLHNTHWGLVCPAETPEGQAC
+GLVKNLSLMCYVSVGSPSEPLIEFMINRGMEVVEEYEPLRYPHATKIFVNGVWVGVHQDPKHLVGQVLDTRRKSYLQYEV
+SLIREIRDQEFKIFSDAGRVMRPVFTVQQEDDPETGLEKGHLVLSKELVNKLAKEQAEPPEDPSEKLGWEGLIRAGAVEY
+LDAEEEETSMICMTPEDLELYRLQKAGVALDDDMGDDLNRRLKTKTNPTTHMYTHCEIHPSMILGICASIIPFPDHNQVS
+QRAPALGEKQ
+>gi|511072295|ref|WP_016313844.1| germination protein GerC [Paenibacillus barengoltzii] >gi|507796971|gb|EOS54661.1| Ger(X)C family germination protein [Paenibacillus barengoltzii G22]
+MRNKRLSRFVVLTALMLGMTLTLIGCMQTRIVDRIKILTVLGVDQKNGKYQTMGLYVDHMENDRIKSIQGEGDTVELMLS
+EMNMQSPHTIQTGKLRMLVFSRRMAEQGLDSFLHTFCRSPITSTSMILAVSEEPPQEIFQSLKGKNREGLPYHLIEQNVT
+SDNAPLNNLHIFLFNCYGTGRDAYAPYLKRNKYGKIEFTGLGIFQYDRLKLVIDAKETLLLKMMKGRGKGGILPVQINAG
+SEEHVAALSLLKEEPSMHFALDHGEALKMTIDLHLIGMLKEIPRMNMRSEITYKYTVSELEQQINDNAIKLLNKLRDNGV
+DPLGLGDFVRGYRRSWDEEDFYKREYPRMRFEVHTHLTLKESGIGH
+>gi|560117153|emb|CDJ98203.1| hypothetical protein HCOI_00019400 [Haemonchus contortus]
+DASVPAGSAKNCKVSRIGSNDEAIAKVYNNDMLMRHIVSFVTDINDRIHIELSSARLRFISRTSIWRFKSGGETLSLSYK
+TLNSYVSVEIGDVWFVLPSTTLDNRRDKNKRCTTQPLKLMNTLYGMAERFALGITNVRLGGAELWSAGVQNHQLIVTADL
+LRFINDRLKNLKAISFRHCGFDECAMGYLSSMECSLPNRIRELSICGVWFDRNPLISEFTRLITPSLRVLKLENFKVGQL
+GSMLLDRVRNQQMVLDDIHIQLSPSSLQGVSVNAFRSFLNDVSAVTRELRIDVHSPRRSGEILLFAIRNITFLANIAELR
+LFVQPSSRPEAENVTHIFNHLGKLPNLRKFACGNWKSYDVTAALSNGLRFCFLLRDLEIWNIYASVNDELTMLLSGIPSN
+IQILYLRSLPITDTDIVDLCQRLSCLTNLRLAKLSRISSRGIFQSLSKLRQLEVLKSSVPVNSMVLRFLTNNTILRELRK
+FTIVVTTGTPEHYIDTLSQHFASKSRDANCGANHCFMAIRFFHYSHGNQRRKKSSFLSRRKCSLLEFAISAYRNPSF
+>gi|560123175|emb|CDJ92194.1| hypothetical protein HCOI_01383900 [Haemonchus contortus]
+MSKGNCRDSEPVEAYCFLVTANFTERGDASVPAGSAKNCKVSRIGSNDEAIAKVYNNDMLMRHIVSFVTDINDRIHIELS
+SARLRFISRTSIWRFKSGGETLSLSYKTLNSYVSVEIGDVWFVLPSTTLDNRRDKNKRCTTQPLKLMNTLYGMAERFALG
+ITNVRLGGAELWSAGVQNHQLIVTADLLRFINDRLKNLKAISFRHCGFDECAMGYLSSMECSLPNRIRELSICGVWFDRN
+PLISEFTRLITPSLRVLKLENFKVGQLGSMLLDRVRNQQMVLDDIHIQLSPSSLQGVSVNAFRSFLNDVSAVTRELRIDV
+HSPRRSGEILLFAIRNITFLANIAELRLFVQPSSRPEAENVTHIFNHLGKLPNLRKFACGNWKSYDVTAALSNGLRFCFL
+LRDLEIWNIYASVNDELTMLLSGIPSNIQILYLRSLPITDTDIVDLCQRLSCLTNLRLAKLSRISSRGIFQSLSKLRQLE
+VLKSSVPVNSMVLRFLTNNTILRELRKFTIVVTTGTPEHYIDTLSQHFASKSRDANCGANHCFMAIRFFHYSHGNQRRKK
+SSFLSRRKCSLLEFAISAYRNPSF

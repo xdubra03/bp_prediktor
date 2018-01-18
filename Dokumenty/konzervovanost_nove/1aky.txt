@@ -1,0 +1,500 @@
+>gi|323305554|gb|EGA59296.1|Adk1p [Saccharomyces cerevisiae FostersB]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|207346571|gb|EDZ73032.1|YDR226Wp-like protein [Saccharomyces cerevisiae AWRI1631]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|768736836|gb|AJU61509.1|Adk1p [Saccharomyces cerevisiae YJM270]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|365766312|gb|EHN07810.1|Adk1p [Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|1421658|pdb|1DVR|AChain A, Structure Of A Mutant Adenylate Kinase Ligated With An Atp- Analogue Showing Domain Closure Over Atp >gi|1421659|pdb|1DVR|B Chain B, Structure Of A Mutant Adenylate Kinase Ligated With An Atp- Analogue Showing Domain Closure Over Atp
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|224493075|sp|A6ZYI0.1|KAD2_YEAS7RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase; Flags: Precursor >gi|151942204|gb|EDN60560.1| adenylate kinase [Saccharomyces cerevisiae YJM789] >gi|256269999|gb|EEU05248.1| Adk1p [Saccharomyces cerevisiae JAY291] >gi|259145462|emb|CAY78726.1| Adk1p [Saccharomyces cerevisiae EC1118] >gi|323309767|gb|EGA62973.1| Adk1p [Saccharomyces cerevisiae FostersO] >gi|323338175|gb|EGA79408.1| Adk1p [Saccharomyces cerevisiae Vin13] >gi|323355655|gb|EGA87474.1| Adk1p [Saccharomyces cerevisiae VL3] >gi|349577284|dbj|GAA22453.1| K7_Adk1p [Saccharomyces cerevisiae Kyokai no. 7] >gi|584371989|gb|EWG91925.1| Adk1p [Saccharomyces cerevisiae P301] >gi|584377318|gb|EWG97171.1| Adk1p [Saccharomyces cerevisiae R103] >gi|628157162|gb|AHY75207.1| Adk1p [Saccharomyces cerevisiae YJM993] >gi|761386847|gb|AJP37935.1| Adk1p [Saccharomyces cerevisiae YJM1078] >gi|768734074|gb|AJU58751.1| Adk1p [Saccharomyces cerevisiae YJM193] >gi|768734769|gb|AJU59445.1| Adk1p [Saccharomyces cerevisiae YJM195] >gi|768735484|gb|AJU60159.1| Adk1p [Saccharomyces cerevisiae YJM244] >gi|768736140|gb|AJU60814.1| Adk1p [Saccharomyces cerevisiae YJM248] >gi|768737550|gb|AJU62222.1| Adk1p [Saccharomyces cerevisiae YJM271] >gi|768738246|gb|AJU62917.1| Adk1p [Saccharomyces cerevisiae YJM320] >gi|768738951|gb|AJU63621.1| Adk1p [Saccharomyces cerevisiae YJM326] >gi|768740350|gb|AJU65018.1| Adk1p [Saccharomyces cerevisiae YJM450] >gi|768741069|gb|AJU65736.1| Adk1p [Saccharomyces cerevisiae YJM451] >gi|768741789|gb|AJU66455.1| Adk1p [Saccharomyces cerevisiae YJM453] >gi|768742469|gb|AJU67134.1| Adk1p [Saccharomyces cerevisiae YJM456] >gi|768743184|gb|AJU67848.1| Adk1p [Saccharomyces cerevisiae YJM470] >gi|768743899|gb|AJU68562.1| Adk1p [Saccharomyces cerevisiae YJM541] >gi|768744593|gb|AJU69255.1| Adk1p [Saccharomyces cerevisiae YJM554] >gi|768745293|gb|AJU69954.1| Adk1p [Saccharomyces cerevisiae YJM555] >gi|768746690|gb|AJU71349.1| Adk1p [Saccharomyces cerevisiae YJM681] >gi|768747405|gb|AJU72063.1| Adk1p [Saccharomyces cerevisiae YJM682] >gi|768748114|gb|AJU72771.1| Adk1p [Saccharomyces cerevisiae YJM683] >gi|768748828|gb|AJU73484.1| Adk1p [Saccharomyces cerevisiae YJM689] >gi|768749541|gb|AJU74196.1| Adk1p [Saccharomyces cerevisiae YJM693] >gi|768750260|gb|AJU74914.1| Adk1p [Saccharomyces cerevisiae YJM969] >gi|768750967|gb|AJU75620.1| Adk1p [Saccharomyces cerevisiae YJM972] >gi|768751676|gb|AJU76328.1| Adk1p [Saccharomyces cerevisiae YJM975] >gi|768752387|gb|AJU77038.1| Adk1p [Saccharomyces cerevisiae YJM978] >gi|768753099|gb|AJU77749.1| Adk1p [Saccharomyces cerevisiae YJM981] >gi|768753812|gb|AJU78461.1| Adk1p [Saccharomyces cerevisiae YJM984] >gi|768754524|gb|AJU79172.1| Adk1p [Saccharomyces cerevisiae YJM987] >gi|768755237|gb|AJU79884.1| Adk1p [Saccharomyces cerevisiae YJM990] >gi|768755837|gb|AJU80483.1| Adk1p [Saccharomyces cerevisiae YJM996] >gi|768756536|gb|AJU81181.1| Adk1p [Saccharomyces cerevisiae YJM1083] >gi|768757230|gb|AJU81874.1| Adk1p [Saccharomyces cerevisiae YJM1129] >gi|768758510|gb|AJU83152.1| Adk1p [Saccharomyces cerevisiae YJM1190] >gi|768760650|gb|AJU85289.1| Adk1p [Saccharomyces cerevisiae YJM1208] >gi|768762053|gb|AJU86690.1| Adk1p [Saccharomyces cerevisiae YJM1244] >gi|768763374|gb|AJU88009.1| Adk1p [Saccharomyces cerevisiae YJM1250] >gi|768764077|gb|AJU88711.1| Adk1p [Saccharomyces cerevisiae YJM1252] >gi|768764771|gb|AJU89404.1| Adk1p [Saccharomyces cerevisiae YJM1273] >gi|768766202|gb|AJU90833.1| Adk1p [Saccharomyces cerevisiae YJM1307] >gi|768766923|gb|AJU91553.1| Adk1p [Saccharomyces cerevisiae YJM1311] >gi|768767630|gb|AJU92259.1| Adk1p [Saccharomyces cerevisiae YJM1326] >gi|768768355|gb|AJU92983.1| Adk1p [Saccharomyces cerevisiae YJM1332] >gi|768769074|gb|AJU93701.1| Adk1p [Saccharomyces cerevisiae YJM1336] >gi|768769778|gb|AJU94404.1| Adk1p [Saccharomyces cerevisiae YJM1338] >gi|768770479|gb|AJU95104.1| Adk1p [Saccharomyces cerevisiae YJM1341] >gi|768771177|gb|AJU95801.1| Adk1p [Saccharomyces cerevisiae YJM1342] >gi|768771883|gb|AJU96506.1| Adk1p [Saccharomyces cerevisiae YJM1355] >gi|768773287|gb|AJU97908.1| Adk1p [Saccharomyces cerevisiae YJM1381] >gi|768775399|gb|AJV00018.1| Adk1p [Saccharomyces cerevisiae YJM1386] >gi|768776826|gb|AJV01443.1| Adk1p [Saccharomyces cerevisiae YJM1388] >gi|768777539|gb|AJV02155.1| Adk1p [Saccharomyces cerevisiae YJM1389] >gi|768778244|gb|AJV02859.1| Adk1p [Saccharomyces cerevisiae YJM1399] >gi|768778915|gb|AJV03529.1| Adk1p [Saccharomyces cerevisiae YJM1400] >gi|768779621|gb|AJV04234.1| Adk1p [Saccharomyces cerevisiae YJM1401] >gi|768780336|gb|AJV04948.1| Adk1p [Saccharomyces cerevisiae YJM1402] >gi|768781762|gb|AJV06372.1| Adk1p [Saccharomyces cerevisiae YJM1417] >gi|768782465|gb|AJV07074.1| Adk1p [Saccharomyces cerevisiae YJM1418] >gi|768783168|gb|AJV07776.1| Adk1p [Saccharomyces cerevisiae YJM1419] >gi|768783868|gb|AJV08475.1| Adk1p [Saccharomyces cerevisiae YJM1433] >gi|768784552|gb|AJV09158.1| Adk1p [Saccharomyces cerevisiae YJM1434] >gi|768785960|gb|AJV10564.1| Adk1p [Saccharomyces cerevisiae YJM1443] >gi|768786609|gb|AJV11212.1| Adk1p [Saccharomyces cerevisiae YJM1444] >gi|768787308|gb|AJV11910.1| Adk1p [Saccharomyces cerevisiae YJM1447] >gi|768788651|gb|AJV13251.1| Adk1p [Saccharomyces cerevisiae YJM1460] >gi|768789361|gb|AJV13960.1| Adk1p [Saccharomyces cerevisiae YJM1463] >gi|768790739|gb|AJV15336.1| Adk1p [Saccharomyces cerevisiae YJM1478] >gi|768791446|gb|AJV16042.1| Adk1p [Saccharomyces cerevisiae YJM1479] >gi|768792865|gb|AJV17459.1| Adk1p [Saccharomyces cerevisiae YJM1527] >gi|768793577|gb|AJV18170.1| Adk1p [Saccharomyces cerevisiae YJM1549] >gi|768794290|gb|AJV18882.1| Adk1p [Saccharomyces cerevisiae YJM1573] >gi|768795011|gb|AJV19602.1| Adk1p [Saccharomyces cerevisiae YJM1574] >gi|768795710|gb|AJV20300.1| Adk1p [Saccharomyces cerevisiae YJM1592] >gi|768796426|gb|AJV21015.1| Adk1p [Saccharomyces cerevisiae YJM1615] >gi|919304638|gb|KOH51686.1| ADK1p Adenylate kinase, required for purine metabolism [Saccharomyces sp. 'boulardii'] >gi|941963905|gb|KQC44757.1| Adenylate kinase, required for purine metabolism [Saccharomyces sp. 'boulardii'] >gi|1023945256|gb|KZV12464.1| ADK1 [Saccharomyces cerevisiae] >gi|1139706665|gb|ONH73825.1| Adenylate kinase [Saccharomyces cerevisiae]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|768781056|gb|AJV05667.1|Adk1p [Saccharomyces cerevisiae YJM1415]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|768774001|gb|AJU98621.1|Adk1p [Saccharomyces cerevisiae YJM1383]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|45271046|gb|AAS56904.1|YDR226W [Saccharomyces cerevisiae]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|6320432|ref|NP_010512.1|adenylate kinase ADK1 [Saccharomyces cerevisiae S288C] >gi|125153|sp|P07170.2|KAD2_YEAST RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase; Flags: Precursor >gi|224493074|sp|B3LG61.1|KAD2_YEAS1 RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase; Flags: Precursor >gi|3357|emb|CAA29624.1| unnamed protein product [Saccharomyces cerevisiae] >gi|171032|gb|AAA66319.1| adenylate kinase [Saccharomyces cerevisiae] >gi|532750|gb|AAC33143.1| adenylate kinase [Saccharomyces cerevisiae] >gi|728682|emb|CAA88506.1| Adk1p [Saccharomyces cerevisiae] >gi|190404823|gb|EDV08090.1| adenylate kinase [Saccharomyces cerevisiae RM11-1a] >gi|285811244|tpg|DAA12068.1| TPA: adenylate kinase ADK1 [Saccharomyces cerevisiae S288C] >gi|392300340|gb|EIW11431.1| Adk1p [Saccharomyces cerevisiae CEN.PK113-7D] >gi|584367265|gb|EWG87256.1| Adk1p [Saccharomyces cerevisiae R008] >gi|768733379|gb|AJU58057.1| Adk1p [Saccharomyces cerevisiae YJM189] >gi|768739640|gb|AJU64309.1| Adk1p [Saccharomyces cerevisiae YJM428] >gi|768746002|gb|AJU70662.1| Adk1p [Saccharomyces cerevisiae YJM627] >gi|768759220|gb|AJU83861.1| Adk1p [Saccharomyces cerevisiae YJM1199] >gi|768759937|gb|AJU84577.1| Adk1p [Saccharomyces cerevisiae YJM1202] >gi|768762702|gb|AJU87338.1| Adk1p [Saccharomyces cerevisiae YJM1248] >gi|768765483|gb|AJU90115.1| Adk1p [Saccharomyces cerevisiae YJM1304] >gi|768774703|gb|AJU99322.1| Adk1p [Saccharomyces cerevisiae YJM1385] >gi|768776113|gb|AJV00731.1| Adk1p [Saccharomyces cerevisiae YJM1387] >gi|768785259|gb|AJV09864.1| Adk1p [Saccharomyces cerevisiae YJM1439]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|3341|emb|CAA68471.1|unnamed protein product [Saccharomyces cerevisiae]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|157836762|pdb|3AKY|AChain A, Stability, Activity And Structure Of Adenylate Kinase Mutants
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|157829936|pdb|1AKY|AChain A, High-Resolution Structures Of Adenylate Kinase From Yeast Ligated With Inhibitor Ap5a, Showing The Pathway Of Phosphoryl Transfer >gi|157834546|pdb|2AKY|A Chain A, High-Resolution Structures Of Adenylate Kinase From Yeast Ligated With Inhibitor Ap5a, Showing The Pathway Of Phosphoryl Transfer
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|365761429|gb|EHN03084.1|Adk1p [Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELSNNP
+>gi|401839769|gb|EJT42834.1|ADK1-like protein [Saccharomyces kudriavzevii IFO 1802]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKDELSNNP
+>gi|1069874099|ref|XP_018223776.1|ADK1-like protein [Saccharomyces eubayanus] >gi|918735178|gb|KOH01060.1| ADK1-like protein [Saccharomyces eubayanus]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGALVSDDIMVNMIKDELTNNP
+>gi|323334103|gb|EGA75487.1|Adk1p [Saccharomyces cerevisiae AWRI796] >gi|768761351|gb|AJU85989.1| Adk1p [Saccharomyces cerevisiae YJM1242] >gi|768772589|gb|AJU97211.1| Adk1p [Saccharomyces cerevisiae YJM1356] >gi|768790031|gb|AJV14629.1| Adk1p [Saccharomyces cerevisiae YJM1477] >gi|768792162|gb|AJV16757.1| Adk1p [Saccharomyces cerevisiae YJM1526]
+SSESIRMVLIGPPGAGKGTQAPNLQERFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGGLVSDDIMVNMIKGELTNNP
+>gi|401624250|gb|EJS42314.1|adk1p [Saccharomyces arboricola H-6]
+SSESIRMVLIGPPGAGKGTQAPNLQKRFHAAHLATGDMLRSQIAKGTQLGLEAKKIMDQGNLVSDDIMVNMIKDELTNNP
+>gi|50292559|ref|XP_448712.1|hypothetical protein [Candida glabrata CBS 138] >gi|74661116|sp|Q6FM32.1|KAD2_CANGA RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|49528024|emb|CAG61675.1| unnamed protein product [[Candida] glabrata] >gi|961776581|gb|KTB02131.1| Adenylate kinase [[Candida] glabrata] >gi|961779285|gb|KTB04776.1| Adenylate kinase [[Candida] glabrata] >gi|961784726|gb|KTB09998.1| Adenylate kinase [[Candida] glabrata] >gi|961816455|gb|KTB18473.1| Adenylate kinase [[Candida] glabrata] >gi|961822344|gb|KTB24100.1| Adenylate kinase [[Candida] glabrata] >gi|961824259|gb|KTB25761.1| Adenylate kinase [[Candida] glabrata]
+SSDSIRMVLIGPPGAGKGTQAPNLVERFHAAHLATGDMLRSQISKGTELGLQAKKIMDQGGLVSDDIMVNMIKDELTNNP
+>gi|366989929|ref|XP_003674732.1|hypothetical protein NCAS_0B02740 [Naumovozyma castellii CBS 4309] >gi|342300596|emb|CCC68358.1| hypothetical protein NCAS_0B02740 [Naumovozyma castellii CBS 4309]
+STESIRMVLIGPPGAGKGTQAPNLVEKFHACHLSTGDMLRSQIAKNTELGQEAKKIMDQGGLVSDEIMVNMIKDELTNNP
+>gi|1091724769|emb|SCU85328.1|LADA_0D06898g1_1 [Lachancea dasiensis CBS 10888]
+ESIRMVLIGPPGAGKGTQAPNLKERFCACHLATGDMLRSQVAKKTKLGLEAKKIMDQGGLVSDEIMVNMIKHELSTNP
+>gi|663448292|emb|CDR47595.1|CYFA0S34e00342g1_1 [Cyberlindnera fabianii] >gi|1139699181|gb|ONH66762.1| Adenylate kinase [Cyberlindnera fabianii]
+KSIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRSQVAKKTELGLEAKKIMDQGGLVSDDIMVNMIKSELDNNP
+>gi|906315833|emb|CEP25073.1|ADK1 [Cyberlindnera jadinii]
+KSIRMVLIGPPGAGKGTQAPNLQEKFCACHLATGDMLRSQVAKKTALGLEAKKIMDQGGLVSDDIMVNMIKSELHNNP
+>gi|1147427619|ref|XP_020070937.1|adenylate kinase [Cyberlindnera jadinii NRRL Y-1542] >gi|1064984211|gb|ODV73898.1| adenylate kinase [Cyberlindnera jadinii NRRL Y-1542]
+KSIRMVLIGPPGAGKGTQAPNLQEKFCACHLATGDMLRSQVAKKTALGLEAKKIMDQGGLVSDDIMVNMIKSELHNNP
+>gi|367010068|ref|XP_003679535.1|hypothetical protein TDEL_0B01950 [Torulaspora delbrueckii] >gi|359747193|emb|CCE90324.1| hypothetical protein TDEL_0B01950 [Torulaspora delbrueckii]
+TNESIRMVLIGPPGAGKGTQAPNLVEKFKAAHLATGDMLRSQVAKGTPLGVEAKKIMDKGGLVSDEIMVNMIKDELLNN
+>gi|1092385262|emb|SCW04070.1|LAFE_0H05248g1_1 [Lachancea fermentati]
+ESIRMVLIGPPGAGKGTQAPNLVERFKVCHLATGDMLRSQVAQKTALGLEAKKIMDQGGLVSDDIMVNMIKNELTTNP
+>gi|365985129|ref|XP_003669397.1|hypothetical protein NDAI_0C04950 [Naumovozyma dairenensis CBS 421] >gi|343768165|emb|CCD24154.1| hypothetical protein NDAI_0C04950 [Naumovozyma dairenensis CBS 421]
+STSSLRIVLIGPPGAGKGTQAPKLVEKYNAAHLSTGDMLRSQIAKGSELGLEAKKIMDKGGLVSDEIMVNMIKDELTNNP
+>gi|1091707307|emb|SCU81267.1|LAMI_0B05446g1_1 [Lachancea mirantina]
+ESIRMVLIGPPGAGKGTQAPNLKERFCACHLATGDMLRSQVAKKTALGLEAKKIMDQGGLVSDEIMVSMIKHELTTNP
+>gi|444323595|ref|XP_004182438.1|hypothetical protein TBLA_0I02630 [Tetrapisispora blattae CBS 6284] >gi|387515485|emb|CCH62919.1| hypothetical protein TBLA_0I02630 [Tetrapisispora blattae CBS 6284]
+ESIRMVLIGPPGAGKGTQAPNLVNKFGACHLATGDMLRSQIAKGTDLGKEAKKIMDQGGLVSDEIMVNMIKDELLNNP
+>gi|367006344|ref|XP_003687903.1|hypothetical protein TPHA_0L01120 [Tetrapisispora phaffii CBS 4417] >gi|357526209|emb|CCE65469.1| hypothetical protein TPHA_0L01120 [Tetrapisispora phaffii CBS 4417]
+ADESIRMVLIGPPGAGKGTQAPNLVEKFGAGHLSTGDMLRSQVAKGTPLGVEAKKIMDQGGLVSDEIMVSMIKDELANNP
+>gi|363751613|ref|XP_003646023.1|hypothetical protein Ecym_4127 [Eremothecium cymbalariae DBVPG#7215] >gi|356889658|gb|AET39206.1| hypothetical protein Ecym_4127 [Eremothecium cymbalariae DBVPG#7215]
+ESIRMVLIGPPGAGKGTQAPNLKEKFCVCHLATGDMLRSQVAKKTQLGVEAKKIMDQGGLVSDEIMVNMIKEELRSNP
+>gi|1102244992|ref|XP_019036676.1|hypothetical protein WICANDRAFT_96780 [Wickerhamomyces anomalus NRRL Y-366-8] >gi|1063234454|gb|ODQ57469.1| hypothetical protein WICANDRAFT_96780 [Wickerhamomyces anomalus NRRL Y-366-8]
+SIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRSQVAKKTELGIEAKKIMDQGGLVSDDIMVNMIKSELDSNP
+>gi|754412962|ref|XP_011275246.1|hypothetical protein BN7_2470 [Wickerhamomyces ciferrii] >gi|406605697|emb|CCH42924.1| hypothetical protein BN7_2470 [Wickerhamomyces ciferrii]
+SIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRSQVAKKTELGIEAKKIMDQGGLVSDDIMVNMIKSELDSNP
+>gi|403213608|emb|CCK68110.1|hypothetical protein KNAG_0A04350 [Kazachstania naganishii CBS 8797]
+SSDVLRMVLIGPPGAGKGTQAPNLVSKFGAAHLATGDMLRSQISKGTQLGQEAKKIMEAGGLVSDDIMVNMIKDELTNN
+>gi|949383030|emb|CUS49644.1|LAQU0S24e01068g1_1 [Lachancea quebecensis]
+ESIRMVLIGPPGSGKGTQAPNLKERFCACHLATGDMLRSQVAQKTELGLEAKKIMDQGGLVSDEIMVNMIKHELITNP
+>gi|761760151|emb|CEP62012.1|LALA0S04e05754g1_1 [Lachancea lanzarotensis]
+ESIRMVLIGPPGAGKGTQAPNLKERFCACHLATGDMLRSQVAKKTALGLEAKKIMDQGGLVSDEIMVNMIKHELSTN
+>gi|574140829|dbj|BAO38623.1|adenylate kinase 1 [Kluyveromyces marxianus DMKU3-1042] >gi|693901149|dbj|BAP70172.1| adenylate kinase 1 [Kluyveromyces marxianus]
+ESIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRSQVAKQTPLGIEAKKIMDDGKLVSDEIMINMIKDELSNNP
+>gi|1091587742|emb|SCU93745.1|LAFA_0F17986g1_1 [Lachancea sp. CBS 6924]
+ESIRMVLIGPPGAGKGTQAPNLKERFCACHLATGDMLRSQVAQKTALGLEAKKIMDQGGLVSDEIMVNMIKHELTTN
+>gi|410079941|ref|XP_003957551.1|hypothetical protein KAFR_0E02630 [Kazachstania africana CBS 2517] >gi|372464137|emb|CCF58416.1| hypothetical protein KAFR_0E02630 [Kazachstania africana CBS 2517]
+SQPLRMILIGPPGAGKGTQAPNLVEKFDAAHLATGDMLRSQIAKGTALGVAAKEIMDNGGLVSDDIMVGMIKDELTNNP
+>gi|50311315|ref|XP_455682.1|hypothetical protein [Kluyveromyces lactis NRRL Y-1140] >gi|74660275|sp|Q6CK57.1|KAD2_KLULA RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|49644818|emb|CAG98390.1| KLLA0F13376p [Kluyveromyces lactis]
+ESIRMVLIGPPGAGKGTQAPNLTERFCACHLATGDMLRSQVAKQTPLGIEAKKIMDDGKLVSDEIMINMIKDELTNN
+>gi|1091736949|emb|SCU95710.1|LANO_0E11122g1_1 [Lachancea nothofagi CBS 11611]
+ESIRMVLIGPPGAGKGTQAPNLKERFCACHLATGDMLRSQVSKKTDLGLEAKKIMDQGGLVSDEIMVSMIKHELLTNP
+>gi|255715281|ref|XP_002553922.1|KLTH0E10274p [Lachancea thermotolerans CBS 6340] >gi|238935304|emb|CAR23485.1| KLTH0E10274p [Lachancea thermotolerans CBS 6340]
+ESIRMVLIGPPGSGKGTQAPNLKERFCACHLATGDMLRSQVAQKTELGLEAKKIMDQGGLVSDEIMVSMIKHELITNP
+>gi|523421443|emb|CDF87678.1|BN860_11980g1_1 [Zygosaccharomyces bailii CLIB 213]
+ANEVLRMVLIGPPGAGKGTQAPNLVEKFHAAHLATGDMLRSQVAQGTELGKEAKKIMDKGGLVSDDIMVNMIKSELSSD
+>gi|578055478|emb|CDH09572.1|probable Adenylate kinase 1 [Zygosaccharomyces bailii ISA1307] >gi|1206895743|emb|SJM83426.1| probable Adenylate kinase 1 [Zygosaccharomyces bailii]
+ANEVLRMVLIGPPGAGKGTQAPNLVEKFHAAHLATGDMLRSQVAQGTELGKEAKKIMDKGGLVSDDIMVNMIKSELSSD
+>gi|1159858238|gb|AQZ11430.1|ADK1 (YDR226W) [Zygosaccharomyces parabailii]
+ANEVLRMVLIGPPGAGKGTQAPNLVEKFHAAHLATGDMLRSQVAQGTELGKEAKKIMDKGGLVSDDIMVNMIKSELSSD
+>gi|578051601|emb|CDH12948.1|probable Adenylate kinase 1 [Zygosaccharomyces bailii ISA1307] >gi|1159856146|gb|AQZ09338.1| ADK1 (YDR226W) [Zygosaccharomyces parabailii]
+ANEVLRMVLIGPPGAGKGTQAPNLVEKFHAAHLATGDMLRSQVAQGTELGKEAKKIMDKGGLVSDDIMVNMIKSELSSD
+>gi|1147180426|ref|XP_020049071.1|adenylate kinase cytosolic [Ascoidea rubescens DSM 1968] >gi|1064972368|gb|ODV62764.1| adenylate kinase cytosolic [Ascoidea rubescens DSM 1968]
+DSIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRSQVTKQTALGIEAKKIMDQGGLISDEIMVNMIKSELSDNP
+>gi|156846234|ref|XP_001646005.1|hypothetical protein Kpol_1031p54 [Vanderwaltozyma polyspora DSM 70294] >gi|224493078|sp|A7THY5.1|KAD2_VANPO RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|156116676|gb|EDO18147.1| hypothetical protein Kpol_1031p54 [Vanderwaltozyma polyspora DSM 70294]
+NSESIRMVLIGPPGAGKGTQAPNLVKQFGAAHLSTGDMLRSQVAKGTPLGVEAKKIMDQGGLVSDEIMVGMIKQELETNP
+>gi|936530220|emb|CDO52035.1|similar to Saccharomyces cerevisiae YDR226W AKY1 Adenylate kinase, required for purine metabolism [Geotrichum candidum]
+KSIRMVLIGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAQKTALGLEAKKIMDQGGLVSDEIMVNMIKNELENN
+>gi|255727330|ref|XP_002548591.1|adenylate kinase cytosolic [Candida tropicalis MYA-3404] >gi|240134515|gb|EER34070.1| adenylate kinase cytosolic [Candida tropicalis MYA-3404]
+SESVRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKTALGVEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|1063861866|ref|XP_017989955.1|HHR190Cp [Eremothecium sinecaudum] >gi|985627364|gb|AMD22959.1| HHR190Cp [Eremothecium sinecaudum]
+EAIRMVLMGPPGAGKGTQAPNLKDKFCVCHLATGDMLRAQVAKKTPLGVEAKKIMDQGGLVSDEIMVNMIKDELTNN
+>gi|1091669370|emb|SCU87093.1|LAME_0D08746g1_1 [Lachancea meyersii CBS 8951]
+ESIRMVLIGPPGAGKGTQAPNLKERFCACHLATGDMLRSQVAQKTELGLEAKKIMDQGGLVSDEIMVSMIKHELLTN
+>gi|1205238719|gb|OWB85192.1|hypothetical protein B5S33_g3851 [[Candida] boidinii]
+ALRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRSQVAQKTALGLQAKKIMDQGGLVSDEIMVNMIKDELANN
+>gi|1198294342|gb|OUM53127.1|hypothetical protein BVG19_g2383 [[Candida] boidinii] >gi|1205204898|gb|OWB51373.1| hypothetical protein B5S27_g2933 [[Candida] boidinii] >gi|1205219340|gb|OWB65815.1| hypothetical protein B5S30_g1147 [[Candida] boidinii]
+ALRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRSQVAQKTALGLQAKKIMDQGGLVSDEIMVNMIKDELANN
+>gi|575511049|ref|XP_006684795.1|adenylate kinase [[Candida] tenuis ATCC 10573] >gi|575511051|ref|XP_006684796.1| hypothetical protein CANTEDRAFT_112761 [[Candida] tenuis ATCC 10573] >gi|344234351|gb|EGV66221.1| adenylate kinase [[Candida] tenuis ATCC 10573] >gi|344234352|gb|EGV66222.1| hypothetical protein CANTEDRAFT_112761 [[Candida] tenuis ATCC 10573]
+KSIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKTQLGVEAKKIMDQGGLISDEIMVNMIKSELENN
+>gi|530473220|gb|EQB53692.1|hypothetical protein CGLO_06572 [Colletotrichum gloeosporioides Cg-14]
+STEEVRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|1205207850|gb|OWB54325.1|hypothetical protein B5S28_g170 [[Candida] boidinii] >gi|1205213069|gb|OWB59544.1| hypothetical protein B5S29_g403 [[Candida] boidinii] >gi|1205224124|gb|OWB70598.1| hypothetical protein B5S31_g277 [[Candida] boidinii] >gi|1205230308|gb|OWB76781.1| hypothetical protein B5S32_g936 [[Candida] boidinii]
+ALRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRSQVAQKTALGLQAKKIMDQGGLVSDEIMVNMIKDELANN
+>gi|748545613|emb|CDO96025.1|unnamed protein product [Kluyveromyces dobzhanskii CBS 2104]
+ESIRMVLIGPPGAGKGTQAPNLTDRFCACHLATGDMLRSQVAKQTPLGIEAKKIMDDGKLVSDEIMINMIKDELTSN
+>gi|513034078|gb|AGO14044.1|AaceriAGR187Wp [Saccharomycetaceae sp. 'Ashbya aceri']
+EAIRMVLIGPPGAGKGTQAPKLKEKFCVCHLATGDMLRSQVAKQTALGVQAKKIMDQGGLVSDEIMVNMIKDELRSNP
+>gi|1065004860|gb|ODV93229.1|hypothetical protein PACTADRAFT_51848 [Pachysolen tannophilus NRRL Y-2460]
+AIRMVLIGPPGAGKGTQAPNLKERFCACHLATGDMLRSQVAAKTALGVEAKKIMDQGGLVSDEIMVNMIENELSNN
+>gi|459372942|gb|EMG50280.1|Adenylate kinase 1-1, partial [Candida maltosa Xu316]
+ESVRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKTALGVEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|1064996165|gb|ODV85263.1|hypothetical protein CANARDRAFT_23326 [Candida arabinofermentans NRRL YB-2248]
+ALRMVLIGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAQKTALGVEAKKIMDQGGLVSDEIMVNMIKDELANN
+>gi|927377333|ref|XP_013934517.1|Adenylate kinase 1 [Ogataea parapolymorpha DL-1] >gi|562972900|gb|ESW98634.1| Adenylate kinase 1 [Ogataea parapolymorpha DL-1]
+ALRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRSQVAQKTPLGLEAKKIMDQGKLVSDEIMVNMIKDELANN
+>gi|1063244845|gb|ODQ67620.1|adenylate kinase [Nadsonia fulvescens var. elongata DSM 6958]
+KSIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRSQVAAKTPLGIEAKKIMDQGGLVSDEIMINMIKSELENN
+>gi|45201283|ref|NP_986853.1|AGR187Wp [Eremothecium gossypii ATCC 10895] >gi|74691760|sp|Q74ZL1.1|KAD2_ASHGO RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|44986137|gb|AAS54677.1| AGR187Wp [Ashbya gossypii ATCC 10895] >gi|374110102|gb|AEY99007.1| FAGR187Wp [Eremothecium gossypii FDAG1]
+EAIRMVLIGPPGAGKGTQAPKLKEKFCVCHLATGDMLRSQVAKQTALGVQAKKIMDQGGLVSDEIMVNMIKDELRSNP
+>gi|1173553902|ref|XP_020544402.1|Adenylate kinase [Pichia kudriavzevii] >gi|695109999|gb|KGK36592.1| hypothetical protein JL09_g4262 [Pichia kudriavzevii] >gi|1139707202|gb|ONH74355.1| Adenylate kinase [Pichia kudriavzevii] >gi|1200144658|gb|OUT20711.1| adenylate kinase [Pichia kudriavzevii]
+ALRMVLIGPPGAGKGTQAPNLKERYCACHLATGDMLRSQVSQGTELGKQAKKIMDQGGLVSDEIMVGMIQSELTNNP
+>gi|254579543|ref|XP_002495757.1|ZYRO0C02354p [Zygosaccharomyces rouxii] >gi|238938648|emb|CAR26824.1| ZYRO0C02354p [Zygosaccharomyces rouxii] >gi|1128475823|dbj|GAV47800.1| hypothetical protein ZYGR_0I00960 [Zygosaccharomyces rouxii]
+SSDVLRMVLIGPPGAGKGTQAPNLVAKFNAAHLATGDMLRSQVAQGTALGKEAKKIMDQGGLVSDDIMVNMIKSELSS
+>gi|998535001|ref|XP_015469862.1|Adenylate kinase [Debaryomyces fabryi] >gi|955271534|gb|KSA03760.1| Adenylate kinase [Debaryomyces fabryi]
+KSVRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKTSLGVEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|598073101|ref|XP_007377379.1|adenylate kinase [Spathaspora passalidarum NRRL Y-27907] >gi|344300068|gb|EGW30408.1| adenylate kinase [Spathaspora passalidarum NRRL Y-27907]
+ESIRMVLIGPPGAGKGTQAPNLRDKFCACHLATGDMLRAQVAAKTALGVEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|1202147595|gb|OVF07006.1|putative adenylate kinase [Clavispora lusitaniae]
+KSIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKTELGVEAKKIMDKGGLVSDEIMVNMIKSELENN
+>gi|1090870317|ref|XP_018711351.1|adenylate kinase 1 [Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993] >gi|1037337547|gb|OBA20841.1| adenylate kinase 1 [Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993]
+ESIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKTALGVEAKKIMDQGGLVSDEIMVNMIKSELEDN
+>gi|712678908|gb|KGT66057.1|adenylate kinase 1-1 [Candida albicans 12C]
+KSVRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKTALGVEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|1111957869|ref|XP_716701.2|adenylate kinase [Candida albicans SC5314] >gi|485955885|sp|Q5A4Q1.2|KAD2_CANAL RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|238883171|gb|EEQ46809.1| adenylate kinase cytosolic [Candida albicans WO-1] >gi|703957815|gb|KGQ84177.1| adenylate kinase 1-1 [Candida albicans P94015] >gi|703959722|gb|KGQ86064.1| adenylate kinase 1-1 [Candida albicans P37005] >gi|703962110|gb|KGQ88425.1| adenylate kinase 1-1 [Candida albicans GC75] >gi|703975869|gb|KGR04934.1| adenylate kinase 1-1 [Candida albicans P57072] >gi|703978367|gb|KGR07410.1| adenylate kinase 1-1 [Candida albicans P78048] >gi|703982031|gb|KGR11036.1| adenylate kinase 1-1 [Candida albicans P37037] >gi|712855695|gb|KGU04780.1| adenylate kinase 1-1 [Candida albicans P87] >gi|712856411|gb|KGU05480.1| adenylate kinase 1-1 [Candida albicans 19F] >gi|712856887|gb|KGU05954.1| adenylate kinase 1-1 [Candida albicans L26] >gi|712874714|gb|KGU22630.1| adenylate kinase 1-1 [Candida albicans P34048] >gi|712877249|gb|KGU25076.1| adenylate kinase 1-1 [Candida albicans P75063] >gi|712877911|gb|KGU25731.1| adenylate kinase 1-1 [Candida albicans P57055] >gi|723157682|gb|KHC31754.1| adenylate kinase 1-1 [Candida albicans P76067] >gi|723158034|gb|KHC32105.1| adenylate kinase 1-1 [Candida albicans P76055] >gi|723159738|gb|KHC33791.1| adenylate kinase 1-1 [Candida albicans Ca6] >gi|723176442|gb|KHC50360.1| adenylate kinase 1-1 [Candida albicans P37039] >gi|723184455|gb|KHC58308.1| adenylate kinase 1-1 [Candida albicans P75010] >gi|723190314|gb|KHC64122.1| adenylate kinase 1-1 [Candida albicans P75016] >gi|723197924|gb|KHC71656.1| adenylate kinase 1-1 [Candida albicans P78042] >gi|1078730494|gb|AOW30127.1| adenylate kinase [Candida albicans SC5314]
+KSVRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKTALGVEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|260941085|ref|XP_002614709.1|hypothetical protein CLUG_05487 [Clavispora lusitaniae ATCC 42720] >gi|238851895|gb|EEQ41359.1| hypothetical protein CLUG_05487 [Clavispora lusitaniae ATCC 42720]
+KSIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKTELGVEAKKIMDKGGLVSDEIMVNMIKSELENN
+>gi|126136441|ref|XP_001384744.1|Adenylate kinase (ATP-AMP transphosphorylase) [Scheffersomyces stipitis CBS 6054] >gi|224493007|sp|A3LV51.1|KAD2_PICST RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|126091966|gb|ABN66715.1| Adenylate kinase (ATP-AMP transphosphorylase) [Scheffersomyces stipitis CBS 6054]
+KSVRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKTALGVEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|1037357312|gb|OBA27218.1|adenylate kinase [Hanseniaspora valbyensis NRRL Y-1626]
+QQLRMVLIGPPGAGKGTQAPNLVEKFGAFHLSTGDMLRSQVKKGTELGVAAKKIMDQGGLVSDEIMVNMIKSELTTNP
+>gi|800922193|gb|KKA03671.1|Adenylate kinase [Hanseniaspora uvarum DSM 2768]
+SEQLRMVLIGPPGAGKGTQAPNLVEKFGAFHLSTGDMLRSQVKQGTELGVAAKKIMDQGGLVSDEIMVNMIKSELSTNP
+>gi|1070666296|gb|OEJ90457.1|Adenylate kinase [Hanseniaspora uvarum]
+SEQLRMVLIGPPGAGKGTQAPNLVEKFGAFHLSTGDMLRSQVKQGTELGVAAKKIMDQGGLVSDEIMVNMIKSELSTNP
+>gi|973788833|gb|KUM62244.1|hypothetical protein ACN42_g4882 [Penicillium freii]
+AAEQMRIILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMVNMIKSELDNNP
+>gi|1168059218|gb|OQD61787.1|hypothetical protein PENPOL_c015G10579 [Penicillium polonicum]
+AAEQMRIILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMVNMIKSELDNNP
+>gi|902273957|emb|CRL22046.1|Adenylate kinase [Penicillium camemberti]
+AAEQMRIILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMVNMIKSELDNNP
+>gi|241956496|ref|XP_002420968.1|ATP-AMP transphosphorylase, putative; adenylate kinase cytosolic, putative [Candida dubliniensis CD36] >gi|223644311|emb|CAX41124.1| ATP-AMP transphosphorylase, putative [Candida dubliniensis CD36]
+KSVRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKTALGVEAKKIMDQGGLVSDEIMINMIKSELENN
+>gi|1147426244|ref|XP_020074658.1|adenylate kinase 1 [Hyphopichia burtonii NRRL Y-1933] >gi|1064975479|gb|ODV65591.1| adenylate kinase 1 [Hyphopichia burtonii NRRL Y-1933]
+KSIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKSALGVEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|723173755|gb|KHC47698.1|adenylate kinase 1-2 [Candida albicans P60002] >gi|723199613|gb|KHC73332.1| adenylate kinase 1-2 [Candida albicans SC5314] >gi|723208963|gb|KHC82595.1| adenylate kinase 1-2 [Candida albicans SC5314]
+KSVRMVLIGPPGSGKGTQAPNLKEKFCACHLATGDMLRAQVAAKTALGVEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|1069623827|ref|XP_018165174.1|hypothetical protein QG37_08306 [[Candida] auris] >gi|908565665|gb|KND95450.1| hypothetical protein QG37_08306 [[Candida] auris]
+KSIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKTALGQEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|818163638|gb|KKP03392.1|adenylate kinase 1 [Trichoderma harzianum]
+STESIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|359378352|emb|CCE84611.1|Piso0_004160 [Millerozyma farinosa CBS 7064] >gi|359379383|emb|CCE83580.1| Piso0_004160 [Millerozyma farinosa CBS 7064]
+KSIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVAAKSALGVEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|146423136|ref|XP_001487500.1|hypothetical protein PGUG_00877 [Meyerozyma guilliermondii ATCC 6260] >gi|224493053|sp|A5DC72.1|KAD2_PICGU RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|146388621|gb|EDK36779.1| hypothetical protein PGUG_00877 [Meyerozyma guilliermondii ATCC 6260]
+KSIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVTAKTELGVQAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|1069852816|ref|XP_018211342.1|hypothetical protein OGAPODRAFT_23810 [Ogataea polymorpha] >gi|1037326758|gb|OBA16427.1| hypothetical protein OGAPODRAFT_23810 [Ogataea polymorpha]
+MVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRSQVAQKTPLGLEAKKIMDQGKLVSDEIMVNMIKDELANN
+>gi|1105514647|emb|SGZ50046.1|CIC11C00000000255 [[Candida] intermedia] >gi|1105520785|emb|SGZ51901.1| CIC11C00000002659 [[Candida] intermedia]
+KSVRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVTAKTALGVEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|584393843|emb|CDK27098.1|unnamed protein product [Kuraishia capsulata CBS 1993]
+AIRMVLIGPPGAGKGTQAPNLKDRYCACHLATGDMLRSQVSQKTELGIAAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|512191953|gb|EPE07713.1|adenylate kinase [Ophiostoma piceae UAMH 11346]
+STEEIRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELNSNP
+>gi|859271119|emb|CEJ54709.1|Putative Adenylate kinase [Penicillium brasilianum]
+TEQIRVILMGPPGAGKGTQAPNIKEKYCACHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|1151450428|gb|OOQ84083.1|Adenylate kinase [Penicillium brasilianum]
+TEQIRVILMGPPGAGKGTQAPNIKEKYCACHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|927409433|ref|XP_013950562.1|hypothetical protein TRIVIDRAFT_88216 [Trichoderma virens Gv29-8] >gi|358378670|gb|EHK16351.1| hypothetical protein TRIVIDRAFT_88216 [Trichoderma virens Gv29-8]
+STESLRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|261192922|ref|XP_002622867.1|adenylate kinase cytosolic [Blastomyces gilchristii SLH14081] >gi|239613586|gb|EEQ90573.1| adenylate kinase 1 [Blastomyces dermatitidis ER-3] >gi|327352653|gb|EGE81510.1| adenylate kinase 1 [Blastomyces dermatitidis ATCC 18188] >gi|531984938|gb|EQL35525.1| adenylate kinase 1 [Blastomyces dermatitidis ATCC 26199] >gi|1033930229|gb|OAT11083.1| adenylate kinase 1 [Blastomyces gilchristii SLH14081]
+AESVRMILMGPPGAGKGTQAPKIKEKFCACHLATGDMLRSQVARKTELGKEAKKIMDQGGLVSDEIMVNMIKHELENN
+>gi|927758853|gb|KPA42007.1|adenylate kinase 1 [Fusarium langsethiae]
+STEEIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTHLGVEAKKIMDAGGLVSDEIMIGMIKEELNNN
+>gi|1153487674|gb|OPB39655.1|Adenylate kinase [Trichoderma guizhouense]
+STESLRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|824368650|gb|KLJ10133.1|adenylate kinase 1 [Emmonsia parva UAMH 139]
+AESVRMILMGPPGAGKGTQAPKIKEKFCACHLATGDMLRSQVARKTELGKEAKKIMDQGGLVSDEIMVNMIKHELENN
+>gi|50424587|ref|XP_460882.1|DEHA2F11924p [Debaryomyces hansenii CBS767] >gi|74659140|sp|Q6BLN9.1|KAD2_DEBHA RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|49656551|emb|CAG89232.1| DEHA2F11924p [Debaryomyces hansenii CBS767]
+KSVRMVLIGPPGAGKGTQAPNLKEKYCACHLATGDMLRAQVAAKSALGVEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|1120657953|gb|OKP03827.1|Adenylate kinase [Penicillium subrubescens]
+TEQIRVILMGPPGAGKGTQAPNIKDKFCACHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|255931643|ref|XP_002557378.1|Pc12g05310 [Penicillium rubens Wisconsin 54-1255] >gi|211581997|emb|CAP80158.1| Pc12g05310 [Penicillium rubens Wisconsin 54-1255] >gi|1021537438|gb|KZN84796.1| Adenylate kinase [Penicillium chrysogenum]
+AEQMRMILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMINMIKSELDNN
+>gi|1070657140|gb|OEJ81322.1|Adenylate kinase [Hanseniaspora opuntiae]
+TEQLRMVLIGPPGAGKGTQAPNLVEKFGAFHLSTGDMLRSQVKQGTELGVAAKKIMDQGGLVSDEIMVNMIKSELTTN
+>gi|1168126633|gb|OQE25937.1|hypothetical protein PENFLA_c007G01175 [Penicillium flavigenum]
+AEQMRMILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMINMIKSELDNN
+>gi|254570727|ref|XP_002492473.1|Adenylate kinase [Komagataella phaffii GS115] >gi|238032271|emb|CAY70294.1| Adenylate kinase [Komagataella phaffii GS115] >gi|328353514|emb|CCA39912.1| Adenylate kinase [Komagataella phaffii CBS 7435] >gi|1051426243|gb|AOA63207.1| GQ67_03308T0 [Komagataella phaffii] >gi|1051433513|gb|AOA68379.1| GQ68_03277T0 [Komagataella phaffii GS115]
+AIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRSQVQQKTELGVAAKKIMDQGGLVSDEIMVNMIKAELDSNP
+>gi|908394016|gb|KND94621.1|Adenylate kinase [Tolypocladium ophioglossoides CBS 100239]
+STEEIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELDNN
+>gi|1050826874|gb|ANZ74698.1|BA75_00268T0 [Komagataella pastoris]
+AIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRSQVQQKTELGVAAKKIMDQGGLVSDEIMVNMIKAELDSNP
+>gi|1040029526|gb|OBS22253.1|hypothetical protein FPOA_08589 [Fusarium poae]
+STEEIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGVEAKKIMDAGGLVSDEIMIGMIKEELNNN
+>gi|589102607|ref|XP_006963326.1|adenylate kinase [Trichoderma reesei QM6a] >gi|340520535|gb|EGR50771.1| adenylate kinase [Trichoderma reesei QM6a] >gi|572278472|gb|ETS01642.1| adenylate kinase [Trichoderma reesei RUT C-30] >gi|1190645132|gb|OTA01944.1| Adenylate kinase [Trichoderma parareesei]
+TTESLRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|576034340|ref|XP_006691043.1|adenylate kinase-like protein [Chaetomium thermophilum var. thermophilum DSM 1495] >gi|341038809|gb|EGS23801.1| adenylate kinase-like protein [Chaetomium thermophilum var. thermophilum DSM 1495]
+TVRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGLEAKKIMDAGGLVSDEIVINMIKEELNNNP
+>gi|821501675|gb|KKZ59184.1|adenylate kinase 1 [Emmonsia crescens UAMH 3008]
+TESVRMILMGPPGAGKGTQAPRIKEKFCACHLATGDMLRSQVARKTELGREAKKIMDQGGLVSDEIMINMIKHELENN
+>gi|1070350458|ref|XP_018251005.1|adenylate kinase 1 [Fusarium oxysporum f. sp. lycopersici 4287] >gi|342883002|gb|EGU83566.1| hypothetical protein FOXB_05976 [Fusarium oxysporum Fo5176] >gi|475676074|gb|EMT73108.1| Adenylate kinase 1 [Fusarium oxysporum f. sp. cubense race 4] >gi|477520690|gb|ENH72815.1| Adenylate kinase 1 [Fusarium oxysporum f. sp. cubense race 1] >gi|587685516|gb|EWZ32121.1| adenylate kinase 1 [Fusarium oxysporum Fo47] >gi|587723371|gb|EWZ94708.1| adenylate kinase 1 [Fusarium oxysporum f. sp. lycopersici MN25] >gi|587741445|gb|EXA39161.1| adenylate kinase 1 [Fusarium oxysporum f. sp. pisi HDV247] >gi|590035988|gb|EXK37846.1| adenylate kinase 1 [Fusarium oxysporum f. sp. melonis 26406] >gi|590065372|gb|EXK92896.1| adenylate kinase 1 [Fusarium oxysporum f. sp. raphani 54005] >gi|591408251|gb|EXL43388.1| adenylate kinase 1 [Fusarium oxysporum f. sp. radicis-lycopersici 26381] >gi|591450455|gb|EXL82801.1| adenylate kinase 1 [Fusarium oxysporum f. sp. conglutinans race 2 54008] >gi|591469702|gb|EXM01029.1| adenylate kinase 1 [Fusarium oxysporum f. sp. cubense tropical race 4 54006] >gi|591496965|gb|EXM26447.1| adenylate kinase 1 [Fusarium oxysporum f. sp. vasinfectum 25433] >gi|902741391|gb|KNB12960.1| adenylate kinase 1 [Fusarium oxysporum f. sp. lycopersici 4287]
+STEEIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGVEAKKIMDAGGLVSDDIMIGMIKEELNSN
+>gi|1078653906|gb|AOW01021.1|hypothetical protein YALI1_B01136g [Yarrowia lipolytica]
+KSIRMVLIGPPGAGKGTQAPNLVEKYCACHLATGDMLRSQVQQQTPLGVEAKKIMDAGGLVSDDIMVNMIRSELENN
+>gi|517320901|emb|CCT71450.1|probable adenylate kinase [Fusarium fujikuroi IMI 58289] >gi|829105409|gb|KLO82089.1| putative adenylate kinase [Fusarium fujikuroi] >gi|829120813|gb|KLO96877.1| putative adenylate kinase [Fusarium fujikuroi] >gi|829132563|gb|KLP06627.1| putative adenylate kinase [Fusarium fujikuroi] >gi|1111471996|emb|CVK98358.1| probable adenylate kinase [Fusarium proliferatum] >gi|1111486774|emb|CZR41330.1| probable adenylate kinase [Fusarium proliferatum ET1] >gi|1111496847|emb|CVL05862.1| probable adenylate kinase [Fusarium mangiferae]
+STEEIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGVEAKKIMDAGGLVSDDIMIGMIKEELNSN
+>gi|1026986962|ref|XP_016600378.1|Adenylate kinase [Penicillium expansum] >gi|700457465|gb|KGO47039.1| Adenylate kinase [Penicillium expansum] >gi|700469657|gb|KGO58053.1| Adenylate kinase [Penicillium expansum] >gi|700470699|gb|KGO59037.1| Adenylate kinase [Penicillium expansum]
+ATEQMRIILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|477528470|gb|ENH80255.1|adenylate kinase cytosolic [Colletotrichum orbiculare MAFF 240422]
+STEEIRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELANN
+>gi|995936775|gb|KXG49456.1|Adenylate kinase [Penicillium griseofulvum]
+AAEQMRIILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|1168094272|gb|OQD94722.1|hypothetical protein PENSOL_c024G09746 [Penicillium solitum]
+AAEQMRIILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|1102173040|ref|XP_019016312.1|hypothetical protein PICMEDRAFT_73975 [Pichia membranifaciens NRRL Y-2026] >gi|1063221821|gb|ODQ45199.1| hypothetical protein PICMEDRAFT_73975 [Pichia membranifaciens NRRL Y-2026]
+ALRMVLIGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKGTPLGKEAKKIMDQGGLVSDEIMVGMIQSELKGNP
+>gi|667647589|ref|XP_008595626.1|putative adenylate kinase [Beauveria bassiana ARSEF 2860] >gi|400601629|gb|EJP69272.1| putative adenylate kinase [Beauveria bassiana ARSEF 2860]
+STEEIRMLLIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELDNN
+>gi|1089740108|ref|XP_018702745.1|adenylate kinase [Isaria fumosorosea ARSEF 2679] >gi|1025671524|gb|OAA58870.1| adenylate kinase [Isaria fumosorosea ARSEF 2679]
+STEEIRMLLIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELDNN
+>gi|1025689068|gb|OAA76354.1|adenylate kinase [Cordyceps confragosa RCEF 1005]
+STEEIRMLLIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELDNN
+>gi|1025649588|gb|OAA37153.1|adenylate kinase [Cordyceps brongniartii RCEF 3172]
+STEEIRMLLIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELDNN
+>gi|587664150|gb|EWY86491.1|adenylate kinase 1 [Fusarium oxysporum FOSC 3-a]
+STEDIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGVEAKKIMDAGGLVSDDIMIGMIKEELNSN
+>gi|1168141067|gb|OQE39967.1|hypothetical protein PENCOP_c006G04778 [Penicillium coprophilum]
+AAEQMRIILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|1168097592|gb|OQD97896.1|hypothetical protein PENVUL_c076G02174 [Penicillium vulpinum]
+AAEQMRIILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|953382055|ref|XP_014535296.1|Adenylate kinase, putative [Penicillium digitatum Pd1] >gi|425774100|gb|EKV12417.1| Adenylate kinase, putative [Penicillium digitatum PHI26] >gi|425778553|gb|EKV16677.1| Adenylate kinase, putative [Penicillium digitatum Pd1]
+AAEQMRIILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|924884740|gb|KOS40892.1|hypothetical protein ACN38_g8226 [Penicillium nordicum]
+AAEQMRIILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTNLGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|700486981|gb|KGO72530.1|Adenylate kinase [Penicillium italicum]
+AAEQMRIILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|596710656|ref|XP_007284347.1|adenylate kinase cytosolic [Colletotrichum gloeosporioides Nara gc5] >gi|429851416|gb|ELA26606.1| adenylate kinase cytosolic [Colletotrichum gloeosporioides Nara gc5]
+STEEVRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|1108394677|emb|SGZ40041.1|probable Adenylate kinase 1 [Hanseniaspora guilliermondii]
+SEQLRMVLIGPPGAGKGTQAPNLVDKFGAYHLSTGDMLRSQVKQGTDLGVAAKKIMDQGGLVSDEIMVNMIKSELTTN
+>gi|927404873|ref|XP_013948282.1|hypothetical protein TRIATDRAFT_297447 [Trichoderma atroviride IMI 206040] >gi|358400801|gb|EHK50127.1| hypothetical protein TRIATDRAFT_297447 [Trichoderma atroviride IMI 206040]
+AESLRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|936412720|gb|KPM41216.1|Adenylate kinase [Neonectria ditissima]
+STDEIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGVEAKKIMDQGGLVSDEIVIGMIKEELNNN
+>gi|1128470792|dbj|GAV52815.1|hypothetical protein ZYGR_0AI00970 [Zygosaccharomyces rouxii]
+NDVLRMVLIGPPGAGKGTQAPNLVSRFNAAHLATGDMLRSQVAQGTDLGKAAKKIMDQGGLVSDDIMVNMIKAELSS
+>gi|1087781765|ref|XP_018657805.1|adenylate kinase 1 [Trichoderma gamsii] >gi|969879450|gb|KUE96685.1| adenylate kinase 1 [Trichoderma gamsii]
+AESLRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|1103691006|gb|OJD25768.1|adenylate kinase [Blastomyces percursus]
+AESVRMILMGPPGAGKGTQAPKIKERFCACHLATGDMLRSQVARKTELGKVAKKIMDQGGLVSDEIMVNMIKHELENN
+>gi|996589300|gb|KXH33203.1|adenylate kinase [Colletotrichum simmondsii]
+STEEVRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELDNN
+>gi|799243018|gb|KJZ72029.1|Adenylate kinase 1 [Hirsutella minnesotensis 3608]
+TTEDIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELDNN
+>gi|1168079259|gb|OQD80570.1|hypothetical protein PENANT_c034G06702 [Penicillium antarcticum]
+AEQMRIILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|814602040|gb|KKF96603.1|Adenylate kinase [Ceratocystis platani]
+SSETIRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVQKKTALGIEAKKIMDAGGLVSDDIMIGMIKAELENN
+>gi|629712192|ref|XP_007818866.1|Adenylate kinase [Metarhizium robertsii ARSEF 23] >gi|322709873|gb|EFZ01448.1| Adenylate kinase [Metarhizium robertsii ARSEF 23] >gi|594718382|gb|EXV01275.1| adenylate kinase [Metarhizium robertsii] >gi|672376634|gb|KFG78922.1| putative adenylate kinase (ATP-AMP transphosphorylase) [Metarhizium anisopliae] >gi|743640412|gb|KID71779.1| Adenylate kinase, partial [Metarhizium anisopliae ARSEF 549] >gi|770396141|gb|KJK82114.1| Adenylate kinase [Metarhizium anisopliae BRIP 53293] >gi|770410922|gb|KJK95701.1| Adenylate kinase [Metarhizium anisopliae BRIP 53284]
+STEEIRMVIMGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|920633954|gb|KOM16878.1|hypothetical protein XA68_996 [Ophiocordyceps unilateralis]
+SSEEVRMILIGPPGAGKGTQAPRIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDEIVIGMIREELDNN
+>gi|1168179063|gb|OQE76650.1|hypothetical protein PENNAL_c0065G04758 [Penicillium nalgiovense]
+AEQMRIILMGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMINMIKSELDNN
+>gi|629699619|ref|XP_007815101.1|putative adenylate kinase (ATP-AMP transphosphorylase) [Metarhizium acridum CQMa 102] >gi|322693332|gb|EFY85196.1| putative adenylate kinase (ATP-AMP transphosphorylase) [Metarhizium acridum CQMa 102]
+STEEIRMVIMGPPGAGKGTQAPKIRERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|953476083|ref|XP_014581516.1|Adenylate kinase, partial [Metarhizium majus ARSEF 297] >gi|743661568|gb|KID88778.1| Adenylate kinase [Metarhizium guizhouense ARSEF 977] >gi|743675607|gb|KIE02523.1| Adenylate kinase, partial [Metarhizium majus ARSEF 297]
+STEEIRMVIMGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|1115982258|dbj|GAV26612.1|Adenylate kinase [Pichia membranifaciens]
+ALRMVLIGPPGAGKGTQAPNLKEKYCACHLATGDMLRSQVSKGTPLGKEAKKIMDQGGLVSDEIMVGMIQSELKGNP
+>gi|632912345|gb|KDB12142.1|putative adenylate kinase (ATP-AMP transphosphorylase) [Ustilaginoidea virens]
+STKEIRMIIMGPPGAGKGTQAPNIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|225684861|gb|EEH23145.1|adenylate kinase 1 [Paracoccidioides brasiliensis Pb03]
+AESVRMILMGPPGAGKGTQAPNIKEKFCVCHLATGDMLRSQVARKTELGKEAKKIMDQGGLVSDEIMVNMIKHELETN
+>gi|734686488|ref|XP_010763473.1|adenylate kinase 1 [Paracoccidioides brasiliensis Pb18] >gi|226287765|gb|EEH43278.1| adenylate kinase 1 [Paracoccidioides brasiliensis Pb18] >gi|1059606545|gb|ODH20637.1| adenylate kinase [Paracoccidioides brasiliensis] >gi|1059633728|gb|ODH46211.1| adenylate kinase [Paracoccidioides brasiliensis]
+AESVRMILMGPPGAGKGTQAPNIKEKFCVCHLATGDMLRSQVARKTELGKEAKKIMDQGGLVSDEIMVNMIKHELETN
+>gi|751352060|gb|KIL89782.1|adenylate kinase 1 [Fusarium avenaceum]
+STEDIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVTKKTPLGVEAKKIMDAGGLVSDEIMIGMIKEELNNN
+>gi|224493080|sp|Q6CG57.2|KAD2_YARLIRecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|1093605968|emb|SEI37021.1| YALIA101S18e00100g1_1 [Yarrowia lipolytica]
+KSIRMVLIGPPGAGKGTQAPNLVEKYCACHLATGDMLRSQVQQQTPLGVEAKKIMDAGGLVSDDIMVNMIRSELENN
+>gi|295659148|ref|XP_002790133.1|adenylate kinase cytosolic [Paracoccidioides lutzii Pb01] >gi|226282035|gb|EEH37601.1| adenylate kinase cytosolic [Paracoccidioides lutzii Pb01]
+AESVRMILMGPPGAGKGTQAPNIKEKFCVCHLATGDMLRSQVARKTELGKEAKKIMDQGGLVSDEIMVNMIKHELETN
+>gi|1102743244|gb|OIW25815.1|adenylate kinase [Coniochaeta ligniaria NRRL 30616]
+TAEEIRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELDHNP
+>gi|1003745255|gb|KXX80682.1|Adenylate kinase [Madurella mycetomatis]
+TAEEIRMVLIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTTLGREAKKIMDAGGLVSDDIMIGMIKEELDNN
+>gi|525581174|gb|EPS27424.1|hypothetical protein PDE_02367 [Penicillium oxalicum 114-2]
+EQIRVILMGPPGAGKGTQAPNIKDKYCACHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|1102296026|ref|XP_018987721.1|hypothetical protein BABINDRAFT_158997 [Babjeviella inositovora NRRL Y-12698] >gi|1063260190|gb|ODQ82393.1| hypothetical protein BABINDRAFT_158997 [Babjeviella inositovora NRRL Y-12698]
+KSIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVTAQTALGIEAKKIMDRGGLVSDEIMVNMIKSELESN
+>gi|752366253|gb|KIO24089.1|hypothetical protein M407DRAFT_244582 [Tulasnella calospora MUT 4182]
+SEQLRMILIGPPGAGKGTQGPNIKKKFCVCHLATGDLLREQIAQKTQLGTEAKKIMDAGGLVSDDIMVNMVKDQLENN
+>gi|1092979933|ref|XP_018758959.1|adenylate kinase 1 [Fusarium verticillioides 7600] >gi|584143470|gb|EWG52768.1| adenylate kinase 1 [Fusarium verticillioides 7600]
+STDEIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGVEAKKIMDAGGLVSDDIMIGMIKEELNSN
+>gi|1069509242|ref|XP_018152100.1|Adenylate kinase [Colletotrichum higginsianum IMI 349063] >gi|1039265306|gb|OBR03582.1| Adenylate kinase [Colletotrichum higginsianum IMI 349063]
+TAEEVRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|573989525|ref|XP_006672683.1|adenylate kinase [Cordyceps militaris CM01] >gi|346319626|gb|EGX89227.1| adenylate kinase [Cordyceps militaris CM01]
+SIEEIRMLLIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELDNN
+>gi|827069587|ref|XP_008096272.1|adenylate kinase [Colletotrichum graminicola M1.001] >gi|310796791|gb|EFQ32252.1| adenylate kinase [Colletotrichum graminicola M1.001]
+TAEEVRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|1035634652|gb|OAX78003.1|adenylate kinase [Emmonsia sp. CAC-2015a]
+TESVRMILMGPPGAGKGTQAPKIKDKFCACHLATGDMLRSQVARKTELGKEAKKIMDQGGLVSDEIMINMIKHELENN
+>gi|1020432723|gb|KZL68737.1|adenylate kinase [Colletotrichum tofieldiae]
+TAEEVRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|1103683352|gb|OJD20012.1|adenylate kinase 1 [Emergomyces pasteuriana Ep9510]
+TDSVRMILMGPPGAGKGTQAPKIKDRFCACHLATGDMLRSQVARKTELGKEAKKIMDQGGLVSDEIMINMIKHELENN
+>gi|1083162582|gb|OGE57031.1|hypothetical protein PENARI_c002G06005 [Penicillium arizonense]
+SEQMRIILMGPPGAGKGTQAPKLKEKYCACHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|302899417|ref|XP_003048046.1|predicted protein [Nectria haematococca mpVI 77-13-4] >gi|256728978|gb|EEU42333.1| predicted protein [Nectria haematococca mpVI 77-13-4]
+STEEIRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVAKKTPLGVEAKKIMDQGGLVSDEIMIGMIREELNHN
+>gi|1093045051|gb|OHW97151.1|adenylate kinase [Colletotrichum incanum]
+TAEEVRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|640919070|gb|KDN63644.1|putative adenylate kinase [Colletotrichum sublineola]
+TAEEVRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|672793738|gb|KFH44321.1|Adenylate kinase-like protein [Acremonium chrysogenum ATCC 11550]
+TAEELRMILIGPPGAGKGTQAPKLKERFSCCHLATGDMLRNQVAKKTPLGREAKKIMDQGGLVSDDIMIGMIREELKNN
+>gi|631239804|ref|XP_007914824.1|putative adenylate kinase protein [Phaeoacremonium minimum UCRPA7] >gi|500257249|gb|EOO00400.1| putative adenylate kinase protein [Phaeoacremonium minimum UCRPA7]
+TTEEIRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELDNN
+>gi|770309344|gb|KJK66538.1|adk [Aspergillus parasiticus SU-1]
+AEHMRMVLMGPPGAGKGTQAPALKEKYCVCHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|584408707|emb|CDM35620.1|Adenylate kinase [Penicillium roqueforti FM164]
+AEQMRIILMGPPGAGKGTQAPKLKEKFCACHLATGDMLRSQVAKKTDLGREAKKIMDQGGLVSDEIMINMIKSELDNN
+>gi|385301837|gb|EIF45999.1|putative cytoplasmic adenylate kinase [Brettanomyces bruxellensis AWRI1499]
+NDTLRMVLLGPPGAGKGTQAPNLVNKFGACHLSTGDMLRSQISKKTELGLQAKKIMDAGGLISDDIMVGMIKGELENNP
+>gi|1069601494|ref|XP_018176916.1|adenylate kinase [Purpureocillium lilacinum] >gi|1032873676|gb|OAQ80396.1| adenylate kinase [Purpureocillium lilacinum] >gi|1032881488|gb|OAQ88197.1| adenylate kinase [Purpureocillium lilacinum]
+TTQEIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELDNN
+>gi|1025668530|gb|OAA55901.1|adenylate kinase [Sporothrix insectorum RCEF 264]
+TAEELRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELNTNP
+>gi|1008931455|gb|KYK54543.1|putative adenylate kinase [Drechmeria coniospora] >gi|1057462862|gb|ODA80529.1| hypothetical protein RJ55_03488 [Drechmeria coniospora]
+STADIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELDNN
+>gi|972235037|emb|CEN61478.1|Putative Adenylate kinase [Aspergillus calidoustus]
+SEQMRLILMGPPGAGKGTQAPKIKEKYCVCHLATGDMLRSQVAKKTELGREAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|953404990|ref|XP_014545789.1|Adenylate kinase, partial [Metarhizium brunneum ARSEF 3297] >gi|743645459|gb|KID76617.1| Adenylate kinase, partial [Metarhizium brunneum ARSEF 3297]
+STEEIRMVIMGPPGAGKGTQAPKIKDRFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|1091994084|ref|XP_018734036.1|adenylate kinase ADK1 [Sugiyamaella lignohabitans] >gi|1026309684|gb|ANB11559.1| adenylate kinase ADK1 [Sugiyamaella lignohabitans]
+ALRMVLIGPPGAGKGTQAPNLKEKYCACHLATGDMLRAQVAQKTELGVAAKKIMDQGGLVSDEIMVGMIKNELENN
+>gi|1147229848|ref|XP_020067003.1|adenylate kinase 1 [Candida tanzawaensis NRRL Y-17324] >gi|1064992478|gb|ODV81881.1| adenylate kinase 1 [Candida tanzawaensis NRRL Y-17324]
+KSIRMVLIGPPGAGKGTQAPNLKEKFCACHLATGDMLRAQVTAKTPLGIEAKKIMDAGLLVSDEIMVNIIKDELENN
+>gi|816333130|gb|KKK13904.1|adenylate kinase cytosolic [Aspergillus rambellii]
+AEHMRLILMGPPGAGKGTQAPKIKEKFCVCHLATGDMLRSQVAKKTELGREAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|816344500|gb|KKK21396.1|adenylate kinase cytosolic [Aspergillus ochraceoroseus]
+AEHMRLILMGPPGAGKGTQAPKIKEKFCVCHLATGDMLRSQVAKKTELGREAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|684175752|ref|XP_009161743.1|adenylate kinase 1 [Exophiala dermatitidis NIH/UT8656] >gi|378734823|gb|EHY61282.1| adenylate kinase 1 [Exophiala dermatitidis NIH/UT8656]
+ESMRMILIGPPGAGKGTQAPRIKERYCVCHLATGDMLRAQVAKKTPLGREAKKIMDQGGLVSDDIMINMIKNELDTN
+>gi|1020446097|gb|KZL80323.1|adenylate kinase cytosolic, partial [Colletotrichum incanum]
+TAEEVRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|599160617|gb|EYE99567.1|adenylate kinase 1 [Aspergillus ruber CBS 135680]
+AEQMRIILMGPPGAGKGTQAPKLKEAYCACHLATGDMLRSQVAKKTDLGREAKKIMDQGGLVSDDIMVNMIKSELDNN
+>gi|758206681|ref|XP_011325672.1|adenylate kinase cytosolic [Fusarium graminearum PH-1] >gi|558867967|gb|ESU18050.1| adenylate kinase cytosolic [Fusarium graminearum PH-1] >gi|596554936|gb|EYB34001.1| hypothetical protein FG05_10737 [Fusarium graminearum] >gi|699036207|emb|CEF88181.1| unnamed protein product [Fusarium graminearum]
+STDEIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVTKKTPLGVEAKKIMDAGGLVSDEIMIGMIKEELNNN
+>gi|685851345|ref|XP_009252705.1|hypothetical protein FPSE_01310 [Fusarium pseudograminearum CS3096] >gi|408399398|gb|EKJ78501.1| hypothetical protein FPSE_01310 [Fusarium pseudograminearum CS3096]
+STDEIRMILIGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVTKKTPLGVEAKKIMDAGGLVSDEIMIGMIKEELNNN
+>gi|992079818|ref|XP_015403448.1|putative adenylate kinase [Aspergillus nomius NRRL 13137] >gi|910290651|gb|KNG82525.1| putative adenylate kinase [Aspergillus nomius NRRL 13137]
+AEQMRMVLMGPPGAGKGTQAPALKDKYCVCHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|915128489|ref|XP_013323398.1|Adenylate kinase [Rasamsonia emersonii CBS 393.64] >gi|802086514|gb|KKA16786.1| Adenylate kinase [Rasamsonia emersonii CBS 393.64]
+SEQMRLVLMGPPGAGKGTQAPKIKEKYCICHLATGDMLRSQVAKKTPLGLEAKKIMDQGGLVSDEIMVNMIKNELETN
+>gi|1069518866|ref|XP_018149454.1|adenylate kinase (ATP-AMP transphosphorylase) [Pochonia chlamydosporia 170] >gi|1032866603|gb|OAQ73371.1| adenylate kinase (ATP-AMP transphosphorylase) [Pochonia chlamydosporia 170]
+STEEIRMIIMGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|1088687812|gb|OHE96179.1|adenylate kinase [Colletotrichum orchidophilum]
+TTDEVRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELDNN
+>gi|336271761|ref|XP_003350638.1|hypothetical protein SMAC_02310 [Sordaria macrospora k-hell] >gi|380094799|emb|CCC07301.1| unnamed protein product [Sordaria macrospora k-hell]
+TAEQVRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRAQVAKGTALGKQAKKIMNEGGLVSDDIVIGMIKDELENN
+>gi|116199685|ref|XP_001225654.1|adenylate kinase [Chaetomium globosum CBS 148.51] >gi|121780402|sp|Q2GVK6.1|KAD2_CHAGB RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|88179277|gb|EAQ86745.1| adenylate kinase [Chaetomium globosum CBS 148.51]
+TAEEIRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTTLGREAKKIMDAGGLVSDDIVIGMIKEELDNN
+>gi|1128268483|gb|OLN95353.1|Adenylate kinase [Colletotrichum chlorophyti]
+TTDEVRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|1084336250|gb|OGM41975.1|putative adenylate kinase [Aspergillus bombycis]
+AEQMRMVLMGPPGAGKGTQAPALKDKYCVCHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|1111907156|gb|OJJ73031.1|hypothetical protein ASPBRDRAFT_563338 [Aspergillus brasiliensis CBS 101740]
+TEQIRIILMGPPGAGKGTQAPRLKEKYCACHLATGDMLRSQVAKKTPLGKEAKKIMDQGGLVSDEIMVNMIQSELDNN
+>gi|1025645939|gb|OAA33686.1|Adenylate kinase [Aschersonia aleyrodis RCEF 2490]
+SADEIRMIIMGPPGAGKGTQAPKIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|1190910327|gb|OTA99535.1|hypothetical protein M426DRAFT_325065 [Hypoxylon sp. CI-4A]
+STEGVRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVAKKTTLGREAKKIMDAGGLVSDDIVIGMIKEELENN
+>gi|238490059|ref|XP_002376267.1|adenylate kinase, putative [Aspergillus flavus NRRL3357] >gi|220698655|gb|EED54995.1| adenylate kinase, putative [Aspergillus flavus NRRL3357] >gi|391871220|gb|EIT80385.1| adenylate kinase [Aspergillus oryzae 3.042] >gi|635505100|gb|KDE77179.1| adenylate kinase [Aspergillus oryzae 100-8] >gi|914760486|gb|KOC14301.1| putative adenylate kinase [Aspergillus flavus AF70] >gi|1150476885|gb|OOO11649.1| Adenylate kinase [Aspergillus oryzae]
+AEHMRMVLMGPPGAGKGTQAPALKDKYCVCHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|19114597|ref|NP_593685.1|adenylate kinase Adk1 [Schizosaccharomyces pombe 972h-] >gi|417203|sp|P33075.1|KAD2_SCHPO RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|5536|emb|CAA49826.1| adenylate kinase [Schizosaccharomyces pombe] >gi|1204204|emb|CAA93553.1| adenylate kinase Adk1 [Schizosaccharomyces pombe]
+MRLILVGPPGAGKGTQAPNIQKKYGIAHLATGDMLRSQVARQTELGKEAKKIMDQGGLVSDDIVTGMIKDEILNNP
+>gi|671171022|ref|XP_008725977.1|adenylate kinase 1 [Cladophialophora carrionii CBS 160.54] >gi|565934812|gb|ETI24041.1| adenylate kinase 1 [Cladophialophora carrionii CBS 160.54]
+TESMRMILIGPPGAGKGTQAPRIKEKYCVCHLATGDMLRAQVAKKTPLGKEAKKIMDQGGLVSDDIMINMIKNELDTN
+>gi|317137759|ref|XP_001727934.2|adenylate kinase 1 [Aspergillus oryzae RIB40] >gi|224493061|sp|Q2UBH0.2|KAD2_ASPOR RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase
+AEHMRMVLMGPPGAGKGTQAPALKDKYCVCHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|1050180857|gb|OCT45499.1|Adenylate kinase [Cladophialophora carrionii]
+TESMRMILIGPPGAGKGTQAPRIKEKYCVCHLATGDMLRAQVAKKTPLGKEAKKIMDQGGLVSDDIMINMIKNELDTN
+>gi|367035034|ref|XP_003666799.1|hypothetical protein MYCTH_2316525 [Thermothelomyces thermophila ATCC 42464] >gi|347014072|gb|AEO61554.1| hypothetical protein MYCTH_2316525 [Thermothelomyces thermophila ATCC 42464]
+TAEEIRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDAGGLVSDDIVIGMIKEELDNN
+>gi|154270214|ref|XP_001535964.1|adenylate kinase cytosolic [Histoplasma capsulatum NAm1] >gi|224493044|sp|A6RHI1.1|KAD2_AJECN RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|150410097|gb|EDN05485.1| adenylate kinase cytosolic [Histoplasma capsulatum NAm1]
+TDSVRMILMGPPGAGKGTQAPKIKDKFCVCHLATGDMLRSQVARKTELGKEAKKIMDQGGLVSDEIMVNMIKHELENN
+>gi|628293750|ref|XP_007757471.1|adenylate kinase 1 [Cladophialophora yegresii CBS 114405] >gi|589977834|gb|EXJ61118.1| adenylate kinase 1 [Cladophialophora yegresii CBS 114405]
+TESMRMILIGPPGAGKGTQAPRIKEKYCVCHLATGDMLRAQVAKKTPLGKEAKKIMDQGGLVSDDIMINMIKNELDTN
+>gi|1141563403|dbj|GAW15048.1|hypothetical protein ANO14919_044560 [fungal sp. No.14919]
+TTESIRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVAKKTPLGREAKKIMDAGGLVSDNIMIGMIKEELSTN
+>gi|367054542|ref|XP_003657649.1|hypothetical protein THITE_63893 [Thielavia terrestris NRRL 8126] >gi|347004915|gb|AEO71313.1| hypothetical protein THITE_63893 [Thielavia terrestris NRRL 8126]
+TAEEIRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDAGGLVSDDIVIGMIKEELDNN
+>gi|330918107|ref|XP_003298089.1|hypothetical protein PTT_08690 [Pyrenophora teres f. teres 0-1] >gi|311328916|gb|EFQ93824.1| hypothetical protein PTT_08690 [Pyrenophora teres f. teres 0-1]
+SAESVRMILMGPPGAGKGTQAPRIKEKFCACHLATGDMLRAQVAAKTPLGREAKKIMDAGGLVSDEIMVNMIKTELENN
+>gi|225555520|gb|EEH03812.1|adenylate kinase cytosolic [Histoplasma capsulatum G186AR] >gi|325094831|gb|EGC48141.1| adenylate kinase [Histoplasma capsulatum H88]
+TDSVRMILMGPPGAGKGTQAPKIKDKFCVCHLATGDMLRSQVARKTELGKEAKKIMDQGGLVSDEIMVNMIKHELENN
+>gi|396477433|ref|XP_003840266.1|similar to adenylate kinase cytosolic [Leptosphaeria maculans JN3] >gi|312216838|emb|CBX96787.1| similar to adenylate kinase cytosolic [Leptosphaeria maculans JN3]
+STESVRMILMGPPGAGKGTQAPRIKEKFCACHLATGDMLRAQVAAKTTLGREAKKIMDAGGLVSDEIMVNMIRTELENN
+>gi|1022647722|ref|XP_016219576.1|adenylate kinase [Exophiala mesophila] >gi|759210658|gb|KIV88002.1| adenylate kinase [Exophiala mesophila]
+SESMRMILIGPPGAGKGTQAPKIKDKYCVCHLATGDMLRAQVAKKTPLGREAKKIMDQGGLVSDDIMINMIKNELDTN
+>gi|697066447|ref|XP_009648410.1|adenylate kinase cytosolic [Verticillium dahliae VdLs.17] >gi|346974095|gb|EGY17547.1| adenylate kinase cytosolic [Verticillium dahliae VdLs.17]
+SAEEVRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDEIVIGMIQEELDNN
+>gi|930150548|ref|XP_014175680.1|adenylate kinase [Grosmannia clavigera kw1407] >gi|320593795|gb|EFX06198.1| adenylate kinase [Grosmannia clavigera kw1407]
+KDIRMILIGPPGAGKGTQAPKIKEKFGCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELNTNP
+>gi|913770472|emb|CRK32568.1|hypothetical protein BN1708_005820 [Verticillium longisporum]
+SAEEVRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDEIVIGMIQEELDNN
+>gi|189195968|ref|XP_001934322.1|adenylate kinase isoenzyme 2, mitochondrial [Pyrenophora tritici-repentis Pt-1C-BFP] >gi|187980201|gb|EDU46827.1| adenylate kinase isoenzyme 2, mitochondrial [Pyrenophora tritici-repentis Pt-1C-BFP]
+ATESVRMILMGPPGAGKGTQAPRIKEKFCACHLATGDMLRAQVAAKTPLGREAKKIMDAGGLVSDEIMVNMIKTELENN
+>gi|302416431|ref|XP_003006047.1|adenylate kinase cytosolic [Verticillium alfalfae VaMs.102] >gi|261355463|gb|EEY17891.1| adenylate kinase cytosolic [Verticillium alfalfae VaMs.102]
+SAEEVRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDEIVIGMIQEELDNN
+>gi|1190860938|gb|OTA53288.1|adenylate kinase [Hypoxylon sp. EC38] >gi|1190890603|gb|OTA81374.1| hypothetical protein M434DRAFT_401396 [Hypoxylon sp. CO27-5]
+STEGVRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVAKKTPLGREAKKIMDAGGLVSDDIVIGMIKEELENN
+>gi|1060928319|gb|ODM23614.1|Adenylate kinase 1 [Aspergillus cristatus]
+SEQMRIILMGPPGAGKGTQAPKLKDTYCVCHLATGDMLRSQVAKKTDLGREAKKIMDQGGLVSDDIMVNMIKSELENN
+>gi|1168116885|gb|OQE16419.1|hypothetical protein PENSTE_c024G00732 [Penicillium steckii]
+TEQMRIILMGPPGAGKGTQAPNIKDKYCVCHLATGDMLRSQVAKKTDLGKEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|115385917|ref|XP_001209505.1|adenylate kinase cytosolic [Aspergillus terreus NIH2624] >gi|121733191|sp|Q0C7Y1.1|KAD2_ASPTN RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|114187952|gb|EAU29652.1| adenylate kinase cytosolic [Aspergillus terreus NIH2624]
+AEQMRIILMGPPGAGKGTQAPRIKEKYCVCHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|949388000|dbj|GAP88952.1|putative adenylate kinase 1 [Rosellinia necatrix]
+TAESVRMILIGPPGAGKGTQAPKIKEKFSCCHLATGDMLRSQVAKKTPLGREAKKIMDAGGLVSDEIVIGMIKEELANN
+>gi|1111930280|gb|OJJ89458.1|hypothetical protein ASPGLDRAFT_41440 [Aspergillus glaucus CBS 516.65]
+AEQMRIILMGPPGAGKGTQAPKLKDAYCACHLATGDMLRSQVAKKTDLGREAKKIMDQGGLVSDDIMVNMIKSELDNN
+>gi|1190791682|gb|OTA36936.1|Adenylate kinase [Hortaea werneckii EXF-2000]
+QGMRMILIGPPGAGKGTQAPKLKERYGCCHLATGDMLRAQVAAKTQLGREAKKIMDQGGLVSDEIMVNMIQDQLDNN
+>gi|751750661|gb|KIM98842.1|hypothetical protein OIDMADRAFT_201300 [Oidiodendron maius Zn]
+SVRMVLMGPPGAGKGTQAPNIKERFSCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKAELETN
+>gi|1065003170|gb|ODV91983.1|hypothetical protein CANCADRAFT_567 [Tortispora caseinolytica NRRL Y-17796]
+SKSIRMVIMGPPGAGKGTQAPRIKEKFCACHLATGDMLRSQVSRGTELGKQAKKIMESGGLVSDDIVLGMIKSELESNP
+>gi|1147192315|ref|XP_020059640.1|hypothetical protein ASPACDRAFT_40622 [Aspergillus aculeatus ATCC 16872] >gi|1111947358|gb|OJK03301.1| hypothetical protein ASPACDRAFT_40622 [Aspergillus aculeatus ATCC 16872]
+TEHMRIILMGPPGAGKGTQAPRLKEKYCVCHLATGDMLRSQVAKKTDLGREAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|698989982|ref|XP_009851972.1|hypothetical protein NEUTE1DRAFT_122918 [Neurospora tetrasperma FGSC 2508] >gi|758989839|ref|XP_956253.3| adenylate kinase cytosolic [Neurospora crassa OR74A] >gi|182628297|sp|Q9HE76.2|KAD2_NEUCR RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|16944550|emb|CAC18138.2| probable adenylate kinase [Neurospora crassa] >gi|336468202|gb|EGO56365.1| hypothetical protein NEUTE1DRAFT_122918 [Neurospora tetrasperma FGSC 2508] >gi|350289551|gb|EGZ70776.1| putative adenylate kinase [Neurospora tetrasperma FGSC 2509] >gi|553138387|gb|EAA27017.3| adenylate kinase cytosolic [Neurospora crassa OR74A] >gi|725984210|gb|KHE87190.1| hypothetical protein GE21DRAFT_3435 [Neurospora crassa]
+TAEQLRMVLMGPPGAGKGTQAPKIKEKFNCCHLATGDMLRAQVAKGTALGKQAKKIMNEGGLVSDDIVIGMIKDELENN
+>gi|119496289|ref|XP_001264918.1|adenylate kinase, putative [Aspergillus fischeri NRRL 181] >gi|224493003|sp|A1D3M8.1|KAD2_NEOFI RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|119413080|gb|EAW23021.1| adenylate kinase, putative [Aspergillus fischeri NRRL 181] >gi|952547336|dbj|GAQ11057.1| adenylate kinase [Aspergillus lentulus]
+AEQMRIVLMGPPGAGKGTQAPRLKEKYCVCHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKNELDTN
+>gi|1089698746|ref|XP_018691256.1|adenylate kinase [Fonsecaea erecta] >gi|1032429449|gb|OAP57889.1| adenylate kinase [Fonsecaea erecta]
+TDSMRMILIGPPGAGKGTQAPRIKEKYCVCHLATGDMLRAQVAKKTPLGREAKKIMDQGGLVSDDIMINMIKNELDTN
+>gi|972141067|gb|KUI67316.1|Adenylate kinase [Valsa mali]
+TTEQIRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTVLGREAKKIMDAGGLVSDDIVIGMIKNELDNN
+>gi|70991300|ref|XP_750499.1|adenylate kinase [Aspergillus fumigatus Af293] >gi|74669525|sp|Q4WJ21.1|KAD2_ASPFU RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|224493045|sp|B0XPW9.1|KAD2_ASPFC RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|66848131|gb|EAL88461.1| adenylate kinase, putative [Aspergillus fumigatus Af293] >gi|159130970|gb|EDP56083.1| adenylate kinase, putative [Aspergillus fumigatus A1163] >gi|666433272|gb|KEY80828.1| adenylate kinase [Aspergillus fumigatus var. RP-2014] >gi|846914084|gb|KMK59902.1| adenylate kinase [Aspergillus fumigatus Z5]
+AEQMRIVLMGPPGAGKGTQAPRLKEKYCVCHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKNELDTN
+>gi|849268000|dbj|GAO89487.1|adenylate kinase 1 [Aspergillus udagawae]
+AEQMRIVLMGPPGAGKGTQAPRLKEKYCVCHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKNELDTN
+>gi|891576607|ref|XP_013020612.1|adenylate kinase Adk1 [Schizosaccharomyces octosporus yFS286] >gi|528061076|gb|EPX70640.1| adenylate kinase Adk1 [Schizosaccharomyces octosporus yFS286]
+MRIILVGPPGAGKGTQAPNIQKKYGIAHLATGDMLRSQVARGTDLGKEAKQIMDQGGLVSDDIVAGMIRDEFLNNP
+>gi|972133757|gb|KUI62191.1|Adenylate kinase [Valsa mali var. pyri]
+TTEQIRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTVLGREAKKIMDAGGLVSDDIVIGMIKNELDNN
+>gi|1022878814|ref|XP_016248997.1|adenylate kinase [Cladophialophora immunda] >gi|759252117|gb|KIW28781.1| adenylate kinase [Cladophialophora immunda] >gi|1174605872|gb|OQV07798.1| hypothetical protein CLAIMM_12172 [Cladophialophora immunda]
+TDSMRMILIGPPGAGKGTQAPRIKEKYCVCHLATGDMLRAQVAKKTALGREAKKIMDQGGLVSDDIMINMIKNELDTN
+>gi|224493060|sp|B2W0K4.2|KAD2_PYRTRRecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase
+ATESVRMILMGPPGAGKGTQAPRIKEKFCACHLATGDMLRAQVAAKTPLGREAKKIMDAGGLVSDEIMVNMIKTELENN
+>gi|1027002973|ref|XP_016633277.1|adenylate kinase [Fonsecaea multimorphosa CBS 102226] >gi|761338165|gb|KIX99154.1| adenylate kinase [Fonsecaea multimorphosa CBS 102226] >gi|1029148934|gb|OAL26065.1| adenylate kinase [Fonsecaea multimorphosa]
+TDSMRMILIGPPGAGKGTQAPRIKEKYCVCHLATGDMLRAQVAKKTALGKEAKKIMDQGGLVSDDIMINMIKNELDTN
+>gi|891588028|ref|XP_013023187.1|adenylate kinase Adk1 [Schizosaccharomyces cryophilus OY26] >gi|528317225|gb|EPY51801.1| adenylate kinase Adk1 [Schizosaccharomyces cryophilus OY26]
+MRIILVGPPGAGKGTQAPNIQKKYGIAHLATGDMLRSQVARGTDLGKEAKQIMDQGGLVSDDIVAGMIRDEFMNNP
+>gi|1027028199|ref|XP_016619709.1|adenylate kinase [Cladophialophora bantiana CBS 173.52] >gi|759316690|gb|KIW93040.1| adenylate kinase [Cladophialophora bantiana CBS 173.52]
+TDSMRMILIGPPGAGKGTQAPRIKEKYCVCHLATGDMLRAQVAKKTPLGREAKKIMDQGGLVSDDIMINMIKNELDTN
+>gi|1027069542|ref|XP_016640760.1|hypothetical protein SAPIO_CDS7863 [Scedosporium apiospermum] >gi|666864303|gb|KEZ40961.1| hypothetical protein SAPIO_CDS7863 [Scedosporium apiospermum]
+TTEEIRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGIEAKKIMDAGGLVSDDIVIGMIKQELETN
+>gi|83770962|dbj|BAE61095.1|unnamed protein product [Aspergillus oryzae RIB40]
+MRMVLMGPPGAGKGTQAPALKDKYCVCHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKSELDNN
+>gi|835900694|gb|KLU91982.1|adenylate kinase 1 [Magnaporthiopsis poae ATCC 64411]
+TAQELRMILIGPPGAGKGTQAPKIKEKFNCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEEIENN
+>gi|628223579|ref|XP_007720811.1|adenylate kinase 1 [Capronia coronata CBS 617.96] >gi|590018118|gb|EXJ93317.1| adenylate kinase 1 [Capronia coronata CBS 617.96]
+ESMRMILIGPPGAGKGTQAPRIKDRYCICHLATGDMLRAQVAKRTPLGREAKKIMDQGGLVSDDIMINMIKNELETN
+>gi|1111871654|gb|OJJ44183.1|hypothetical protein ASPZODRAFT_168988 [Penicilliopsis zonata CBS 506.65]
+AEHMRIILMGPPGAGKGTQAPKIKEKYCVCHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKSELENN
+>gi|399164193|emb|CCE34861.1|probable adenylate kinase [Claviceps purpurea 20.1]
+STEEIRMIIMGPPGAGKGTQAPKIKDRFSCCHLATGDMLRSQVVKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELENN
+>gi|748540425|gb|KIH90731.1|adenylate kinase [Sporothrix brasiliensis 5110]
+DEVRMILIGPPGAGKGTQAPKIKEKFGCCHLATGDMLRSQVAKKTPLGREAKKIMDQGGLVSDDIVIGMIKEELNTNP
+>gi|1069625931|ref|XP_018186253.1|adenylate kinase 1, partial [Xylona heveae TC161] >gi|1018268597|gb|KZF20698.1| adenylate kinase 1, partial [Xylona heveae TC161]
+SIRMILMGPPGAGKGTQAPRIKDKFCVCHLATGDMLREQVAKKTSLGREAKKIMDQGGLVSDAIMVNMIKDQLENN
+>gi|1127421574|gb|OLL24087.1|Adenylate kinase [Neolecta irregularis DAH-3]
+KELRMILIGPPGAGKGTQAPKIKEKFCICHLATGDMLRSQVARKTALGIEAKKIMDAGGLVGDDIMVNMIKSELTSN
+>gi|121702295|ref|XP_001269412.1|adenylate kinase, putative [Aspergillus clavatus NRRL 1] >gi|224493002|sp|A1CQR5.1|KAD2_ASPCL RecName: Full=Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName: Full=ATP:AMP phosphotransferase; AltName: Full=Adenylate kinase cytosolic and mitochondrial; AltName: Full=Adenylate monophosphate kinase >gi|119397555|gb|EAW07986.1| adenylate kinase, putative [Aspergillus clavatus NRRL 1]
+TAEQMRIILMGPPGAGKGTQAPRLKEKYCVCHLATGDMLRSQVAKKTELGKEAKKIMDQGGLVSDEIMVNMIKSELETN

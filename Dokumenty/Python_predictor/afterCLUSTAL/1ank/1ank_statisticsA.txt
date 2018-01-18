@@ -1,0 +1,16 @@
+---------------
+
+file: 1ank61-120.txt
+original acid: D
+mutated acid: H
+at position: 24
+
+Statistics:
+
+No all proteins: 250
+Is same at position: count = 0
+No. basic acids at position: 0
+No. mutated acids at position: 0
+No. else acids at position: 250
+Originals : 0.000000
+Mutated : 100.000000

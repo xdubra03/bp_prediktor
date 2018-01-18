@@ -1,0 +1,1576 @@
+ASA_rozdelenie	d_velkost
+exposed	0
+burried	-
+burried	0
+partially burried	0
+partially burried	0
+burried	0
+partially burried	0
+partially burried	-
+partially burried	0
+burried	0
+burried	-
+partially burried	0
+burried	-
+burried	-
+burried	-
+partially burried	+
+burried	-
+partially burried	0
+burried	0
+burried	+
+partially burried	+
+exposed	0
+exposed	0
+partially burried	-
+partially burried	-
+burried	-
+partially burried	-
+partially burried	0
+partially burried	0
+partially burried	-
+partially burried	0
+partially burried	-
+burried	-
+exposed	0
+burried	-
+burried	-
+exposed	-
+burried	0
+partially burried	-
+exposed	-
+exposed	-
+exposed	-
+exposed	-
+exposed	-
+exposed	0
+exposed	0
+exposed	0
+exposed	+
+exposed	0
+exposed	-
+exposed	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	0
+burried	0
+burried	-
+burried	-
+exposed	-
+exposed	-
+exposed	-
+exposed	-
+exposed	+
+exposed	+
+exposed	+
+exposed	+
+exposed	+
+exposed	+
+exposed	+
+exposed	+
+exposed	+
+exposed	+
+exposed	0
+exposed	+
+exposed	+
+exposed	0
+exposed	0
+exposed	0
+partially burried	0
+partially burried	+
+partially burried	+
+partially burried	+
+partially burried	+
+partially burried	+
+partially burried	-
+partially burried	0
+partially burried	0
+burried	-
+partially burried	0
+partially burried	-
+burried	+
+burried	-
+partially burried	-
+exposed	0
+exposed	-
+burried	0
+burried	+
+exposed	0
+exposed	-
+burried	-
+burried	-
+burried	0
+burried	0
+burried	-
+burried	-
+partially burried	0
+burried	-
+burried	-
+partially burried	-
+burried	0
+burried	0
+partially burried	-
+partially burried	-
+partially burried	-
+partially burried	0
+burried	-
+exposed	0
+exposed	+
+exposed	0
+exposed	-
+exposed	-
+exposed	0
+partially burried	-
+burried	-
+exposed	-
+burried	0
+partially burried	-
+partially burried	0
+partially burried	0
+exposed	-
+partially burried	-
+exposed	-
+partially burried	-
+burried	-
+burried	-
+burried	0
+partially burried	-
+partially burried	-
+partially burried	-
+burried	-
+burried	0
+burried	0
+burried	0
+partially burried	-
+exposed	-
+burried	-
+burried	-
+burried	-
+burried	0
+burried	-
+partially burried	-
+exposed	-
+burried	-
+exposed	-
+exposed	-
+burried	-
+partially burried	-
+partially burried	-
+burried	+
+burried	-
+burried	0
+partially burried	0
+partially burried	0
+burried	0
+burried	0
+burried	0
+burried	-
+burried	0
+burried	-
+burried	0
+burried	0
+burried	0
+exposed	0
+exposed	0
+partially burried	0
+exposed	0
+exposed	0
+partially burried	0
+partially burried	0
+burried	0
+burried	0
+exposed	0
+exposed	0
+exposed	0
+exposed	0
+partially burried	0
+exposed	0
+exposed	0
+exposed	0
+exposed	0
+exposed	0
+exposed	0
+exposed	0
+exposed	0
+exposed	0
+partially burried	-
+partially burried	-
+exposed	0
+burried	0
+burried	0
+burried	0
+burried	+
+burried	+
+burried	-
+burried	-
+burried	-
+burried	0
+burried	0
+burried	0
+burried	-
+burried	0
+exposed	0
+burried	-
+burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+partially burried	-
+burried	0
+burried	0
+burried	-
+burried	+
+partially burried	-
+partially burried	0
+partially burried	+
+partially burried	+
+partially burried	-
+burried	0
+burried	0
+burried	0
+partially burried	0
+partially burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	-
+exposed	0
+exposed	0
+exposed	-
+partially burried	0
+partially burried	0
+partially burried	0
+partially burried	0
+exposed	0
+exposed	0
+exposed	+
+exposed	0
+exposed	+
+exposed	0
+exposed	0
+exposed	0
+exposed	-
+exposed	0
+exposed	-
+exposed	+
+exposed	0
+exposed	0
+exposed	0
+partially burried	0
+partially burried	0
+partially burried	-
+partially burried	-
+burried	0
+burried	0
+burried	-
+burried	-
+partially burried	-
+partially burried	-
+exposed	-
+exposed	-
+exposed	-
+exposed	-
+burried	0
+burried	0
+burried	+
+burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	-
+burried	+
+burried	0
+burried	+
+burried	0
+burried	0
+exposed	0
+burried	0
+exposed	-
+burried	0
+burried	0
+burried	-
+burried	-
+burried	0
+exposed	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+partially burried	-
+burried	+
+burried	0
+burried	+
+burried	0
+burried	0
+burried	+
+burried	0
+burried	0
+burried	-
+burried	+
+burried	0
+burried	0
+burried	0
+burried	0
+partially burried	-
+partially burried	0
+burried	0
+partially burried	0
+partially burried	+
+exposed	+
+exposed	0
+exposed	+
+exposed	+
+exposed	+
+exposed	+
+exposed	+
+exposed	0
+burried	0
+burried	0
+exposed	0
+burried	-
+burried	-
+exposed	0
+exposed	0
+exposed	-
+exposed	0
+exposed	0
+exposed	0
+exposed	+
+exposed	0
+exposed	0
+exposed	0
+exposed	-
+exposed	0
+burried	-
+burried	0
+partially burried	0
+partially burried	-
+burried	-
+burried	-
+burried	-
+burried	-
+burried	-
+burried	-
+burried	0
+burried	0
+burried	-
+burried	-
+burried	0
+burried	0
+burried	-
+burried	-
+burried	0
+exposed	0
+burried	-
+burried	-
+burried	0
+exposed	0
+exposed	0
+exposed	0
+burried	-
+burried	-
+burried	0
+burried	-
+burried	0
+burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	0
+burried	0
+burried	0
+exposed	0
+exposed	-
+burried	-
+burried	-
+burried	-
+burried	0
+burried	-
+burried	+
+exposed	-
+burried	0
+burried	0
+burried	+
+burried	+
+burried	0
+partially burried	0
+partially burried	0
+partially burried	-
+partially burried	+
+burried	-
+burried	-
+partially burried	-
+burried	-
+burried	-
+burried	-
+burried	0
+partially burried	+
+partially burried	-
+partially burried	-
+partially burried	-
+burried	-
+burried	0
+burried	-
+partially burried	-
+burried	-
+burried	-
+burried	-
+burried	0
+burried	-
+burried	-
+burried	+
+burried	+
+burried	0
+burried	-
+burried	-
+exposed	-
+exposed	-
+burried	0
+burried	0
+partially burried	-
+partially burried	-
+partially burried	-
+partially burried	0
+partially burried	+
+burried	0
+burried	+
+partially burried	+
+partially burried	+
+partially burried	0
+burried	0
+burried	-
+burried	0
+burried	-
+burried	0
+burried	0
+burried	0
+burried	+
+burried	0
+burried	0
+partially burried	0
+partially burried	-
+partially burried	0
+partially burried	0
+partially burried	0
+partially burried	0
+partially burried	0
+exposed	0
+partially burried	0
+partially burried	-
+burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	+
+burried	-
+burried	-
+burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	-
+partially burried	+
+burried	+
+burried	-
+burried	-
+burried	0
+partially burried	0
+partially burried	-
+partially burried	0
+partially burried	0
+partially burried	0
+partially burried	-
+partially burried	0
+partially burried	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	-
+burried	-
+burried	0
+burried	0
+burried	0
+burried	-
+burried	+
+burried	0
+burried	0
+burried	0
+burried	-
+exposed	+
+partially burried	+
+partially burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	0
+exposed	-
+partially burried	-
+partially burried	0
+partially burried	-
+partially burried	-
+partially burried	-
+partially burried	+
+partially burried	0
+partially burried	-
+burried	0
+burried	-
+partially burried	0
+partially burried	-
+partially burried	-
+burried	-
+burried	-
+burried	-
+burried	0
+burried	-
+burried	-
+exposed	0
+burried	-
+burried	0
+burried	0
+partially burried	0
+partially burried	+
+burried	-
+partially burried	0
+partially burried	-
+partially burried	-
+partially burried	0
+partially burried	0
+partially burried	0
+exposed	0
+exposed	0
+exposed	0
+exposed	0
+burried	-
+partially burried	-
+exposed	-
+partially burried	-
+partially burried	-
+exposed	-
+partially burried	-
+burried	-
+burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	0
+burried	-
+partially burried	-
+exposed	-
+exposed	-
+burried	-
+partially burried	-
+burried	-
+burried	-
+burried	-
+burried	-
+burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	0
+burried	-
+burried	-
+burried	+
+partially burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+partially burried	0
+partially burried	-
+partially burried	0
+exposed	-
+burried	-
+burried	0
+burried	-
+burried	0
+burried	-
+burried	-
+partially burried	0
+burried	0
+burried	+
+burried	-
+partially burried	0
+partially burried	0
+partially burried	-
+burried	-
+burried	-
+exposed	0
+partially burried	-
+burried	0
+burried	-
+burried	0
+partially burried	0
+partially burried	-
+partially burried	0
+partially burried	-
+partially burried	-
+burried	-
+burried	-
+exposed	-
+burried	-
+partially burried	0
+burried	0
+burried	0
+burried	-
+burried	0
+burried	0
+burried	-
+burried	0
+burried	-
+burried	+
+burried	0
+burried	-
+burried	0
+partially burried	-
+burried	0
+burried	0
+burried	0
+burried	0
+burried	-
+burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	0
+burried	0
+burried	-
+burried	0
+burried	-
+burried	0
+partially burried	-
+partially burried	0
+partially burried	0
+partially burried	0
+partially burried	0
+exposed	+
+burried	0
+burried	-
+burried	0
+burried	0
+burried	-
+burried	0
+burried	0
+burried	0
+burried	0
+burried	-
+burried	+
+burried	+
+burried	0
+burried	0
+burried	0
+exposed	-
+burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	-
+burried	-
+burried	-
+burried	0
+partially burried	-
+partially burried	0
+exposed	0
+burried	0
+burried	+
+burried	+
+burried	0
+partially burried	-
+partially burried	0
+partially burried	0
+partially burried	-
+burried	+
+exposed	0
+burried	-
+partially burried	0
+partially burried	-
+burried	-
+burried	+
+burried	0
+burried	0
+burried	0
+burried	0
+exposed	0
+exposed	0
+exposed	0
+exposed	0
+exposed	-
+burried	-
+burried	0
+burried	0
+burried	0
+exposed	+
+partially burried	+
+exposed	-
+burried	0
+partially burried	0
+burried	0
+partially burried	-
+exposed	-
+exposed	-
+exposed	-
+exposed	-
+exposed	-
+exposed	0
+burried	0
+exposed	0
+partially burried	0
+burried	0
+partially burried	+
+burried	0
+exposed	0
+burried	+
+burried	-
+burried	-
+burried	0
+burried	+
+burried	0
+burried	-
+exposed	-
+exposed	-
+burried	-
+partially burried	0
+burried	-
+exposed	-
+exposed	-
+exposed	-
+burried	-
+exposed	-
+burried	0
+burried	0
+burried	0
+burried	+
+burried	0
+partially burried	-
+burried	-
+burried	-
+burried	0
+burried	0
+burried	0
+partially burried	-
+burried	0
+burried	-
+exposed	-
+exposed	-
+burried	-
+partially burried	-
+exposed	-
+exposed	-
+partially burried	-
+burried	-
+burried	-
+partially burried	-
+burried	-
+burried	-
+burried	0
+burried	-
+burried	0
+burried	0
+burried	-
+burried	0
+burried	0
+burried	0
+burried	-
+partially burried	-
+partially burried	-
+burried	0
+exposed	-
+burried	0
+burried	0
+burried	-
+burried	0
+partially burried	0
+burried	0
+burried	0
+burried	-
+burried	-
+burried	0
+burried	0
+burried	-
+partially burried	-
+burried	0
+burried	-
+partially burried	0
+burried	0
+burried	0
+partially burried	-
+exposed	-
+exposed	-
+exposed	0
+partially burried	0
+partially burried	0
+partially burried	-
+exposed	0
+exposed	-
+burried	-
+burried	-
+burried	+
+exposed	0
+exposed	0
+exposed	0
+exposed	+
+exposed	0
+exposed	0
+partially burried	-
+partially burried	-
+partially burried	0
+partially burried	-
+partially burried	+
+partially burried	+
+partially burried	+
+partially burried	+
+partially burried	+
+partially burried	0
+partially burried	+
+partially burried	0
+exposed	0
+exposed	0
+exposed	0
+exposed	-
+burried	-
+burried	0
+partially burried	0
+partially burried	+
+partially burried	0
+exposed	0
+exposed	0
+exposed	+
+exposed	-
+burried	-
+burried	-
+burried	-
+burried	0
+burried	-
+burried	-
+burried	-
+burried	-
+burried	-
+exposed	0
+burried	0
+burried	-
+burried	-
+burried	+
+exposed	+
+exposed	0
+burried	0
+burried	0
+burried	+
+partially burried	0
+partially burried	+
+partially burried	0
+burried	+
+partially burried	-
+burried	+
+burried	+
+burried	0
+exposed	0
+burried	+
+burried	+
+burried	0
+burried	-
+partially burried	0
+partially burried	+
+partially burried	+
+partially burried	0
+partially burried	0
+partially burried	0
+burried	0
+exposed	-
+burried	-
+partially burried	-
+partially burried	+
+burried	-
+burried	-
+burried	0
+burried	-
+burried	+
+burried	0
+burried	0
+exposed	0
+exposed	0
+exposed	-
+exposed	-
+burried	-
+burried	0
+burried	0
+burried	-
+partially burried	-
+exposed	-
+burried	-
+partially burried	-
+burried	-
+exposed	-
+partially burried	-
+partially burried	-
+exposed	-
+burried	-
+burried	-
+partially burried	-
+partially burried	-
+partially burried	-
+burried	-
+exposed	-
+burried	-
+partially burried	-
+burried	0
+burried	-
+burried	0
+burried	-
+burried	-
+burried	-
+burried	-
+burried	-
+burried	-
+burried	-
+burried	-
+burried	-
+partially burried	-
+burried	0
+burried	-
+partially burried	-
+partially burried	-
+burried	0
+burried	-
+burried	-
+burried	-
+burried	0
+burried	0
+burried	-
+burried	-
+burried	0
+burried	0
+burried	-
+burried	-
+burried	-
+burried	-
+burried	0
+burried	-
+burried	0
+burried	0
+burried	-
+burried	0
+burried	-
+burried	0
+burried	-
+burried	-
+burried	-
+burried	-
+burried	-
+burried	-
+burried	0
+exposed	0
+burried	+
+burried	0
+exposed	0
+exposed	0
+partially burried	0
+exposed	0
+exposed	+
+partially burried	-
+burried	0
+burried	-
+burried	0
+burried	0
+burried	-
+burried	0
+burried	-
+partially burried	0
+partially burried	0
+partially burried	0
+partially burried	-
+burried	-
+burried	0
+burried	0
+burried	-
+burried	-
+burried	0
+burried	-
+partially burried	0
+partially burried	+
+burried	+
+burried	+
+burried	+
+burried	+
+burried	0
+burried	-
+partially burried	0
+partially burried	0
+partially burried	-
+burried	-
+burried	-
+exposed	-
+burried	0
+burried	-
+burried	0
+burried	-
+partially burried	0
+partially burried	-
+partially burried	0
+partially burried	0
+partially burried	-
+burried	0
+burried	-
+burried	-
+exposed	-
+burried	-
+partially burried	0
+burried	-
+burried	0
+burried	0
+burried	-
+burried	0
+burried	-
+burried	0
+burried	0
+burried	0
+burried	+
+partially burried	-
+burried	0
+burried	0
+partially burried	-
+burried	0
+burried	+
+burried	+
+burried	+
+burried	-
+burried	0
+burried	0
+burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+partially burried	-
+partially burried	0
+partially burried	0
+exposed	-
+burried	+
+burried	0
+burried	0
+burried	+
+burried	-
+burried	0
+burried	0
+partially burried	+
+partially burried	-
+burried	+
+burried	+
+burried	+
+burried	+
+burried	0
+burried	0
+burried	0
+exposed	-
+burried	0
+burried	-
+burried	0
+burried	-
+burried	0
+burried	-
+burried	0
+burried	-
+burried	-
+burried	-
+burried	-
+exposed	0
+burried	-
+burried	0
+burried	-
+exposed	0
+burried	-
+burried	-
+burried	-
+burried	0
+burried	-
+burried	-
+burried	-
+exposed	0
+burried	0
+burried	0
+exposed	-
+burried	0
+burried	-
+exposed	-
+burried	0
+burried	-
+burried	0
+exposed	0
+burried	0
+burried	0
+burried	0
+burried	0
+partially burried	-
+burried	0
+exposed	-
+burried	0
+burried	+
+burried	0
+burried	0
+burried	0
+burried	0
+burried	+
+burried	+
+burried	0
+burried	-
+partially burried	0
+partially burried	-
+exposed	0
+exposed	+
+exposed	-
+exposed	0
+exposed	+
+exposed	-
+exposed	+
+exposed	0
+partially burried	0
+burried	0
+partially burried	0
+exposed	0
+partially burried	-
+exposed	-
+exposed	0
+exposed	-
+burried	+
+burried	0
+burried	0
+burried	0
+partially burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	0
+exposed	0
+exposed	0
+partially burried	-
+exposed	-
+exposed	0
+burried	-
+burried	+
+burried	0
+burried	0
+burried	-
+burried	-
+burried	+
+burried	-
+burried	0
+burried	0
+burried	-
+burried	0
+burried	0
+burried	+
+burried	0
+burried	0
+burried	0
+exposed	-
+burried	0
+burried	0
+partially burried	0
+exposed	0
+exposed	0
+exposed	+
+exposed	+
+exposed	-
+exposed	-
+exposed	0
+partially burried	0
+exposed	-
+burried	0
+burried	-
+partially burried	0
+burried	0
+burried	+
+burried	0
+burried	-
+burried	0
+burried	-
+burried	+
+burried	0
+burried	0
+partially burried	0
+burried	-
+burried	0
+burried	-
+exposed	0
+exposed	+
+exposed	-
+exposed	0
+exposed	+
+exposed	+
+exposed	-
+exposed	0
+exposed	-
+burried	0
+exposed	0
+exposed	-
+exposed	+
+partially burried	0
+burried	-
+burried	-
+burried	0
+burried	-
+exposed	0
+partially burried	0
+partially burried	0
+burried	-
+exposed	0
+exposed	0
+exposed	+
+burried	0
+burried	+
+burried	-
+partially burried	0
+partially burried	0
+partially burried	-
+partially burried	0
+partially burried	0
+partially burried	-
+partially burried	-
+burried	-
+burried	-
+burried	-
+partially burried	-
+burried	0
+burried	-
+burried	0
+burried	+
+burried	0
+partially burried	-
+burried	0
+burried	-
+burried	+
+exposed	-
+exposed	0
+exposed	+
+exposed	+
+exposed	-
+burried	-
+burried	-
+burried	0
+burried	-
+burried	-
+burried	-
+burried	0
+burried	0
+burried	0
+burried	-
+partially burried	0
+exposed	0
+burried	0
+exposed	-
+burried	-
+burried	-
+burried	0
+burried	0
+burried	+
+burried	0
+burried	0
+burried	-
+burried	-
+burried	-
+burried	0
+burried	+
+burried	0
+burried	0
+burried	-
+burried	0
+burried	-
+burried	0
+burried	0
+burried	+
+burried	-
+burried	-
+burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	0
+burried	+
+burried	+
+burried	+
+burried	+
+burried	+
+burried	+
+burried	+
+burried	0
+burried	-
+burried	+
+burried	-
+exposed	0
+exposed	0
+partially burried	-
+partially burried	-
+exposed	-
+burried	0
+burried	0
+burried	-
+burried	0
+burried	0
+burried	-
+partially burried	-
+burried	-
+burried	-
+partially burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	0
+partially burried	-
+partially burried	-
+partially burried	0
+partially burried	0
+partially burried	+
+partially burried	+
+partially burried	-
+exposed	-
+exposed	+
+exposed	0
+exposed	0
+exposed	0
+partially burried	+
+burried	0
+exposed	+
+exposed	+
+exposed	0
+exposed	+
+exposed	+
+exposed	+
+exposed	0
+exposed	-
+exposed	-
+burried	0
+burried	0
+burried	-
+burried	-
+exposed	-
+exposed	0
+exposed	-
+partially burried	0
+partially burried	0
+partially burried	0
+partially burried	0
+partially burried	-
+partially burried	0
+partially burried	0
+partially burried	0
+partially burried	+
+burried	-
+partially burried	0
+partially burried	-
+burried	0
+burried	0
+burried	0
+burried	0
+exposed	-
+partially burried	0
+burried	-
+burried	0
+partially burried	0
+exposed	0
+burried	-
+burried	0
+burried	0
+burried	+
+burried	-
+burried	0
+burried	-
+burried	-
+burried	0
+burried	+
+burried	+
+burried	0
+burried	-
+burried	+
+burried	0
+burried	0
+exposed	+
+burried	0
+partially burried	-
+partially burried	0
+burried	-
+exposed	0
+exposed	-
+partially burried	+
+burried	0
+burried	-
+partially burried	0
+partially burried	-
+partially burried	+
+burried	+
+burried	+
+burried	0
+partially burried	+
+burried	-
+exposed	+
+partially burried	0
+partially burried	0
+partially burried	-
+burried	0
+exposed	-
+burried	0
+partially burried	+
+burried	0
+exposed	0
+burried	-
+burried	-
+exposed	+
+burried	-
+partially burried	0
+partially burried	0
+partially burried	+
+partially burried	-
+partially burried	0
+partially burried	0
+partially burried	0
+partially burried	0
+partially burried	+
+partially burried	-
+partially burried	0
+partially burried	+
+partially burried	-
+burried	0
+burried	0
+burried	0
+burried	-
+burried	0
+burried	+
+burried	+
+burried	+
+burried	+
+burried	0
+burried	+
+burried	+
+burried	+
+burried	+
+burried	+
+burried	0
+burried	+
+burried	0
+burried	+
+burried	+
+burried	+
+burried	-
+exposed	-
+exposed	0
+burried	+
+burried	-
+partially burried	0
+partially burried	-
+burried	0
+burried	0
+burried	0
+burried	-
+exposed	0
+exposed	-
+exposed	0
+partially burried	-
+exposed	0
+exposed	0
+exposed	0
+exposed	0
+exposed	0
+exposed	0
+exposed	-
+exposed	0
+exposed	0
+exposed	0
+burried	-
+burried	-
+burried	0
+exposed	0
+burried	0
+burried	0
+burried	+
+burried	0
+exposed	-
+exposed	0
+exposed	0
+burried	0
+burried	0
+burried	0
+burried	0
+burried	+
+burried	+
+burried	-
+burried	0
+burried	+
+partially burried	+
+partially burried	0
+burried	+
+partially burried	+
+exposed	0
+burried	0
+partially burried	0
+exposed	+
+burried	+
+burried	+
+burried	0
+burried	0
+partially burried	-
+burried	+
+burried	0
+burried	0
+burried	0
+burried	0
+exposed	0
+exposed	+
+burried	+
+burried	+
+burried	-
+partially burried	+
+partially burried	-
+partially burried	0
+exposed	-
+exposed	0
+exposed	-
+burried	-
+burried	0
+burried	-
+exposed	+
+exposed	-
+exposed	0
+exposed	0
+exposed	0
+exposed	0
+exposed	+
+exposed	0
+exposed	0
+exposed	+
+exposed	+
+exposed	
+burried	

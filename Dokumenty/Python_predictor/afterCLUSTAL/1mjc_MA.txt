@@ -1,0 +1,500 @@
+>gi|974635508|ref|WP_059222179.1| cold-shock protein [Escherichia albertii]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQDGGYKSLDEGQKVTFTIENG-AKGPAAGNVISM--
+>gi|493871192|ref|WP_006817705.1| cold-shock protein [Yokenella regensburgei] >gi|364572467|gb|EHM50007.1| cold shock protein [Yokenella regensburgei ATCC 43003]
+--------------------------------MSNKMTGIVKWFNADKGFGFITPDDGSK-----------DLFVHFSAIMTDGYKSLDEGQKVSFTIENG-AKGPAAGNVTNA--
+>gi|445936741|ref|WP_000014596.1| cold-shock protein [Salmonella enterica] >gi|357954045|gb|EHJ80374.1| Cold shock protein CspA [Salmonella enterica subsp. enter
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSKDVFVHSDDGSKDVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|852133513|ref|WP_048292386.1| cold-shock protein [Klebsiella pneumoniae] >gi|839631749|gb|KMH06432.1| cold shock protein CspA [Klebsiella pneumoniae]
+--------------------------------MSGKMTGIVKWFSADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVASL--
+>gi|513037519|ref|WP_016505733.1| cold-shock protein [Salmonella enterica] >gi|512517188|gb|EPE42908.1| cold shock-like protein cspd [Salmonella enterica subsp. 
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGTAAGNVTSL--
+>gi|487414187|ref|WP_001681732.1| cold-shock protein [Escherichia coli] >gi|476041657|gb|EMU66990.1| cold shock protein CspA [Escherichia coli MP021552.12] >gi|4
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVPSL--
+>gi|740534192|ref|WP_038354760.1| MULTISPECIES: cold-shock protein [Escherichia]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVISL--
+>gi|502672384|ref|WP_012908189.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|282951253|emb|CBG90947.1| cold shock protein [Citrobacter rodentium I
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVNSL--
+>gi|445936738|ref|WP_000014593.1| cold-shock protein [Salmonella enterica] >gi|160867161|gb|ABX23784.1| hypothetical protein SARI_03990 [Salmonella enterica subs
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVASL--
+>gi|766979850|ref|WP_044869602.1| cold-shock protein [Escherichia coli]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPATGNVTSL--
+>gi|349561|gb|AAB66357.1| cold shock protein [Salmonella enterica subsp. enterica serovar Typhimurium]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAANVTSL--
+>gi|992388969|ref|WP_061075959.1| cold-shock protein [Citrobacter amalonaticus] >gi|991929481|gb|AMG92686.1| cold-shock protein [Citrobacter amalonaticus]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTNL--
+>gi|1000906613|ref|WP_061157121.1| cold-shock protein, partial [Escherichia coli] >gi|987486599|gb|KXC12873.1| cold-shock protein [Escherichia coli]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVT----
+>gi|1053428913|gb|OCZ19996.1| cold-shock protein [Acinetobacter pittii]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAG-------
+>gi|640510460|ref|WP_024946648.1| cold-shock protein [Escherichia coli]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAA--------
+>gi|966884258|gb|KTG56383.1| cold-shock protein [Klebsiella pneumoniae]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKG-----------
+>gi|498112098|ref|WP_010426254.1| cold-shock protein [Enterobacter mori]
+--------------------------------MSAKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSCTSESG-AKGPAAGNVVSL--
+>gi|736438381|ref|WP_034460397.1| MULTISPECIES: cold-shock protein [Buttiauxella] >gi|1033942249|gb|OAT15811.1| CspA family cold shock protein [Buttiauxella noac
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPDDGSK-----------DVFVHFSAIQIDGYKSLDEGQKVSFTIESG-AKGPAAGNVTNL--
+>gi|755041481|ref|WP_042393997.1| cold-shock protein [Escherichia vulneris] >gi|689827594|dbj|GAL59715.1| cold shock protein CspA [Escherichia vulneris NBRC 1024
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPSAGNVVSL--
+>gi|763324767|ref|WP_044183215.1| cold-shock protein [Enterobacter massiliensis]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAANVTSL--
+>gi|736477743|ref|WP_034499351.1| MULTISPECIES: cold-shock protein [Buttiauxella] >gi|668959528|gb|KFC77110.1| CspA family cold shock protein [Buttiauxella agres
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|1035699194|ref|WP_064540929.1| MULTISPECIES: cold-shock protein [Buttiauxella] >gi|1033954405|gb|OAT27615.1| CspA family cold shock protein [Buttiauxella bren
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DLFVHFSAIQNEGYKSLDEGQKVSFTIENG-AKGPAAGNVTSL--
+>gi|503934137|ref|WP_014168131.1| MULTISPECIES: cold-shock protein [Enterobacter cloacae complex] >gi|365747396|gb|AEW71623.1| Cold shock protein CspA [Enterobac
+--------------------------------MSAKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNEGYKSLDEGQKVSFTIESG-AKGPAAGNVVSL--
+>gi|736439096|ref|WP_034461105.1| MULTISPECIES: cold-shock protein [Buttiauxella] >gi|668967299|gb|KFC84407.1| CspA family cold shock protein [Buttiauxella agres
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DLFVHFSAIQNDGYKSLDEGQKVSFTIENG-AKGPAAGNVTSL--
+>gi|740321999|ref|WP_038159141.1| MULTISPECIES: cold-shock protein [Trabulsiella] >gi|668718911|gb|KFC04525.1| CspA family cold shock protein [Trabulsiella guame
+--------------------------------MSNKMTGIVKWFNADKGFGFITPDDGSK-----------DLFVHFSAIQNDGYKSLDEGQKVSFTIENG-AKGPAAGNVTSL--
+>gi|489957468|ref|WP_003860775.1| MULTISPECIES: cold-shock protein [Proteobacteria] >gi|296100584|ref|YP_003610730.1| major cold shock protein [Enterobacter cloa
+--------------------------------MSAKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVVSL--
+>gi|487681583|ref|WP_001766378.1| cold-shock protein [Escherichia coli] >gi|476657835|gb|EMZ63933.1| cold shock protein CspA [Escherichia coli 2735000]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVPFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|493178584|ref|WP_006177792.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|145316709|gb|ABP58856.1| cold-shock DNA-binding protein family [Enter
+--------------------------------MSGKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNEGYKSLDEGQKVSFTIESG-AKGPAAGNVVSL--
+>gi|1001733366|ref|WP_061284519.1| MULTISPECIES: cold-shock protein [Kluyvera]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIMNDGYKSLDEGQKVSFTIENG-AKGPAAGNVTSL--
+>gi|388604519|gb|AFK76480.1| cold shock protein [Enterobacter cloacae]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------GVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|388604517|gb|AFK76479.1| cold shock protein [Enterobacter sp. F(2012)]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFFAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|445936740|ref|WP_000014595.1| cold-shock protein [Shigella flexneri] >gi|332996322|gb|EGK15949.1| cold shock-like protein cspG [Shigella flexneri VA-6] >gi|3
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNYGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|695641459|ref|WP_032615822.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|668978480|gb|KFC92420.1| CspA family cold shock protein [Leclercia ad
+--------------------------------MSGKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVVSL--
+>gi|545142759|ref|WP_021501410.1| cold-shock protein [Escherichia coli] >gi|536901876|gb|ERC82541.1| cold shock protein CspA [Escherichia coli T924_01]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|485795548|ref|WP_001416994.1| cold-shock protein [Escherichia coli] >gi|476194414|gb|EMW14947.1| cold shock protein CspA [Escherichia coli 2850400] >gi|47622
+--------------------------------MSGKMTGIVKWFNADKGFGFIPPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|908716994|ref|WP_049848518.1| cold-shock protein [Trabulsiella odontotermitis] >gi|906987805|gb|KNC91128.1| cold-shock protein [Trabulsiella odontotermitis] 
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DLFVHFSAIQNDGYKSLDEGQKVSFTIENG-AKGPAAGNVTSL--
+>gi|491007085|ref|WP_004868803.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|376391926|gb|EHT04593.1| cold shock protein CspA [Raoultella ornithin
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIMNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|908707621|ref|WP_049839272.1| cold-shock protein [Klebsiella sp. RIT-PI-d] >gi|906438031|gb|KNC11185.1| cold-shock protein [Klebsiella sp. RIT-PI-d]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNQGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|388604515|gb|AFK76478.1| cold shock protein [Enterobacter cloacae]
+--------------------------------MSGKMTGIVKWFNTDKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|445936736|ref|WP_000014591.1| cold-shock protein [Escherichia coli] >gi|323160675|gb|EFZ46614.1| cold shock-like protein cspG [Escherichia coli E128010]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFSIESG-AKGPAAGNVTSL--
+>gi|737928067|ref|WP_035893107.1| MULTISPECIES: cold-shock protein [Kluyvera] >gi|668994445|gb|KFD06131.1| CspA family cold shock protein [Kluyvera ascorbata ATC
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIENG-AKGPAAGNVTSL--
+>gi|490228098|ref|WP_004126446.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|365907398|gb|AEX02851.1| RNA chaperone/anti-terminator [Klebsiella mi
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNEGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|487568092|ref|WP_001719061.1| cold-shock protein [Escherichia coli] >gi|476195709|gb|EMW16219.1| cold shock protein CspA [Escherichia coli 2845650] >gi|60743
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVTFTIESG-AKGPAAGNVTSL--
+>gi|490247064|ref|WP_004145222.1| cold-shock protein [Klebsiella pneumoniae] >gi|259041991|gb|EEW43024.1| 7.4 kDa cold shock protein [Klebsiella pneumoniae subsp
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DLFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|388604513|gb|AFK76477.1| cold shock protein [Enterobacter sp. D(2012)]
+--------------------------------MSGKMTGIVKWFSADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|3891780|pdb|3MEF|A Chain A, Major Cold-Shock Protein From Escherichia Coli Solution Nmr Structure
+---------------------------------XGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|487394967|ref|WP_001665798.1| cold-shock protein [Escherichia coli] >gi|477381498|gb|ENG49172.1| cold shock protein CspA [Escherichia coli p0305293.15]
+--------------------------------MSGKMTGIVKWLNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|1025818182|gb|ANC67968.1| cold shock protein A [synthetic construct]
+--------------------------------MAGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|388604511|gb|AFK76476.1| cold shock protein [Enterobacter sp. C(2012)]
+--------------------------------MSGKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|445936739|ref|WP_000014594.1| MULTISPECIES: cold-shock protein [Proteobacteria] >gi|15833695|ref|NP_312468.1| major cold shock protein [Escherichia coli O157
+--------------------------------MSGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|157831974|pdb|1MJC|A Chain A, Crystal Structure Of Cspa, The Major Cold Shock Protein Of Escherichia Coli
+---------------------------------SGKMTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|301160186|emb|CBW19708.1| cold shock protein [Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344] >gi|323179480|gb|EFZ65047.1| cold shoc
+------------------------------------MTGIVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|685387095|ref|WP_031621921.1| cold-shock protein, partial [Salmonella enterica] >gi|599882845|gb|EYH95795.1| RNA chaperone/anti-terminator, partial [Salmonel
+---------------------------------------------ADKGFGFITPDDGSK-----------DVFVHFSAIQNDGYKSLDEGQKVSFTIESG-AKGPAAGNVTSL--
+>gi|639217701|ref|WP_024555278.1| cold-shock protein [Franconibacter helveticus]
+--------------------------------MSTKMTGLVKWFNSDKGFGFITPNDGSK-----------DVFVHFSAIQSDSYKTLDEGQQVSFTIENG-AKGPAAANVTAL--
+>gi|745757943|ref|WP_039057203.1| cold-shock protein [Enterobacter sp. Bisph1]
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPNDGSK-----------DVFVHFSAIQSDNYKTLDEGQQVSFTIENG-AKGPAAANVTAL--
+>gi|657887938|ref|WP_029592015.1| cold-shock protein [Franconibacter pulveris]
+--------------------------------MSGKMTGLVKWFNSDKGFGFITPNDGSK-----------DVFVHFSAIQSDSYKTLDEGQQVSFTIENG-AKGPAAANVTAL--
+>gi|639220303|ref|WP_024557779.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|885156170|gb|KMV36367.1| cold-shock protein [Cronobacter sp. DJ34]
+--------------------------------MSGKMTGLVKWFNSDKGFGFITPNDGSK-----------DVFVHFSAIQSDNYKTLDEGQQVSFTIENG-AKGPAAANVTAL--
+>gi|488393825|ref|WP_002463210.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|377542446|dbj|GAB50563.1| putative cold shock protein [Escherichia he
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPNDGSK-----------DVFVHFSAIQSDSYKTLDEGQQVSFTIENG-AKGPAAGNVTVI--
+>gi|494994192|ref|WP_007720208.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|260217581|emb|CBA31827.1| Cold shock protein cspA [Cronobacter turice
+--------------------------------MSNKMTGLVKWFNADKGFGFITPNDGSK-----------DVFVHFSAIQSDNFKTLDEGQQVSFTIENG-AKGPAAGNVTPL--
+>gi|671536587|ref|WP_031520308.1| cold-shock protein [Siccibacter colletis]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPNDGSK-----------DVFVHFSAIQSDSFKTLDEGQQVSFTIENG-AKGPAAGNVTPL--
+>gi|836618574|ref|WP_047769059.1| MULTISPECIES: cold-shock protein [Xenorhabdus] >gi|831634516|gb|KLU15770.1| cold-shock protein [Xenorhabdus griffiniae] >gi|844
+--------------------------------MSNKMTGLVKWFNADKGFGFITPNDGSK-----------DVFVHFSAIQSDNYKTLDEGQQVSFTIENG-AKGPAAGNVTAL--
+>gi|495161067|ref|WP_007885867.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|398102331|gb|EJL92512.1| cold shock protein [Pantoea sp. GM01] >gi|39
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPNDGSK-----------DVFVHFSAIQSDNYKTLDEGQQVSFTIENG-AKGPAAGNVTPL--
+>gi|515944431|ref|WP_017375014.1| cold-shock protein [Enterobacteriaceae bacterium LSJC7]
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPNDGSK-----------DVFVHFSAIQSDNYKTLDEGQQVSFTIENG-AKGPAAGNVVAL--
+>gi|653022334|ref|WP_027274233.1| cold-shock protein [Leminorella grimontii] >gi|668984130|gb|KFC97334.1| CspG family cold shock protein [Leminorella grimontii A
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPDNGSK-----------DVFVHFSAIQSDNYKTLDEGQKVSFTIENG-AKGPAAGNVVGL--
+>gi|639212075|ref|WP_024550124.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQGDNYKTLDEGQKVSFTIESG-AKGPAAGNVSAL--
+>gi|498116429|ref|WP_010430585.1| cold-shock protein [Enterobacter mori]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQGDNFKTLDEGQKVSFTIENG-AKGPAAGNVTAL--
+>gi|498357321|ref|WP_010671477.1| MULTISPECIES: cold-shock protein [Pantoea] >gi|548611360|gb|ERM10586.1| cold-shock protein [Pantoea agglomerans Tx10] >gi|61092
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPDDGSK-----------DVFVHFSAIQGDNYKTLDEGQKVSFTIENG-AKGPAAGNVTAQ--
+>gi|671628941|ref|WP_031593036.1| cold-shock protein [Pantoea agglomerans]
+--------------------------------MSDKMTGLVKWFNSDKGFGFITPDDGSK-----------DVFVHFSAIQGDNYKTLDEGQKVSFTIENG-AKGPAAGNVTAL--
+>gi|497939344|ref|WP_010253500.1| MULTISPECIES: cold-shock protein [Pantoea] >gi|632533144|gb|KDA96375.1| cold-shock protein [Pantoea agglomerans Eh318] >gi|7427
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPDDGSK-----------DVFVHFSAIQGDNYKTLDEGQKVSFTIENG-AKGPAAGNVTAL--
+>gi|1028126829|ref|WP_063879191.1| cold-shock protein [Pantoea sp. OXWO6B1] >gi|1026730649|gb|OAE08148.1| cold-shock protein [Pantoea sp. OXWO6B1]
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPDDGSK-----------DVFVHFSAIQSDNYKTLDEGQKVSFTIENG-AKGPAAGNVTPL--
+>gi|503124761|ref|WP_013359422.1| cold-shock protein [Pantoea vagans] >gi|308059066|gb|ADO11238.1| Cold shock-like protein cspA [Pantoea vagans C9-1]
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPDDGSK-----------DVFVHFSAIQADNYKTLDEGQKVSFTIENG-AKGPAAGNVTAL--
+>gi|757162158|ref|WP_042716246.1| cold-shock protein [Klebsiella cf. planticola B43]
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPDDGSK-----------DVFVHFSAIQSDNYKTLDEGQKVSFTIENG-AKGPAAGNVTAL--
+>gi|512737953|ref|WP_016495754.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|511525998|gb|AGN83538.1| cold-shock protein [Enterobacter sp. R4-368]
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPDDGSK-----------DVFVHFSAIQSDSYKTLDEGQKVSFTIESG-AKGPAAGNVTAL--
+>gi|558085966|ref|WP_023479762.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|557854625|gb|ESS58500.1| cold shock protein CspA [Enterobacter cloaca
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPDDGSK-----------DVFVHFSAIQSDSYKTLDEGQKVSFTIENG-AKGPAAGNVTAL--
+>gi|1011966430|ref|WP_062772542.1| cold-shock protein [Kluyvera intermedia]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQSDNFKTLDEGQKVSFTIESG-AKGPAAGNVSPL--
+>gi|550714466|ref|WP_022647355.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|550211762|gb|ERP02114.1| cold shock protein CspA [Enterobacter sp. MG
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQSDNFKTLDEGQKVSFTIENG-AKGPAAGNVSPL--
+>gi|895838918|ref|WP_048956179.1| cold-shock protein [Enterobacter cloacae]
+--------------------------------MSNKMTGLVKWFNVDNGFGFITPDDGSK-----------DVFVHFSAIQSDSFKSLDEGQKVSFTIENG-AKGPAAGNVSPL--
+>gi|504697001|ref|WP_014884103.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|400175504|gb|AFP70353.1| cold shock protein CspA [Enterobacter cloaca
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQSDSFKSLDEGQKVSFTIENG-AKGPAAGNVSPL--
+>gi|503936406|ref|WP_014170400.1| MULTISPECIES: cold-shock protein [Enterobacter cloacae complex] >gi|365749745|gb|AEW73972.1| Cold shock protein CspA [Enterobac
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPDDGSK-----------DVFVHFSAIQSDSYKSLDEGQKVSFTIENG-AKGPAAGNVSPL--
+>gi|1020066768|ref|WP_063214334.1| cold-shock protein [Enterobacter cloacae]
+--------------------------------MSNKMTGLVKWFNSDKGFGFIAPDDGSK-----------DVFVHFSAIQSDSYKSLDEGQKVSFTIENG-AKGPAAGNVSPL--
+>gi|695637237|ref|WP_032613504.1| cold-shock protein [Leclercia adecarboxylata] >gi|668982511|gb|KFC95802.1| CspG family cold shock protein [Leclercia adecarboxy
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFSAIQSDSFKTLDEGQKISFTIENG-AKGPAAGNVTVL--
+>gi|749200884|ref|WP_040113517.1| cold-shock protein [Pantoea sp. PSNIH1] >gi|736031438|gb|AJA71064.1| cold-shock protein [Pantoea sp. PSNIH1]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPEDGSK-----------DVFVHFSAIQSDSFKTLDEGQKVSFTIENG-AKGPAAGNVTAL--
+>gi|1046476070|ref|WP_065647413.1| cold-shock protein [Pantoea eucrina]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPEDGSK-----------DVFVHFSAIQSDNFKTLDEGQKVSFTIENG-AKGPAAANVTAL--
+>gi|735671754|ref|WP_034164343.1| cold-shock protein [Edwardsiella anguillarum] >gi|672364504|gb|AIJ09701.1| Cold shock protein CspA [Edwardsiella anguillarum ET
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDNGGN-----------DIFVHFSAIQSNGYKSLDEGQKVAFEVQSGAAKGPSAINVTPL--
+>gi|779984079|ref|WP_045424904.1| MULTISPECIES: cold-shock protein [Edwardsiella] >gi|635161757|dbj|GAJ66603.1| cold shock DNA-binding domain protein [Edwardsiel
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDNGGS-----------DIFVHFSAIQSNGYKSLDEGQKVAFEVQSGAAKGPSAINVTPL--
+>gi|1040480942|ref|WP_065106281.1| cold-shock protein [Escherichia coli]
+--------------------------------MSGKMTGIVKWFNADKGFGFITPEDGSK-----------DVFVHFSAIQTNGFKTLAEGQRVEFEITNG-AKGPSAANVIAL--
+>gi|751931108|ref|WP_041145816.1| MULTISPECIES: cold-shock protein [Raoultella] >gi|751397393|gb|AJF73479.1| cold-shock protein [Raoultella ornithinolytica]
+--------------------------------MSGKMIGLVKWFNEGKGFGFISPVDGSK-----------DVFVHFSALQGDGFKTLFEGQKVEFTIESG-AKGPAAGNVVLRD-
+>gi|506334099|ref|WP_015853818.1| cold-shock protein [Dickeya paradisiaca] >gi|242131607|gb|ACS85909.1| cold-shock DNA-binding domain protein [Dickeya paradisiac
+--------------------------------MSNKMTGLVKWFDAGKGFGFITPDNGSK-----------DVFVHFSAIQSDDYKTLYEGQKVEFVIQQG-QKGPAAGNVTVL--
+>gi|494613738|ref|WP_007371983.1| cold-shock protein [Kosakonia radicincitans] >gi|396092854|gb|EJI90415.1| cold shock-like protein CspG [Kosakonia radicincitans
+--------------------------------MSNKMTGLVKWFNESKGFGFITPDNGSK-----------DVFVHFSAIQSGGFKTLNEGQKVEFTIEDG-QKGPSAGNVSAI--
+>gi|1051469964|ref|WP_065897208.1| cold-shock protein [Klebsiella pneumoniae] >gi|1050711966|gb|OCV97102.1| cold-shock protein [Klebsiella pneumoniae]
+--------------------------------MSNKMTGLVKWFNESKGFGFITPDNGSK-----------DVFVHFSAIQSGGFKTLNEGQKVEFTIENG-QKGPSAGNVFAI--
+>gi|491081742|ref|WP_004943356.1| MULTISPECIES: cold-shock protein [Serratia] >gi|333473414|gb|AEF45124.1| cold-shock DNA-binding domain protein [Serratia plymut
+--------------------------------MSTKMTGLVKWFDAGKGFGFISPADGSK-----------DVFVHFSAIQSNDFKTLDEGQRVEFTIESG-AKGPSAGNVVVL--
+>gi|445988634|ref|WP_000066489.1| cold-shock protein [Escherichia coli] >gi|378187994|gb|EHX48603.1| cold shock protein CspG [Escherichia coli DEC12D]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQE-QRGPAAANVVTL--
+>gi|919933595|ref|WP_052912810.1| cold-shock protein [Escherichia coli]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPAAANVVTF--
+>gi|445988617|ref|WP_000066472.1| cold-shock protein CspG [Escherichia coli] >gi|534548551|gb|EQN08178.1| cold shock-like protein CspG [Escherichia coli HVH 2 (4
+--------------------------------MSNKMAGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|485786624|ref|WP_001408943.1| cold-shock protein [Escherichia coli] >gi|476060058|gb|EMU84734.1| cold shock-like protein CspG [Escherichia coli MP021017.6] >
+--------------------------------MSNKMTGLVKWFNEDKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|971836052|ref|WP_058905734.1| cold-shock protein [Escherichia coli] >gi|971270406|gb|KUG88394.1| cold-shock protein [Escherichia coli]
+--------------------------------MSNKMNGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|553959174|ref|WP_023154909.1| cold-shock protein CspG [Escherichia coli] >gi|553339333|gb|ESA66982.1| transcriptional repressor activity CueR [Escherichia co
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPTAANVVTL--
+>gi|445988637|ref|WP_000066492.1| MULTISPECIES: cold-shock protein CspG [Escherichia] >gi|430898872|gb|ELC21003.1| cold shock-like protein CspG [Escherichia sp. 
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPSAANVVAL--
+>gi|723097864|ref|WP_033555427.1| cold-shock protein [Escherichia coli]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QHGPAAANVVTL--
+>gi|445988638|ref|WP_000066493.1| MULTISPECIES: cold-shock protein CspG [Escherichia] >gi|500636872|gb|EOQ76245.1| cold shock-like protein CspG [Escherichia coli
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPSAANVVTL--
+>gi|485776807|ref|WP_001400182.1| cold-shock protein CspG [Escherichia coli] >gi|476716608|gb|ENA21585.1| cold shock-like protein CspG [Escherichia coli P0298942
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTSIQSNEFRTLNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|445988632|ref|WP_000066487.1| cold-shock protein [Escherichia coli] >gi|431319520|gb|ELG07190.1| cold shock-like protein CspG [Escherichia coli KTE54]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGCK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|1021749657|gb|KZO87495.1| cold-shock protein [Escherichia coli]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPAAVNVVTL--
+>gi|742917111|ref|WP_039022596.1| cold-shock protein CspG [Escherichia coli]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQQVEFSIEQG-QRGPAAANVVTL--
+>gi|949747576|ref|WP_057080905.1| cold-shock protein [Escherichia coli] >gi|943695188|gb|KQI76877.1| cold-shock protein [Escherichia coli]
+--------------------------------MSNQMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|519083461|ref|WP_020239336.1| cold-shock protein [Escherichia coli]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNELRTLNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|693209804|ref|WP_032328837.1| cold-shock protein [Escherichia coli] >gi|606544203|gb|EYV97816.1| cold-shock protein [Escherichia coli O86:H34 str. 99-3124]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLSENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|545299732|ref|WP_021579599.1| cold-shock protein CspG [Escherichia coli] >gi|535910640|gb|ERA41433.1| cold shock-like protein CspG [Escherichia coli UMEA 389
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVDFSIEQG-QRGPAAANVVTL--
+>gi|445988633|ref|WP_000066488.1| MULTISPECIES: cold-shock protein CspG [Escherichia] >gi|404292147|gb|EJZ48982.1| cold shock-like protein CspG [Escherichia sp. 
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DIFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|486339751|ref|WP_001586876.1| cold-shock protein CspG [Escherichia coli] >gi|431317280|gb|ELG05060.1| cold shock-like protein CspG [Escherichia coli KTE50] >
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKIEFSIEQG-QRGPAAANVVTL--
+>gi|1001940064|ref|WP_061354637.1| cold-shock protein [Escherichia coli] >gi|1001337360|gb|KXQ17459.1| cold-shock protein [Escherichia coli]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRALNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|1015944487|ref|WP_062895671.1| cold-shock protein [Escherichia coli] >gi|1014259968|gb|KYT59700.1| cold-shock protein [Escherichia coli]
+--------------------------------MPNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|585377673|ref|WP_024259211.1| cold-shock protein CspG [Shigella flexneri] >gi|828441103|gb|AKK53585.1| cold-shock protein [Shigella flexneri G1663] >gi|10021
+--------------------------------MTNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|727767123|ref|WP_033871252.1| cold-shock protein CspG [Escherichia coli] >gi|652095178|gb|KDY10239.1| cold shock-like protein CspG [Escherichia coli 2-316-03
+--------------------------------MSDKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|445988635|ref|WP_000066490.1| MULTISPECIES: cold-shock protein CspG [Enterobacteriaceae] >gi|15830399|ref|NP_309172.1| cold shock protein CspG [Escherichia c
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|553677447|gb|ESD94319.1| transcriptional repressor activity CueR [Escherichia coli 908616]
+-----------------------------------KMTGLVKWFNADKGFGFITPDDGSK-----------DVFVHFTAIQSNEFRTLNENQKVEFSIEQG-QRGPAAANVVTL--
+>gi|488368330|ref|WP_002437715.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|377539389|dbj|GAB53414.1| cold shock-like protein CspG [Escherichia h
+--------------------------------MSNKMTGLVKWFNADKGFGFITPDNGGK-----------DVFVHFSAIQSNGFKVLEDNQKVEFSIENG-AKGPAAANVVVL--
+>gi|736433998|ref|WP_034456078.1| MULTISPECIES: cold-shock protein [Buttiauxella] >gi|668964921|gb|KFC82328.1| CspG family cold shock protein [Buttiauxella agres
+---------------------------------MSKMTGLVKWFNPEKGFGFITPDNGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSVENG-AKGPSATNVVAL--
+>gi|754702638|ref|WP_042078672.1| MULTISPECIES: cold-shock protein [Aeromonas]
+--------------------------------MSNKMTGTVKFFNAEKGFGFISPADGSK-----------DVFVHFSAIQSNGFKTLEEGQRVEFTIEQG-QKGPAAANVTGL--
+>gi|740842429|ref|WP_038627682.1| cold-shock protein [Pantoea sp. PSNIH2] >gi|723241957|gb|AIX74593.1| cold-shock protein [Pantoea sp. PSNIH2]
+--------------------------------MSAKLTGLVKWFNAEKGFGFISPADGSK-----------DVFVHFSAIQNQGFKTLEEGQNVEFTIENG-PKGPAAANVTVR--
+>gi|495039477|ref|WP_007764985.1| cold-shock protein [Cronobacter turicensis] >gi|260218894|emb|CBA34249.1| Cold shock protein cspA [Cronobacter turicensis z3032
+--------------------------------MSDKMTGLVKWFNAEKGFGFITPDNGSK-----------DVFVHFSAIQDNGFKTLEEGQKVSFTVESG-AKGPAAANVTAI--
+>gi|742387925|ref|WP_038867051.1| cold-shock protein [Cronobacter muytjensii] >gi|924333053|gb|ALB69072.1| cold-shock protein [Cronobacter muytjensii ATCC 51329]
+--------------------------------MSDKMTGLVKWFNAEKGFGFITPDNGSK-----------DVFVHFSAIQNNGFKTLEEGQKVTFSVENG-AKGPAAANVTAI--
+>gi|490520929|ref|WP_004386389.1| MULTISPECIES: cold-shock protein [Cronobacter] >gi|156534676|gb|ABU79502.1| hypothetical protein ESA_04323 [Cronobacter sakazak
+--------------------------------MSDKMTGLVKWFNAEKGFGFITPDNGSK-----------DVFVHFSAIQNNGFKTLEEGQKVSFSVESG-AKGPAAANVTAI--
+>gi|494945805|ref|WP_007671833.1| cold-shock protein [Cronobacter condimenti] >gi|426547688|emb|CCJ72523.1| Cold shock protein CspA [Cronobacter condimenti 1330]
+--------------------------------MSDKMTGLVKWFNAEKGFGFITPDNGSK-----------DVFVHFSAIQNNGFKTLEEGQKVSFSVENG-AKGPAAANVTAI--
+>gi|1011939586|ref|WP_062747873.1| cold-shock protein [Erwinia persicina]
+----------------------------------MSMTGLVKWFNAEKGFGFISPTDGSK-----------DVFVHFSAIQNGGFKTLEEGQKVSFTIENG-QKGPAAANVTAI--
+>gi|490272833|ref|WP_004168921.1| cold-shock protein [Erwinia amylovora] >gi|478724386|emb|CCP02283.1| Cold shock-like protein cspG (CPS-G) [Erwinia amylovora Ea
+--------------------------------MSDKMIGLVKWFSPDKGFGFISPTDGSK-----------DVFVHFSAIQNGGFKTLEEGQKVEFTIENG-QKGPAAANVTSL--
+>gi|490258940|ref|WP_004156160.1| cold-shock protein [Erwinia amylovora] >gi|291198492|emb|CBJ45600.1| cold shock protein [Erwinia amylovora ATCC 49946] >gi|2915
+--------------------------------MSDKMIGLVKWFSPDKGFGFISPTDGSK-----------DVFVHFSAIQNGGFKTLEEGQKVEFTIENG-QKGPAAANVTAL--
+>gi|852097992|ref|WP_048282501.1| cold-shock protein [Pluralibacter gergoviae] >gi|846707185|gb|KMK19061.1| cold-shock protein [Pluralibacter gergoviae]
+--------------------------------MTTKMTGLVKWFNADKGFGFITPEDGSK-----------DVFVHFSAIQSDDFRTLHENQKVEFAVENG-AKGPAAVNVVAL--
+>gi|502752314|ref|WP_012987298.1| cold-shock protein [Xenorhabdus bovienii] >gi|289173084|emb|CBJ79857.1| Qin prophage; cold shock protein [Xenorhabdus bovienii 
+--------------------------------MSNTMTGTVKWFNSDKGFGFISPKDGSK-----------DVFVHFSAIQSNDYKTLDEGQEVSFSVESG-AKGPSATNVIALS-
+>gi|740374161|ref|WP_038209451.1| cold-shock protein [Xenorhabdus bovienii] >gi|666615587|emb|CDG89379.1| Qin prophage; cold shock protein [Xenorhabdus bovienii 
+--------------------------------MSNTMTGTVKWFNSDKGFGFISPKDGSK-----------DVFVHFSAIQSSDYKTLDEGQEVSFSVESG-AKGPSATNVIALS-
+>gi|212687338|gb|EEB46866.1| cold-shock DNA-binding domain protein [Providencia alcalifaciens DSM 30120]
+---------------------MATIKNSKEFNMSNTMTGLVKWFNESKGFGFISPADGSK-----------DVFVHFSAIQSDSFKTLNEGQKVSFSVENG-AKGPAAANVVAL--
+>gi|493711629|ref|WP_006661258.1| cold-shock protein [Providencia alcalifaciens] >gi|414105557|gb|EKT67114.1| cold shock protein [Providencia alcalifaciens Dmel2
+--------------------------------MSNTMTGLVKWFNESKGFGFISPADGSK-----------DVFVHFSAIQSDSFKTLNEGQKVSFSVENG-AKGPAAANVVAL--
+>gi|739083647|ref|WP_036954791.1| cold-shock protein [Providencia alcalifaciens] >gi|573498649|gb|ETS99174.1| cold shock-like protein CspI [Providencia alcalifac
+--------------------------------MSNTMTGLVKWFNESKGFGFISPEDGSK-----------DVFVHFSAIQSDSFKTLNEGQKVSFSVENG-AKGPAAVNVVAL--
+>gi|1055753229|ref|WP_067360990.1| cold-shock protein [Morganella psychrotolerans] >gi|1040568144|gb|OBU02436.1| cold-shock protein [Morganella psychrotolerans] >
+--------------------------------MSNTITGTVKWFNDDKGFGFITPADGSK-----------DVFVHFSAIQSDNFKSLAEGQKVSFTIENG-MKGPAAGNVVAL--
+>gi|739109568|ref|WP_036979449.1| cold-shock protein [Providencia alcalifaciens] >gi|573505277|gb|ETT05551.1| 7.4 kDa cold shock protein [Providencia alcalifacie
+--------------------------------MSNTMTGSVKWFNDDKGFGFITPADGSK-----------DVFVHFSAIQSDNFKSLIEGQQVSFTIENG-AKGPAAGQVVAL--
+>gi|1055804291|ref|WP_067398213.1| cold-shock protein [Morganella psychrotolerans] >gi|1040577354|gb|OBU11504.1| cold-shock protein [Morganella psychrotolerans] >
+--------------------------------MSNTMTGSVKWFNDDKGFGFITPKDGSK-----------DVFVHFSAIQSDNFKSLIEGQEVSFTIEDG-MKGPAAGNVVAL--
+>gi|1033974769|gb|OAT47505.1| CspA family cold shock protein [Providencia heimbachae ATCC 35613]
+--------------------------------MSASMTGTVKWFNDEKGFGFITPQDGSK-----------DVFVHFSAIQSDSFKSLAEGQKVSFSIENG-AKGPAAANVVAI--
+>gi|225201412|gb|EEG83766.1| cold-shock DNA-binding domain protein [Proteus penneri ATCC 35198] >gi|857587683|emb|CRL59297.1| Cold shock protein CspA [Prote
+--------------------------------MSNTMTGTVKWFNDDKGFGFITPKDGSK-----------DVFVHFSAIQSDSFKSLKEGQEVSFSIENG-AKGPAAANVIAL--
+>gi|496195596|ref|WP_008915433.1| cold-shock protein [Providencia sneebia] >gi|414095661|gb|EKT57321.1| cold shock protein [Providencia sneebia DSM 19967]
+--------------------------------MSNTMTGTVKWFNNDKGFGFISPKDGSK-----------DVFVHFSAIQSNSFKSLNEGQEVSFTIENG-AKGPAAANVVAL--
+>gi|496187082|ref|WP_008911589.1| cold-shock protein [Providencia burhodogranariea] >gi|414100528|gb|EKT62143.1| cold shock protein [Providencia burhodogranariea
+--------------------------------MSNTMTGTVKWFNNDKGFGFISPKDGSK-----------DVFVHFSAIQSSNFKSLNEGQEVSFTIENG-AKGPAAANVVAL--
+>gi|639215061|ref|WP_024552886.1| cold-shock protein [Franconibacter helveticus]
+--------------------------------MSAKMTGIVKWFNSEKGFGFISPVDGSK-----------DVFVHFSAIQSDAFRTLEEGQKVEFTVEQG-QKGPAAANVVAL--
+>gi|639220230|ref|WP_024557707.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|885155345|gb|KMV35690.1| cold-shock protein [Cronobacter sp. DJ34]
+--------------------------------MSTKMTGIVKWFNSEKGFGFISPVDGSK-----------DVFVHFSAIQSDAYRTLEEGQKVEFSVEQG-QKGPAAANVVAL--
+>gi|1055842373|ref|WP_067428273.1| cold-shock protein [Erwinia gerundensis] >gi|972719707|emb|CUU23144.1| Cold shock-like protein cspA [Erwinia gerundensis]
+--------------------------------MSDKMRGIVKWFNAEKGFGFISPKDGSK-----------DVFVHFSAISSDGFRTLEEGQEVSFTIENG-QKGPAAANVTVG--
+>gi|558088059|ref|WP_023480861.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|557853420|gb|ESS57318.1| cold shock-like protein CspG [Enterobacter c
+--------------------------------MSNKMTGIVKWFNAEKGFGFITPKDGSK-----------DVFVHFSAIQSDNYRTLDENQEVEFTIENG-AKGPAAANVVPR--
+>gi|1004037748|ref|WP_061493275.1| cold-shock protein [Enterobacter sp. FY-07] >gi|1003368512|gb|AMO47302.1| Cold shock-like protein cspI [Enterobacter sp. FY-07]
+--------------------------------MSAKMTGIVKWFNAEKGFGFITPKDGSK-----------DVFVHFSAIQSDNYRTLEENQEVEFAIENG-AKGPAAANVVVVR-
+>gi|754592430|ref|WP_041982952.1| cold-shock protein [Xenorhabdus nematophila] >gi|733154133|emb|CEE95913.1| Qin prophage; cold shock protein [Xenorhabdus nemato
+--------------------------------MSNKMTGLVKWFNADKGFGFISPSDGSK-----------DVFVHFSAIQSNDYRTLSEDQKVEFTIENG-AKGPAAANVVPTA-
+>gi|896243132|ref|WP_049239084.1| MULTISPECIES: cold-shock protein [Shigella]
+--------------------------------MSNKMTGLVKWFNADKGFGSISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIESG-AKGPAAVNVIITD-
+>gi|445988630|ref|WP_000066485.1| MULTISPECIES: cold-shock protein [Escherichia] >gi|157080081|gb|ABV19789.1| cold shock DNA-binding protein [Escherichia coli O1
+--------------------------------MSNKMTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIESG-AKGPAAVNVIITD-
+>gi|476058057|gb|EMU82775.1| cold shock protein CspA [Escherichia coli MP021017.6]
+------------------------------------MTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIESG-AKGPAAVNVIITD-
+>gi|445988628|ref|WP_000066483.1| cold-shock protein [Escherichia coli] >gi|257753944|dbj|BAI25446.1| predicted cold shock protein [Escherichia coli O26:H11 str.
+--------------------------------MSNKMTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIERG-AKGPAAANVIITD-
+>gi|378085429|gb|EHW47317.1| cspA transcriptional activator [Escherichia coli DEC9C]
+------------------------------------MTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIERG-AKGPAAANVIITD-
+>gi|510915518|ref|WP_016236657.1| cold-shock protein [Escherichia coli] >gi|508341674|gb|EOV13384.1| cold shock-like protein CspB [Escherichia coli KTE40]
+--------------------------------MSNKMTGLVKRFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIESG-AKGPAAANVIITD-
+>gi|998487473|ref|WP_061103803.1| cold-shock protein [Escherichia coli] >gi|998193316|gb|KXH92408.1| cold-shock protein [Escherichia coli] >gi|998197620|gb|KXH96
+--------------------------------MSNKMTGLVKWFNADKGFGFISLVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIESG-AKGPAAANVIITD-
+>gi|445988627|ref|WP_000066482.1| MULTISPECIES: cold-shock protein CspB [Enterobacteriaceae] >gi|26109433|gb|AAN81636.1|AE016765_38 Cold shock-like protein cspB 
+--------------------------------MSNKMTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNFRTLFEGQKVTFSVESG-AKGPAAANVIITD-
+>gi|510919679|ref|WP_016240587.1| cold-shock protein [Escherichia coli] >gi|508389555|gb|EOV60531.1| cold shock-like protein CspB [Escherichia coli KTE68]
+--------------------------------MSNKMTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIESG-AKGPEAANVIITD-
+>gi|983506730|ref|WP_060659579.1| cold-shock protein [Escherichia coli] >gi|971248017|gb|KUG66554.1| cold-shock protein [Escherichia coli] >gi|971260191|gb|KUG78
+--------------------------------MSNKMTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRILFEGQKVTFSVESG-AKGPAAANVIITD-
+>gi|585360264|ref|WP_024241859.1| cold-shock protein [Escherichia coli] >gi|949429548|dbj|BAT42089.1| cold shock protein [Escherichia albertii]
+--------------------------------MSNKMTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVIFSIESG-AKGPAAANVIITD-
+>gi|727791209|ref|WP_033885339.1| cold-shock protein CspB [Escherichia coli] >gi|651683190|gb|KDV65368.1| cold-shock protein [Escherichia coli O128:H2 str. 2011C
+--------------------------------MSNKMTGLVKWFNAEKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIESG-AKGPAAANVIITD-
+>gi|487626018|ref|WP_001738067.1| cold-shock protein [Escherichia coli] >gi|476677894|gb|EMZ83508.1| cold shock protein CspA [Escherichia coli 2722950]
+--------------------------------MSNKMTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVPFSIESG-AKGPAAANVIITD-
+>gi|445988631|ref|WP_000066486.1| MULTISPECIES: cold-shock protein CspB [Enterobacteriaceae] >gi|290765647|gb|ADD59608.1| Cold shock-like protein cspB [Escherich
+--------------------------------MSNKMTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSVESG-AKGPAAANVIITD-
+>gi|545260246|ref|WP_021554724.1| cold-shock protein [Escherichia coli] >gi|535513160|gb|EQW51790.1| cold shock-like protein CspB [Escherichia coli UMEA 3087-1]
+--------------------------------MSNTMTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIESG-AKGPAAANVIITD-
+>gi|445988629|ref|WP_000066484.1| MULTISPECIES: cold-shock protein CspB [Proteobacteria] >gi|16129516|ref|NP_416075.1| Qin prophage; cold shock protein [Escheric
+--------------------------------MSNKMTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIESG-AKGPAAANVIITD-
+>gi|553350497|gb|ESA77653.1| cold shock protein, partial [Escherichia coli 907713] >gi|553604534|gb|ESD25071.1| cold shock protein, partial [Escherichia col
+-----------------------------------KMTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIESG-AKGPAAANVIITD-
+>gi|585287479|ref|WP_024175934.1| cold-shock protein [Escherichia coli] >gi|678291480|emb|CEE08548.1| cold shock protein CspA [Escherichia coli]
+------------------------------------MTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIESG-AKGPAAANVIITD-
+>gi|740421698|ref|WP_038254482.1| cold-shock protein [Yokenella regensburgei] >gi|669013085|gb|KFD23958.1| CspG family cold shock protein [Yokenella regensburgei
+--------------------------------MSNKMTGLVKWFNADKGFGFISPTDGSK-----------DVFVHFSAIQSDNFRTLFEGQKVQFSIESG-PKGPAAGNVVVAE-
+>gi|696368855|ref|WP_032943867.1| MULTISPECIES: cold-shock protein [Citrobacter freundii complex] >gi|575563831|gb|ETX63516.1| cold shock-like protein CspB [Citr
+--------------------------------MSNKMTGLVKWFNADKGFGFISPTDGSK-----------DVFVHFSAIQSDNFRTLFEGQKVSFSIENG-AKGPVAGNVAITE-
+>gi|489938641|ref|WP_003841948.1| cold-shock protein [Citrobacter freundii] >gi|411770788|gb|EKS54531.1| cold shock-like protein cspB [Citrobacter freundii ATCC 
+--------------------------------MSNKMTGLVKWFNADKGFGFISPADGSK-----------DVFVHFSAIQSDNFRTLFEGQKVSFSIENG-AKGPVAGNVAITE-
+>gi|817107655|ref|WP_046480942.1| cold-shock protein [Citrobacter amalonaticus] >gi|449328224|gb|AGE94525.1| cold-shock protein [Citrobacter amalonaticus Y19]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPTDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIENG-AKGPAAANVVTTE-
+>gi|851915337|ref|WP_048216579.1| cold-shock protein [Citrobacter sp. BIDMC107] >gi|838599088|gb|KLV83418.1| cold shock-like protein CspB [Citrobacter sp. BIDMC1
+--------------------------------MSNKMTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQSDNYRTLFEGQKVTFSIENG-AKGPVAANVVTTE-
+>gi|740840182|ref|WP_038625465.1| cold-shock protein [Pantoea sp. PSNIH2] >gi|723240708|gb|AIX73344.1| cold-shock protein [Pantoea sp. PSNIH2]
+--------------------------------MSNKMTGLVKWFNAEKGFGFISPEDGSK-----------DVFVHFSAIQSNDFKTLDEGQKVQFSVENG-AKGPSATNVVAL--
+>gi|948120866|ref|WP_056779359.1| cold-shock protein [Serratia sp. Leaf51] >gi|944702658|gb|KQN53955.1| cold-shock protein [Serratia sp. Leaf51]
+--------------------------------MSNKMTGLVKWFNPEKGFGFITPEDGSK-----------DVFVHFSAIQSSDFKTLDEGQKVEFSIENG-AKGPSAANVIAL--
+>gi|947570727|ref|WP_056234222.1| cold-shock protein [Erwinia sp. Leaf53] >gi|944711668|gb|KQN62915.1| cold-shock protein [Erwinia sp. Leaf53]
+--------------------------------MSNKMTGLVKWFNPEKGFGFISPEDGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIENG-AKGPSAANVVAL--
+>gi|887507120|gb|KMV68948.1| cold-shock protein [bacteria symbiont BFo1 of Frankliniella occidentalis] >gi|1012407484|gb|KYP83411.1| cold-shock protein [bac
+--------------------------------MSNKMTGLVKWFNADKGFGFISPEDGSK-----------DVFVHFSAIQGTDYKTLDEGQKVEFTIENG-AKGPSAANVVGL--
+>gi|492801512|ref|WP_005967874.1| MULTISPECIES: cold-shock protein [Pectobacterium] >gi|49611923|emb|CAG75372.1| cold shock protein [Pectobacterium atrosepticum 
+--------------------------------MSNKMTGLVKWFDAGKGFGFITPDNGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFTIENG-QKGPSAGNVVAL--
+>gi|746228592|ref|WP_039277461.1| cold-shock protein [Pectobacterium carotovorum] >gi|671737900|gb|KFF69233.1| cold-shock protein [Pectobacterium carotovorum sub
+--------------------------------MSNKMTGLVKWFDAGKGFGFITPDNGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFTIENG-QKGPAAGNVVSL--
+>gi|497961675|ref|WP_010275831.1| cold-shock protein [Pectobacterium carotovorum] >gi|251754805|gb|ACT12881.1| cold-shock DNA-binding domain protein [Pectobacter
+--------------------------------MSNKMTGLVKWFDAGKGFGFITPDNGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFTIENG-QKGPAAGNVVAL--
+>gi|757800819|ref|WP_043018020.1| cold-shock protein [Citrobacter freundii] >gi|635729374|gb|KDF11140.1| cold shock-like protein CspB [Citrobacter freundii MGH 5
+--------------------------------MSNKMTGLVKWFNSEKGFGFITPQDGSK-----------DVFVHFSAIQSNDYKTLDEGQKVEFSVENG-AKGPSAVNVVAL--
+>gi|507084559|ref|WP_016155304.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|500560757|gb|EOQ24345.1| cold shock-like protein CspI [Citrobacter sp
+--------------------------------MSNKMTGLVKWFNSEKGFGFITPQDGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSVENG-AKGPSAVNVVAL--
+>gi|489123292|ref|WP_003033098.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|226910432|gb|EEH96350.1| cold shock-like protein CspB [Citrobacter sp
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPQDGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSVENG-AKGPSAVNVVAL--
+>gi|491274764|ref|WP_005132883.1| cold-shock protein [Citrobacter pasteurii] >gi|391306373|gb|EIQ64130.1| cold shock-like protein CspG [Shigella flexneri 1235-66
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPQDGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSVENG-AKGPSAVNVIAL--
+>gi|970421201|ref|WP_058705855.1| cold-shock protein [Pantoea ananatis] >gi|968236520|gb|KTR47007.1| cold-shock protein [Pantoea ananatis] >gi|968247471|gb|KTR57
+--------------------------------MSTKMTGLVKWFNADKGFGFISPQDGSK-----------DVFVHFSAIQSSDFKTLDEGQKVEFSIENG-PKGPAAGNVVAL--
+>gi|291150965|gb|ADD75549.1| CspB [Pantoea ananatis LMG 20103] >gi|327396192|dbj|BAK13614.1| cold shock-like protein CspB [Pantoea ananatis AJ13355] >gi|812
+-----------------------MAQNEKDTSMSTKMTGLVKWFNADKGFGFISPQDGSK-----------DVFVHFSAIQSSDFKTLDEGQKVEFSIENG-PKGPSAGNVVAL--
+>gi|504419770|ref|WP_014606872.1| MULTISPECIES: cold-shock protein [Pantoea] >gi|354990261|gb|AER34385.1| cold-shock DNA-binding domain-containing protein CspB [
+--------------------------------MSTKMTGLVKWFNADKGFGFISPQDGSK-----------DVFVHFSAIQSSDFKTLDEGQKVEFSIENG-PKGPSAGNVVAL--
+>gi|502969326|ref|WP_013204302.1| cold-shock protein [Erwinia billingiae] >gi|299064711|emb|CAX61831.1| Cold-shock DNA-binding protein family [Erwinia billingiae
+--------------------------------MSNKMTGLVKWFNSDKGFGFISPEDGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFTIENG-AKGPSAGNVVAL--
+>gi|902777273|ref|WP_049648365.1| cold-shock protein [Yersinia mollaretii]
+--------------------------------MSNKMTGLVKWFDAGKGFGFITPDDGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIENG-AKGPSAVNVVAL--
+>gi|491090765|ref|WP_004952373.1| MULTISPECIES: cold-shock protein [Serratia] >gi|333475460|gb|AEF47170.1| cold-shock DNA-binding domain protein [Serratia plymut
+--------------------------------MSTKMTGLVKWFNADKGFGFITPQDGSK-----------DVFVHFSAIQSSDFKTLDEGQKVEFSVESG-AKGPSAVNVIAL--
+>gi|1056220622|ref|WP_067704033.1| cold-shock protein [Erwinia sp. ErVv1]
+--------------------------------MSNKMTGLVKWFNADKGFGFISPEDGSK-----------DVFVHFSAIQSSDFKTLDEGQKVEFSIENG-AKGPSAVNVVAL--
+>gi|501096527|ref|WP_012146565.1| MULTISPECIES: cold-shock protein [Serratia] >gi|157323861|gb|ABV42958.1| cold-shock DNA-binding domain protein [Serratia protea
+--------------------------------MSNKMTGLVKWFNADKGFGFITPQDGSK-----------DVFVHFSAIQSSDFKTLDEGQKVEFSIENG-AKGPSAVNVIAL--
+>gi|740615271|ref|WP_038400785.1| cold-shock protein [Yersinia pseudotuberculosis] >gi|682104436|gb|AIN16313.1| cold shock-like protein CspG [Yersinia pseudotube
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQNVEFSIENG-AKGPAAVNVIAL--
+>gi|910789980|ref|WP_050093817.1| cold-shock protein [Yersinia pseudotuberculosis]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQNVEFSIENG-AKGPAAVNVITL--
+>gi|902546786|ref|WP_049613850.1| MULTISPECIES: cold-shock protein [Yersinia]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIESG-AKGPSAVNVVAL--
+>gi|910820100|ref|WP_050115883.1| cold-shock protein [Yersinia kristensenii]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIESG-AKGPSAVNVIAL--
+>gi|1055875592|ref|WP_067436804.1| cold-shock protein [Erwinia gerundensis] >gi|972722793|emb|CUU26186.1| hypothetical protein EM595_p0490 (plasmid) [Erwinia geru
+--------------------------------MSNKMTGLVKWFNADKGFGFITPEDGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIENG-AKGPSAVNVVPL--
+>gi|912452085|ref|WP_050163139.1| cold-shock protein [Yersinia enterocolitica]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAILSNDFKTLDEGQKVEFSIENG-AKGPSAVNVIAL--
+>gi|912452080|ref|WP_050163137.1| cold-shock protein [Yersinia enterocolitica]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAILSNDFKTLDEGQKVEFSIENG-AKGPSAVNVVAL--
+>gi|501052794|ref|WP_012104384.1| MULTISPECIES: cold-shock protein [Yersinia] >gi|152961976|gb|ABS49437.1| cold shock DNA-binding domain protein [Yersinia pseudo
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQNVEFSIENG-AKGPSAVNVIAL--
+>gi|1011938911|ref|WP_062747198.1| cold-shock protein [Erwinia persicina]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSSDFKTLDEGQKVEFSIENG-AKGPSAVNVVAL--
+>gi|491305084|ref|WP_005163087.1| MULTISPECIES: cold-shock protein [Yersinia] >gi|123444003|ref|YP_001007973.1| major cold shock protein [Yersinia enterocolitica
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIENG-AKGPSAVNVIAL--
+>gi|517909884|ref|WP_019080092.1| cold-shock protein [Yersinia enterocolitica] >gi|571260619|emb|CCQ38817.1| major cold shock protein [Yersinia enterocolitica (t
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIENG-AKGPSAVNVVAL--
+>gi|912458795|ref|WP_050164674.1| cold-shock protein [Yersinia enterocolitica]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIENG-AKGPSAVNV-----
+>gi|516411462|ref|WP_017800860.1| cold-shock protein [Erwinia toletana]
+--------------------------------MSNKMTGLVKWFNAEKGFGFISPTDGSK-----------DVFVHFSAIQNDGFKSLDEGQKVEFTIENG-QKGPAAANVTAI--
+>gi|919884277|ref|WP_052899568.1| cold-shock protein [Erwinia iniecta] >gi|916382790|gb|KOC89531.1| cold-shock protein [Erwinia iniecta] >gi|916387313|gb|KOC9391
+--------------------------------MSNKMTGLVKWFNAEKGFGFISPTDGSK-----------DVFVHFSAIQNNGFKTLEEGQKVEFSIENG-QKGPAAANVTAI--
+>gi|947570374|ref|WP_056233869.1| cold-shock protein [Erwinia sp. Leaf53] >gi|944711833|gb|KQN63077.1| cold-shock protein [Erwinia sp. Leaf53]
+--------------------------------MSNKMTGLVKWFNAEKGFGFISPADGSK-----------DVFVHFSAIQNQGFKTLEEGQKVEFSIENG-QKGPAAANVTAL--
+>gi|736936626|ref|WP_034933654.1| cold-shock protein [Erwinia mallotivora] >gi|594399213|gb|EXU77075.1| cold-shock protein [Erwinia mallotivora]
+--------------------------------MSNKMTGLVKWFNAEKGFGFISPTDGSK-----------DVFVHFSAIQNGGFKTLEEGQKVEFSIENG-QKGPAAANVIAL--
+>gi|501410714|ref|WP_012442280.1| MULTISPECIES: cold-shock protein [Erwinia] >gi|188029736|emb|CAO97615.1| Cold shock protein [Erwinia tasmaniensis Et1/99] >gi|2
+--------------------------------MSNKMTGLVKWFNAEKGFGFISPTDGSK-----------DVFVHFSAIQNGGFKTLEEGQKVEFTIENG-QKGPAAANVTAL--
+>gi|502966000|ref|WP_013200976.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|299061364|emb|CAX58473.1| Cold shock protein [Erwinia billingiae Eb66
+--------------------------------MSNKMTGLVKWFNAEKGFGFISPTDGSK-----------DVFVHFSAIQNGGFKTLEEGQKVEFSIENG-QKGPAAANVTAL--
+>gi|971841221|ref|WP_058910599.1| cold-shock protein [Erwinia sp. SCU-B244]
+--------------------------------MSNKMTGLVKWFNADKGFGFISPTDGSK-----------DVFVHFSAIQSDNFRTLFEGQKVTFSIENG-AKGPSAANVVAAE-
+>gi|895941062|ref|WP_049029096.1| cold-shock protein [Escherichia coli]
+--------------------------------MSNKMTGLVKWFNADKGFGFISPVDGSK-----------DVFVHFSAIQNDNYRTLFEGQKVTFSIESG-AKGPAAANV-----
+>gi|847179740|ref|WP_047963901.1| cold-shock protein [Xenorhabdus khoisanae] >gi|844714405|gb|KMJ44571.1| cold-shock protein [Xenorhabdus khoisanae]
+--------------------------------MSNKMTGLVKWFNADKGFGFISPTDGSK-----------DVFVHFSAIQSDDYRTLFEGQKVEFSIEQG-AKGPAAANVVPTA-
+>gi|740404268|ref|WP_038237847.1| cold-shock protein [Xenorhabdus szentirmaii] >gi|575847375|emb|CDL82972.1| Cold shock-like protein CspG [Xenorhabdus szentirmai
+--------------------------------MSNKMTGLVKWFNADKGFGFISPSDGSK-----------DVFVHFSAIQSNEYRTLDEGQKVEFTIEKG-AKGPAAANVVPVTA
+>gi|498913891|ref|WP_010849012.1| cold-shock protein [Xenorhabdus nematophila] >gi|297629466|emb|CBJ90067.1| Qin prophage; cold shock protein [Xenorhabdus nemato
+--------------------------------MSNKMTGLVKWFNADKGFGFISPSDGSK-----------DVFVHFSAIQSNDYRTLSEGQKVEFTIENG-AKGPAAANVVPTA-
+>gi|493868321|ref|WP_006814919.1| cold-shock protein [Providencia rustigianii] >gi|282566611|gb|EFB72146.1| cold-shock DNA-binding domain protein [Providencia ru
+--------------------------------MSNTMTGLVKWFNDDKGFGFITPADGSK-----------DVFVHFSAIQSDDFKTLHEGQKVSFSVESG-AKGPAAANVVAL--
+>gi|493869728|ref|WP_006816290.1| cold-shock protein [Providencia rustigianii] >gi|282565065|gb|EFB70600.1| cold-shock DNA-binding domain protein [Providencia ru
+--------------------------------MSNKMTGLVKWFNSDKGFGFISPTDGSK-----------DVFVHFSAIQSDNFRTLDEGQKVEFTIENG-AKGPAAANVVAI--
+>gi|1033979003|gb|OAT51677.1| CspG family cold shock protein [Providencia heimbachae ATCC 35613]
+--------------------------------MSNKMTGLVKWFNADKGFGFISPTDGSK-----------DVFVHFSAIQSNDFRTLDEGQKVEFTIEDG-AKGPAAANVVAIS-
+>gi|553625917|gb|ESD45395.1| putative transcriptional repressor activity CueR [Escherichia coli 908519]
+MSLLLKCLSKSQSIQIKFSPHYVAHKIKKVISMSNKMTGLVKWFNSDKGFGFISPADGSK-----------DVFVHFSAIQSNNFRTLEEGQQVEFSIENG-AKGPAAANVIALS-
+>gi|585287518|ref|WP_024175973.1| cold-shock protein [Escherichia coli] >gi|995981663|gb|KXG57638.1| Cold shock-like protein CspB [Escherichia coli]
+--------------------------------MSNKMTGLVKWFNSDKGFGFISPADGSK-----------DVFVHFSAIQSNNFRTLEEGQQVEFSIENG-AKGPAAANVIALS-
+>gi|445988642|ref|WP_000066497.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|323934238|gb|EGB30662.1| cold-shock DNA-binding domain-containing pro
+--------------------------------MSNKMTGLVKWFNSDKGFGFISPADGSK-----------DVFVHFSAIQSNNFRTLEEGQQVEFSIENG-AKGPAAANVVALS-
+>gi|556196009|ref|WP_023279488.1| cold-shock protein [Klebsiella pneumoniae] >gi|554971222|gb|ESL15980.1| cold shock-like protein CspG [Klebsiella pneumoniae BID
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNNFRTLEEGQKVEFSIENG-AKGPAASNVVTLS-
+>gi|749587185|ref|WP_040213762.1| MULTISPECIES: cold-shock protein [Klebsiella] >gi|839749783|gb|KMI22842.1| cold shock-like protein CspG [Klebsiella pneumoniae]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNNFRTLEEGQKVEFSIENG-AKGPAAANVVAQS-
+>gi|488374317|ref|WP_002443702.1| cold-shock protein [Shimwellia blattae] >gi|386926069|gb|AFJ49023.1| cold shock-like protein CspG [Shimwellia blattae DSM 4481 
+--------------------------------MSDKMTGLVKWFNADKGFGFISPADGSK-----------DVFVHFSAIQSDNFRTLEEGQKVEFTIENG-AKGPAAANVVAL--
+>gi|490192737|ref|WP_004091319.1| MULTISPECIES: cold-shock protein [Hafnia] >gi|316917768|gb|EFV39111.1| cold shock protein CspA [Enterobacteriaceae bacterium 9_
+--------------------------------MSNKMTGLVKWFNADKGFGFISPADGSK-----------DVFVHFSAIQSDSYKSLDEGQSVEFTIENG-AKGPAAANVVAL--
+>gi|647476753|ref|WP_025801164.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|668975463|gb|KFC90339.1| CspG family cold shock protein [Hafnia alvei
+--------------------------------MSNKMTGLVKWFNADKGFGFISPADGSK-----------DVFVHFSAIQSDSYKSLDEGQTVEFTIENG-AKGPAAANVVAL--
+>gi|506439783|ref|WP_015959500.1| cold-shock protein [Enterobacter sp. 638] >gi|145319020|gb|ABP61167.1| cold-shock DNA-binding protein family [Enterobacter sp. 
+--------------------------------MSNKMTGLVKWFNSEKGFGFITPADGSK-----------DVFVHFSAIQSSDYKTLDEGQKVEFSIENG-AKGPAAANVTAL--
+>gi|1000903918|ref|WP_061154952.1| cold-shock protein [Klebsiella pneumoniae] >gi|927660724|dbj|BAS35938.1| cold shock DNA-binding domain-containing protein [Kleb
+--------------------------------MSNKMTGLVKWFNSEKGFGFITPADGSK-----------DVFVHFSAIQSNDYKTLDEGQKVEFSIENG-AKGPAAANVVTL--
+>gi|887505003|gb|KMV67128.1| cold-shock protein [bacteria symbiont BFo1 of Frankliniella occidentalis] >gi|1012407076|gb|KYP83030.1| cold-shock protein [bac
+--------------------------------MSNKMTGLVKWFNSEKGFGFITPADGSK-----------DVFVHFSAIQSNDYKTLDEGQKVEFSIENG-AKGPAAANVITL--
+>gi|736864363|ref|WP_034864201.1| cold-shock protein [Enterobacteriaceae bacterium B14]
+--------------------------------MSNKMTGIVKWFNSEKGFGFISPTDGSK-----------DVFVHFSAIQSNDYKTLDEGQQVEFTIENG-QKGPAAANVVAL--
+>gi|495735410|ref|WP_008459989.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|394729909|gb|EJF29824.1| cold shock-like protein CspG [Enterobacter s
+--------------------------------MSNKMTGLVKWFNAEKGFGFISPTDGSK-----------DVFVHFSAIQSDSFKTLDEGQKVEFSIENG-AKGPAAANVVAL--
+>gi|513473055|gb|EPF20627.1| cold shock-like protein CspI [Cedecea davisae DSM 4568]
+--------------------------MKKVISMSNKMTGLVKWFNAEKGFGFISPADGSK-----------DVFVHFSAIQSDNFKTLDEGQKVEFSIENG-AKGPAAANVVAL--
+>gi|748639691|ref|WP_039897868.1| cold-shock protein [Cedecea davisae]
+--------------------------------MSNKMTGLVKWFNAEKGFGFISPADGSK-----------DVFVHFSAIQSDNFKTLDEGQKVEFSIENG-AKGPAAANVVAL--
+>gi|740690659|ref|WP_038475948.1| cold-shock protein [Cedecea neteri] >gi|689264332|gb|AIR04862.1| cold-shock protein [Cedecea neteri]
+--------------------------------MSNKMTGLVKWFNAEKGFGFISPTDGSK-----------DVFVHFSAIQSDNFKTLDEGQKVEFSIENG-AKGPAAANVVAL--
+>gi|595639558|gb|AHM71813.1| Cold shock-like protein CspB [Yersinia enterocolitica LC20]
+--------------------------------MSNKMTGLVKWFDAGKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIESG-AKGPAAVNVVAL--
+>gi|491413533|ref|WP_005271336.1| MULTISPECIES: cold-shock protein [Yersinia] >gi|238716155|gb|EEQ08139.1| Cold shock-like protein cspI [Yersinia bercovieri ATCC
+--------------------------------MSNKMTGLVKWFNADKGFGFISPADGSK-----------DVFVHFSAIQSNDFKTLEEGQNVEFSIENG-AKGPAAANVVAL--
+>gi|914220971|ref|WP_050536977.1| cold-shock protein [Yersinia mollaretii]
+--------------------------------MSNKMTGLVKWFNADKGFGFISPADGSK-----------DVFVHFSAIQSNDFKTLEEGQNVEFSIENG-AKGPAAANVFAL--
+>gi|755042555|ref|WP_042395059.1| cold-shock protein [Escherichia vulneris] >gi|689827140|dbj|GAL60117.1| cold shock-like protein CspI [Escherichia vulneris NBRC
+--------------------------------MSNKMTGLVKWFNSEKGFGFITPTDGSK-----------DVFVHFSAIQSNDYKTLDEGQKVEFSMENG-AKGPAAGNVVAL--
+>gi|851929094|ref|WP_048221209.1| cold-shock protein [Citrobacter sp. MGH106] >gi|838582344|gb|KLV66801.1| cold shock-like protein CspI [Citrobacter sp. MGH106]
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPADGSK-----------DVFVHFSAIQSNDYKTLEEGQKVEFSIENG-AKGPAAGNVVAL--
+>gi|486198784|ref|WP_001548019.1| MULTISPECIES: cold-shock protein [Enterobacteriaceae] >gi|431058936|gb|ELD68313.1| cold shock-like protein CspB [Escherichia co
+--------------------------------MSNKMTGLVKWFNSDKGFGFITPADGSK-----------DVFVHFSAIQSNDYKTLDEGQKVEFSIENG-AKGPAAGNVVGL--
+>gi|902761757|ref|WP_049634512.1| cold-shock protein [Yersinia aldovae]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIENG-AKGPAAANVVVL--
+>gi|755643051|ref|WP_042547095.1| cold-shock protein [Yersinia aldovae] >gi|755380748|gb|AJJ62321.1| cold shock-like protein CspG [Yersinia aldovae 670-83]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIESG-AKGPAAANVVVL--
+>gi|238703496|gb|EEP96035.1| Cold shock-like protein cspB [Yersinia aldovae ATCC 35236]
+------------------------------------MTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIESG-AKGPAAANVVVL--
+>gi|1016953965|ref|WP_063154301.1| cold-shock protein [Enterobacter cloacae]
+--------------------------------MSNKMTGLVKWFNSEKGFGFISPTDGSK-----------DVFVHFSAIQSNDYKTLDEGQKVEFSIENG-AKGPAAANVVAL--
+>gi|1039591723|ref|WP_064910676.1| cold-shock protein [Enterobacter cloacae] >gi|1036283291|gb|OAZ42432.1| cold-shock protein [Enterobacter cloacae]
+--------------------------------MSNKMTGLVKWFNSEKGFGFISPTDGSK-----------DVFVHFSAIQSNDYKTLDEGQKVEFSIENG-AKGPAAANVIAL--
+>gi|912843689|ref|WP_050288515.1| cold-shock protein [Yersinia intermedia]
+--------------------------------MSNKMTGLVKWFDAGKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIENG-AKGPAAANVIAL--
+>gi|518042155|ref|WP_019212363.1| MULTISPECIES: cold-shock protein [Yersinia]
+--------------------------------MSNKMTGLVKWFNSDKGFGFISPADGSK-----------DVFVHFSAIQSNDYKTLDEGQKVEFSIENG-AKGPAAANVVAL--
+>gi|902777272|ref|WP_049648364.1| cold-shock protein [Yersinia mollaretii]
+--------------------------------MSNKMTGLVKWFNADKGFGFISPADGSK-----------DVFVHFSAIQSNDFKSLDEGQKVEFSIENG-AKGPAAANVVAL--
+>gi|902512691|ref|WP_049602641.1| cold-shock protein [Yersinia bercovieri]
+--------------------------------MSNKMTGLVKWFNADKGFGFISPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIENG-AKGPAAANVVAL--
+>gi|696332352|ref|WP_032907660.1| MULTISPECIES: cold-shock protein [Yersinia] >gi|755402341|gb|AJJ19503.1| cold shock-like protein CspG [Yersinia intermedia]
+--------------------------------MSNKMTGLVKWFNADKGFGFISPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIENG-AKGPAAANVIAL--
+>gi|238726020|gb|EEQ17568.1| Cold shock-like protein cspB [Yersinia intermedia ATCC 29909]
+------------------------------------MTGLVKWFNADKGFGFISPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIENG-AKGPAAANVIAL--
+>gi|912846423|ref|WP_050290388.1| cold-shock protein [Yersinia kristensenii]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIENG-AKGPAAANVIAL--
+>gi|912948821|ref|WP_050318557.1| cold-shock protein [Yersinia frederiksenii]
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIESG-AKGPAAANVIAL--
+>gi|644934228|ref|WP_025376799.1| cold-shock protein [Yersinia rohdei] >gi|595639557|gb|AHM71812.1| Cold shock-like protein CspB [Yersinia enterocolitica LC20] >
+--------------------------------MSNKMTGLVKWFNADKGFGFITPADGSK-----------DVFVHFSAIQSNDFKTLDEGQKVEFSIESG-AKGPAAVNVIAL--

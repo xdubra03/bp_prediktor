@@ -1,0 +1,14 @@
+---------------
+
+file: 1ag2_121-180.txt
+original acid: V
+mutated acid: I
+at position: 60
+
+Statistics:
+
+No all proteins: 250
+Is same at position: count = 0
+No. basic acids at position: 2
+No. mutated acids at position: 248
+Originals vs mutated : 0.800000

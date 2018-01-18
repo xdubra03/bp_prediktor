@@ -1,0 +1,16 @@
+---------------
+
+file: 1arr1-60.txt
+original acid: P
+mutated acid: L
+at position: 8
+
+Statistics:
+
+No all proteins: 250
+Is same at position: count = 244
+No. basic acids at position: 0
+No. mutated acids at position: 2
+No. else acids at position: 4
+Originals : 0.000000
+Mutated : 1.600000

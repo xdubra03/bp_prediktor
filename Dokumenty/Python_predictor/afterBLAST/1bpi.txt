@@ -1,0 +1,867 @@
+>gi|161137401|gb|ABX57797.1| aprotinin precursor [Plastid transformation vector pAPR20]
+MSRLSLKTSGDEENWVSRFRSKSLSLVFSGVLALGLSLSGVGFADARPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFV
+YGGCRAKRNNFKSAEDCMRTCGGA
+>gi|161137404|gb|ABX57799.1| aprotinin precursor [Plastid transformation vector pAPR21]
+MRPINQVVAFSVPISRRDASIILLSSIPLTSFFVLTPSSSEARPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGC
+RAKRNNFKSAEDCMRTCGGA
+>gi|115114|sp|P00974.2|BPT1_BOVIN RecName: Full=Pancreatic trypsin inhibitor; AltName: Full=Aprotinin; AltName: Full=Basic protease inhibitor; Short=BPI; Short=BPTI; Flags: Precursor >gi|538261032|pdb|4BNR|I Chain I, Extremely Stable Complex Of Crayfish Trypsin With Bovine Trypsin Inhibitor >gi|538261033|pdb|4BNR|J Chain J, Extremely Stable Complex Of Crayfish Trypsin With Bovine Trypsin Inhibitor >gi|162769|gb|AAD13685.1| trypsin inhibitor [Bos taurus]
+MKMSRLCLSVALLVLLGTLAASTPGCDTSNQAKAQRPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNF
+KSAEDCMRTCGGAIGPWENL
+>gi|28373262|pdb|1CO7|I Chain I, R117h Mutant Rat Anionic Trypsin Complexed With Bovine Pancreatic Trypsin Inhibitor (Bpti)
+KMSRLCLSVALLVLLGTLAASTPGCDTSNQAKAQRPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFK
+SAEDCMRTCGGAIGPWENL
+>gi|664893|emb|CAA28886.1| trypsin ihibitor precursor [Bos taurus]
+SVALLVLLGTLAASTPGCDTSNQAKAQRPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMR
+TCGGAIGPWENL
+>gi|209188|gb|AAA72535.1| alkaline phosphatase/pancreatic trypsin inhibitor precursor [synthetic construct]
+MKQSTIALALLPLLFTPVTKARPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFLYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|226393|prf||1510193A BPTI
+MKMSRLCLSVALLVLLGTLAASTPGCDTSNQAKAQRPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNDF
+KSAEDCMRTCGGAIGPWENL
+>gi|58069|emb|CAA28371.1| unnamed protein product [synthetic construct]
+MRPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|360748|prf||1405218D aprotinin analog
+ERPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|4139559|pdb|3TGI|I Chain I, Wild-Type Rat Anionic Trypsin Complexed With Bovine Pancreatic Trypsin Inhibitor (Bpti) >gi|4139561|pdb|3TGJ|I Chain I, S195a Trypsinogen Complexed With Bovine Pancreatic Trypsin Inhibitor (Bpti) >gi|14719440|pdb|1F5R|I Chain I, Rat Trypsinogen Mutant Complexed With Bovine Pancreatic Trypsin Inhibitor >gi|14719442|pdb|1F7Z|I Chain I, Rat Trypsinogen K15a Complexed With Bovine Pancreatic Trypsin Inhibitor >gi|14719488|pdb|3TGK|I Chain I, Trypsinogen Mutant D194n And Deletion Of Ile 16-Val 17 Complexed With Bovine Pancreatic Trypsin Inhibitor (Bpti)
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGAIGPWENL
+>gi|230373|pdb|1TPA|I Chain I, The Geometry Of The Reactive Site And Of The Peptide Groups In Trypsin, Trypsinogen And Its Complexes With Inhibitors >gi|230596|pdb|2KAI|I Chain I, Refined 2.5 Angstroms X-Ray Crystal Structure Of The Complex Formed By Porcine Kallikrein A And The Bovine Pancreatic Trypsin Inhibitor. Crystallization, Patterson Search, Structure Determination, Refinement, Structure And Comparison With Its Components And With The Bovine Trypsin- Pancreatic Trypsin Inhibitor Complex >gi|230678|pdb|2PTC|I Chain I, The Geometry Of The Reactive Site And Of The Peptide Groups In Trypsin, Trypsinogen And Its Complexes With Inhibitors >gi|230763|pdb|2TGP|I Chain I, The Geometry Of The Reactive Site And Of The Peptide Groups In Trypsin, Trypsinogen And Its Complexes With Inhibitors >gi|230936|pdb|3TPI|I Chain I, The Geometry Of The Reactive Site And Of The Peptide Groups In Trypsin, Trypsinogen And Its Complexes With Inhibitors >gi|1827751|pdb|1MTN|D Chain D, Bovine Alpha-Chymotrypsin:bpti Crystallization >gi|1827755|pdb|1MTN|H Chain H, Bovine Alpha-Chymotrypsin:bpti Crystallization >gi|2392221|pdb|1CBW|D Chain D, Bovine Chymotrypsin Complexed To Bpti >gi|2392225|pdb|1CBW|I Chain I, Bovine Chymotrypsin Complexed To Bpti >gi|2780965|pdb|1BTH|P Chain P, Structure Of Thrombin Complexed With Bovine Pancreatic Trypsin Inhibitor >gi|2780966|pdb|1BTH|Q Chain Q, Structure Of Thrombin Complexed With Bovine Pancreatic Trypsin Inhibitor >gi|3401990|pdb|2HEX|A Chain A, Decamers Observed In The Crystals Of Bovine Pancreatic Trypsin Inhibitor >gi|3401991|pdb|2HEX|B Chain B, Decamers Observed In The Crystals Of Bovine Pancreatic Trypsin Inhibitor >gi|3401992|pdb|2HEX|C Chain C, Decamers Observed In The Crystals Of Bovine Pancreatic Trypsin Inhibitor >gi|3401993|pdb|2HEX|D Chain D, Decamers Observed In The Crystals Of Bovine Pancreatic Trypsin Inhibitor >gi|3401994|pdb|2HEX|E Chain E, Decamers Observed In The Crystals Of Bovine Pancreatic Trypsin Inhibitor >gi|3660019|pdb|1BHC|A Chain A, Bovine Pancreatic Trypsin Inhibitor Crystallized From Thiocyanate >gi|3660020|pdb|1BHC|B Chain B, Bovine Pancreatic Trypsin Inhibitor Crystallized From Thiocyanate >gi|3660021|pdb|1BHC|C Chain C, Bovine Pancreatic Trypsin Inhibitor Crystallized From Thiocyanate >gi|3660022|pdb|1BHC|D Chain D, Bovine Pancreatic Trypsin Inhibitor Crystallized From Thiocyanate >gi|3660023|pdb|1BHC|E Chain E, Bovine Pancreatic Trypsin Inhibitor Crystallized From Thiocyanate >gi|3660024|pdb|1BHC|F Chain F, Bovine Pancreatic Trypsin Inhibitor Crystallized From Thiocyanate >gi|3660025|pdb|1BHC|G Chain G, Bovine Pancreatic Trypsin Inhibitor Crystallized From Thiocyanate >gi|3660026|pdb|1BHC|H Chain H, Bovine Pancreatic Trypsin Inhibitor Crystallized From Thiocyanate >gi|3660027|pdb|1BHC|I Chain I, Bovine Pancreatic Trypsin Inhibitor Crystallized From Thiocyanate >gi|3660028|pdb|1BHC|J Chain J, Bovine Pancreatic Trypsin Inhibitor Crystallized From Thiocyanate >gi|3891366|pdb|1BZX|I Chain I, The Crystal Structure Of Anionic Salmon Trypsin In Complex With Bovine Pancreatic Trypsin Inhibitor >gi|6729974|pdb|1B0C|A Chain A, Evidence Of A Common Decamer In Three Crystal Structures Of Bpti, Crystallized From Thiocyanate, Chloride Or Sulfate >gi|6729975|pdb|1B0C|B Chain B, Evidence Of A Common Decamer In Three Crystal Structures Of Bpti, Crystallized From Thiocyanate, Chloride Or Sulfate >gi|6729976|pdb|1B0C|C Chain C, Evidence Of A Common Decamer In Three Crystal Structures Of Bpti, Crystallized From Thiocyanate, Chloride Or Sulfate >gi|6729977|pdb|1B0C|D Chain D, Evidence Of A Common Decamer In Three Crystal Structures Of Bpti, Crystallized From Thiocyanate, Chloride Or Sulfate >gi|6729978|pdb|1B0C|E Chain E, Evidence Of A Common Decamer In Three Crystal Structures Of Bpti, Crystallized From Thiocyanate, Chloride Or Sulfate >gi|6980877|pdb|1BZ5|A Chain A, Evidence Of A Common Decamer In Three Crystal Structures Of Bpti, Crystallize From Thiocyanate, Chloride Or Sulfate >gi|6980878|pdb|1BZ5|B Chain B, Evidence Of A Common Decamer In Three Crystal Structures Of Bpti, Crystallize From Thiocyanate, Chloride Or Sulfate >gi|6980879|pdb|1BZ5|C Chain C, Evidence Of A Common Decamer In Three Crystal Structures Of Bpti, Crystallize From Thiocyanate, Chloride Or Sulfate >gi|6980880|pdb|1BZ5|D Chain D, Evidence Of A Common Decamer In Three Crystal Structures Of Bpti, Crystallize From Thiocyanate, Chloride Or Sulfate >gi|6980881|pdb|1BZ5|E Chain E, Evidence Of A Common Decamer In Three Crystal Structures Of Bpti, Crystallize From Thiocyanate, Chloride Or Sulfate >gi|7546593|pdb|3BTK|I Chain I, The Crystal Structures Of The Complexes Between Bovine Beta- Trypsin And Ten P1 Variants Of Bpti >gi|10835883|pdb|1D0D|B Chain B, Crystal Structure Of Tick Anticoagulant Protein Complexed With Bovine Pancreatic Trypsin Inhibitor >gi|11513887|pdb|1FY8|I Chain I, Crystal Structure Of The Deltaile16val17 Rat Anionic Trypsinogen-Bpti Complex >gi|18655571|pdb|1EAW|B Chain B, Crystal Structure Of The Mtsp1 (matriptase)-bpti (aprotinin) Complex >gi|18655573|pdb|1EAW|D Chain D, Crystal Structure Of The Mtsp1 (matriptase)-bpti (aprotinin) Complex >gi|90109646|pdb|2FTL|I Chain I, Crystal Structure Of Trypsin Complexed With Bpti At 100k >gi|149242180|pdb|2IJO|I Chain I, Crystal Structure Of The West Nile Virus Ns2b-Ns3 Protease Complexed With Bovine Pancreatic Trypsin Inhibitor >gi|157830426|pdb|1BPI|A Chain A, The Structure Of Bovine Pancreatic Trypsin Inhibitor At 125k: Definition Of Carboxyl-Terminal Residues Glycine-57 And Alanine-58 >gi|157836989|pdb|4PTI|A Chain A, The Geometry Of The Reactive Site And Of The Peptide Groups In Trypsin, Trypsinogen And Its Complexes With Inhibitors >gi|157837120|pdb|6PTI|A Chain A, Structure Of Form Iii Crystals Of Bovine Pancreatic Trypsin Inhibitor >gi|157884141|pdb|2TPI|I Chain I, On The Disordered Activation Domain In Trypsinogen. Chemical Labelling And Low-Temperature Crystallography >gi|159162774|pdb|1OA5|5 Chain 5, The Solution Structure Of Bovine Pancreatic Trypsin Inhibitor At High Pressure >gi|159162775|pdb|1OA6|5 Chain 5, The Solution Structure Of Bovine Pancreatic Trypsin Inhibitor At High Pressure >gi|162330099|pdb|2R9P|I Chain I, Human Mesotrypsin Complexed With Bovine Pancreatic Trypsin Inhibitor(Bpti) >gi|162330100|pdb|2R9P|E Chain E, Human Mesotrypsin Complexed With Bovine Pancreatic Trypsin Inhibitor(Bpti) >gi|162330101|pdb|2R9P|F Chain F, Human Mesotrypsin Complexed With Bovine Pancreatic Trypsin Inhibitor(Bpti) >gi|162330102|pdb|2R9P|G Chain G, Human Mesotrypsin Complexed With Bovine Pancreatic Trypsin Inhibitor(Bpti) >gi|162330105|pdb|2RA3|I Chain I, Human Cationic Trypsin Complexed With Bovine Pancreatic Trypsin Inhibitor (bpti) >gi|162330106|pdb|2RA3|C Chain C, Human Cationic Trypsin Complexed With Bovine Pancreatic Trypsin Inhibitor (bpti) >gi|223674062|pdb|3FP6|I Chain I, Anionic Trypsin In Complex With Bovine Pancreatic Trypsin Inhibitor (Bpti) Determined To The 1.49 A Resolution Limit >gi|223674067|pdb|3FP8|I Chain I, Anionic Trypsin Variant S195a In Complex With Bovine Pancreatic Trypsin Inhibitor (Bpti) Determined To The 1.46 A Resolution Limit >gi|229597944|pdb|3GYM|I Chain I, Structure Of Prostasin In Complex With Aprotinin >gi|229597946|pdb|3GYM|J Chain J, Structure Of Prostasin In Complex With Aprotinin >gi|299689099|pdb|3LDI|A Chain A, Crystal Structure Of Aprotinin In Complex With Sucrose Octasulfate: Unusual Interactions And Implication For Heparin Binding >gi|299689100|pdb|3LDI|B Chain B, Crystal Structure Of Aprotinin In Complex With Sucrose Octasulfate: Unusual Interactions And Implication For Heparin Binding >gi|299689101|pdb|3LDI|C Chain C, Crystal Structure Of Aprotinin In Complex With Sucrose Octasulfate: Unusual Interactions And Implication For Heparin Binding >gi|299689102|pdb|3LDI|D Chain D, Crystal Structure Of Aprotinin In Complex With Sucrose Octasulfate: Unusual Interactions And Implication For Heparin Binding >gi|299689103|pdb|3LDI|E Chain E, Crystal Structure Of Aprotinin In Complex With Sucrose Octasulfate: Unusual Interactions And Implication For Heparin Binding >gi|299689107|pdb|3LDM|A Chain A, Crystal Structure Of Aprotinin In Complex With Sucrose Octasulfate: Unusual Interactions And Implication For Heparin Binding >gi|299689108|pdb|3LDM|B Chain B, Crystal Structure Of Aprotinin In Complex With Sucrose Octasulfate: Unusual Interactions And Implication For Heparin Binding >gi|299689109|pdb|3LDM|C Chain C, Crystal Structure Of Aprotinin In Complex With Sucrose Octasulfate: Unusual Interactions And Implication For Heparin Binding >gi|299689110|pdb|3LDM|D Chain D, Crystal Structure Of Aprotinin In Complex With Sucrose Octasulfate: Unusual Interactions And Implication For Heparin Binding >gi|299689111|pdb|3LDM|E Chain E, Crystal Structure Of Aprotinin In Complex With Sucrose Octasulfate: Unusual Interactions And Implication For Heparin Binding >gi|306991654|pdb|3LDJ|A Chain A, Crystal Structure Of Aprotinin In Complex With Sucrose Octasulfate: Unusual Interactions And Implication For Heparin Binding >gi|306991655|pdb|3LDJ|B Chain B, Crystal Structure Of Aprotinin In Complex With Sucrose Octasulfate: Unusual Interactions And Implication For Heparin Binding >gi|306991656|pdb|3LDJ|C Chain C, Crystal Structure Of Aprotinin In Complex With Sucrose Octasulfate: Unusual Interactions And Implication For Heparin Binding >gi|356624673|pdb|3U1J|E Chain E, Aprotinin Bound To Dengue Virus Protease >gi|404312862|pdb|4DG4|E Chain E, Human Mesotrypsin-s39y Complexed With Bovine Pancreatic Trypsin Inhibitor (bpti) >gi|404312864|pdb|4DG4|C Chain C, Human Mesotrypsin-s39y Complexed With Bovine Pancreatic Trypsin Inhibitor (bpti) >gi|404312866|pdb|4DG4|F Chain F, Human Mesotrypsin-s39y Complexed With Bovine Pancreatic Trypsin Inhibitor (bpti) >gi|404312868|pdb|4DG4|H Chain H, Human Mesotrypsin-s39y Complexed With Bovine Pancreatic Trypsin Inhibitor (bpti) >gi|901695751|pdb|4WWY|C Chain C, Human Cationic Trypsin G193r Mutant In Complex With Bovine Pancreatic Trypsin Inhibitor >gi|901695752|pdb|4WWY|I Chain I, Human Cationic Trypsin G193r Mutant In Complex With Bovine Pancreatic Trypsin Inhibitor >gi|1031954552|pdb|4Y0Y|I Chain I, Trypsin In Complex With With Bpti >gi|264600|gb|AAB25189.1| major cationic kallikrein inhibitor [cattle, posterior pituitary gland, Peptide, 58 aa] >gi|1364184|emb|CAA27063.1| unnamed protein product, partial [Bos taurus] >gi|229270|prf||681071A inhibitor,basic pancreatic trypsin
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|310769025|gb|ADP21166.1| aprotinin fusion protein [synthetic construct]
+GPPGEPGNHHHHHHGSPGNQGQPGGSGGGMRPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAED
+CLRTCGGA
+>gi|58005|emb|CAA37967.1| aprotinin [synthetic construct]
+RRPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|1364183|emb|CAA27062.1| unnamed protein product [Bos taurus]
+PSLFNRDPPIPAAQRPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGAIGPWGKTG
+GRAEGEGKG
+>gi|231095|pdb|4TPI|I Chain I, The Refined 2.2-angstroms (0.22-nm) X-ray Crystal Structure Of The Ternary Complex Formed By Bovine Trypsinogen, Valine-valine And The Arg15 Analogue Of Bovine Pancreatic Trypsin Inhibitor
+RPDFCLEPPYTGPCRARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|159162565|pdb|1JV8|A Chain A, Nmr Structure Of Bpti Mutant G37a >gi|159162566|pdb|1JV9|A Chain A, Nmr Structure Of Bpti Mutant G37a
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGACRAKRNNFKSAEDCMRTCGGA
+>gi|360745|prf||1405218A aprotinin analog
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGG
+>gi|157833506|pdb|1PIT|A Chain A, Determination Of A High-Quality Nuclear Magnetic Resonance Solution Structure Of The Bovine Pancreatic Trypsin Inhibitor And Comparison With Three Crystal Structures >gi|157837070|pdb|5PTI|A Chain A, Structure Of Bovine Pancreatic Trypsin Inhibitor. Results Of Joint Neutron And X-Ray Refinement Of Crystal Form Ii >gi|320089850|pdb|3OTJ|I Chain I, A Crystal Structure Of Trypsin Complexed With Bpti (Bovine Pancreatic Trypsin Inhibitor) By X-RayNEUTRON JOINT REFINEMENT
+XPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|848130396|pdb|4Y0Z|I Chain I, Trypsin In Complex With With Bpti Mutant Aminobutyric Acid >gi|848130399|pdb|4Y10|I Chain I, Trypsin In Complex With With Bpti Mutant (2s)-2-amino-4,4- Difluorobutanoic Acid >gi|848130402|pdb|4Y11|I Chain I, Trypsin In Complex With With Bpti Mutant (2s)-2-amino-4,4,4- Trifluorobutanoic Acid
+RPDFCLEPPYTGPCXARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|7546597|pdb|3BTQ|I Chain I, The Crystal Structures Of The Complexes Between Bovine Beta- Trypsin And Ten P1 Variants Of Bpti
+RPDFCLEPPYTGPCQARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|88193017|pdb|2FI4|I Chain I, Crystal Structure Of A Bpti Variant (Cys14->ser) In Complex With Trypsin
+RPDFCLEPPYTGPSKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|88193019|pdb|2FI5|I Chain I, Crystal Structure Of A Bpti Variant (Cys38->ser) In Complex With Trypsin
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGSRAKRNNFKSAEDCMRTCGGA
+>gi|157832078|pdb|1NAG|A Chain A, Crevice-forming Mutants In The Rigid Core Of Bovine Pancreatic Trypsin Inhibitor: Crystal Structures Of F22a, Y23a, N43g, And F45a
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRGNFKSAEDCMRTCGGA
+>gi|296481032|tpg|DAA23147.1| TPA: pancreatic trypsin inhibitor precursor [Bos taurus]
+MKMSRLCLSVALLVLLGTLAASTPGCDTSNQAKAQRPDFCLEPPYTGPCKARMIRYFYNAKAGLCQPFVYGGCRAKRNNF
+KSSEDCMRTCGGA
+>gi|7546571|pdb|3BTE|I Chain I, The Crystal Structures Of The Complexes Between Bovine Beta-Trypsin And Ten P1 Variants Of Bpti. >gi|62738012|pdb|1T7C|B Chain B, Crystal Structure Of The P1 Glu Bpti Mutant- Bovine Chymotrypsin Complex >gi|62738014|pdb|1T7C|D Chain D, Crystal Structure Of The P1 Glu Bpti Mutant- Bovine Chymotrypsin Complex
+RPDFCLEPPYTGPCEARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|440891889|gb|ELR45345.1| Pancreatic trypsin inhibitor [Bos mutus]
+MKMSRLCLSVALLVLLGTLAASTPGCDTSNQAKAQRPDFCLEPPYTGPCKASIIRYFYNAKAGLCQTFVYGGCKAKSNNF
+KSAEDCMRTCGGAIGPW
+>gi|157830431|pdb|1BPT|A Chain A, Crevice-Forming Mutants Of Bpti: Crystal Structures Of F22a, Y23a, N43g, And F45a
+RPDFCLEPPYTGPCKARIIRYFANAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|157831033|pdb|1FAN|A Chain A, Crevice-Forming Mutants In The Rigid Core Of Bovine Pancreatic Trypsin Inhibitor: Crystal Structures Of F22a, Y23a, N43g, And F45a
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNAKSAEDCMRTCGGA
+>gi|157830460|pdb|1BTI|A Chain A, Crevice-Forming Mutants In The Rigid Core Of Bovine Pancreatic Trypsin Inhibitor: Crystal Structures Of F22a, Y23a, N43g, And F45a
+RPDFCLEPPYTGPCKARIIRYAYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|157744502|ref|NP_001001554.2| pancreatic trypsin inhibitor precursor [Bos taurus] >gi|151553808|gb|AAI49369.1| PTI protein [Bos taurus]
+MKMSRLCLSVALLVLLGTLAASTPGCDTSNQAKAQRPDFCLEPPYTGPCKARMIRYFYNAKAGLCQPFVYGGCRAKRNNF
+KSSEDCMRTCGGAIGPWENL
+>gi|7546591|pdb|3BTH|I Chain I, The Crystal Structures Of The Complexes Between Bovine Beta- Trypsin And Ten P1 Variants Of Bpti >gi|62738020|pdb|1T8M|B Chain B, Crystal Structure Of The P1 His Bpti Mutant- Bovine Chymotrypsin Complex >gi|62738022|pdb|1T8M|D Chain D, Crystal Structure Of The P1 His Bpti Mutant- Bovine Chymotrypsin Complex
+RPDFCLEPPYTGPCHARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|444841763|pdb|9PTI|A Chain A, Basic Pancreatic Trypsin Inhibitor (met 52 Oxidized)
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCXRTCGGA
+>gi|62738016|pdb|1T8L|B Chain B, Crystal Structure Of The P1 Met Bpti Mutant- Bovine Chymotrypsin Complex >gi|62738018|pdb|1T8L|D Chain D, Crystal Structure Of The P1 Met Bpti Mutant- Bovine Chymotrypsin Complex
+MRPDFCLEPPYTGPCMARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|7546599|pdb|3BTT|I Chain I, The Crystal Structures Of The Complexes Between Bovine Beta- Trypsin And Ten P1 Variants Of Bpti >gi|62738024|pdb|1T8N|B Chain B, Crystal Structure Of The P1 Thr Bpti Mutant- Bovine Chymotrypsin Complex >gi|62738026|pdb|1T8N|D Chain D, Crystal Structure Of The P1 Thr Bpti Mutant- Bovine Chymotrypsin Complex
+RPDFCLEPPYTGPCTARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|742076857|ref|XP_010844886.1| PREDICTED: pancreatic trypsin inhibitor [Bison bison bison]
+MKMSRLCLSVALLVLLGTLAASTPGCDTSNQAKAQRPDFCLEPPYTGPCKASIIRYFYNAKAGLCQTFIYGGCKAKSNNF
+KSAEDCMRTCGGAIGPWENL
+>gi|942099906|ref|XP_005910719.2| PREDICTED: pancreatic trypsin inhibitor [Bos mutus]
+MKMSRLCLSVALLVLLGTLAASTPGCDTSNQAKAQRPDFCLEPPYTGPCKASIIRYFYNAKAGLCQTFVYGGCKAKSNNF
+KSAEDCMRTCGGAIGPWGKTGGRAEGEGKG
+>gi|7546585|pdb|3BTD|I Chain I, The Crystal Structures Of The Complexes Between The Bovine Beta- Trypsin And Ten P1 Variants Of Bpti
+RPDFCLEPPYTGPCDARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|7546595|pdb|3BTM|I Chain I, The Crystal Structures Of The Complexes Between Bovine Beta- Trypsin And Ten P1 Variants Of Bpti
+RPDFCLEPPYTGPCMARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|48425173|pdb|1P2K|I Chain I, Structural Consequences Of Accommodation Of Four Non- Cognate Amino-Acid Residues In The S1 Pocket Of Bovine Trypsin And Chymotrypsin >gi|48425183|pdb|1P2O|B Chain B, Structural Consequences Of Accommodation Of Four Non- Cognate Amino-Acid Residues In The S1 Pocket Of Bovine Trypsin And Chymotrypsin >gi|48425185|pdb|1P2O|D Chain D, Structural Consequences Of Accommodation Of Four Non- Cognate Amino-Acid Residues In The S1 Pocket Of Bovine Trypsin And Chymotrypsin
+RPDFCLEPPYTGPCVARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|90109648|pdb|2FTM|B Chain B, Crystal Structure Of Trypsin Complexed With The Bpti Variant (Tyr35- >gly) >gi|157837181|pdb|8PTI|A Chain A, Crystal Structure Of A Y35g Mutant Of Bovine Pancreatic Trypsin Inhibitor
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVGGGCRAKRNNFKSAEDCMRTCGGA
+>gi|7546601|pdb|3BTW|I Chain I, The Crystal Structures Of The Complexes Between Bovine Beta- Trypsin And Ten P1 Variants Of Bpti >gi|62738028|pdb|1T8O|B Chain B, Crystal Structure Of The P1 Trp Bpti Mutant- Bovine Chymotrypsin Complex >gi|62738030|pdb|1T8O|D Chain D, Crystal Structure Of The P1 Trp Bpti Mutant- Bovine Chymotrypsin Complex
+RPDFCLEPPYTGPCWARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|48425171|pdb|1P2J|I Chain I, Structural Consequences Of Accommodation Of Four Non- Cognate Amino-Acid Residues In The S1 Pocket Of Bovine Trypsin And Chymotrypsin >gi|48425179|pdb|1P2N|B Chain B, Structural Consequences Of Accommodation Of Four Non- Cognate Amino-acid Residues In The S1 Pocket Of Bovine Trypsin And Chymotrypsin >gi|48425181|pdb|1P2N|D Chain D, Structural Consequences Of Accommodation Of Four Non- Cognate Amino-acid Residues In The S1 Pocket Of Bovine Trypsin And Chymotrypsin
+RPDFCLEPPYTGPCLARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|345110794|pdb|3P95|E Chain E, Human Mesotrypsin Complexed With Bovine Pancreatic Trypsin Inhibitor Variant (Bpti-K15rR17D)
+RPDFCLEPPYTGPCRADIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|360747|prf||1405218C aprotinin analog
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLCQPFVYGGCRAKRNNFKSSEDCMRTCGGA
+>gi|99031646|pdb|1YKT|B Chain B, TrypsinBPTI COMPLEX MUTANT
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCG
+>gi|159162642|pdb|1LD5|A Chain A, Structure Of Bpti Mutant A16v
+RPDFCLEPPYTGPCRVRIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|7546589|pdb|3BTG|I Chain I, The Crystal Structures Of The Complexes Between Bovine Beta- Trypsin And Ten P1 Variants Of Bpti >gi|48425169|pdb|1P2I|I Chain I, Structural Consequences Of Accommodation Of Four Non- Cognate Amino-Acid Residues In The S1 Pocket Of Bovine Trypsin And Chymotrypsin >gi|48425175|pdb|1P2M|B Chain B, Structural Consequences Of Accommodation Of Four Non- Cognate Amino-Acid Residues In The S1 Pocket Of Bovine Trypsin And Chymotrypsin >gi|48425177|pdb|1P2M|D Chain D, Structural Consequences Of Accommodation Of Four Non- Cognate Amino-Acid Residues In The S1 Pocket Of Bovine Trypsin And Chymotrypsin
+RPDFCLEPPYTGPCGARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|360749|prf||1405218E aprotinin analog
+RPDFCLEPPYTGPCKARMIRYFYNAKAGLCQPFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|207973|gb|AAA72784.1| [Arg-15,Glu-52] aprotinin [synthetic construct]
+MRPDFCLEPPYTGPCRARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCERTCGGA
+>gi|88193015|pdb|2FI3|I Chain I, Crystal Structure Of A Bpti Variant (Cys14->ser, Cys38->ser) In Complex With Trypsin
+RPDFCLEPPYTGPSKARIIRYFYNAKAGLCQTFVYGGSRAKRNNFKSAEDCMRTCGGA
+>gi|345110792|pdb|3P92|E Chain E, Human Mesotrypsin Complexed With Bovine Pancreatic Trypsin Inhibitor Variant (bpti-k15r/r17g)
+RPDFCLEPPYTGPCRAGIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|442595|pdb|1AAL|A Chain A, Structural Effects Induced By Mutagenesis Affected By Crystal Packing Factors: The Structure Of A 30-51 Disulfide Mutant Of Basic Pancreatic Trypsin Inhibitor >gi|442596|pdb|1AAL|B Chain B, Structural Effects Induced By Mutagenesis Affected By Crystal Packing Factors: The Structure Of A 30-51 Disulfide Mutant Of Basic Pancreatic Trypsin Inhibitor
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLVQTFVYGGCRAKRNNFKSAEDAMRTCGGA
+>gi|159163172|pdb|1UUA|A Chain A, Solution Structure Of A Truncated Bovine Pancreatic Trypsin Inhibitor, 3-58 Bpti
+DFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|13399516|pdb|1EJM|B Chain B, Crystal Structure Of The Bpti Ala16leu Mutant In Complex With Bovine Trypsin >gi|13399518|pdb|1EJM|D Chain D, Crystal Structure Of The Bpti Ala16leu Mutant In Complex With Bovine Trypsin >gi|13399520|pdb|1EJM|F Chain F, Crystal Structure Of The Bpti Ala16leu Mutant In Complex With Bovine Trypsin
+RPDFCLEPPYTGPCRLRIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|157837155|pdb|7PTI|A Chain A, Structural Effects Induced By Removal Of A Disulfide Bridge. The X-Ray Structure Of The C30a(Slash)c51a Mutant Of Basic Pancreatic Trypsin Inhibitor At 1.6 Angstroms
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLAQTFVYGGCRAKRNNFKSAEDAMRTCGGA
+>gi|7546587|pdb|3BTF|I Chain I, The Crystal Structures Of The Complexes Between Bovine Beta- Trypsin And Ten P1 Variants Of Bpti. >gi|48425187|pdb|1P2Q|B Chain B, Structural Consequences Of Accommodation Of Four Non- Cognate Amino-Acid Residues In The S1 Pocket Of Bovine Trypsin And Chymotrypsin >gi|48425189|pdb|1P2Q|D Chain D, Structural Consequences Of Accommodation Of Four Non- Cognate Amino-Acid Residues In The S1 Pocket Of Bovine Trypsin And Chymotrypsin
+RPDFCLEPPYTGPCFARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|360746|prf||1405218B aprotinin analog
+ERPDFCLEPPYTGPCKARMIRYFYNAKAGLCQPFVYGGCRAKSNNFKSAEDCMRTCGGA
+>gi|901695755|pdb|4WXV|C Chain C, Human Cationic Trypsin K97d Mutant In Complex With Bovine Pancreatic Trypsin Inhibitor (bpti) >gi|901695756|pdb|4WXV|I Chain I, Human Cationic Trypsin K97d Mutant In Complex With Bovine Pancreatic Trypsin Inhibitor (bpti)
+RPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTC
+>gi|742097357|ref|XP_010833318.1| PREDICTED: spleen trypsin inhibitor I isoform X1 [Bison bison bison] >gi|742097361|ref|XP_010833319.1| PREDICTED: spleen trypsin inhibitor I isoform X2 [Bison bison bison]
+MKMSRLCLSVALLVLLGTLAASTPGCDTSNQAKAQWPDFCLEPPYTGPCKAKMIRYFYNAKAGLCQTFVYGGCKAKSNNF
+RSAEDCMRTCGGAIGPRENL
+>gi|6435821|pdb|1QLQ|A Chain A, Bovine Pancreatic Trypsin Inhibitor (Bpti) Mutant With Altered Binding Loop Sequence >gi|14277906|pdb|1G6X|A Chain A, Ultra High Resolution Structure Of Bovine Pancreatic Trypsin Inhibitor (Bpti) Mutant With Altered Binding Loop Sequence >gi|18158994|pdb|1K6U|A Chain A, Crystal Structure Of Cyclic Bovine Pancreatic Trypsin Inhibitor
+RPDFCLEPPYAGACRARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCLRTCGGA
+>gi|809240|pdb|1BRB|I Chain I, Crystal Structures Of Rat Anionic Trypsin Complexed With The Protein Inhibitors Appi And Bpti
+RPDFAGEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTAGGA
+>gi|296481029|tpg|DAA23144.1| TPA: spleen trypsin inhibitor I precursor [Bos taurus]
+MKMSRLCLSVALLVLLGTLAASTPGCDTSNQAKAQRPDFCLEPPYTGPCKAKMIRYFYNAKAGFCETFVYGGCKAKSNNF
+RSAEDCMRTCGGAIGPRENL
+>gi|45429979|ref|NP_991355.1| spleen trypsin inhibitor I precursor [Bos taurus] >gi|115115|sp|P04815.2|BPT2_BOVIN RecName: Full=Spleen trypsin inhibitor I; Short=SI-I; Contains: RecName: Full=Spleen trypsin inhibitor II; Short=SI-II; Contains: RecName: Full=Spleen trypsin inhibitor III; Short=SI-III; Flags: Precursor >gi|744|emb|CAA28887.1| SI precursor [Bos taurus] >gi|163720|gb|AAA51418.1| spleen inhibitor precursor [Bos taurus]
+MKMSRLCLSIALLVLLGTLAASTPGCDTSNQAKAQRPDFCLEPPYTGPCKAKMIRYFYNAKAGFCETFVYGGCKAKSNNF
+RSAEDCMRTCGGAIGPRENL
+>gi|124075|sp|P00975.1|IBPS_BOVIN RecName: Full=Serum basic protease inhibitor; Short=Serum BPI
+TERPDFCLEPPYTGPCKAAMIRYFYNAKAGFCETFVYGGCRAKSNNFKSAEDCMRTCGGA
+>gi|1364186|emb|CAA27065.1| unnamed protein product, partial [Bos taurus] >gi|226057|prf||1409220B aprotinin-like protease inhibitor II >gi|360750|prf||1405218F aprotinin analog
+RPDFCLEPPYTGPCKAKMIRYFYNAKAGFCETFVYGGCKAKSNNFRSAEDCMRTCGGA
+>gi|226056|prf||1409220A aprotinin-like protease inhibitor I
+AQRPDFCLEPPYTGPCKAKMIRYFYNAKAGFCETFVYGGCKAKSNNFRSAEDCMRTCGGAIGPREN
+>gi|261278582|pdb|2ZVX|A Chain A, Structure Of A Bpti-[5,55] Variant Containing GlyVAL AT THE 1438TH POSITIONS >gi|261278583|pdb|2ZVX|B Chain B, Structure Of A Bpti-[5,55] Variant Containing GlyVAL AT THE 1438TH POSITIONS
+RPDFCLEPPYTGPGKARIIRYFYNAKAGLAQTFVYGGVRAKRNNFKSAEDALRTCGGA
+>gi|209870296|pdb|2ZJX|A Chain A, Bovine Pancreatic Trypsin Inhibitor (Bpti) Containing Only The [5,55] Disulfide Bond >gi|209870297|pdb|2ZJX|B Chain B, Bovine Pancreatic Trypsin Inhibitor (Bpti) Containing Only The [5,55] Disulfide Bond
+RPDFCLEPPYTGPGKARIIRYFYNAKAGLAQTFVYGGARAKRNNFKSAEDALRTCGGA
+>gi|159163173|pdb|1UUB|A Chain A, Solution Structure Of A Truncated Bovine Pancreatic Trypsin Inhibitor Mutant, 3-58 Bpti (K15r, R17a, R42s)
+DFCLEPPYTGPCRAAIIRYFYNAKAGLCQTFVYGGCRAKSNNFKSAEDCMRTCGGA
+>gi|1364185|emb|CAA27064.1| unnamed protein product [Bos taurus]
+PSLFNRDPPIPAAQRPDFCLEPPYTGPCKAKMIRYFYNAKAGFCETFVYGGCKAKSNNFRSAEDCMRTCGGAIGPRGKTG
+GRVEGEGKGEGKRWRSEGHTPFQKSDFFPRCFPREVAAVSVD
+>gi|594037568|ref|XP_006043416.1| PREDICTED: spleen trypsin inhibitor I-like isoform X1 [Bubalus bubalis]
+MSRLCLSVALLVLLGTLAASTPGCDTSNQAKTQQPDFCLEPPYTGPCKAKMIRYFYNAKSGFCETFVYGGCKAKLNNFRS
+AEDCMRTCGGAIGPRGKTGGRAEGEGKGSGKWWRSEGHTPFQKSDFFPRCLPREVAAVSVD
+>gi|594037570|ref|XP_006043417.1| PREDICTED: spleen trypsin inhibitor I-like isoform X2 [Bubalus bubalis]
+MSQLCLSVALLVLLGTLVAGIPGCDTSNQAKAQQPDFCLEPPYTGPCKAKMIRYFYNAKSGFCETFVYGGCKAKLNNFRS
+AEDCMRTCGGAIGPRGKTGGRAEGEGKGSGKWWRSEGHTPFQKSDFFPRCLPREVAAVSVD
+>gi|803332557|ref|XP_012024389.1| PREDICTED: pancreatic trypsin inhibitor [Ovis aries musimon]
+MKMSRLCLSIALLVLLGTLVAGIPGCDTSNQAKAQRPDFCLEPPYTGPCKARMIRYFYNARSGSCETFIYGGCKAKRNNF
+KSEEDCMRTCGDDIGPWENLQTVLP
+>gi|426241542|ref|XP_004014649.1| PREDICTED: pancreatic trypsin inhibitor [Ovis aries]
+MKMSRLCLSIALLVLLGTLVAGIPGCDTSNQAKAQRPDFCLEPPYTGPCKARMIRYFYNARSGSCETFIYGGCKAKRNNF
+KSEEDCMRTCGDDIGPWENLRTVLP
+>gi|556717644|ref|XP_005954729.1| PREDICTED: spleen trypsin inhibitor I-like [Pantholops hodgsonii]
+MKMSHLCLSIALLVLLGTLVAGIPGCDTSNQAKAQRPDFCLEPPYTGPCKAKIIRYFYNARSGFCETFVYGGCKAKSNNF
+KSEEDCMRTCGDNIGPWENLRTVLR
+>gi|99031650|pdb|1YLC|B Chain B, TrypsinBPTI COMPLEX MUTANT
+RPDFXLEPPYTGPCKARIIRYFYNAKAGLXQTFVYGGCRAKRNNFKSAEDXMRTXG
+>gi|548491679|ref|XP_005688658.1| PREDICTED: spleen trypsin inhibitor I [Capra hircus]
+MKMSRLCLSIALLVLLGTLVAGIPGCDTSNQAKAQRPDFCLEPPYTGPCKARMIRYFYNARSGFCETFIYGGCKAKSNNF
+KSEEDCMRTCGDDIGPWENLRTVLP
+>gi|99031652|pdb|1YLD|B Chain B, TrypsinBPTI COMPLEX MUTANT
+RPDFXLEPPYTGPCKARIIRYFYNAPDGLXQTFVYGGCRAKRNNFKSAEDXMRTXG
+>gi|166153972|gb|ABY82797.1| aprotinin [Sus scrofa]
+RPDFCLEPPYTGPCKARMIKYFYNIRSRSCEEFIYGGCEAKKNNFEAMEDCMRTCGGA
+>gi|6730436|pdb|1FAK|I Chain I, Human Tissue Factor Complexed With Coagulation Factor Viia Inhibited With A Bpti-Mutant
+APDFCLEPPYDGPCRALHLRYFYNAKAGLCQTFYYGGCLAKRNNFESAEDCMRTC
+>gi|470622649|ref|XP_004319153.1| PREDICTED: pancreatic trypsin inhibitor-like [Tursiops truncatus]
+MSRLCLSIALLVLLGTLVAGTPGGETSNQVQVADPVDRAVITILITDPEPVPVPAALRPAFCLEPPYTGPCRALFIRYFY
+NAKSGLCETFAYGGCRRKQNNFLDKEDCISTCGGRNRAGDGNTEAATLHSGSAVLLSAPPRLGKLVLFSLVILVSGRAGQ
+LGSPEMVKS
+>gi|593753294|ref|XP_007115554.1| PREDICTED: spleen trypsin inhibitor I-like [Physeter catodon]
+MSRLCLSIALLVLLGTLVACTPGGKHKSHARALRPAFCLEPPYTGPCRALFIRYFYNAKSGLCETFAYGGCRRKQNNFLD
+KEDCISTCGGHNGARESRAAGLP
+>gi|594675267|ref|XP_007185465.1| PREDICTED: pancreatic trypsin inhibitor-like [Balaenoptera acutorostrata scammoni]
+MSCLCLSAALLVLLGTLVAGTPGGETSNQAQVPAALRPALCLEPPYTGPCRALFIRYFYNAKSGLCETFVYGGCRRKQNN
+FLDKEDCISTCGGRNRALGAPGSWDPLRW
+>gi|821397482|ref|XP_012389538.1| PREDICTED: serum basic protease inhibitor-like [Orcinus orca]
+MSRLCLSITLLVLLGTLVAGTPGGETSNQVQALRPAFCLEPPYTGPCRALFIRYFYNAKSGLCETFAYGGCRRKQNNFLD
+KEDCISTCGGRNRARESRAAGLP
+>gi|594675379|ref|XP_007185519.1| PREDICTED: pancreatic trypsin inhibitor-like [Balaenoptera acutorostrata scammoni]
+MRRLCLSVALLVLLGTLVACAPGGKHKSHARGSQPAFCLEPHYTGPCRARKIRYFYNAKSGHCEIFIYGGCRGKKNSFLT
+AEDCMKTCGGHVGIQQLERGRGKV
+>gi|528754554|gb|EPY74213.1| pancreatic trypsin inhibitor precursor [Camelus ferus]
+MKMSRLCLSAALLVLLGTLVLSAQRGGSRSPARGLQPAFCLEPPYTGRCKARKIRYFYNPMTRLCQTFIYGGCDARRNNF
+LSEDDCMRTCGGAVTPLRQEH
+>gi|470655792|ref|XP_004330325.1| PREDICTED: pancreatic trypsin inhibitor-like [Tursiops truncatus]
+MSRLCLSIALLVLLGTLVACTSGGKHKSHAKDSLPAFCLEPHHTGPCRARTIRYFYNAKSGHCDMFIYGGCRGKKNNFPT
+AQDCMKTCGGHMGTHRLGPTRYGK
+>gi|744560283|ref|XP_010976891.1| PREDICTED: serum basic protease inhibitor-like [Camelus dromedarius] >gi|946683057|ref|XP_014422179.1| PREDICTED: serum basic protease inhibitor [Camelus ferus]
+MKMSRLCLSAALLVLLGTLVLSAQRGGSRSPARGLQPAFCLEPPYTGRCKARKIRYFYNPMTRLCQTFIYGGCDARRNNF
+LSEDDCMRTCGGAVTPLRRRVFP
+>gi|743726023|ref|XP_010956982.1| PREDICTED: serum basic protease inhibitor-like [Camelus bactrianus]
+MKMSRLCLPAALLVLLGTLVLSAQRGGSRSPARGLQPAFCLEPPYTGRCKARKIRYFYNPMTRLCQTFIYGGCDARRNNF
+LSEDDCMRTCGGAVTPLRRRVFP
+>gi|466025051|ref|XP_004273038.1| PREDICTED: pancreatic trypsin inhibitor-like [Orcinus orca]
+MSQLCLSIALLVLLGTLVACTSGGKHKSHAKDSLPAFCLEPHHTGPCRARTIRYFYNAKSGHCDMFIYGGCRGKKNNFPT
+AQDCMKTCGGHMGTHRKEVGKQEWTRVQLQLVELHPAWKQLRFLVPTGARVTPDPRGLGNGKGGSRPACLVC
+>gi|594675377|ref|XP_007185518.1| PREDICTED: pancreatic trypsin inhibitor-like [Balaenoptera acutorostrata scammoni]
+MRRLCLSVALLVLLGTLVACAPGGKHKSHARGSQPAFCLEPQYAGPCRAQKVRYFYNAKSGQCETFMYGGCRGNKNNFLT
+AEDCMKTCGGHVGTLE
+>gi|594675381|ref|XP_007185520.1| PREDICTED: pancreatic trypsin inhibitor-like [Balaenoptera acutorostrata scammoni]
+MNQLGLSAALLVLLGTLVAGTPGAETSKQAQAVFCLEPPYTGPCKAKIIRYFHDTKSGFCETFVYGGCNAKNKNFKMGED
+FVRTCGGTIRPWGEVAATSFESMD
+>gi|347300498|ref|NP_001231406.1| pancreatic trypsin inhibitor-like isoform 1 precursor [Sus scrofa]
+MSRLCLSAALLLLLGALVASTQGCEERSQIEVVHLVDRAPGTLLPTDQSSSRPAELPPAFCLEPPYTGPCKARMIKYFYN
+IRSRSCEEFIYGGCEAKKNNFEAMEDCMRTCGSWRDFCGPVLPRDAED
+>gi|347300184|ref|NP_001231407.1| pancreatic trypsin inhibitor-like isoform 2 precursor [Sus scrofa]
+MSRLCLSAALLLLLGALVASTQGCEERSQIEELPPAFCLEPPYTGPCKARMIKYFYNIRSRSCEEFIYGGCEAKKNNFEA
+MEDCMRTCGSWRDFCGPVLPRDAED
+>gi|602709232|ref|XP_007464870.1| PREDICTED: spleen trypsin inhibitor I-like [Lipotes vexillifer]
+MSRLCLSIALLVLLGTLVAGTPGGETSSQAQGSRPAFCLEPQYTGPCRARKIRYFYDSKSGHCDIFIYGGCFAKKNNFPT
+AEDCVKTCGGFAGIRG
+>gi|159162643|pdb|1LD6|A Chain A, Structure Of Bpti_8a Mutant
+RPDFCLEPPYAGACRAAAARYFYNAKAGLCQTFAYGACAAKRNNFKSAEDCLRTCGGA
+>gi|982943818|ref|XP_015329795.1| PREDICTED: serum basic protease inhibitor-like isoform X2 [Bos taurus] >gi|982993861|ref|XP_015321682.1| PREDICTED: serum basic protease inhibitor-like isoform X2 [Bos taurus] >gi|296480848|tpg|DAA22963.1| TPA: Pancreatic trypsin inhibitor-like [Bos taurus]
+MSRLCLSAALLVLLGILVAGTREGDNSNKNDGLRPAFCLQPPYTGPCRAMFTRYFYNAVSGLCQTFTYGGCRRKPNNFRS
+EKECISTCGGRNRAQESLATVLPEMLKS
+>gi|593753411|ref|XP_007115612.1| PREDICTED: spleen trypsin inhibitor I-like [Physeter catodon]
+MSGPHKDYPNLPQKTTSRPAFCLEPHYTGPCRARKIRYFYNAKSGHCDLFVYGGCLGKKNNFLTAENCMKICGGHAGIRG
+WEH
+>gi|298160930|ref|NP_001177144.1| pancreatic trypsin inhibitor precursor [Sus scrofa]
+MSRLCLSAALLLLLGALVASTPGDEESSLVRPQWPAFCLEPPYTGPCKARKIRFFYDAESGVCKTFIYGGCHARQNNFLS
+YNNCMRTCGSWGTSDNQ
+>gi|970712482|ref|XP_006202770.2| PREDICTED: pancreatic trypsin inhibitor-like [Vicugna pacos]
+MKMSRLCLPAALLVLLGTLVLSAQRGGSRSPARGLQPAFCLELPYTGPCKARKIRYFYNPMTRLCQTFIYGGCDARRNNF
+LSEYDCMRTCGGAVMPLRRCVFPCGAEVRGGRPGVGCGCI
+>gi|982943815|ref|XP_015329794.1| PREDICTED: pancreatic trypsin inhibitor isoform X1 [Bos taurus] >gi|982993859|ref|XP_015321681.1| PREDICTED: pancreatic trypsin inhibitor isoform X1 [Bos taurus]
+MSRLCLSAALLVLLGILVAGTREGDNSNKNDGLRPAFCLQPPYTGPCRAMFTRYFYNAVSGLCQTFTYGGCRRKPNNFRS
+EKECISTCGGRNRAQGIETPSRWEKLRINDGNLPTSM
+>gi|444720896|gb|ELW61660.1| Pancreatic trypsin inhibitor [Tupaia chinensis]
+MNRLGLSMALLVLLAILGVSALGFNTIENGTTAPSKASRPDFCLQPAYTGPCKARFTRYYFNSTAGSCQTFVYGGCRGNK
+NNFRKMDDCIKTCSAK
+>gi|440891466|gb|ELR45134.1| hypothetical protein M91_20172 [Bos mutus]
+KMSRLCLSAALLVLLGTLVAGTPEGENSNKNDGLRPAFCLQPPYTGPCRAMFTRYFYNAVSGLCQTFTYGGCRRKPNNFR
+SEKQCISTCGG
+>gi|742097710|ref|XP_010833405.1| PREDICTED: pancreatic trypsin inhibitor-like [Bison bison bison]
+MSRLCLSTALLVLLGTLVAGTPEGENSNKNDGLRPAFCLQPPYTGPCRAMFTRYFYNAVSGLCQTFTYGGCRRKPNNFRS
+EKECISTCGGRNRDQVTTVQSGDGSGLDAAESSGYRGDSKERQAIGFSRRLLGVRKGKKH
+>gi|223674065|pdb|3FP7|J Chain J, Anionic Trypsin Variant S195a In Complex With Bovine Pancreatic Trypsin Inhibitor (Bpti) Cleaved At The Scissile Bond (Lys15-Ala16) Determined To The 1.46 A Resolution Limit
+ARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA
+>gi|470655789|ref|XP_004330324.1| PREDICTED: pancreatic trypsin inhibitor-like [Tursiops truncatus]
+MSRLCLSIALLLLLGILVACTPGAEHKSRARDPPPAFCLEPPFEGPCKAIFIRYFYNATSRLCETFKYGGCDAKQNNFLT
+SEDCMRTCGGAERPWSTGAEKSGMCSALEVDLNCMRECLSGGECVADLKGCQAGCATVCQMPSGNPGGLHQAGREMVLVG
+DAQW
+>gi|594037566|ref|XP_006043415.1| PREDICTED: pancreatic trypsin inhibitor-like [Bubalus bubalis]
+MSHLCLSAALLVLLGTLVAGTPEGDDSNKDDGLRPAFCLQPPYTGPCRAMFTRYFYNAVSGLCQTFTYGGCRRKPNNFLS
+EKECISTCGGRNRAQESLATVLPETLKS
+>gi|555998473|ref|XP_005910948.1| PREDICTED: pancreatic trypsin inhibitor [Bos mutus]
+MSRLCLSAALLVLLGTLVAGTPEGENSNKNDGLRPAFCLQPPYTGPCRAMFTRYFYNAVSGLCQTFTYGGCRRKPNNFRS
+EKQCISTCGGRNRAQVTTVQSGDGSGLDAAESSGYRGDNKE
+>gi|548480246|ref|XP_005684879.1| PREDICTED: serum basic protease inhibitor-like [Capra hircus]
+MSRLCLSTALLVLLGTLVAGTPEGDDSNKDNGLRPAFCLQPPYTGPCRAMFTRYFFNAVSGLCQTFTYGGCRRKQNNFRN
+EKECISTCGGRNRAQ
+>gi|602732639|ref|XP_007451712.1| PREDICTED: pancreatic trypsin inhibitor-like [Lipotes vexillifer]
+MSMSRLCLSIALLVLLGTMVAGTPGGETSSQAQALRPAFCLXXXXPAFCREPPYTGPCRALFIRYFYDAKSGLCETFAYG
+GCRRQENNFLDKEDCMSTCGGRNRAPDGNTEAATLHTGITGRPLSLRMGTPESSPWPPAALPTGPRREVGKQERTRVQLQ
+LVELHRPGSSLRSWFPLGPE
+>gi|926707575|ref|XP_005688769.2| PREDICTED: serum basic protease inhibitor-like [Capra hircus]
+MSRLCLSAALLVLLGTLVAGTPESDDSNKDNGLRPAFCLQPPYTGPCRAMFTRYFFNAVSGLCQTFTYGGCRRKPNNFRN
+EKECISTCGGRNRAQQNPATVLPEMLKS
+>gi|821397480|ref|XP_012389537.1| PREDICTED: pancreatic trypsin inhibitor-like [Orcinus orca]
+MSRLCLSIALLVLLGTLVACTPGAEHKSRARDPPPAFCLEPPFKGLCKAILIRYFYNATSRLCETFKYGGCDAKQNNFLT
+SEDCMRTCGGAERPWSTGAEKSGMCSALEVDLNCTRECLSGGECVADLKGCQAGCATVCQMPSGNPGGLHQAGREMELHI
+GPYT
+>gi|556717642|ref|XP_005954728.1| PREDICTED: pancreatic trypsin inhibitor-like [Pantholops hodgsonii]
+MSRLCLSAALLVLLGTLVAGTPEGNDSNKDNGLRPAFCLQPPYTGPCRATFTRYFFNAVSGLCQTFTYGGCRRKPNNFRN
+EKECISTCGGRNRAQ
+>gi|593753417|ref|XP_007115615.1| PREDICTED: pancreatic trypsin inhibitor-like [Physeter catodon]
+MNRLCLSIALLVLLGTLVACTPGGETSNQAQASQPAFCLEPQYTGPCKAQKVRYFYNAKSGQCETFINSSCRGKKNNFLT
+AENCMKICGGHVGTYGWEH
+>gi|593753415|ref|XP_007115614.1| PREDICTED: pancreatic trypsin inhibitor-like [Physeter catodon]
+MNRLCLSIALLVLLGTLVACTPGGETSNQAQEQRPVFCLEPPYTGPCKVKIIRYFLYFRYFHDTKSGFCETFVYGGRNAK
+NNNFKMGEDCVRTCGGTIRPWNKTGGRAREVTAMSFESMD
+>gi|593753413|ref|XP_007115613.1| PREDICTED: spleen trypsin inhibitor I-like [Physeter catodon]
+MSRLCLSIALLVLLGTLVSCTPWGETGNQAQGSQPAFCLESYYTGPCKARKIRYFYNAKSRHCEIFIYGGCRGRKNNFLT
+AEDCMKICGGHAGIRGWEHGVSHPTEQVCRAPELPT
+>gi|965909092|ref|XP_012024386.2| PREDICTED: serum basic protease inhibitor-like [Ovis aries musimon] >gi|965969232|ref|XP_004014650.2| PREDICTED: serum basic protease inhibitor-like [Ovis aries]
+MGKAAFLCLLPFPGSPALLVLLGTLVAGTPEGDDSNKDNGLRPAFCLQPPYTGPCRAMFTRYFFNAVSGLCQTFTYGGCR
+RKPNNFRNEKECISTCGGPNRAQ
+>gi|927215349|ref|XP_013840884.1| PREDICTED: uterine plasmin/trypsin inhibitor [Sus scrofa]
+MSRLCLSAALLLLLGALVYSTPGDEESSLVRAGPPAFCREPPYTGPCRAHFIRYFYNATTGLCQTFVYGGCRGKQNNFMD
+EKECLHTCDSCAKAQGKRGNCAS
+>gi|444720895|gb|ELW61659.1| Pancreatic trypsin inhibitor [Tupaia chinensis]
+MNRLCLSVALLVLLGSQQNESMNPSQVSQPDFCFEPPHTGRCRASFTRYYFNSTTGNCQTFVYGGCRGKKNNFVNIEDCM
+NTCGAK
+>gi|47523116|ref|NP_999036.1| uterine plasmin/trypsin inhibitor precursor [Sus scrofa] >gi|2497580|sp|Q29100.1|UPTI_PIG RecName: Full=Uterine plasmin/trypsin inhibitor; Short=UPTI; Flags: Precursor >gi|682653|gb|AAA62425.1| plasmin trypsin inhibitor [Sus scrofa]
+MSRLCLSAALLLLLGALVASTPGDEESSLVRAGPPGFCREPPYTGPCSAHFVRYFYNATTGLCQSFVYGGCRGKQNNFMD
+EKECLHTCDTCAKAQGKRGNCASEMLKSTRPQGWAVAAFQMG
+>gi|947277123|ref|XP_014445638.1| PREDICTED: pancreatic trypsin inhibitor-like [Tupaia chinensis]
+MNRLCLSVALLVLLGSQQNESMNPSQGPQFCVLTCRLKAGAPVGHQDGTGGFKDQAVSQPDFCFEPPHTGRCRASFTRYY
+FNSTTGNCQTFVYGGCRGKKNNFVNIEDCMNTCGAK
+>gi|556717778|ref|XP_005954795.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Pantholops hodgsonii]
+MNQLCLSAALLFLLVILMDSTPVYEHHTQDQGLETSHRRGPEKLSIIDVITNVIDGVVKGTEIIHGLGSGMLKGLADIIS
+NGIQGQVMISGTQLENHTVEEFLTQILKQAASKPEFCLEPELKGPCKDQMTRYFYNATAGYCEPFVYGGCEGNKNNFQTL
+SDCIVTCSPVTMSLW
+>gi|470622646|ref|XP_004319152.1| PREDICTED: spleen trypsin inhibitor I-like [Tursiops truncatus]
+MSRLCLSIALLVLLGTLVAGIPGTLVAGIQGAEWPAFCLEPHHTGPCRARKVRYFYNAKSGHCDMFIYSGCRGKNNFLTP
+EDCMKTCGGPVVTHG
+>gi|926707499|ref|XP_013824282.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Capra hircus]
+MNRLCLSTALLFLLVILVDSTPVYEHHTQDQGLETSLRRRPEKRSIIDVISHVIDGVVKGTKIFHGLKGLADIISNGIQG
+QVMISGTQLENHTVGTQLENHTVEEFLTQILKNAASKPEFCLEPELKGPCKDQMTRYFYNATAGYCEPFVYGGCEGNKNN
+FQTLSDCLVTCSPVTVSLW
+>gi|731232153|ref|XP_010629798.1| PREDICTED: serum basic protease inhibitor-like [Fukomys damarensis]
+MYQLRLFAVLVLLVTPVASTQERGTSAPSQAPPPAFCLDPPYTGPCRALFRRFFFNATSGLCEKFVYGGCRAKQNNFRNN
+EECVQTCEMPTLVLP
+>gi|803137623|ref|XP_012044650.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X2 [Ovis aries]
+MNRLCLSTALLFLLVILVDSTPVYEHHTQDQGLETSLRRRPEKRSIIDVISHVIDGVVKGTKIFHGLKGLADIISNGIKG
+QVMISGMQLENHTVGTQLENHTVEEFLTQILKNASKPEFCLEPELKGPCKDQMTRYFYNATAGYCEPFVYGGCEGNKNNF
+QTLSDCLVTCSPVTVSL
+>gi|803137621|ref|XP_012044649.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X1 [Ovis aries]
+MNRLCLSTALLFLLVILVDSTPVYEHHTQDQGLETSLRRRPEKRSIIDVISHVIDGVVKGTKIFHGLKGLADIISNGIKG
+QVMISGMQLENHTVGTQLENHTVEEFLTQILKNAASKPEFCLEPELKGPCKDQMTRYFYNATAGYCEPFVYGGCEGNKNN
+FQTLSDCLVTCSPVTVSL
+>gi|803332581|ref|XP_012024399.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X2 [Ovis aries musimon]
+MNRLCLSTALLFLLVILVDSTPVYEHHTQDQGLETSLRRRPEKRSIIDVISHVIDGVVKGTKIFHGLKGLADIISNGIKG
+QVMISGTQLENHTVGTQLENHTVEEFLTQILKNASKPEFCLEPELKGPCKDQMTRYFYNATAGYCEPFVYGGCEGNKNNF
+QTLSDCLVTCSPVTVSL
+>gi|803332579|ref|XP_012024398.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X1 [Ovis aries musimon]
+MNRLCLSTALLFLLVILVDSTPVYEHHTQDQGLETSLRRRPEKRSIIDVISHVIDGVVKGTKIFHGLKGLADIISNGIKG
+QVMISGTQLENHTVGTQLENHTVEEFLTQILKNAASKPEFCLEPELKGPCKDQMTRYFYNATAGYCEPFVYGGCEGNKNN
+FQTLSDCLVTCSPVTVSL
+>gi|593764231|ref|XP_007120700.1| PREDICTED: follitropin subunit beta-like [Physeter catodon]
+MKMSQFCLSAALLNLLATLVAGTPGGENKSPAQAPWPAFCLEPLYTGLCRAWKIRYFYNSKSGLCETFVYGGCHGKKNNF
+LKADDFMKTCGGALKYFGCLIVCFPAQDEVSSFCFLFCCWRAICCSSCELTNIIITVEKEECGLCKSINTTWCAGYCYTQ
+DPVYKDPAKSNIQKTCTFKEPTYETVKVPGCAHHADSLYMYPVASECHCGKCDSDSTDCTVQGLGPSHCSFSEIKE
+>gi|742080774|ref|XP_010852146.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Bison bison bison]
+MRRLCFSAALLFLLVILVDSTLLNIHHIQDEGLETGHRRGPEKRSVIDVATSIIDGIDTGTKIVKKGAGILTGLAEIITK
+AIKGQVMISRIQFYNHTWEELPTLNIEYSILSGENKGVETSHRRGVEKRSVIDVVTSIINGVATGTKIVTKGASILTGLA
+EIINKAIRGQVMISGIQFDNHTLEEYQTLKIEYSALNEENKAASKPALCLEPKVTGGCNAMMTRYFYNAQTGLCEQFVYG
+GCEGNGNNFKKLEDCMKTCSQEAGSLW
+>gi|830062916|ref|XP_012583649.1| PREDICTED: putative Kunitz-type serine protease inhibitor [Condylura cristata]
+MRPSKLSTALLVLLTTVLTIMQGAGAQTPKFAPPAFCLEPPFTGPCKARMIRWFFNASSGVCEHFVFGGCRGRRNNFRAE
+ERCNSLCAKNEVKSTAGPEDRVGGAAQGPGERPPGPEKLVPASEEPAPLAENAPEGEEAAPEVGSAPEGEEAALQEQSPE
+EPAPEE
+>gi|830061549|ref|XP_012583578.1| PREDICTED: serum basic protease inhibitor-like [Condylura cristata]
+MSCLCLTSGLLVLLACLVTVTQWDRAYAYPAFCWDPPYKGPCKARKMRWFFNSKSGLCEPFVYGGCKAKRNHFLEKEQCL
+SLCSGIEPEPAGETEAPEMEPESWESALP
+>gi|657231865|pdb|3WNY|A Chain A, A Simplified Bpti Variant With Poly Lys Amino Acid Tag (c3k) At The C- Terminus >gi|657231866|pdb|3WNY|C Chain C, A Simplified Bpti Variant With Poly Lys Amino Acid Tag (c3k) At The C- Terminus >gi|657231867|pdb|3WNY|E Chain E, A Simplified Bpti Variant With Poly Lys Amino Acid Tag (c3k) At The C- Terminus >gi|657231868|pdb|3WNY|G Chain G, A Simplified Bpti Variant With Poly Lys Amino Acid Tag (c3k) At The C- Terminus >gi|657231869|pdb|3WNY|B Chain B, A Simplified Bpti Variant With Poly Lys Amino Acid Tag (c3k) At The C- Terminus >gi|657231870|pdb|3WNY|F Chain F, A Simplified Bpti Variant With Poly Lys Amino Acid Tag (c3k) At The C- Terminus >gi|657231871|pdb|3WNY|H Chain H, A Simplified Bpti Variant With Poly Lys Amino Acid Tag (c3k) At The C- Terminus >gi|657231872|pdb|3WNY|I Chain I, A Simplified Bpti Variant With Poly Lys Amino Acid Tag (c3k) At The C- Terminus
+RPAFCLEPPYAGPGKARIIRYFYNAKAGAAQAFVYGGVRAKRNNFASAADALAACAAAGGKKK
+>gi|955517523|ref|XP_014643046.1| PREDICTED: uterine plasmin/trypsin inhibitor-like [Ceratotherium simum simum]
+MKMDRLCLFALLALLSILVAGTQGNKELSCILAVPPAFCLEPPYTGPCKARFPRYFFNATSRECKVFTYGGCRGKKNNFG
+DKEECLRTCRGNDPPPKSPRREEEKEEGKRVCRLQLVEQLIELCWAWKLHMFLVPTGAKSDT
+>gi|556717780|ref|XP_005954796.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Pantholops hodgsonii]
+MRRLCLSAALLFLLVILVDSTPLNIYHIQDEGLETSHSRGPEKRSVIDVVSGIINGVATGTKIIEKGAGILTGLAEIITK
+AIKDTVMISRIQFDNQTLEELPTLQLEYTTLSEENKGLKTSHRRGLEKRSVIDVVTSIINGVATGTKIIEKGAGILTGLA
+EIITKAIKGQVMISGIQFDNHTLEEYQTLKIEYSTLNEENKAASKPALCLEPKVTGGCNAMMTRYFYNAQTGLCEQFVYG
+GCEGNGNNFEKLEDCMKTCCQEAGSL
+>gi|470637280|ref|XP_004323953.1| PREDICTED: pancreatic trypsin inhibitor-like [Tursiops truncatus]
+MKMSRLCLSASLLVLLGTLAAGTQRDETSTPAQAPQPTFCPEPPYMGPCKALLFRYFYNASSRLCKTFAYGRCRRKQNNF
+LDKEDCISTCNGCNRLQESWATVLP
+>gi|374977483|pdb|3AUD|A Chain A, Simplified Bpti Variant With Poly Asn Amino Acid Tag (C5n) At The C- Terminus >gi|374977484|pdb|3AUD|B Chain B, Simplified Bpti Variant With Poly Asn Amino Acid Tag (C5n) At The C- Terminus >gi|374977485|pdb|3AUD|C Chain C, Simplified Bpti Variant With Poly Asn Amino Acid Tag (C5n) At The C- Terminus
+RPAFCLEPPYAGPGKARIIRYFYNAAAGAAQTFVYGGVRAKRNNFASAADALAACAAAGGNNNNN
+>gi|374977481|pdb|3AUC|A Chain A, A Simplified Bpti Variant With Poly Ser (C5s) Amino Acid Tag At The C- Terminus >gi|374977482|pdb|3AUC|B Chain B, A Simplified Bpti Variant With Poly Ser (C5s) Amino Acid Tag At The C- Terminus
+RPAFCLEPPYAGPGKARIIRYFYNAAAGAAQTFVYGGVRAKRNNFASAADALAACAAAGGSSSSS
+>gi|744560285|ref|XP_010976892.1| PREDICTED: serum basic protease inhibitor-like [Camelus dromedarius]
+MSRLCLSAAFLVLLGTLVLSTPVAKNCPNPPSLPAFCLEPPYTGPCRASFPRYFYNASSGFCETFTFGGCRGKKNNFPDE
+EKCIFICGRPRKN
+>gi|533156978|ref|XP_005392481.1| PREDICTED: boophilin-H2-like [Chinchilla lanigera]
+MGKFAVPESAVSSSPSSIPPPILSHLPLECHKFCQSPAVRKPPVLVTKMHKLCLFAVLLVLTATSVASTQGEETSADFQA
+QPPAFCLEPPYTGPCKAMFIRYFFNASSGYCESFVYGGCEGNQNRFWDQEECAQTCGQKITALAQPPAFCLEPPYTGPCK
+AMFIRYFFNASSGFCETFVYGGCGGNQNRFWDQEECVQTCGQKITSLDILTPVRRGHAKV
+>gi|594034340|ref|XP_006041883.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Bubalus bubalis]
+MRWLCLSAAFLFLLVILVDSTPLNIYHIQHEGLETSHRRGPEKRSVIDVATSIIDGIDTGTKIVKKGAGILTGLAEIITK
+AIKGQVMISRIQFDNHTREELPTLNIEYSTLSEENKGVETSHRRGLEKRSVIDVVTSIINGVATGTKIVTKGASILTGLA
+EIINKAIRGQVMISGIQFDNHTLEEYQTLKIEYSTLNEENKAPKPALCLEPKVTGGCNAVMTRYFYNAQTGLCEQFVYGG
+CEGNGNNFEKLEDCMKTCSQEAGSL
+>gi|965855800|ref|XP_011997742.2| PREDICTED: trophoblast Kunitz domain protein 1 [Ovis aries musimon]
+MRRLCLSTALLFLLVILVDSTPLNIYHIQDEGLETSHRRGPEKRSVIDVATSIINGIDTGTKIVKKGAGILTGLAETITK
+AIKGQVMISRIQFDNHTLEELPTLNIEYSTLSEENNGVETSHRRGLEKRSVIDVVTSIINGVATGTKIVEKGAGILTGLA
+EIITKAIRGQVMISRIQFDNHTLEELPTLSIEYSTLSEENKGVETSHRRGPVKRSVIDVVTSIINGVATGTKIVEKGAGI
+LTGLAEIITKAIKGQVMISGIQFDNHTLEEYQTLKIEYSTLNEESKAASKPAFCLEPKVTGGCNATMTRYFYNAQTGLCE
+QFVYGGCEGNGNNFEKLEDCIKTCSQGAGSL
+>gi|1048451438|ref|XP_017497666.1| PREDICTED: uterine plasmin/trypsin inhibitor-like [Manis javanica]
+MSAKSEEQRIVVWLSYAPSQILEKSNQVRGDRKSKDWPRSIFRVCKTSLELERKALVTASPPAFCMEPPYTGPCRALKQR
+WFFNATSRLCETFTYGGCRKKENNFPGKEECLKTCLGTGLKEPVLS
+>gi|982943307|ref|XP_015329694.1| PREDICTED: trophoblast Kunitz domain protein 1 [Bos taurus] >gi|982993128|ref|XP_015321541.1| PREDICTED: trophoblast Kunitz domain protein 1 [Bos taurus]
+MRRLCLSAALLFLLVILVDSTPLNIHHIQDEGLETGHRRGPEKRSVIDVATSIIDGIDTGTKIVKKGAGILTGLAEIITK
+AIKGQVMISRIQFYNHTWEELPTLNIEYSILSGENKGVETSHRRGVEKRSVIDVVTSIINGVATGTKIVTKGACILTGLA
+EIINKAIRGQVMISGIQFDNHTLEEYQTLKIKYSALNKENKASKPALCLEPKLTGGCNSMMTRYFYNAQTGLCEQFVYGG
+CEGNGNNFKKLEDCMKTCSQEAGSLWYQDCRKGSRYTNRIG
+>gi|958761958|ref|XP_014715364.1| PREDICTED: tissue factor pathway inhibitor-like [Equus asinus]
+MMNRLCLFALLGFLSILVAGTQGKNTPPPLHHPTQHPQHQPCHHLTHHPCHHRNHQHKPSISSLLVIGAENAATTQSPTS
+GSLPAVQRRQLASRRAPLPCKKPSLLEEFSFVPPAFCLEPPYVGRCRAMIRRYFYNATSAQCETFTYGGCRQKKNNFISK
+EECLKTCRGEGAALQEIKPHVLP
+>gi|953883951|ref|XP_005604721.2| PREDICTED: papilin-like [Equus caballus]
+MMNRLCLFALLGFLSILVAGTQGKNTPPPLHHPTQHPQHQPCHHLTHHPCHHRNHQHKPSISSLLVVGAENAATTQSPTS
+GSLPAVQCRRLASRRAPLPYKKPSLLEEFSFVPPAFCLEPPYVGRCRAMIRRYFYNATSAQCETFTYGGCRQKKNNFISK
+EECLKTCRGEGAALQEIKPHVLP
+>gi|594035987|ref|XP_006042663.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Bubalus bubalis]
+MKMSRLCLSAALLFLLVILVDSTPVYEQYTQDQGLVMISGKQLEKRSVKELPTAVLQEENKATSRPAFCLEHKFSGPCIT
+LEIRYFYNAKTGHCEHFIYGGCNGKKNNFLTEEDCIKTCGQGAGSP
+>gi|664779617|ref|XP_008509114.1| PREDICTED: papilin-like [Equus przewalskii]
+MKSSVSPRFPQKPFLKATMMNRLCLFALLGFLSILVAGTQGKNTPPPLHHPTQHPQHQPCHHLTHHPCHHRNHQHKPSIS
+SLLVVGAENAATTQSPTSGSLPAVQCRRLASRRAPLPYKKPSLLEEFSFVPPAFCLEPPYVGRCRAMIRRYFYNATSAQC
+ETFTYGGCRQKKNNFISKEECLKTCRGEGAALQEIKPHVLP
+>gi|594034342|ref|XP_006041884.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Bubalus bubalis]
+MRCLCLSTALLFLLVILVDSTPLNIHHIQDEGVETSHGRGPEKRSVIDVVTSIIDGVATGTKIVKNGAGILTGLAEIITK
+AIKGQVMISRIQFDNHTREELPTLNIEYSTLSEENKGVETSHRKGPEKRSVIDVVTSIIDGVATGTKIVTKGASILTGLA
+EIINKAIRGQVMISRIQFDNHTREELPTLNIEYSTLSEDNTGVETSHRRGPEKRSVIDVVTSIIDGVATGTKIVTKGASI
+LTGLAEIINKAIRGQVMISGIQFDNHTLEEYQTLKIEYSAFNEENKAAPKPALCLEPKVTGGCNAVMTRYFYNAQTGLCE
+QFVYGGCEGNGNNFEKLEDCMKTCSQEAGSL
+>gi|942093471|ref|XP_014337907.1| PREDICTED: trophoblast Kunitz domain protein 1 [Bos mutus]
+MKMSWLCLSAALLFLLVILVDSTPVYEQNTQDQGLVMVSGKQLEKRSVKELPTAVLQEENKATSRPAFCLEHKFSGPCIT
+PEIRYFYNAKTGHCEHFIYGGCNGKKNNFLTEEDCIKTCGQGAGSP
+>gi|440894758|gb|ELR47130.1| hypothetical protein M91_03966 [Bos mutus]
+VILVDSTPVYEQNTQDQGLVMVSGKQLEKRSVKELPTAVLQEENKATSRPAFCLEHKFSGPCITPEIRYFYNAKTGHCEH
+FIYGGCNGKKNNFLTEEDCIKTCGQGAGSP
+>gi|7341328|gb|AAF61251.1|AF241780_1 trophoblast Kunitz domain protein 5 [Bos taurus]
+VILVDSTPVYEQNTQDQGLVMISGKQLEKRSVKELPTAVLQEENKATSRPAFCLEHKFSGPCITPEIRYFYNAKTGHCEH
+FIYGGCNGKKNNFLTEEDCIKTCGQGAGSP
+>gi|742080781|ref|XP_010852172.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Bison bison bison]
+MKMSRLCLSAALLFLLVILVDSTPVYEQNTQDQGLVMISGKQLEKRSVKELPTAVLQEENKATSRPAFCLEHKFSGPCIT
+PEIRYFYNAKTGHCEHFIYGGCNGKKNNFLTEEDCIKTCGQGAGSPW
+>gi|884908604|ref|XP_013005881.1| PREDICTED: tissue factor pathway inhibitor-like [Cavia porcellus]
+MRVCGQNPTVLTTTASAGTQVSLWTYPQARSSDHPTSAPRTGDLVSDLVLEPTVEQVKENTGPTWEPTTQLDLVQRPAFC
+LERSFMGPCRILLIRYYYNAHSGRCEAFLYGGCREKQNNFETKEECMRVCGQSPKVLTTTQSTGTQGSPWTDP
+>gi|990001372|ref|XP_015452455.1| PREDICTED: amyloid beta A4 protein-like [Pteropus alecto] >gi|431894437|gb|ELK04237.1| Pancreatic trypsin inhibitor [Pteropus alecto]
+MDALCLSAAPLVLLSILVAGAQGSDTSRPVFCLEPPYQGPGEATIHRFFFNTSSGLCEDFMFGGGRAKLNNFLTKEECTR
+VCSGHRPALQAQYKLELEAQPEPEDEIKDILEDKIEDRDTDENSKDDDEVEDEPEIEIEYAINDESMDEDFEDNGEDEDN
+DPYEDELQIKIEYEVES
+>gi|982943809|ref|XP_015329792.1| PREDICTED: trophoblast Kunitz domain protein 1 [Bos taurus] >gi|982993850|ref|XP_015321679.1| PREDICTED: trophoblast Kunitz domain protein 1 [Bos taurus]
+MKMSRLCLSAALLFLPVILVDSTPVYEQNTQDQGLVMISGKQLEKRSVKELPTAVLQEENKATSRPAFCLEHKFSGPCIT
+PEIRYFYNAKTGHCEHFIYGGCNGKKNNFLTEEDCIKTCGQGAGSP
+>gi|556717660|ref|XP_005954736.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Pantholops hodgsonii]
+MRRLCLSAALLFLLVILVDSTPLNIHHIQDEGLETSHRRGPEKRSVIDVATSIIDGIDTGTKIVKKGAGILTGLAETITK
+AIKGQVMISRIQFDNHTLEELPTLGIGYSTLSQENNGVETSHRRELEKRSVIDVVTSIINGVATGTKIVEKGAGILTGLA
+EIINKAIRGQVMISGIQFDNHTLEKYPLKTEYSALNEKNKAASKPALCLEPKVTGGCNAMMTRYFYNAQTGLCEQFVYGG
+CEGNGNNIEKLEDCMKTCCQEAGSL
+>gi|594035993|ref|XP_006042666.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Bubalus bubalis]
+MNWLCLFAALLFLLVFLVDSTPVYEHHTQDQGLETSHRRGPEKRSIIDVITNVIHGVVKGIKIFHGLKGLADIISNGIQG
+QVMISGTQLENQTVEEFLTQTLKHAASKPEFCLEPELKGPCKDQMTRYFYNAKTGYCEPFVYGGCEGNKNNFQTLLDCMV
+TCCPVTVTMCFIPLPNITALFVGVQGGISCIQFSESVMREGISGFVLQVEMLFPKFNICLGQCQTPFCKVRNTSRLCFSA
+ALLVLLATMLGRIPEVKQATRPRVTSTSSLQLLFSA
+>gi|548491672|ref|XP_005688655.1| PREDICTED: trophoblast Kunitz domain protein 1 isoform X2 [Capra hircus]
+MRRLCLSTALLFLLVILVDSTPLNIYHIQDEGLETSHRRGPEKRSVIDVATSIIDGIDTGTKIVKKGAGILTGLAETITK
+AIKGQVMISRIQFDNHTLEELPTLNIEYSTLSEENNGVETSHRRGLEKRSVIDVVTSIINGVATGTKIVEKGAGILTGLA
+EIITKAIRGQVMISRIQFDNHTLEELPTLSIEYSTLSEENKGVETSHRRGPVKRSVIDVVTSIINGVATGTKIVEKGAGI
+LTGLAEIITKAIKGQVMISGIQFDNHTLEEYQTLKIEYSTLNEENKAASKPALCLEPKVTGGCNAMMTRYFYNAQTGLCE
+QFVYGGCEGNGNNFEKLEECMKTCSQEAGSL
+>gi|7595910|gb|AAF64495.1|AF241828_1 kunitz domain protein 2 [Ovis aries]
+VILVDSTLVYEHHTQDQGLETSHRRGPEKRSIIDVISHVIDGVAKGTKIFRGLKGLADIINNGIQGQVMISGTQLENHTV
+KEFLTQILKYASKPEFCLEPELKGPCKDQMTRYFYNATAGYCEPFVYGGCEGNKNNFQTLSDCLVTCSPVTVSL
+>gi|926707557|ref|XP_013824305.1| PREDICTED: trophoblast Kunitz domain protein 1 isoform X1 [Capra hircus]
+MRRLCLSTALLFLLVILVDSTPLNIYHIQDEGLETSHRRGPEKRSVIDVATSIIDGIDTGTKIVKKGAGILTGLAETITK
+AIKGQVMISRIQFDNHTLEELPTLNIEYSTLSEENNGVETSHRRGLEKRSVIDVVTSIINGVATGTKIVEKGAGILTGLA
+EIITKAIRGQVMISRIQFDNHTLEELPTLSIEYSTLSEENKGVETSHRRGPVKRSVIDVVTSIINGVATGTKIVEKGAGI
+LTGLAEIITKAIKGQVMISGIQFDNHTLEEYQTLKIEYSTLNEENKAASKPALCLEPKVTGGCNAMMTRYFYNAQTGLCE
+QFVYGGCEGNGNNFEKLEECMKTCSQEAGSLWVFLLAAARRRGCSVL
+>gi|296480846|tpg|DAA22961.1| TPA: trophoblast Kunitz domain protein 1-like [Bos taurus]
+MRRLCLSAALLFLLVILVDSTPLNIHHIQDEGLETGHRRGPEKRSVIDVATSIIDGIDTGTKIVKKGAGILTGLAEIITK
+AIKGQVMISGIQFDNHTLEEYQTLKIKYSALNKENKAASKPALCLEPKLTGGCNSMMTRYFYNAQTGLCEQFVYGGCEGN
+GNNFKKLEDCMKTCSQEAGSLWQVIYSPRLNRKEVLKEFFERLPVIKLTAYSLSWPSLVISHQNRHMKRFLYLLPWYRGT
+KAGTKIVEKGAGILTGLAEIITKAIKGTKIVKKGAGILTGLAEIITKAIKGVETSHRRGPVKGSVIDVVTSIINGVASGT
+KIVKKGAGLLTGLAEIITKAIKAASKPALCLEPKVTGGCNSMMTRYFYNAQTGLCEQFAYGGCEGNGNNFEKLEDCLKTC
+SQEAGSLW
+>gi|803332577|ref|XP_012024397.1| PREDICTED: trophoblast Kunitz domain protein 1 [Ovis aries musimon]
+MNRLCLSTALLFLLVILVHSTPVYEHHTQDQGLETSHRRGPEKRSIIDVISHVIDGVAKGTKIFRGLKGLADIINNGIQG
+QVMISGTQLENHTVKEFLTQILKYASKPEFCLEPELKGPCKDQMTRYFYNATAGYCEPFVYGGCEGNKNNFQTLSDCLVT
+CSPVTVSL
+>gi|556717653|ref|XP_005954733.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X1 [Pantholops hodgsonii]
+MNRLCLSAALLFLLVILVYSTPVYEHHAQDQGLETSHGRRPEKRSIIDVISHVIDGVVKGTKIFHGLKGLADIISNGIQG
+QVMISGTQLENHTAEEFLTQILKYEASKPEFCLEPELKGPCKDQMTRYFYNATAGYCEPFVYGGCEGNKNNFQTLSDCIV
+TCSPVTVSL
+>gi|57164315|ref|NP_001009291.1| trophoblast Kunitz domain protein 1 precursor [Ovis aries] >gi|3915130|sp|Q29428.1|TKDP1_SHEEP RecName: Full=Trophoblast Kunitz domain protein 1; Short=TKDP-1; Flags: Precursor >gi|310384|gb|AAB46361.1| trypsin inhibitor [Ovis aries] >gi|392040|gb|AAA19108.1| Kunitz-type trypsin inhibitor [Ovis aries] >gi|61105586|gb|AAX38506.1| trophoblast Kunitz domain protein-1 precursor [Ovis aries]
+MRQLCLSTALLFLLVILVDSTPLNIYHIQDEGLETSHRRGPEKRSVIDVVSGIINGVATGTKIIEKGAGILTGLAEIITK
+AIKGQVMISRIQFDNHTLEELPTLQLEYSTLSEENNGLKTSHRRGLEKRSVTDVVTSIINGVATGTKIIEKGAGILTGLA
+EIITKAIKGQVMISGIQFDNHTLEEYQTLKIEYSTLSEENKASKPALCLEPKVTGDCNATMTRYFYNTQTGLCEQFVYTG
+CEGNGNNFENLEDCMKTCSQEAGSL
+>gi|556717655|ref|XP_005954734.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X2 [Pantholops hodgsonii]
+MNRLCLSAALLFLLVILVDSTPVYEHHTQDQGLETSYRRGPEKRSIIDVISHVIDGVAKGTKIFRGLKGLADIINNGIQG
+QVMISGTQLENHTAEEFLTQILKYASKPEFCLEPELKGPCKDQMTRYFYNATAGYCEPFVYGGCEGNKNNFQTLSDCIVT
+CSPVTVSL
+>gi|296481028|tpg|DAA23143.1| TPA: trophoblast Kunitz domain protein 1 precursor [Bos taurus]
+MRRLCLSSALLFLLVILVDSTPLNIHHIQDEGVETSHRRGPEKRSVIDVVTSIIDGVATGTKIVKNGAGLLTGLAEIITK
+AIKGQVMISRIQFDNHTQEELPTLNIEYSTLSEENKGVETSHRKGPEKRSVIDVVTSIIDGVATGTKIVTKGASILTGLA
+EIINKAIRGQVMISRIQFNNHTLEEFPKLNIEYSTLSEDNTGVETSRRRGPEKRSVIDVVTSIIDGVATGTKIVKKGTSI
+LTGLAEIINKAIKGQVMISGIQFNNHTLEEYQTLKIEYSALNEENKAASKPALCLEPKVTGGCNAVMTRYFYNAQTGLCE
+QFVYDGCEGNGNNFEKLEDCMKTCSQEAGSL
+>gi|884908634|ref|XP_013005894.1| PREDICTED: papilin-like [Cavia porcellus]
+MHQLYLSAVLLVLMASTQGKETSTPSQAPPPDFCLQLPNTGPCKGLFTRYFFNPKSGLCETFVYGGCGGNLNRFQDQEEC
+LQTCGQQLTSLGTVEAAPSDFCLQPPNTGPCKGRFTRYFFNPKSGLCETFVYGGCGGNLNRFQDQEECVQTCGQQLKSLG
+TVEAAPPDFCLQPPNTGPCKGRFTRYFFNPKSGLCETFVYGGCGGNLNRFQDQEECVQTCGQQLKSLGTVEAAPSDFCLQ
+PPNTGPCKGRFTRYFFNPKSGLCETFVYGGCGGNLNRFQDQEECVQTCGQQLKSLGTVEAAPSDFCLQPPNTGPCKGRFT
+RYFFNPKSGLCETFAYGGCGGNLNRFQDQEECLQTCGQQLTSLGTVEAAPSDFCLQPPNTGPCKGLFTRYFFNPKSGLCE
+TFVYGGCGGNLNRFQDQEECLQTCGQQLTSLGTVEAAPSDFCLQPPNRGPCKGRFTRYFFNPKSGLCETFAYGGCGGNLN
+RFSTQEECVQICGQQLTSLDMLVPAFPGHA
+>gi|884908606|ref|XP_013005882.1| PREDICTED: tissue factor pathway inhibitor-like [Cavia porcellus]
+MHPGSAEQTFDPPFEVQRPAFCLERSFMGPCRILLIRYYYNAHSGHCEAFLYGGCREKQNNFETKEECMRVCGQNPTVLT
+TTASAGTQVSLWTYPQARSSDHPTSAPRTGDLVSDLVLEPTVEQVKENTGPTWEPTTQLDLGQRPAFCLERSFMGPCRIL
+LIRYYYNAHSGRCEAFGYGGCREKQNNFETKEECMRVCGQSPKVLTTTASAGTQGQRPDFCLERSFMGPCRILLIRYYYN
+AHSGRCEAFGYGGCRAKQNNFVTKEECMRVCGQSPTVLTTTASAGTQGQRPDFCLERSFMGPCRILLIRYYYNAHSGRCE
+AFGYGGCRAKQNNFVTKEECMRVCGQSPTVLTTTASAGTQAHWGYRSTGGKGSSSPQIDQDRIHLKEIQEARSVTVWAVL
+LLRLGSGPDQES
+>gi|57526864|ref|NP_991345.1| trophoblast Kunitz domain protein 1 precursor [Bos taurus] >gi|28202267|sp|Q28201.2|TKDP1_BOVIN RecName: Full=Trophoblast Kunitz domain protein 1; Short=TKDP-1; Flags: Precursor >gi|7341320|gb|AAF61247.1|AF241776_1 trophoblast Kunitz domain protein 1 [Bos taurus]
+MRQLCLSSALLFLLVILVDSTPLNIHHIQDEGVETSHRRGPEKRSVIDVVTSIIDGVATGTKIVKNGAGLLTGLAEIITK
+AIKGQVMISRIQFDNHTQEELPTLNIEYSTLSEENKGVETSHRKGPEKRSVIDVVTSIIDGVATGTKIVTKGASILTGLA
+EIINKAIRGQVMISRIQFNNHTLEEFPKLNIEYSTLSEDNTGVETSRRRGPEKRSVIDVVTSIIDGVATGTKIVKKGTSI
+LTGLAEIINKAIKGQVMISGIQFNNHTLEEYQTLKIEYSALNEENKAASKPALCLEPKVTGGCNAVMTRYFYNAQNGLCE
+QFVYDGCEGNGNNFEKLEDCMKTCSQEAGSL
+>gi|22255988|gb|AAM94856.1| trophoblast Kunitz domain protein 4 [Ovis aries]
+AVSGIQFDNSTQEEMPTLQIEYSTLIEENEGVETIHKQGIEKRSVHPVVKGILGGVLKGVKIVGKGASILTGLAEIVKKA
+LKGQVMISGIQFDNHTQEELPTLEIEYSTLSEENKGVETSQKRGLEKRSVVHVVKSILGGVIKGTKIFGKGASILTGLAE
+IVTKALKVQVMISGIQFENHIREELPTLNMEYSTLNEENKVSPAFMPAFCVEPKFVGVCNGSMTRYFYNAQTGHCEMFVY
+GGCGGNENNFQTLEECMKTCYPKAGSL
+>gi|594035983|ref|XP_006042661.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X2 [Bubalus bubalis]
+MSRLCFSAALLFLLVILVDSTPVYEHHTQDQGLETSHRRGPEKRSIIDVITHVIDGVVKGTKIFHGLKGLADIISNGIQG
+QVMISGTQLENHTVEEFLTQTLKHAASKPEFCMEPELKGPCKDQMTRYFYNSKTGYCEPFVYGGCEGNKNNFQTLSDCIV
+TCCPVTVTM
+>gi|594113411|ref|XP_006079456.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Bubalus bubalis]
+MNRLCLSAALLFLLVILVDSTPVYEHHTQDQGLETSHRRGPEKRSIIDVISHVIDGVVKGTKIFHGLKGLADIISNGIQG
+QVMISGKQLENQTVEEFLTQTLKHAASKPEFCMEPKLKGPCKDQMTRYFYNSKTGYCEPFVYGGCEGNKNNFQTLSDCIV
+TCCPVTVTM
+>gi|759146941|ref|XP_011367704.1| PREDICTED: glutamic acid-rich protein-like [Pteropus vampyrus]
+MVDYVTIPKKQGRPVFCLEPPYQGPGEATIPRFFFNTSSGLCEDFMFGGGRAKLNNFLTKEECIRVCSGHRPALQAQYKL
+ELEAQPEPEDEIKDILEDKIEDRDTDENSKDDDEVEDEPEIEIEYAINDESMDEDFEDNGEDEDNDTYEDELQIKIEYEV
+ES
+>gi|594035981|ref|XP_006042660.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X1 [Bubalus bubalis]
+MSRLCFSAALLFLLVILVDSTPVYEHHTQDQGLETSHRRGPEKRSIIDVITHVIDGVVKGTKIFHGLKGLADIISNGIQG
+QVMISGTQLENHTVEEFLTQTLKHAASKPEFCMEPELKGPCKDQMTRYFYNSKTGYCEPFVYGGCEGNKNNFQTLSDCIV
+TCCPVTVTMCM
+>gi|942093446|ref|XP_014337901.1| PREDICTED: LOW QUALITY PROTEIN: trophoblast Kunitz domain protein 1-like [Bos mutus]
+LETGHRRGPEKRSVIDVATSIIDGIDTGTKIVKKGAGILTGLAEMITKAIKGQVMISRIQFYNHTWEELPTLNIEYSILS
+GENKGVETSHRRGVEKRSVIDVVTSIINGVATDTKIVEKGAGILTGLAEIITKAIKGQVMISRIQFDNHTLEELPTLQLE
+YSTLSEENNGVETSHRRGLQKRSVIDVVTSIINGVASGTKIVEKGAGLLTGLAEIITKAIKGQVMISGIQFDNHTLEEYQ
+TLKIEYSTLNEENKAASKPALCLEPKVTGGCNSMMTRYFYNAQTGLCEQFVYGGCEGNGNNFKKLEDCLKTXSQEAGSLW
+>gi|742080739|ref|XP_010852044.1| PREDICTED: trophoblast Kunitz domain protein 1 [Bison bison bison]
+MNRLCLSAALLFLLVILVDSTPLNIHHIQDEGVKTSHRRGPEKRSVIDVVTSIIDGVATGTKIVKNGAGLLTGLAEIITK
+AIKGQVMISRIQFDNHTQEELPTLNIEYSTLSEENRGVEISHRKGPEKRSVIDVVTSIIDDVATGTKIVTKGASILTGLA
+EIINKAIRGQVMISRIQFDNHTLEEFPKLNIEYSTLIEDNTGVETSRRRGPEKRSVIDVVTSIIDGVATGTKIVKKGTSI
+LTGLAEIINKAIKGQVMISGIQFNNHTLEEYQTLKIEYSALNEENKAASKPALCLEPKVTGGCNAVMTRYFYNAQTGLCE
+QFVYDGCEGNGNNFEKLEDCLKTCSQEAGSL
+>gi|555993380|ref|XP_005908453.1| PREDICTED: trophoblast Kunitz domain protein 1 isoform X2 [Bos mutus]
+MRRLCLSAALLVLLIILVDSTPLNIHHIQDEGVETSHRRGPEKRSVIDVVTSIIDGVATGTKIVKNGAGLLTGLAEIITK
+AIKGQVMISRIQFDNHTQEELPTLNIEYSTLSEENKGVETSHRRGPEKRSVIDVVTSIIDGVATGTKIVTKGASILTGLA
+EIINKAIRGQVMISRIQFDNHTLEEFPKLNIEYSTLSEDNTGVETSRRRGPEKRSVIDVVTSIIDGVATGTKIVKKGTSI
+LTGLAEIINKAIKGQVMISGIQFNNHTLEEYQTLKIEYSALNEENKAASKPALCLEPKVTGGCNAVMTRYFYNAQTGLCE
+QFVYDGCEGNGNNFEKLEDCLKTCSQEAGSP
+>gi|548491911|ref|XP_005688766.1| PREDICTED: trophoblast Kunitz domain protein 1 [Capra hircus]
+MRLCLSTALLFLLVILVDSTPLNIYHIQNEGLETSHRRGPEKRSVIDVVSGIINGVATGTKIIEKGAGILTGLAEIITKA
+IKGQVMISRIQFDNHTLEELPTLQLEYSTLSEENNGLETSHRRGLEKRSVIDVVTSIINGVATGTKIIEKGAGILTGLAE
+IITKAIKGQVMISGIQFDNHTLEEYQTLKIEYSTLTEENKASKPALCLEPKVTGDCNATMTRYFYNPQTGLCEQFVYSGC
+EGNGNNFEKLEECMKTCSQEAGSLW
+>gi|884908608|ref|XP_013005883.1| PREDICTED: tissue factor pathway inhibitor-like [Cavia porcellus]
+MGPCRILLIRYYYNAHSGRCEAFLYGGCREKQNNFETKEECMRVCGQSPKVLTTTASAGTQVFLSTYLQARSSAPPTSAT
+RTGDLVRDDVPGPRGEQVKQNTGPTWEPTTQLNLVQRPAFCLERSFMGPCRILLIRYYYNAHSGRCEAFLYGGCREKQNN
+FETKEECMRVCGQNPTVLTTTASAGTQVSLWTYPHARSSAPPMSAPRTVDLVSDTVLGPKGEQVKENTGPTWEPTTQLNP
+VQRPAFCLERSFMGPCRILLIRYYYNAHSGRCEAFGYGGCREKQNNFETKEECMRVCGQSPKVLTTTASAGTQGED
+>gi|926707559|ref|XP_005688768.2| PREDICTED: trophoblast Kunitz domain protein 1-like [Capra hircus]
+MKMSRLCLSAALLFLLVILVDSTPVYEQHTQDKGHVMISGKRLEKRSVKELPTAILQEENKATSRPAFCLERKFSGPCIT
+PEIRYFYNAKTGHCEHFIYGGCNGKKNNFLTEEECIKICGQGAGSP
+>gi|556717650|ref|XP_005954732.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Pantholops hodgsonii]
+MKMSRLCLSTALLFLLVILVDSTPVYEQHTQDQGHVMISGKRLEKRSVKELPTAILQEENKATSRPAFCLERKFSGPCIT
+PEIRYFYNAKTGHCEHFIYGGCNGKKNNFLTEEECIKICGQGAGSP
+>gi|926707497|ref|XP_013824281.1| PREDICTED: LOW QUALITY PROTEIN: trophoblast Kunitz domain protein 1-like [Capra hircus]
+MISGIQFDNHAQEELPTLEIEYSTLSEEIKGVETIHKRGIEKRSVLPVVKGILGGVLKGVKIVGKGASILTGLAEIVKKA
+LKGQVMISGIQFDNHMPEELPTLEIEYSTLSEENEGVETSHKHGLEKRSVKKVFKKILGGVIKGSKIVGNGASILGGLAK
+MLNKTIRDEVMISRIQFDNHTQEELPTLEIEYAVLSEENKGGETSHKQRLEKRAVLPVLKVSSAVCLKVPRFLEREPVXI
+TGLAEIVKKALKGQVMISGIQFDNSTQEEMPTLQIEYSTLIEENEGVETIHKQGIEKRSVLPVVKGILGGVLKGVKIVGK
+GASILTGLAEIVKKALKGQVMISGIQFDNHTQEELPTLEIEYSTLSEENKGVETSQKRVLEKRSVVHVVKSILGGVIKGT
+KIFGKGASILTGLAEIVKKALKGQVMISGIQFENHMPEELPTLNMEYSTLNEENKVSPAFMPAFCMEPKFVGVCNGSMTR
+YFYNAQTGHCEIFVYGGCGGNENNFQTLEECMKTCFPKAGSLW
+>gi|942093449|ref|XP_014337902.1| PREDICTED: trophoblast Kunitz domain protein 1 isoform X1 [Bos mutus]
+MRRLCLSAALLVLLIILVDSTPLNIHHIQDEGVETSHRRGPEKRSVIDVVTSIIDGVATGTKIVKNGAGLLTGLAEIITK
+AIKGQVMISRIQFDNHTQEELPTLNIEYSTLSEENKGVETSHRRGPEKRSVIDVVTSIIDGVATGTKIVTKGASILTGLA
+EIINKAIRGQVMISRIQFDNHTLEEFPKLNIEYSTLSEDNTGVETSHRRGPEKRSVIDVVTSIIDGVATGTKIVTKGASI
+LTGLAEIINKAIRGQVMISRIQFDNHTLEELPKLNIEYSTLIEDNTGVETSRRRGPEKRSVIDVVTSIIDGVATGTKIVK
+KGTSILTGLAEIINKAIKGQVMISGIQFNNHTLEEYQTLKIEYSALNEENKAASKPALCLEPKVTGGCNAVMTRYFYNAQ
+TGLCEQFVYDGCEGNGNNFEKLEDCLKTCSQEAGSP
+>gi|163791|gb|AAA30795.1| trypsin inhibitor [Bos taurus]
+KLNIEYSTLSEDNTGVETSRRRGPEKRSVIDVVTSIIDGVATGTKIVKKGTSILTGLAEIINKAIKGQVMISGIQFNNHT
+LEEYQTPKIEYSALNEENKAASKPALCLEPKVTGGCNAVMTRYFYNAQTGLCEQFVYDGCEGNGNNFEKLEDCMKTCSQE
+AGSL
+>gi|965969216|ref|XP_014955398.1| PREDICTED: LOW QUALITY PROTEIN: trophoblast Kunitz domain protein 1 [Ovis aries]
+MNRLCLSTALLFLLVILVHSTPVYEHHTQDQGLETSHRRGPEKRSIIDVISHVIDGVAKGTKIFRGLKGLADIINNGIQG
+QVMISGTQLENHTVKEFLTQILKYASKPEFCLEPELKGPXKDQMTRYFYNATAGYCEPFVYGGCEGNKNNFQTLSDCLVT
+CSPVTVSL
+>gi|22255990|gb|AAM94857.1| trophoblast Kunitz domain protein 5 [Ovis aries]
+DGEIEYSTLSEEIKGVETIHKQGIEKRSVLPVVKGILGGVLKGVKVVGKGASILTGLAEIVKNALKGQVMISRIQFDNHT
+PEELPTLEIEYSTLSEENEGVETSHKHGLEKRSVKKVFKKILGGVIKGSKIVGNGASILGGLAKMLNKTIRDEVMISRIQ
+FDNHTQEELPTLEIEYAVLSDENEGVETSHKQRLEKRAVLPVLKVSSAVCLKVPRFSEREPVYITGLAEIVKKALKGQVM
+ISGIQFDNSTQEEMPTLQIEYSTLIEENEGVETIHKQGLEKRSVLPVVKGILGGVLKGVKIVGKGASILTGLAEIVKKAL
+KGQVMISGIQFDNSTQEELPTLEIGYSTLSEEIKGVETSQKRVLEKRSVVQWSKVILGGVIKGTKIFGKGASILTGLAEI
+VTKALKGQVMISGIQFENHMPEELPTLNMEYSTLNEENKVSPAFMPAFCVEPKFVGVCNGSMTRYFYNAQTGHCEMFVYG
+GCGGNENNFQTLEECMKTCYPKAGSL
+>gi|965855804|ref|XP_014963625.1| PREDICTED: trophoblast Kunitz domain protein 1 isoform X2 [Ovis aries musimon]
+MRPLCLSVALLVLLVILVDTTPLNIHHIQDEGLETNHTRELEKRSVVNVIKSVLGGVITGTKIIGDGASILTGLAEIINK
+ALKGQVMISGIQFDNHAQEELPTLEIEYSTLSEEIKGVETIHKQGIEKRSVLPVVKGILGGVLKGVKVVGKGASILTGLA
+EIVKKALKGQVMISGIQFDNHTPEELPTLEIEYSTLSEENEGVETSHKHGLEKRSVKKVFKKILGGVIKGSKIVGNGASI
+LGGLAKMLNKTIRGQVMISGIQFDNSTQEEMPTLQIEYSTLIEENEGVETIHKQGIEKRSVLPVVKGILGGVLKGVKIVG
+KGTSILTGLAEIVKKALKGQVMISGIQFDNRSQEELPTLEIEYSTLIEENKGVETIHKQGIEKRSVLPVVKGILGGVLKG
+VKVVGKGASILTGLAEIVKKALKGQVMISGIQFDNHTQEELPTLEIEYAVLSEENKGVETSQKRVLEKRSVVHVVKSILG
+GVIKGTKIFGKGASILTGLAEIVTKALKGQVMISGIQFENHMPEELPTLNMEYSTLNEENKVSPAFMPAFCVEPKFVGVC
+NGSMTRYFYNAQTGHCEMFVYGGCGGNENNFQTLEECMKTCYPKAGSL
+>gi|742080778|ref|XP_010852154.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Bison bison bison]
+MLTFIPLPTITAFLVGGQGLKTSHTRGVEKRSVIDVVTSIINGVATGTKIVEKGAGILTGLAEIITKAIKGQVMISRIQF
+DNHTLEELPTLQLEYSTLSEENNGVETSHRRGLQKRSVIDVVTSIINGVATGTKIVEQGAGILTGLAEIITRAIKGQVMI
+SRIQFDSHTREELPTLNIEFSTLSEENKGVETSHRRGPVKCSVIDVVTSIINGVASGTKIVEKGAGLLTGLAEIITKAIK
+GQVMISGIQFDNHTLEEYQTLKIEYSTLNEENKGSASKPALCLEPKVTDGCNSMMTRYFYNAQTGLCEQFVYGGCEGNGN
+NFEKLEECMKTCSQEAGSLW
+>gi|861470779|ref|XP_012932563.1| PREDICTED: kunitz-type protease inhibitor 3 [Heterocephalus glaber]
+MLRLLAPGTRNGKADQVTEKPPIQVTKMHQLCFSAAPLVVLATLVVRNEGKEADVSSPVLQPAFCLAHPFTGPCRILSIR
+YFYNASSGCCKAFGYGGCRAKQKNFETREECIKICGQSSKALAKADSAGREGS
+>gi|742080770|ref|XP_010852135.1| PREDICTED: LOW QUALITY PROTEIN: trophoblast Kunitz domain protein 1-like [Bison bison bison]
+MRQLCLSAALLVLLVILVDSTSLNIHHIQDEGTKIIGNGASILTGLAEIVKKALKGQVMILGIQFDNHTQEELPTLEIEY
+STLSEEIKGVETIHKQGIEKRAVLPVVKGILGGVLKGVKIFGQGASILTGLAEIIKKALKGQVMISGIQFDNHTPEELPT
+LEIEYSTLSEENEGMKTSHKHGLEKRSVREVFKKILGGVIKGSKIVGKGASILGGLAKILNETMKDEVMISRIQFYNHTQ
+EELPTLEIEYAILSEENKGVETIHKRGIEKRAVLPVLKVSSAACLKVSRFLDREPVYXTGLAEIIKKALKGQVMISGIQF
+DNSTQEELPTLEIEYATLSEEITGVETMHKQGIEKRSVKGILSGVLKGVKIVGKGASILIGLAEIVKKALKGQVMISGIQ
+FDNHTQEELPTLKIEYSTLSEENKGVETSQKRVLEKRSVVHVVKSILGGVIKGTKIFGKGASILTGLAEIVKKALKGQVM
+ISRIQFDNHTQEELPTLNMEYSTLNEENKVSPAFMPAFCVEPKFVGVCNASMTRYFYNAQTGHCELFVYSGCGGNENNFP
+TLEDCMKTCYPKAQSL
+>gi|742080783|ref|XP_010852184.1| PREDICTED: serum basic protease inhibitor-like [Bison bison bison]
+YEMTYGRLNEKHSAASKPAFCLKPKSIGPCKGRKIRYFYNAKTGQCQRFFYGGCKGNLNNFYTMALCMNTCGHVEWSWRR
+HGKSHAPKL
+>gi|594035989|ref|XP_006042664.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X1 [Bubalus bubalis]
+MKMNRLCLSAALLFLLVILVDGISEDINKSHDHGYEMTYGRLNEKHSAASKPAFCLKPKSIGPCKGRKIRYFYNAKTGQC
+QRFFYGGCKGNLNNFYTMALCMNTCGHVEWSWRRHGKSHAPKL
+>gi|440907791|gb|ELR57889.1| Trophoblast Kunitz domain protein 1 [Bos mutus]
+MISGIQFDNHTQEEMPTLQIEYSTLIEENKGVETSHKQRLEKRAVLPVVKGILGGVLKGVKIFGQGASVLTGLAEIIKKA
+LKGQVMISGIQFDNHTQEELPTLKIEYSTLSEENKGVETSQKRVLEKRSVVHVVKSILGGVIKGTKIFGKGASILTGLAE
+IVKKALKGQVMISRIQFDNHTQEELPTLNMEYSTLNEENKVSPAFMPAFCVEPKFVGVCNASMTRYFYNAQTGHCELFVY
+SGCGGNENNFPTLEECMKTCYPKAQSL
+>gi|594035991|ref|XP_006042665.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X2 [Bubalus bubalis]
+MKMNRLCLSAALLFLLVILVDGISEDINKSHDHGYEMTYGRLNEKHSASKPAFCLKPKSIGPCKGRKIRYFYNAKTGQCQ
+RFFYGGCKGNLNNFYTMALCMNTCGHVEWSWRRHGKSHAPKL
+>gi|556717646|ref|XP_005954730.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X1 [Pantholops hodgsonii]
+MNRLCLSAALLFLLVILVDGTPEDINKSHDHGYVMTYGGRNENHPAASKPAFCLKPKLIGPCKAKKIRYFYDAKTGQCQR
+FFYGGCKGNLNNFQTIALCMKTCDHAAWSRRRHGKSHAPKL
+>gi|556717648|ref|XP_005954731.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X2 [Pantholops hodgsonii]
+MNRLCLSAALLFLLVILVDGTPEDINKSHDHGYVMTYGGRNENHPASKPAFCLKPKLIGPCKAKKIRYFYDAKTGQCQRF
+FYGGCKGNLNNFQTIALCMKTCDHAAWSRRRHGKSHAPKL
+>gi|440907786|gb|ELR57884.1| Spleen trypsin inhibitor I [Bos mutus]
+ARAILAVLQPHFGLEPPYRGPCKSVNVRYFFNASSTFWEPFVYGGCDAKENNLLRAADLRRTCGGSLGH
+>gi|803137630|ref|XP_012044653.1| PREDICTED: spleen trypsin inhibitor I-like isoform X2 [Ovis aries] >gi|803332561|ref|XP_012024391.1| PREDICTED: spleen trypsin inhibitor I-like isoform X2 [Ovis aries musimon]
+MKMNRLCLSAALLFLLVILVDGTPEDINKSHDHGYVMTYGGRNENHPASKPAFCLKPKLIGPCKAKKVRYFYDAKTGQCQ
+RFFYGGCKGNLNNFQTIALCMKTCDHAAWSRRRHGKSHAPKL
+>gi|426241540|ref|XP_004014648.1| PREDICTED: spleen trypsin inhibitor I-like isoform X1 [Ovis aries] >gi|803332559|ref|XP_012024390.1| PREDICTED: spleen trypsin inhibitor I-like isoform X1 [Ovis aries musimon]
+MKMNRLCLSAALLFLLVILVDGTPEDINKSHDHGYVMTYGGRNENHPAASKPAFCLKPKLIGPCKAKKVRYFYDAKTGQC
+QRFFYGGCKGNLNNFQTIALCMKTCDHAAWSRRRHGKSHAPKL
+>gi|555963216|ref|XP_005893692.1| PREDICTED: serum basic protease inhibitor [Bos mutus]
+MSRLCLSAALLLLLGTLMTSIPVVTPAARTMLTLYSSYNEYLHNGPGARAILAVLQPHFGLEPPYRGPCKSVNVRYFFNA
+SSTFWEPFVYGGCDAKENNLLRAADLRRTCGGSLGH
+>gi|742080758|ref|XP_010852098.1| PREDICTED: trophoblast Kunitz domain protein 1-like [Bison bison bison]
+MSRLCLSAALLFLLVILVDSTPVYEHHTQDQGLETSHRRGPEKRSIIDVISHVIDDVVKGTKIFHGLKGLADIISNGIQG
+QVMISGTQLENHTVEEFLTQTLKHAASKPEFCMEPELKGPCKDQMTRYFYNAKTRYCEPFVYGGCEGNKNNFQMLSDCIV
+TCCPVPVIM
+>gi|942048966|ref|XP_014333012.1| PREDICTED: LOW QUALITY PROTEIN: trophoblast Kunitz domain protein 1-like [Bos mutus]
+MRQLCLSAALLVLLVILVDSTPLNIHHIQDEGTKIIGNGASILTGLAEIVKKALKGQVMISGIQFDNHTQEELPTLEIEY
+STLSEEIKGVETIHKQGIEKRAVLPVVKGILGGVLKGVKIFEQGASILTGLAEIIKKALKGQVMISRIQFDNHTPEELPT
+LEIEYSTLSEENEGMKTSHKHGLEKRSVREVFKKILGGVIKGSKIVGKGASILGGLAKILNETMKDEVMISRIQFYNHTQ
+EELPTLEIEYAILNEENKGVETIHKRGIEKRAVLPVLKVSSAACLKVSRFSEREPVILIGLAEIVKKALKGQVMISGIQF
+DNHTQEEMPTLQIEYSTLIEENKGVETSHKQRLEKRAVLPVVKGILGGVLKGVKIFGQGASVLTGLAEIIKKALKGQVMI
+SGIQFDNHTQEELPTLKIEYSTLSEENKGVETSQKRVLEKRSVVHVVKSILGGVIKGTKIFGKGASILTGLAEIVKKALK
+GQVMISRIQFDNHTQEELPTLNMEYSTLNEENKVSPAFMPAFCVEPKFVGVCNASMTRYFYNAQTGHCELFVYSGCGGNE
+NNFPTLEECMKTCYPKAQSL
+>gi|982993845|ref|XP_015321676.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X4 [Bos taurus]
+MRRLCLSTALLILLVILVDSTPLNIHHIQDEGLETNHTRELEKRSVVNVVKSVLGSVITGTKIIGNGASILTGLAEIVKK
+ALKGQVMILGIQFDNHTQEELPTLEIEYSTLSEEIKGVETIHKQGIEKRAVLPVVKGILGGVLKGVKIFGKGASILTGLA
+EIIKKALKGQVMISGIQFDNSTQEELPTLEIEYSTLSEENEGVETIHKQGIEKRAVLPVVKGILGGVLKGVKIFGKGASV
+LTGLAEIIKKALKGQVMISGIQFDNSTQEELPTLEIEYATLSEEITGVETMHKQGIEKRSVKGILSGVLKGVKIVGKGAS
+ILIGLAEIVKKALKGQVMISGIQFDNHTQEEMPTLQIEYSTLIEENKGVETSHKQRLEKRAVLPVVKGILGGVLKGVKIF
+GQGASVLTGLAEIIKKALKGQVMISGIQFDNHTQEELPTLKIEYSTLIEENKGVETSQKRVLEKRSVVHVVKSILGGVIK
+GTKIFGKGASILTGLAEIVKKALKGQVMISRIQFDNHTQEELPTLNMEYSTLNEENKVSPAFMPAFCVEPKFVGVCNASM
+TRYFYNAQTGHCELFVYSGCGGNENNFPTLEECMKTCYPKAQSL
+>gi|982943804|ref|XP_015329790.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X2 [Bos taurus]
+MRRLCLSTALLILLVILVDSTPLNIHHIQDEGLETNHTRELEKRSVVNVVKSVLGSVITGTKIIGNGASILTGLAEIVKK
+ALKGQVMILGIQFDNHTQEELPTLEIEYSTLSEEIKGVETIHKQGIEKRAVLPVVKGILGGVLKGVKIFGKGASILTGLA
+EIIKKALKGQVMISGIQFDNHTPEELPTLEIEYSTLSEENEGMKTSHKHGLEKRSVREVFKKILGGVIKGSKIVGKGASI
+LGGLAKILNETMKDEVMISRIQFYNHTQEELPTLKIEYAVLSEENKGVKIVGKGASILTGLAEIVKKALKGQVMISGIQF
+DNSTQEELPTLEIEYSTLSEENEGVETIHKQGIEKRAVLPVVKGILGGVLKGVKIFGKGASVLTGLAEIIKKALKGQVMI
+SGIQFDNSTQEELPTLEIEYATLSEEITGVETMHKQGIEKRSVKGILSGVLKGVKIVGKGASILIGLAEIVKKALKGQVM
+ISGIQFDNHTQEEMPTLQIEYSTLIEENKGVETSHKQRLEKRAVLPVVKGILGGVLKGVKIFGQGASVLTGLAEIIKKAL
+KGQVMISRIQFDNHTQEELPTLNMEYSTLNEENKVSPAFMPAFCVEPKFVGVCNASMTRYFYNAQTGHCELFVYSGCGGN
+ENNFPTLEECMKTCYPKAQSL
+>gi|982943802|ref|XP_015329789.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X1 [Bos taurus]
+MRRLCLSTALLILLVILVDSTPLNIHHIQDEGLETNHTRELEKRSVVNVVKSVLGSVITGTKIIGNGASILTGLAEIVKK
+ALKGQVMILGIQFDNHTQEELPTLEIEYSTLSEEIKGVETIHKQGIEKRAVLPVVKGILGGVLKGVKIFGKGASILTGLA
+EIIKKALKGQVMISGIQFDNHTPEELPTLEIEYSTLSEENEGMKTSHKHGLEKRSVREVFKKILGGVIKGSKIVGKGASI
+LGGLAKILNETMKDEVMISRIQFYNHTQEELPTLKIEYAVLSEENKGVKIVGKGASILTGLAEIVKKALKGQVMISGIQF
+DNSTQEELPTLEIEYSTLSEENEGVETIHKQGIEKRAVLPVVKGILGGVLKGVKIFGKGASVLTGLAEIIKKALKGQVMI
+SGIQFDNSTQEELPTLEIEYATLSEEITGVETMHKQGIEKRSVKGILSGVLKGVKIVGKGASILIGLAEIVKKALKGQVM
+ISGIQFDNHTQEEMPTLQIEYSTLIEENKGVETSQKRVLEKRSVVHVVKSILGGVIKGTKIFGKGASILTGLAEIVKKAL
+KGQVMISRIQFDNHTQEELPTLNMEYSTLNEENKVSPAFMPAFCVEPKFVGVCNASMTRYFYNAQTGHCELFVYSGCGGN
+ENNFPTLEECMKTCYPKAQSL
+>gi|982993842|ref|XP_015321675.1| PREDICTED: uncharacterized protein LOC618696 isoform X3 [Bos taurus]
+MRRLCLSTALLILLVILVDSTPLNIHHIQDEGLETNHTRELEKRSVVNVVKSVLGSVITGTKIIGNGASILTGLAEIVKK
+ALKGQVMILGIQFDNHTQEELPTLEIEYSTLSEEIKGVETIHKQGIEKRAVLPVVKGILGGVLKGVKIFGKGASILTGLA
+EIIKKALKGQVMISGIQFDNHTPEELPTLEIEYSTLSEENEGMKTSHKHGLEKRSVREVFKKILGGVIKGSKIVGKGASI
+LGGLAKILNETMKDEVMISRIQFYNHTQEELPTLKIEYAVLSEENKGVKIVGKGASILTGLAEIVKKALKGQVMISGIQF
+DNSTQEELPTLEIEYSTLSEENEGVETIHKQGIEKRAVLPVVKGILGGVLKGVKIFGKGASVLTGLAEIIKKALKGQVMI
+SGIQFDNSTQEELPTLEIEYATLSEEITGVETMHKQGIEKRSVKGILSGVLKGVKIVGKGASILIGLAEIVKKALKGQVM
+ISGIQFDNHTQEEMPTLQIEYSTLIEENKGVETSHKQRLEKRAVLPVVKGILGGVLKGVKIFGQGASVLTGLAEIIKKAL
+KGQVMISGIQFDNHTQEELPTLKIEYSTLIEENKGVETSQKRVLEKRSVVHVVKSILGGVIKGTKIFGKGASILTGLAEI
+VKKALKGQVMISRIQFDNHTQEELPTLNMEYSTLNEENKVSPAFMPAFCVEPKFVGVCNASMTRYFYNAQTGHCELFVYS
+GCGGNENNFPTLEECMKTCYPKAQSL
+>gi|803137614|ref|XP_012044645.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X1 [Ovis aries]
+MNCLCFSAALLFLLVILVDGTPVYEHHSLDQGLETSLTRGPEKLVVSSVIKEIVDDVIIGTKIICKACKMIRKAAETFKK
+CLEGEELISLRQLENHTLQEFPTYIFKEENKADSQPAFCLEPKLAGSCKNKTARYFYNAKTGCCEPFVYGGCEGNKNNFN
+TIEDCLKSCCPDCMKTCCTLKESQGGHVKSGP
+>gi|426242083|ref|XP_004014906.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X2 [Ovis aries]
+MNCLCFSAALLFLLVILVDGTPVYEHHSLDQGLETSLTRGPEKLVVSSVIKEIVDDVIIGTKIICKACKMIRKAAETFKK
+CLEGEELISLRQLENHTLQEFPTYIFKEENKDSQPAFCLEPKLAGSCKNKTARYFYNAKTGCCEPFVYGGCEGNKNNFNT
+IEDCLKSCCPDCMKTCCTLKESQGGHVKSGP
+>gi|742080747|ref|XP_010852064.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X2 [Bison bison bison]
+MNRLCLSAALLFLLVILVDSTLVYEHHTQDQGLETSHGRRLEKRSVTDLISAFTDAMVIVAELLKGIGFDEIKGLPQTMS
+QMMISGRQLENHAVEVFPTQMLREENKDSKPAFCLEPKVTGHSKSSWPRYFYNAETGHCEQFTYGGLGGNKNNFITEEEC
+MKTCGQGAGSLREHAKSGPQKP
+>gi|742080743|ref|XP_010852056.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X1 [Bison bison bison]
+MNRLCLSAALLFLLVILVDSTLVYEHHTQDQGLETSHGRRLEKRSVTDLISAFTDAMVIVAELLKGIGFDEIKGLPQTMS
+QMMISGRQLENHAVEVFPTQMLREENKADSKPAFCLEPKVTGHSKSSWPRYFYNAETGHCEQFTYGGLGGNKNNFITEEE
+CMKTCGQGAGSLREHAKSGPQKP
+>gi|942093456|ref|XP_014337903.1| PREDICTED: trophoblast Kunitz domain protein 1 isoform X2 [Bos mutus]
+MNRLCLSAALLFLLVILVDSTPVYEHHTQDQGLETSHGRRLEKRSVTDLISAFMDAMVIVAELLKGMGFDEIKGLPQTMS
+QMMISGRQLENHAVEVFPTQMLREENKDSKPAFCLEPKVTGHSKSSWPRYFYNAETGHCEQFTYGGLGGNKNNFITEEEC
+MKTCGQGAGSLREHAKSGPQKP
+>gi|60592988|ref|NP_001012701.1| trophoblast Kunitz domain protein 2 precursor [Bos taurus] >gi|7341322|gb|AAF61248.1|AF241777_1 trophoblast Kunitz domain protein 2 [Bos taurus] >gi|296481036|tpg|DAA23151.1| TPA: trophoblast Kunitz domain protein 2 [Bos taurus]
+MSRLCLSAALLFLLVILVDSTPVYEHHTQDQGLETSHRRGPEKRSIIDVISHVIDGVVKGTKIFHGLKGLADIISNGIQG
+QVMISGTQLENHTVEEFLTQILKHAASKPEFCMEPELKGPCKDQMTRYFYNAKTRYCEPFVYGGCEGNKNNFQTLSHCIV
+TCCPVPVTM
+>gi|555993382|ref|XP_005908454.1| PREDICTED: trophoblast Kunitz domain protein 1 isoform X1 [Bos mutus] >gi|440894755|gb|ELR47127.1| hypothetical protein M91_03963 [Bos mutus]
+MNRLCLSAALLFLLVILVDSTPVYEHHTQDQGLETSHGRRLEKRSVTDLISAFMDAMVIVAELLKGMGFDEIKGLPQTMS
+QMMISGRQLENHAVEVFPTQMLREENKADSKPAFCLEPKVTGHSKSSWPRYFYNAETGHCEQFTYGGLGGNKNNFITEEE
+CMKTCGQGAGSLREHAKSGPQKP
+>gi|555993386|ref|XP_005908456.1| PREDICTED: trophoblast Kunitz domain protein 1 [Bos mutus] >gi|440894756|gb|ELR47128.1| Trophoblast Kunitz domain protein 1 [Bos mutus]
+MSRLCLSAALLFLLVILVDSTPVYEHHTQDQGLETSHRRGPEKRSIIDVISHVIDDVVKGTKIFHGLRGLADIISNGIQG
+QVMISGTQLENHTVEEFLTQTLKHAASKPEFCMEPELKGPCKDQMTRYFYNAKTRYCEPFVYGGCEGNKNNFQTLSHCIV
+TCCPVPVTM
+>gi|296481027|tpg|DAA23142.1| TPA: trophoblast Kunitz domain protein 4 [Bos taurus]
+MNRLCLSAALLFLLVILVDSTPVYEHHTQDQGLETSHGRRLEKRSVTDLISAFMDAMVIVAELLKGVGFDELKGLPQTMS
+QMMISGRQLENHAVEVFPTQTLREENKADSKPAFCLEPKVTGHSKSSWPRYFYNAETGHCEQFTYGGLGGNKNNFITEEE
+CMKTCGQGAGSLREHAKSGPQKP
+>gi|942093469|ref|XP_014337906.1| PREDICTED: kappaPI-actitoxin-Ael3a-like isoform X2 [Bos mutus]
+MNRLCLSAALLFLLVILVDGISEDINKSHDHGYEMTYGRLNEKHSASKPAFCLKPKSIGPCKGRKIRYFYNAKTRQCQRF
+FYGGCKGNLNNFYTMALCMNTCGHVEWSWRRHGKSHAPKL
+>gi|942093466|ref|XP_014337905.1| PREDICTED: kappaPI-actitoxin-Ael3a-like isoform X1 [Bos mutus]
+MNRLCLSAALLFLLVILVDGISEDINKSHDHGYEMTYGRLNEKHSAASKPAFCLKPKSIGPCKGRKIRYFYNAKTRQCQR
+FFYGGCKGNLNNFYTMALCMNTCGHVEWSWRRHGKSHAPKL
+>gi|296480847|tpg|DAA22962.1| TPA: trophoblast Kunitz domain protein 5-like [Bos taurus]
+MICVHRRPTGGVKSEKRCYLVFGPSDQKHECLITPLSQDIKSSIHPQHPQEPSCESTKMNRLCLSAALLFLLVILVDGIS
+EDINKSHDHGYEMTYGRLNEKHSASKPAFCLKPKSIGPCKGRKIRYFYNAKTRQCQRFFYGGCKGNLNNFYTMALCMNTC
+GHVEWSWRHGKSHAPKL
+>gi|57526858|ref|NP_991344.1| trophoblast Kunitz domain protein 4 precursor [Bos taurus] >gi|7341326|gb|AAF61250.1|AF241779_1 trophoblast Kunitz domain protein 4 [Bos taurus]
+MNRLCLSAALLLLLVILVDSTPVYEHHTQDQGLETSHGRRLEKRSVTDLISAFMDAMVIVAELLKGVGFDELKGLPQTMS
+QMMISGRQLENHAVEVFPTQTLREENKADSKPAFCLEPKVTGHSKSSWPRYFYNAETGHCEQFTYGGLGGNKNNFITEEE
+CMKTCGQGAGSLREHAKSGPQKP
+>gi|965966002|ref|XP_014954990.1| PREDICTED: LOW QUALITY PROTEIN: uncharacterized protein TKDP5 isoform X1 [Ovis aries]
+MRPLCLSVALLVLLVILVDTTPLNIHHIQDEGLETNHTRELEKRSVVNVIKSVLGGVITGTKIIGDGASILTGLAEIINK
+ALKGQVMISGIQFDNHAQEELPTLEIEYSTLSEEIKGVETIHKQGIEKRSVLPVVKGILGGVLKGVKVVGKGASILTGLA
+EIVKKALKGQVMISRIQFDNHTPEELPTLEIEYSTLSEENEGVETSHKHGLEKRSVKKVFKKILGGVIKGSKIVGNGASI
+LGGLAKMLNKTIRDEVMISRIQFDNHTQEELPTLEIEYAVLSEENKGVETIHKQGIEKRSVLPVLKVSSAVCLKVPRFSE
+REPVXITGLAEIVKKALKGQVMISGIQFDNSTQEELPTLQIEYSTLIEENEGVETIHKQGIEKRSVLPVVKGILGGVLKG
+VKVVGKGASILTGLAEIVKKALKGQVMISGIQFDNSTQEELPTLEIEYSPLSEEIKGVETMHKQGIEKRSVLPVVKGILG
+GVLKGVKVVGKGASILTGLAEIVKKALKGQVMISGIQFDNHTPEELPTLEIEYSTLSEENEGVETSHKHGLEKRSVKKVF
+KKILGGVIKGSKIVGNGASILGGLAKMLNKTIRDEVMISRIQFDNHTQEELPTLEIEYAVLSEENKGVETSHKQRLEKRA
+VLPVLKVSSAVCLKVSRLSEREPVYXTGLAEIVKKALKGQVMISGIQFDNSTQEEMPTLQIEYSTLIEENEGVETIHKQG
+IEKRSVLPVVKGILGGVLKGVKIVGKGASILTGLAEIVKKALKGQVMISGIQFDNHTQEELPTLEIEYSTLSEEIKGVET
+SQKRVLEKRSVVHVVKSILGGVIKGTKIFGKGASILTGLAEIVTKALKGQVMISGIQFENHMPEELPTLNMEYSTLNEEN
+KVSPAFMPAFCVEPKFVGVCNGSMTRYFYNAQTGHCEMFMFVYGGCGGNENNFQTLEECMKTCYPKAGSLCWGVNISVST
+LLSINAILKGQKHEHTLTFCSPSSPPGDPSGRHSGG
+>gi|440894750|gb|ELR47122.1| hypothetical protein M91_03958 [Bos mutus]
+CLEPKVTGGCNSMMTRYFYNAQTGLCEQFVYGGCEGNGNNFKKLEDCLK
+>gi|982943813|ref|XP_015329793.1| PREDICTED: pancreatic trypsin inhibitor isoform X4 [Bos taurus] >gi|982993856|ref|XP_015321680.1| PREDICTED: pancreatic trypsin inhibitor isoform X4 [Bos taurus]
+MICVHRRPTGGVKSEKRCYLCLITPLSQDIKSSIHPQHPQEPSCESTKMNRLCLSAALLFLLVILVDGISEDINKSHDHG
+YEMTYGRLNEKHSASKPAFCLKPKSIGPCKGRKIRYFYNAKTRQCQRFFYGGCKGNLNNFYTMALCMNTCGHVEWSWRHG
+KSHAPKL
+>gi|528914114|ref|XP_005192552.1| PREDICTED: pancreatic trypsin inhibitor isoform X2 [Bos taurus] >gi|528974683|ref|XP_005215098.1| PREDICTED: pancreatic trypsin inhibitor isoform X2 [Bos taurus]
+MICVHRRPTGGVKSEKRCYLCLITPLSQDIKSSIHPQHPQEPSCESTKMNRLCLSAALLFLLVILVDGISEDINKSHDHG
+YEMTYGRLNEKHSASKPAFCLKPKSIGPCKGRKIRYFYNAKTRQCQRFFYGGCKGNLNNFYTMALCMNTCGHVEWSWRRH
+GKSHAPKL
+>gi|741889008|ref|XP_010822882.1| PREDICTED: pancreatic trypsin inhibitor isoform X3 [Bos taurus] >gi|741948998|ref|XP_010810036.1| PREDICTED: pancreatic trypsin inhibitor isoform X3 [Bos taurus]
+MICVHRRPTGGVKSEKRCYLCLITPLSQDIKSSIHPQHPQEPSCESTKMNRLCLSAALLFLLVILVDGISEDINKSHDHG
+YEMTYGRLNEKHSAASKPAFCLKPKSIGPCKGRKIRYFYNAKTRQCQRFFYGGCKGNLNNFYTMALCMNTCGHVEWSWRH
+GKSHAPKL
+>gi|803276136|ref|XP_011997745.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X1 [Ovis aries musimon]
+MNCLCFSAALLFLLVILVDGTPVYEHHSLDQGLETSLTRGPEKLVVSSVIKEIVDDVIIGTKIICKACKMIRKAAETVKK
+CLEGEELISLRQLENHTLQEFPTYIFKEENKADSQPAFCLEPKLAGSCKNKTARYFYNAKTGCCEPFVYGGCEGNKNNFN
+TIGDCLKSCCPDCMKTCCTLKESQGGHVKSGP
+>gi|528914112|ref|XP_611595.6| PREDICTED: pancreatic trypsin inhibitor isoform X1 [Bos taurus] >gi|528974681|ref|XP_002692385.3| PREDICTED: pancreatic trypsin inhibitor isoform X1 [Bos taurus]
+MICVHRRPTGGVKSEKRCYLCLITPLSQDIKSSIHPQHPQEPSCESTKMNRLCLSAALLFLLVILVDGISEDINKSHDHG
+YEMTYGRLNEKHSAASKPAFCLKPKSIGPCKGRKIRYFYNAKTRQCQRFFYGGCKGNLNNFYTMALCMNTCGHVEWSWRR
+HGKSHAPKL
+>gi|803276138|ref|XP_011997746.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X2 [Ovis aries musimon]
+MNCLCFSAALLFLLVILVDGTPVYEHHSLDQGLETSLTRGPEKLVVSSVIKEIVDDVIIGTKIICKACKMIRKAAETVKK
+CLEGEELISLRQLENHTLQEFPTYIFKEENKDSQPAFCLEPKLAGSCKNKTARYFYNAKTGCCEPFVYGGCEGNKNNFNT
+IGDCLKSCCPDCMKTCCTLKESQGGHVKSGP
+>gi|374977500|pdb|3AUI|A Chain A, A Simplified Bpti Variant With Poly Glu Amino Acid Tag (C3e) At The C- Terminus >gi|374977501|pdb|3AUI|B Chain B, A Simplified Bpti Variant With Poly Glu Amino Acid Tag (C3e) At The C- Terminus
+RPAFCLEPPYAGPGKARIIRYFYNAAAGAAQAFVYGGVRAKRNNFASAADALAACAAAGGEEE
+>gi|7341324|gb|AAF61249.1|AF241778_1 trophoblast Kunitz domain protein 3 [Bos taurus]
+RLCLSAALLFLLVILVDSTLVNIHHIQDEGLETSHRRGPKKHSTKDMIKNIIRGVATGAKIANAGSGFIREVVKAMREGN
+KGHVKTSGAQLKNHTVEESPTFNTQQLILSEKNKADSRPAFCLEPKVVGHGTTKMPRYFYNAKTGHCEPFTYGSLGGNKN
+NFLTIEDCMETCGQGAGSL
+>gi|742080751|ref|XP_010852074.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X3 [Bison bison bison]
+MNRLCLSAALLFLLVILVDSTLVYEHHTQDQVAELLKGIGFDEIKGLPQTMSQMMISGRQLENHAVEVFPTQMLREENKA
+DSKPAFCLEPKVTGHSKSSWPRYFYNAETGHCEQFTYGGLGGNKNNFITEEECMKTCGQGAGSLREHAKSGPQKP
+>gi|742080755|ref|XP_010852084.1| PREDICTED: trophoblast Kunitz domain protein 1-like isoform X4 [Bison bison bison]
+MNRLCLSAALLFLLVILVDSTLVYEHHTQDQVAELLKGIGFDEIKGLPQTMSQMMISGRQLENHAVEVFPTQMLREENKD
+SKPAFCLEPKVTGHSKSSWPRYFYNAETGHCEQFTYGGLGGNKNNFITEEECMKTCGQGAGSLREHAKSGPQKP
+>gi|982942882|ref|XP_015329610.1| PREDICTED: trophoblast Kunitz domain protein 4 isoform X1 [Bos taurus] >gi|102527457|tpg|DAA05607.1| TPA_inf: trophoblast Kunitz domain protein 4 [Bos taurus]
+MNRLCLSAALLFLLVILVDSTPVYEHHTQDQVAELLKGVGFDELKGLPQTMSQMMISGRQLENHAVEVFPTQTLREENKA
+DSKPAFCLEPKVTGHSKSSWPRYFYNAETGHCEQFTYGGLGGNKNNFITEEECMKTCGQGAGSLREHAKSGPQKP
+>gi|374977479|pdb|3AUB|A Chain A, A Simplified Bpti Variant Stabilized By The A14g And A38v Substitutions >gi|374977480|pdb|3AUB|B Chain B, A Simplified Bpti Variant Stabilized By The A14g And A38v Substitutions
+RPAFCLEPPYAGPGKARIIRYFYNAAAGAAQAFVYGGVRAKRNNFASAADALAACAAA
+>gi|555993384|ref|XP_005908455.1| PREDICTED: trophoblast Kunitz domain protein 1 isoform X3 [Bos mutus]
+MNRLCLSAALLFLLVILVDSTPVYEHHTQDQVAELLKGMGFDEIKGLPQTMSQMMISGRQLENHAVEVFPTQMLREENKA
+DSKPAFCLEPKVTGHSKSSWPRYFYNAETGHCEQFTYGGLGGNKNNFITEEECMKTCGQGAGSLREHAKSGPQKP
+>gi|209870427|pdb|3CI7|A Chain A, Crystal Structure Of A Simplified Bpti Containing 20 Alanines >gi|209870428|pdb|3CI7|B Chain B, Crystal Structure Of A Simplified Bpti Containing 20 Alanines >gi|209870429|pdb|3CI7|C Chain C, Crystal Structure Of A Simplified Bpti Containing 20 Alanines >gi|209870430|pdb|3CI7|D Chain D, Crystal Structure Of A Simplified Bpti Containing 20 Alanines
+RPAFCLEPPYAGPGKARIIRYFYNAAAGAAQAFVYGGARAKRNNFASAADALAACAAA
+>gi|942093461|ref|XP_014337904.1| PREDICTED: trophoblast Kunitz domain protein 1 isoform X4 [Bos mutus]
+MNRLCLSAALLFLLVILVDSTPVYEHHTQDQVAELLKGMGFDEIKGLPQTMSQMMISGRQLENHAVEVFPTQMLREENKD
+SKPAFCLEPKVTGHSKSSWPRYFYNAETGHCEQFTYGGLGGNKNNFITEEECMKTCGQGAGSLREHAKSGPQKP
+>gi|374977494|pdb|3AUG|A Chain A, A Simplified Bpti Variant With Poly Pro Amino Acid Tag (C5p) At The C- Terminus >gi|374977495|pdb|3AUG|C Chain C, A Simplified Bpti Variant With Poly Pro Amino Acid Tag (C5p) At The C- Terminus
+RPAFCLEPPYAGPGKARIIRYFYNAAAGAAQAFVYGGVRAKRNNFASAADALAACAAAGGPPPPP
+>gi|374977486|pdb|3AUE|A Chain A, A Simplified Bpti Variant With Poly His Amino Acid Tag (C5h) At The C- Terminus >gi|374977487|pdb|3AUE|B Chain B, A Simplified Bpti Variant With Poly His Amino Acid Tag (C5h) At The C- Terminus >gi|374977488|pdb|3AUE|C Chain C, A Simplified Bpti Variant With Poly His Amino Acid Tag (C5h) At The C- Terminus >gi|374977489|pdb|3AUE|D Chain D, A Simplified Bpti Variant With Poly His Amino Acid Tag (C5h) At The C- Terminus >gi|374977490|pdb|3AUE|E Chain E, A Simplified Bpti Variant With Poly His Amino Acid Tag (C5h) At The C- Terminus >gi|374977491|pdb|3AUE|F Chain F, A Simplified Bpti Variant With Poly His Amino Acid Tag (C5h) At The C- Terminus >gi|374977492|pdb|3AUE|G Chain G, A Simplified Bpti Variant With Poly His Amino Acid Tag (C5h) At The C- Terminus >gi|374977493|pdb|3AUE|H Chain H, A Simplified Bpti Variant With Poly His Amino Acid Tag (C5h) At The C- Terminus
+RPAFCLEPPYAGPGKARIIRYFYNAAAGAAQAFVYGGVRAKRNNFASAADALAACAAAGGHHHHH
+>gi|374977496|pdb|3AUH|A Chain A, A Simplified Bpti Variant With Poly Arg Amino Acid Tag (C3r) At The C- Terminus >gi|374977497|pdb|3AUH|C Chain C, A Simplified Bpti Variant With Poly Arg Amino Acid Tag (C3r) At The C- Terminus >gi|374977498|pdb|3AUH|E Chain E, A Simplified Bpti Variant With Poly Arg Amino Acid Tag (C3r) At The C- Terminus >gi|374977499|pdb|3AUH|G Chain G, A Simplified Bpti Variant With Poly Arg Amino Acid Tag (C3r) At The C- Terminus
+RPAFCLEPPYAGPGKARIIRYFYNAAAGAAQAFVYGGVRAKRNNFASAADALAACAAAGGRRR
+>gi|548491675|ref|XP_005688656.1| PREDICTED: spleen trypsin inhibitor I-like isoform X1 [Capra hircus]
+MKMNRLCLSAALLFLLVILVDGTPEDINKSHDHGYVMTSGGRNENHPAASKPAFCLKPKLIGPCKAKKVRYFYDAKTRQC
+QRFFYGGCKGNLNNFQTIALCMKICDHAAWSRRRHGKSHAPKL
+>gi|548491677|ref|XP_005688657.1| PREDICTED: spleen trypsin inhibitor I-like isoform X2 [Capra hircus]
+MKMNRLCLSAALLFLLVILVDGTPEDINKSHDHGYVMTSGGRNENHPASKPAFCLKPKLIGPCKAKKVRYFYDAKTRQCQ
+RFFYGGCKGNLNNFQTIALCMKICDHAAWSRRRHGKSHAPKL
+>gi|982943305|ref|XP_015329693.1| PREDICTED: trophoblast Kunitz domain protein 1 [Bos taurus] >gi|982993126|ref|XP_015321540.1| PREDICTED: trophoblast Kunitz domain protein 1 [Bos taurus]
+MNRLCLSAALLFLLVILVDSTLVNIHHIQDEGLETSHRRGPKKHSTKDMIKNIIRGVATGAKIANAGSGFIREVVKAMRE
+GNKGHVKTSGAQLKNHTVEESPTFNTQQLILSEKNKADSRPAFCLEPKVVGHGTTKMPRYFYDAKTGHCEPFTYGSLGGN
+KNNFLTIEDCMKTCGQGAGSLW
+>gi|440907787|gb|ELR57885.1| hypothetical protein M91_13802 [Bos mutus]
+MNRLCLSAALLFLLVILVDSTLVNIHHIQHEDLNLVRVHGLRLLKTVAFLSFLGAKIANAGSGFIREVVKAMREGNKGHV
+KTSGAQLKNHTVEESPTFNTQQLILSEKNKADSRPAFCLEPKVVGHGTTKMPRYFYNAKTGHCEPFTYGSLGGNKNNFLT
+LEDCMETCGQGAGSLCKFLSFCRGHAKSVSQKM
+>gi|803276142|ref|XP_011997748.1| PREDICTED: trophoblast Kunitz domain protein 1 isoform X2 [Ovis aries musimon]
+MNRLCLSAALLFLLVILVDSTPLNTHHVQDEGLETSHRRGPEKHSTKNTIKSIIRGMSTGAKIASAGSGLINEVIKAIRK
+GNKGHVTVSGTKYKNHTAEESPTLNIQQLILSEKNKDSRPAFCLEPKVVGHGKASMPRYFYNAKTGHCGPFTYSGLGRNK
+NNFLTLEDCIKTCGQGAGSL
+>gi|296480956|tpg|DAA23071.1| TPA: trophoblast Kunitz domain protein 3 [Bos taurus]
+MNRLCLSAALLFLLVILVDSTLVNIHHIQDEGLETSHRRGPKKHSTKDMIKNIIRGVATGAKIANAGSGFIREVVKAMRE
+GNKGHVKTSGAQLKNHTVEESPTFNTQQLILSEKNKADSRPAFCLEPKVVGHGTTKMPRYFYDAKTGHCEPFTYGSLGGN
+KNNFLTIEDCMKTCGQGAGSL
+>gi|803276140|ref|XP_011997747.1| PREDICTED: trophoblast Kunitz domain protein 1 isoform X1 [Ovis aries musimon]
+MNRLCLSAALLFLLVILVDSTPLNTHHVQDEGLETSHRRGPEKHSTKNTIKSIIRGMSTGAKIASAGSGLINEVIKAIRK
+GNKGHVTVSGTKYKNHTAEESPTLNIQQLILSEKNKADSRPAFCLEPKVVGHGKASMPRYFYNAKTGHCGPFTYSGLGRN
+KNNFLTLEDCIKTCGQGAGSL
+>gi|803137609|ref|XP_012044643.1| PREDICTED: trophoblast Kunitz domain protein 1 isoform X2 [Ovis aries]
+MNRLCLSAALLFLLVILVDSTPLNTHHVQDEGLETSHRRGPEKHSTKNTIKSIIRGMSTGAKIASAGSGLINEVIKAIRK
+GNKGHVTVSGAKYKNHTAEESPTLNIQQLILSEKNKDSRPAFCLEPKVVGHGKASMPRYFYNAKTGHCGPFTYSGLGRNK
+NNFLTLEDCIKTCGQGAGSL
+>gi|803276146|ref|XP_011997750.1| PREDICTED: trophoblast Kunitz domain protein 1 isoform X4 [Ovis aries musimon]
+MNRLCLSAALLFLLVILVDSTPLNTHHVQDEGLETSHRRGPEKHSTKNTIKSIIRGAKIASAGSGLINEVIKAIRKGNKG
+HVTVSGTKYKNHTAEESPTLNIQQLILSEKNKDSRPAFCLEPKVVGHGKASMPRYFYNAKTGHCGPFTYSGLGRNKNNFL
+TLEDCIKTCGQGAGSL

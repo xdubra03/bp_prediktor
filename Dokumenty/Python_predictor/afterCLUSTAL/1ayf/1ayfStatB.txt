@@ -1,0 +1,16 @@
+---------------
+
+file: 1ayf61-120.txt
+original acid: C
+mutated acid: S
+at position: 35
+
+Statistics:
+
+No all proteins: 250
+Is same at position: count = 248
+No. basic acids at position: 0
+No. mutated acids at position: 1
+No. else acids at position: 1
+Originals : 0.000000
+Mutated : 0.400000

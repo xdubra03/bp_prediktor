@@ -1,0 +1,16 @@
+---------------
+
+file: 1azp1-60.txt
+original acid: V
+mutated acid: I
+at position: 30
+
+Statistics:
+
+No all proteins: 50
+Is same at position: count = 49
+No. basic acids at position: 0
+No. mutated acids at position: 0
+No. else acids at position: 1
+Originals : 0.000000
+Mutated : 0.000000

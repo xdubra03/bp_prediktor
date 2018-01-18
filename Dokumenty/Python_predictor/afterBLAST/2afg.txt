@@ -1,0 +1,771 @@
+>gi|226785|prf||1605206A acidic fibroblast growth factor
+AMAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQY
+LAMDTDGLLYGSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|60654519|gb|AAX29950.1| fibroblast growth factor 1 [synthetic construct]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSDL
+>gi|4503697|ref|NP_000791.1| fibroblast growth factor 1 isoform 1 precursor [Homo sapiens] >gi|222144221|ref|NP_001138364.1| fibroblast growth factor 1 isoform 1 precursor [Homo sapiens] >gi|222144271|ref|NP_001138406.1| fibroblast growth factor 1 isoform 1 precursor [Homo sapiens] >gi|222144273|ref|NP_001138407.1| fibroblast growth factor 1 isoform 1 precursor [Homo sapiens] >gi|380748939|ref|NP_001244134.1| fibroblast growth factor 1 isoform 1 precursor [Homo sapiens] >gi|380748943|ref|NP_001244136.1| fibroblast growth factor 1 isoform 1 precursor [Homo sapiens] >gi|380748945|ref|NP_001244137.1| fibroblast growth factor 1 isoform 1 precursor [Homo sapiens] >gi|380748947|ref|NP_001244138.1| fibroblast growth factor 1 isoform 1 precursor [Homo sapiens] >gi|380748949|ref|NP_001244139.1| fibroblast growth factor 1 isoform 1 precursor [Homo sapiens] >gi|114602469|ref|XP_001153487.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Pan troglodytes] >gi|114602473|ref|XP_001153608.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Pan troglodytes] >gi|114602475|ref|XP_001153676.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Pan troglodytes] >gi|426350441|ref|XP_004042782.1| PREDICTED: fibroblast growth factor 1 [Gorilla gorilla gorilla] >gi|426350445|ref|XP_004042784.1| PREDICTED: fibroblast growth factor 1 [Gorilla gorilla gorilla] >gi|426350447|ref|XP_004042785.1| PREDICTED: fibroblast growth factor 1 [Gorilla gorilla gorilla] >gi|426350449|ref|XP_004042786.1| PREDICTED: fibroblast growth factor 1 [Gorilla gorilla gorilla] >gi|426350451|ref|XP_004042787.1| PREDICTED: fibroblast growth factor 1 [Gorilla gorilla gorilla] >gi|426350453|ref|XP_004042788.1| PREDICTED: fibroblast growth factor 1 [Gorilla gorilla gorilla] >gi|634843229|ref|XP_007937256.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Orycteropus afer afer] >gi|667272025|ref|XP_008571196.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Galeopterus variegatus] >gi|667272029|ref|XP_008571197.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Galeopterus variegatus] >gi|667272032|ref|XP_008571198.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Galeopterus variegatus] >gi|694912876|ref|XP_009448129.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Pan troglodytes] >gi|724942791|ref|XP_010386568.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Rhinopithecus roxellana] >gi|724942793|ref|XP_010386569.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Rhinopithecus roxellana] >gi|724942795|ref|XP_010386570.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Rhinopithecus roxellana] >gi|795153476|ref|XP_011795124.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Colobus angolensis palliatus] >gi|795153482|ref|XP_011795125.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Colobus angolensis palliatus] >gi|795153487|ref|XP_011795126.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Colobus angolensis palliatus] >gi|795153492|ref|XP_011795127.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Colobus angolensis palliatus] >gi|795153497|ref|XP_011795128.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Colobus angolensis palliatus] >gi|795153500|ref|XP_011795129.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Colobus angolensis palliatus] >gi|795153505|ref|XP_011795130.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Colobus angolensis palliatus] >gi|795415981|ref|XP_011946011.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cercocebus atys] >gi|795415986|ref|XP_011946012.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cercocebus atys] >gi|795415991|ref|XP_011946013.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cercocebus atys] >gi|795415994|ref|XP_011946014.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cercocebus atys] >gi|795415998|ref|XP_011946015.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cercocebus atys] >gi|795416001|ref|XP_011946016.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cercocebus atys] >gi|795416004|ref|XP_011946017.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cercocebus atys] >gi|795416007|ref|XP_011946018.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cercocebus atys] >gi|1034170949|ref|XP_016809468.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Pan troglodytes] >gi|1034170952|ref|XP_016809469.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Pan troglodytes] >gi|122737|sp|P05230.1|FGF1_HUMAN RecName: Full=Fibroblast growth factor 1; Short=FGF-1; AltName: Full=Acidic fibroblast growth factor; Short=aFGF; AltName: Full=Endothelial cell growth factor; Short=ECGF; AltName: Full=Heparin-binding growth factor 1; Short=HBGF-1; Flags: Precursor >gi|83288155|sp|Q5NVQ3.2|FGF1_PONAB RecName: Full=Fibroblast growth factor 1; Short=FGF-1; AltName: Full=Acidic fibroblast growth factor; Short=aFGF; AltName: Full=Heparin-binding growth factor 1; Short=HBGF-1; Flags: Precursor >gi|46015582|pdb|1RY7|A Chain A, Crystal Structure Of The 3 Ig Form Of Fgfr3c In Complex With Fgf1 >gi|157833704|pdb|1RML|A Chain A, Nmr Study Of Acid Fibroblast Growth Factor Bound To 1,3,6- Naphthalene Trisulphonate, 26 Structures >gi|345110747|pdb|3OJ2|A Chain A, Crystal Structure Of Fgf1 Complexed With The Ectodomain Of Fgfr2b Harboring The A172f Pfeiffer Syndrome Mutation >gi|345110748|pdb|3OJ2|B Chain B, Crystal Structure Of Fgf1 Complexed With The Ectodomain Of Fgfr2b Harboring The A172f Pfeiffer Syndrome Mutation >gi|345110751|pdb|3OJM|A Chain A, Crystal Structure Of Fgf1 Complexed With The Ectodomain Of Fgfr2b Harboring P253r Apert Mutation >gi|32436|emb|CAA36206.1| unnamed protein product [Homo sapiens] >gi|181942|gb|AAA79245.1| beta-endothelial cell growth factor [Homo sapiens] >gi|182559|gb|AAA52446.1| acidic fibroblast growth factor [Homo sapiens] >gi|386768|gb|AAA52638.1| heparin-binding growth factor 1, partial [Homo sapiens] >gi|396164|emb|CAA46661.1| acidic fibroblast growth factor [Homo sapiens] >gi|21595687|gb|AAH32697.1| FGF1 protein [Homo sapiens] >gi|46488020|gb|AAS99352.1| fibroblast growth factor 1 (acidic) [Homo sapiens] >gi|119582285|gb|EAW61881.1| fibroblast growth factor 1 (acidic), isoform CRA_b [Homo sapiens] >gi|119582286|gb|EAW61882.1| fibroblast growth factor 1 (acidic), isoform CRA_b [Homo sapiens] >gi|119582289|gb|EAW61885.1| fibroblast growth factor 1 (acidic), isoform CRA_b [Homo sapiens] >gi|189065388|dbj|BAG35227.1| unnamed protein product [Homo sapiens] >gi|261860610|dbj|BAI46827.1| fibroblast growth factor 1, partial [synthetic construct] >gi|649099950|gb|AIC48751.1| FGF1, partial [synthetic construct]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|640785190|ref|XP_008048311.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Carlito syrichta] >gi|640785192|ref|XP_008048312.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Carlito syrichta]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYVSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|635124353|ref|XP_008012979.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Chlorocebus sabaeus] >gi|635124355|ref|XP_008012980.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Chlorocebus sabaeus] >gi|635124357|ref|XP_008012981.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Chlorocebus sabaeus] >gi|635124359|ref|XP_008012982.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Chlorocebus sabaeus] >gi|635124361|ref|XP_008012983.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Chlorocebus sabaeus] >gi|635124363|ref|XP_008012984.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Chlorocebus sabaeus] >gi|635124365|ref|XP_008012986.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Chlorocebus sabaeus]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFVERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|428698002|pdb|3UD7|A Chain A, Crystal Structure Analysis Of Fgf1-disaccharide(ni21) Complexes >gi|428698003|pdb|3UD7|B Chain B, Crystal Structure Analysis Of Fgf1-disaccharide(ni21) Complexes >gi|428698004|pdb|3UD7|C Chain C, Crystal Structure Analysis Of Fgf1-disaccharide(ni21) Complexes >gi|428698005|pdb|3UD8|A Chain A, Crystal Structure Analysis Of Fgf1-disaccharide(ni22) Complex >gi|428698006|pdb|3UD8|B Chain B, Crystal Structure Analysis Of Fgf1-disaccharide(ni22) Complex >gi|428698007|pdb|3UD8|C Chain C, Crystal Structure Analysis Of Fgf1-disaccharide(ni22) Complex >gi|428698008|pdb|3UD9|A Chain A, Crystal Structure Analysis Of Fgf1-disaccharide(ni23) Complex >gi|428698009|pdb|3UD9|B Chain B, Crystal Structure Analysis Of Fgf1-disaccharide(ni23) Complex >gi|428698010|pdb|3UD9|C Chain C, Crystal Structure Analysis Of Fgf1-disaccharide(ni23) Complex >gi|428698011|pdb|3UDA|A Chain A, Crystal Structure Analysis Of Fgf1-disaccharide(ni24) Complex >gi|428698012|pdb|3UDA|B Chain B, Crystal Structure Analysis Of Fgf1-disaccharide(ni24) Complex >gi|428698013|pdb|3UDA|C Chain C, Crystal Structure Analysis Of Fgf1-disaccharide(ni24) Complex >gi|354726327|emb|CCE35538.1| truncated fibroblast growth factor 1, partial [synthetic construct]
+MFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTP
+NEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|281182497|ref|NP_001162557.1| fibroblast growth factor 1 [Papio anubis] >gi|164612467|gb|ABY63630.1| fibroblast growth factor 1, isoform 1 (predicted) [Papio anubis]
+MAEGEITTFTALTEKFNLPPANYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|826297891|ref|XP_012501244.1| PREDICTED: fibroblast growth factor 1 [Propithecus coquereli] >gi|826297894|ref|XP_012501245.1| PREDICTED: fibroblast growth factor 1 [Propithecus coquereli] >gi|826297897|ref|XP_012501247.1| PREDICTED: fibroblast growth factor 1 [Propithecus coquereli] >gi|826297900|ref|XP_012501248.1| PREDICTED: fibroblast growth factor 1 [Propithecus coquereli]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTQTGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|1311210|pdb|2AFG|A Chain A, 2.0 Angstrom X-Ray Structure Of Human Acidic Fibroblast Growth Factor >gi|1311211|pdb|2AFG|B Chain B, 2.0 Angstrom X-Ray Structure Of Human Acidic Fibroblast Growth Factor >gi|1311212|pdb|2AFG|C Chain C, 2.0 Angstrom X-Ray Structure Of Human Acidic Fibroblast Growth Factor >gi|1311213|pdb|2AFG|D Chain D, 2.0 Angstrom X-Ray Structure Of Human Acidic Fibroblast Growth Factor >gi|11513769|pdb|1E0O|A Chain A, Crystal Structure Of A Ternary Fgf1-Fgfr2-Heparin Complex >gi|11513771|pdb|1E0O|C Chain C, Crystal Structure Of A Ternary Fgf1-Fgfr2-Heparin Complex
+FNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPN
+EECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|354726326|emb|CCE35537.1| sp1 fibroblast growth factor 1 fusion protein [synthetic construct] >gi|752293398|emb|CEK41094.1| Skin permeable FGF1 [synthetic construct]
+MFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTP
+NEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSDGSKETWWETWWTEWSQPKK
+KRKVLEHHHHHH
+>gi|594693927|ref|XP_007194219.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Balaenoptera acutorostrata scammoni]
+MSEVCCSTKDFKALWGKKPIASSLESAITRSCSAMAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTV
+DGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFLERLEENHYNTYASKKHAEKNWFVGL
+KKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|586485668|ref|XP_006873322.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Chrysochloris asiatica]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQAPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|296193072|ref|XP_002744341.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Callithrix jacchus] >gi|675643473|ref|XP_008985018.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Callithrix jacchus] >gi|675643475|ref|XP_008985025.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Callithrix jacchus] >gi|1044364912|ref|XP_017387770.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cebus capucinus imitator] >gi|1044364914|ref|XP_017387771.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cebus capucinus imitator] >gi|1044364916|ref|XP_017387772.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cebus capucinus imitator] >gi|166064949|gb|ABY79115.1| fibroblast growth factor 1 isoform 1 precursor (predicted) [Callithrix jacchus] >gi|169409534|gb|ACA57884.1| fibroblast growth factor 1 isoform 1 precursor (predicted) [Plecturocebus moloch]
+MAEGEITTFTALTEKFDLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|472356295|ref|XP_004397790.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Odobenus rosmarus divergens]
+MAEGEITTFTALMEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|18158961|pdb|1JQZ|A Chain A, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag. >gi|18158962|pdb|1JQZ|B Chain B, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag. >gi|55669655|pdb|1RG8|A Chain A, Human Acidic Fibroblast Growth Factor (Hafgf-1) At 1.10 Angstrom Resolution (140 Amino Acid Form) >gi|55669656|pdb|1RG8|B Chain B, Human Acidic Fibroblast Growth Factor (Hafgf-1) At 1.10 Angstrom Resolution (140 Amino Acid Form)
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|466060487|ref|XP_004280268.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Orcinus orca] >gi|470603480|ref|XP_004313067.1| PREDICTED: fibroblast growth factor 1 isoform 1 [Tursiops truncatus] >gi|594693933|ref|XP_007194222.1| PREDICTED: fibroblast growth factor 1 isoform X4 [Balaenoptera acutorostrata scammoni]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYASKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|585678381|ref|XP_006891179.1| PREDICTED: fibroblast growth factor 1-like isoform X1 [Elephantulus edwardii]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQSPNEECLFLERLEENHYNTYVSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|820974654|ref|XP_003266602.2| PREDICTED: LOW QUALITY PROTEIN: fibroblast growth factor 1 [Nomascus leucogenys]
+MPHAATLSPFLQCPPDTGSESGLEGAGISHLLKCWMQPLRFGRSRKLRLESAKSSSCXAMAEGEITTFTALTEKFNLPPG
+NYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFL
+ERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|255522909|ref|NP_001157358.1| fibroblast growth factor 1 [Equus caballus] >gi|388452980|ref|NP_001252958.1| fibroblast growth factor 1 [Macaca mulatta] >gi|507960172|ref|XP_004686892.1| PREDICTED: fibroblast growth factor 1 [Condylura cristata] >gi|532076989|ref|XP_005324284.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Ictidomys tridecemlineatus] >gi|532076991|ref|XP_005324285.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Ictidomys tridecemlineatus] >gi|545184086|ref|XP_005599189.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Equus caballus] >gi|591302200|ref|XP_007078001.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Panthera tigris altaica] >gi|591302202|ref|XP_007078002.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Panthera tigris altaica] >gi|593769978|ref|XP_007123385.1| PREDICTED: fibroblast growth factor 1-like isoform X1 [Physeter catodon] >gi|664720457|ref|XP_008517266.1| PREDICTED: fibroblast growth factor 1 [Equus przewalskii] >gi|664720459|ref|XP_008517267.1| PREDICTED: fibroblast growth factor 1 [Equus przewalskii] >gi|664720461|ref|XP_008517268.1| PREDICTED: fibroblast growth factor 1 [Equus przewalskii] >gi|755690610|ref|XP_011281003.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Felis catus] >gi|755690613|ref|XP_011281005.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Felis catus] >gi|755690617|ref|XP_011281008.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Felis catus] >gi|795528021|ref|XP_011714481.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Macaca nemestrina] >gi|795528033|ref|XP_011714482.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Macaca nemestrina] >gi|795528037|ref|XP_011714483.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Macaca nemestrina] >gi|795528039|ref|XP_011714484.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Macaca nemestrina] >gi|795528047|ref|XP_011714485.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Macaca nemestrina] >gi|795528059|ref|XP_011714486.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Macaca nemestrina] >gi|830055570|ref|XP_012583357.1| PREDICTED: fibroblast growth factor 1 [Condylura cristata] >gi|953871894|ref|XP_014585794.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Equus caballus] >gi|953871896|ref|XP_014585795.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Equus caballus] >gi|958728508|ref|XP_014705754.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Equus asinus] >gi|958728511|ref|XP_014705755.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Equus asinus] >gi|958728515|ref|XP_014705756.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Equus asinus] >gi|958728518|ref|XP_014705757.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Equus asinus] >gi|961708101|ref|XP_014918824.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Acinonyx jubatus] >gi|961708103|ref|XP_014918834.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Acinonyx jubatus] >gi|961708105|ref|XP_014918843.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Acinonyx jubatus] >gi|982255137|ref|XP_015307548.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Macaca fascicularis] >gi|982255139|ref|XP_015307549.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Macaca fascicularis] >gi|982255141|ref|XP_015307550.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Macaca fascicularis] >gi|982255143|ref|XP_015307551.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Macaca fascicularis] >gi|982255145|ref|XP_005558156.2| PREDICTED: fibroblast growth factor 1 isoform X1 [Macaca fascicularis] >gi|982255147|ref|XP_015307552.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Macaca fascicularis] >gi|982255149|ref|XP_015307553.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Macaca fascicularis] >gi|984079752|ref|XP_015341190.1| PREDICTED: fibroblast growth factor 1 [Marmota marmota marmota] >gi|987398978|ref|XP_015391113.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Panthera tigris altaica] >gi|355691704|gb|EHH26889.1| hypothetical protein EGK_16969 [Macaca mulatta] >gi|355750275|gb|EHH54613.1| hypothetical protein EGM_15492 [Macaca fascicularis]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|675791643|ref|XP_003829149.2| PREDICTED: LOW QUALITY PROTEIN: fibroblast growth factor 1 [Pan paniscus]
+MHHAATLSPFLQCPPDTGPESGLEGAGISHLLKCWMQPLSFGRSRKLRLESATSSSCXAMAEGEITTFTALTEKFNLPPG
+NYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFL
+ERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|471394410|ref|XP_004381189.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Trichechus manatus latirostris]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKGTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|946645447|ref|XP_014414429.1| PREDICTED: fibroblast growth factor 1 [Camelus ferus] >gi|946645451|ref|XP_014414430.1| PREDICTED: fibroblast growth factor 1 [Camelus ferus] >gi|946645454|ref|XP_014414431.1| PREDICTED: fibroblast growth factor 1 [Camelus ferus] >gi|946645458|ref|XP_014414432.1| PREDICTED: fibroblast growth factor 1 [Camelus ferus] >gi|946645461|ref|XP_014414433.1| PREDICTED: fibroblast growth factor 1 [Camelus ferus] >gi|946645465|ref|XP_014414434.1| PREDICTED: fibroblast growth factor 1 [Camelus ferus] >gi|946645469|ref|XP_014414435.1| PREDICTED: fibroblast growth factor 1 [Camelus ferus] >gi|946645472|ref|XP_014414436.1| PREDICTED: fibroblast growth factor 1 [Camelus ferus] >gi|528761757|gb|EPY81416.1| fibroblast growth factor 1 [Camelus ferus]
+MAEGEITTFAALREKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|197098138|ref|NP_001127073.1| fibroblast growth factor 1 [Pongo abelii] >gi|56403619|emb|CAI29610.1| hypothetical protein [Pongo abelii]
+MHHAATLSPFLQCLPDTGRESGLEGAGISHLLKCWMQPLRFGRSRKLRLESATSSSCWAMAEGEITTFTALTEKFNLPPG
+NYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFL
+ERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|49258419|pdb|1P63|A Chain A, Human Acidic Fibroblast Growth Factor. 140 Amino Acid Form With Amino Terminal His Tag And Leu111 Replaced With Ile (L111i) >gi|49258420|pdb|1P63|B Chain B, Human Acidic Fibroblast Growth Factor. 140 Amino Acid Form With Amino Terminal His Tag And Leu111 Replaced With Ile (L111i)
+HHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGS
+QTPNEECLFLERLEENHYNTYISKKHAEKNWFVGIKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|260656210|pdb|3FJB|A Chain A, Crystal Structure Of V31i Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656211|pdb|3FJB|B Chain B, Crystal Structure Of V31i Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTIDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|13236891|gb|AAB29057.2| acidic fibroblast growth factor [Homo sapiens]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSS
+>gi|743710778|ref|XP_010948861.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Camelus bactrianus] >gi|743710780|ref|XP_010948862.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Camelus bactrianus]
+MAEGGITTFAALREKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|18158963|pdb|1JT3|A Chain A, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Histidine Tag And Leu 73 Replaced By Val (L73v) >gi|18158964|pdb|1JT3|B Chain B, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Histidine Tag And Leu 73 Replaced By Val (L73v)
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLVY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|18158973|pdb|1JTC|A Chain A, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Leu 44 Replaced By Phe (L44f) >gi|18158974|pdb|1JTC|B Chain B, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Leu 44 Replaced By Phe (L44f) >gi|18158975|pdb|1JTC|C Chain C, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Leu 44 Replaced By Phe (L44f) >gi|18158976|pdb|1JTC|D Chain D, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Leu 44 Replaced By Phe (L44f)
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQFQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|18158965|pdb|1JT4|A Chain A, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Val 109 Replaced By Leu (v109l) >gi|18158966|pdb|1JT4|B Chain B, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Val 109 Replaced By Leu (v109l)
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFLGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|928127876|ref|XP_013963577.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Canis lupus familiaris]
+MTQTALGEGLANGPGSLESTITSSCRAMAEGEITTFTALTEKFNLPPGNYMKPKLLYCSNGGHFLRILPDGTVDGTRDRS
+DQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCK
+RGPRTHYGQKAILFLPLPVSSD
+>gi|974994312|pdb|4XKI|A Chain A, Human Fibroblast Growth Factor - 1 (fgf-1) Mutant S116r >gi|974994313|pdb|4XKI|B Chain B, Human Fibroblast Growth Factor - 1 (fgf-1) Mutant S116r
+MHHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLL
+YGSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGRCKRGPRTHYGQKAILFLPLPVSSD
+>gi|183448271|pdb|3BAQ|A Chain A, Crystal Structure Of L26a Mutant Of Human Acidic Fibroblast Growth Factor >gi|183448272|pdb|3BAQ|B Chain B, Crystal Structure Of L26a Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRIAPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|758095269|emb|CEK46670.1| Skin Permeable Thioredoxin-1 and Fibroblast growth factor-1 fusion protein [synthetic construct]
+MGSSHHHHHHSSGLVPRGSHMKETWWETWWTEWSQPKKKRKVLEMVKQIESKTAFQEALDAAGDKLVVVDFSATWCGPCK
+MIKPFFHSLSEKYSNVIFLEVDVDDCQDVASECEVKCMPTFQFFKKGQKVGEFSGANKEKLEATINELVVDFNLPPGNYK
+KPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFLERL
+EENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSDELKETWWETWWTEWSQPKKKRKV
+>gi|602713385|ref|XP_007466915.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Lipotes vexillifer]
+MSEVCCSTKDFEALWGKKPIASSLESAITRSCSAMAEGEITTFTALTEKFKLPPGNYKKPKLLYCSNGGHFLRILPDGTV
+DGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGL
+KKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|47168340|pdb|1HKN|A Chain A, A Complex Between Acidic Fibroblast Growth Factor And 5- Amino-2-Naphthalenesulfonate >gi|47168341|pdb|1HKN|B Chain B, A Complex Between Acidic Fibroblast Growth Factor And 5- Amino-2-Naphthalenesulfonate >gi|47168342|pdb|1HKN|C Chain C, A Complex Between Acidic Fibroblast Growth Factor And 5- Amino-2-Naphthalenesulfonate >gi|47168343|pdb|1HKN|D Chain D, A Complex Between Acidic Fibroblast Growth Factor And 5- Amino-2-Naphthalenesulfonate >gi|47168344|pdb|1HKN|E Chain E, A Complex Between Acidic Fibroblast Growth Factor And 5- Amino-2-Naphthalenesulfonate >gi|47168345|pdb|1HKN|F Chain F, A Complex Between Acidic Fibroblast Growth Factor And 5- Amino-2-Naphthalenesulfonate >gi|116667119|pdb|2ERM|B Chain B, Solution Structure Of A Biologically Active Human Fgf-1 Monomer, Complexed To A Hexasaccharide Heparin-Analogue >gi|350297756|pdb|2ERM|A Chain A, Solution Structure Of A Biologically Active Human Fgf-1 Monomer, Complexed To A Hexasaccharide Heparin-Analogue
+NLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNE
+ECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|1048414142|ref|XP_017505896.1| PREDICTED: fibroblast growth factor 1 [Manis javanica] >gi|1048414144|ref|XP_017505897.1| PREDICTED: fibroblast growth factor 1 [Manis javanica]
+MAEGEITTFSALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPDEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|478491467|ref|XP_004420103.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Ceratotherium simum simum]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTNGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|183448267|pdb|3BAH|A Chain A, Crystal Structure Of K112n Mutant Of Human Acidic Fibroblast Growth Factor >gi|183448268|pdb|3BAH|B Chain B, Crystal Structure Of K112n Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLNKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|260656208|pdb|3FJA|A Chain A, Crystal Structure Of F132w Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656209|pdb|3FJA|B Chain B, Crystal Structure Of F132w Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILWLPLPVSSD
+>gi|260656206|pdb|3FJ9|A Chain A, Crystal Structure Of F85w Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656207|pdb|3FJ9|B Chain B, Crystal Structure Of F85w Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLWLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|817252452|ref|XP_012316019.1| PREDICTED: LOW QUALITY PROTEIN: fibroblast growth factor 1 [Aotus nancymaae]
+MYHAATLSPFLQCQPDPGPESGLAGARISHLLKSWMRPLRFGRSRKLCLESATSSSCXTMAEGEITTFTALTEKFDLPPG
+NYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFL
+ERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|73949448|ref|XP_849274.1| PREDICTED: fibroblast growth factor 1 isoform X3 [Canis lupus familiaris]
+MAEGEITTFTALTEKFNLPPGNYMKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|560964310|ref|XP_006204568.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Vicugna pacos] >gi|970716684|ref|XP_015094926.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Vicugna pacos] >gi|970716687|ref|XP_015094927.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Vicugna pacos]
+MAEGEITTFAALREKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLHGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|795210600|ref|XP_011849552.1| PREDICTED: LOW QUALITY PROTEIN: fibroblast growth factor 1 [Mandrillus leucophaeus]
+MHHAAALSPFLQCLPDTGPESGLDGAGISHLLKCWMRPLWFGRSRKLRLESATSSSCXAMAEGEITTFTALTEKFNLPPA
+NYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFL
+ERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|61364235|gb|AAX42511.1| fibroblast growth factor 1 [synthetic construct]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTYGLLYGSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|260656212|pdb|3FJC|A Chain A, Crystal Structure Of L44w Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656213|pdb|3FJC|B Chain B, Crystal Structure Of L44w Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQWQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|344265092|ref|XP_003404621.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Loxodonta africana]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKGTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|260656228|pdb|3FJK|A Chain A, Crystal Structure Of A66c Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656229|pdb|3FJK|B Chain B, Crystal Structure Of A66c Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656230|pdb|3FJK|C Chain C, Crystal Structure Of A66c Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656231|pdb|3FJK|D Chain D, Crystal Structure Of A66c Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656327|pdb|3HOM|A Chain A, Crystal Structure Of Oxidized A66c Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656328|pdb|3HOM|B Chain B, Crystal Structure Of Oxidized A66c Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLCMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|511840562|ref|XP_004744780.1| PREDICTED: fibroblast growth factor 1 [Mustela putorius furo] >gi|511840564|ref|XP_004744781.1| PREDICTED: fibroblast growth factor 1 [Mustela putorius furo] >gi|511840566|ref|XP_004744782.1| PREDICTED: fibroblast growth factor 1 [Mustela putorius furo] >gi|859768178|ref|XP_012907746.1| PREDICTED: fibroblast growth factor 1 [Mustela putorius furo] >gi|859768183|ref|XP_012907747.1| PREDICTED: fibroblast growth factor 1 [Mustela putorius furo]
+MAEGEITTFTALMEKFNLPAGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|602713387|ref|XP_007466916.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Lipotes vexillifer]
+MAEGEITTFTALTEKFKLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|301753463|ref|XP_002912581.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Ailuropoda melanoleuca] >gi|752379787|ref|XP_011217967.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Ailuropoda melanoleuca] >gi|752379789|ref|XP_011217975.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Ailuropoda melanoleuca] >gi|281345396|gb|EFB20980.1| hypothetical protein PANDA_000337 [Ailuropoda melanoleuca]
+MAEGEITTFTALTEKFNLPAGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|767259352|pdb|4QAL|A Chain A, Crystal Structure Of C117a Mutant Of Human Acidic Fibroblast Growth Factor >gi|767259353|pdb|4QAL|B Chain B, Crystal Structure Of C117a Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSAKRGPRTHYGQKAILFLPLPVSSD
+>gi|260656220|pdb|3FJH|A Chain A, Crystal Structure Of C83a Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656221|pdb|3FJH|B Chain B, Crystal Structure Of C83a Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEEALFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|18158967|pdb|1JT5|A Chain A, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Leu 73 Replaced By Val And Val 109 Replaced By Leu (l73v/v109l) >gi|18158968|pdb|1JT5|B Chain B, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Leu 73 Replaced By Val And Val 109 Replaced By Leu (l73v/v109l)
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLVY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFLGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|20150695|pdb|1K5V|A Chain A, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag With Asn106 Replaced By Gly (N106g). >gi|20150696|pdb|1K5V|B Chain B, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag With Asn106 Replaced By Gly (N106g)
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKGWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|505831789|ref|XP_004611153.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Sorex araneus] >gi|190344023|gb|ACE75805.1| fibroblast growth factor 1 (predicted) [Sorex araneus]
+MAEGEITTFGALMEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGHYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|183448254|pdb|3BA5|A Chain A, Crystal Structure Of D28a Mutant Of Human Acidic Fibroblast Growth Factor >gi|183448255|pdb|3BA5|B Chain B, Crystal Structure Of D28a Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPAGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|767259367|pdb|4QC4|A Chain A, Crystal Structure Of C117s Mutant Of Human Acidic Fibroblast Growth Factor >gi|767259368|pdb|4QC4|B Chain B, Crystal Structure Of C117s Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSSKRGPRTHYGQKAILFLPLPVSSD
+>gi|260656216|pdb|3FJE|A Chain A, Crystal Structure Of C83s Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656217|pdb|3FJE|B Chain B, Crystal Structure Of C83s Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEESLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|34810617|pdb|1JY0|A Chain A, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Cys 117 Replaced With Val (C117v). >gi|34810618|pdb|1JY0|B Chain B, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Cys 117 Replaced With Val (C117v)
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSVKRGPRTHYGQKAILFLPLPVSSD
+>gi|260656226|pdb|3FJJ|A Chain A, Crystal Structure Of C83v Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656227|pdb|3FJJ|B Chain B, Crystal Structure Of C83v Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEEVLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|51247212|pdb|1PZZ|A Chain A, Crystal Structure Of Fgf-1, V51n Mutant >gi|51247213|pdb|1PZZ|B Chain B, Crystal Structure Of Fgf-1, V51n Mutant
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESNGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|767259354|pdb|4QBC|A Chain A, Crystal Structure Of C117t Mutant Of Human Acidic Fibroblast Growth Factor In Sodium Formate Buffer >gi|767259355|pdb|4QBC|B Chain B, Crystal Structure Of C117t Mutant Of Human Acidic Fibroblast Growth Factor In Sodium Formate Buffer
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSTKRGPRTHYGQKAILFLPLPVSSD
+>gi|260656218|pdb|3FJF|A Chain A, Crystal Structure Of C83t Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656219|pdb|3FJF|B Chain B, Crystal Structure Of C83t Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEETLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|183448269|pdb|3BAO|A Chain A, Crystal Structure Of L26n Mutant Of Human Acidic Fibroblast Growth Factor >gi|183448270|pdb|3BAO|B Chain B, Crystal Structure Of L26n Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRINPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|183448252|pdb|3BA4|A Chain A, Crystal Structure Of L26d Mutant Of Human Acidic Fibroblast Growth Factor >gi|183448253|pdb|3BA4|B Chain B, Crystal Structure Of L26d Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRIDPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|260656204|pdb|3FJ8|A Chain A, Crystal Structure Of C117i Mutant Of Human Acidic Fibroblast Growth Factor >gi|260656205|pdb|3FJ8|B Chain B, Crystal Structure Of C117i Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSIKRGPRTHYGQKAILFLPLPVSSD
+>gi|403255797|ref|XP_003920596.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Saimiri boliviensis boliviensis] >gi|403255801|ref|XP_003920598.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Saimiri boliviensis boliviensis] >gi|403255803|ref|XP_003920599.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Saimiri boliviensis boliviensis]
+MAEGEITTFTALTEKFDLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDLHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|767259363|pdb|4QBV|A Chain A, Crystal Structure Of C117t Mutant Of Human Acidic Fibroblast Growth Factor In Sodium Citrate Buffer >gi|767259364|pdb|4QBV|B Chain B, Crystal Structure Of C117t Mutant Of Human Acidic Fibroblast Growth Factor In Sodium Citrate Buffer
+XHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSTKRGPRTHYGQKAILFLPLPVSSD
+>gi|183448275|pdb|3BAV|A Chain A, Crystal Structure Of L26aD28N MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor >gi|183448276|pdb|3BAV|B Chain B, Crystal Structure Of L26aD28N MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRIAPNGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|260656214|pdb|3FJD|A Chain A, Crystal Structure Of L44fF132W MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor >gi|260656215|pdb|3FJD|B Chain B, Crystal Structure Of L44fF132W MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQFQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILWLPLPVSSD
+>gi|226438183|pdb|3CQA|A Chain A, Crystal Structure Of Human Fibroblast Growth Factor-1 With Mutations Glu81ala And Lys101ala >gi|226438184|pdb|3CQA|B Chain B, Crystal Structure Of Human Fibroblast Growth Factor-1 With Mutations Glu81ala And Lys101ala
+HHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGS
+QTPNAECLFLERLEENHYNTYISKAHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|223673948|pdb|3CRH|A Chain A, Crystal Structure Of Human Fibroblast Growth Factor-1 With Mutations Glu81ser And Lys101ala >gi|223673949|pdb|3CRH|B Chain B, Crystal Structure Of Human Fibroblast Growth Factor-1 With Mutations Glu81ser And Lys101ala
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNSECLFLERLEENHYNTYISKAHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|617584234|ref|XP_007519058.1| PREDICTED: fibroblast growth factor 1 [Erinaceus europaeus] >gi|1016621113|ref|XP_016041862.1| PREDICTED: fibroblast growth factor 1 [Erinaceus europaeus] >gi|1016621115|ref|XP_016041863.1| PREDICTED: fibroblast growth factor 1 [Erinaceus europaeus]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|524930096|ref|XP_005069250.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Mesocricetus auratus] >gi|625276637|ref|XP_007629946.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cricetulus griseus] >gi|880879279|ref|XP_012968217.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Mesocricetus auratus] >gi|880879283|ref|XP_012968218.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Mesocricetus auratus] >gi|462249|sp|P34004.1|FGF1_MESAU RecName: Full=Fibroblast growth factor 1; Short=FGF-1; AltName: Full=Acidic fibroblast growth factor; Short=aFGF; AltName: Full=Heparin-binding growth factor 1; Short=HBGF-1; Flags: Precursor >gi|537231710|gb|ERE84210.1| heparin-binding growth factor 1-like protein [Cricetulus griseus]
+MAEGEITTFSALTERFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|18158969|pdb|1JT7|A Chain A, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Leu 44 Replaced By Phe And Leu 73 Replaced By Val And Val 109 Replaced By Leu (L44fL73VV109L) >gi|18158970|pdb|1JT7|B Chain B, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Leu 44 Replaced By Phe And Leu 73 Replaced By Val And Val 109 Replaced By Leu (L44fL73VV109L) >gi|18158971|pdb|1JT7|C Chain C, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Leu 44 Replaced By Phe And Leu 73 Replaced By Val And Val 109 Replaced By Leu (L44fL73VV109L) >gi|18158972|pdb|1JT7|D Chain D, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Leu 44 Replaced By Phe And Leu 73 Replaced By Val And Val 109 Replaced By Leu (L44fL73VV109L)
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQFQLSAESVGEVYIKSTETGQYLAMDTDGLVY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFLGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|311250406|ref|XP_003124058.1| PREDICTED: fibroblast growth factor 1 [Sus scrofa] >gi|927106613|ref|XP_013843071.1| PREDICTED: fibroblast growth factor 1 [Sus scrofa] >gi|927106615|ref|XP_013843072.1| PREDICTED: fibroblast growth factor 1 [Sus scrofa]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTSGLLYGSQTPSEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|670997594|ref|XP_008689675.1| PREDICTED: fibroblast growth factor 1 [Ursus maritimus] >gi|670997596|ref|XP_008689676.1| PREDICTED: fibroblast growth factor 1 [Ursus maritimus] >gi|670997598|ref|XP_008689677.1| PREDICTED: fibroblast growth factor 1 [Ursus maritimus] >gi|670997600|ref|XP_008689678.1| PREDICTED: fibroblast growth factor 1 [Ursus maritimus]
+MAEGEITTFTALTEKFNLPAGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTANEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|20150692|pdb|1K5U|A Chain A, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag With His93 Replaced By Gly (H93g). >gi|20150693|pdb|1K5U|B Chain B, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag With His93 Replaced By Gly (H93g). >gi|20150694|pdb|1K5U|C Chain C, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag With His93 Replaced By Gly (H93g)
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENGYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|183448263|pdb|3BAG|A Chain A, Crystal Structure Of K112nN114A MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor >gi|183448264|pdb|3BAG|B Chain B, Crystal Structure Of K112nN114A MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLNKAGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|507562141|ref|XP_004664761.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Jaculus jaculus]
+MAEGEITTFSALTEKFNLPSGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYVSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|51247216|pdb|1Q04|A Chain A, Crystal Structure Of Fgf-1, S50e/v51n >gi|51247217|pdb|1Q04|B Chain B, Crystal Structure Of Fgf-1, S50e/v51n
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAEENGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|829969976|ref|XP_012604238.1| PREDICTED: fibroblast growth factor 1 [Microcebus murinus] >gi|829969979|ref|XP_012604239.1| PREDICTED: fibroblast growth factor 1 [Microcebus murinus] >gi|829969983|ref|XP_012604240.1| PREDICTED: fibroblast growth factor 1 [Microcebus murinus] >gi|829969986|ref|XP_012604241.1| PREDICTED: fibroblast growth factor 1 [Microcebus murinus] >gi|829969988|ref|XP_012604242.1| PREDICTED: fibroblast growth factor 1 [Microcebus murinus] >gi|829969993|ref|XP_012604243.1| PREDICTED: fibroblast growth factor 1 [Microcebus murinus] >gi|829969996|ref|XP_012604244.1| PREDICTED: fibroblast growth factor 1 [Microcebus murinus] >gi|829969999|ref|XP_012604245.1| PREDICTED: fibroblast growth factor 1 [Microcebus murinus]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKSTQTGRYL
+AMDADGLLYGSQTPNEECLFLERLEENHYNTYVSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|183448277|pdb|3BB2|A Chain A, Crystal Structure Of L26dD28N MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor >gi|183448278|pdb|3BB2|B Chain B, Crystal Structure Of L26dD28N MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRIDPNGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|51247214|pdb|1Q03|A Chain A, Crystal Structure Of Fgf-1, S50gV51G MUTANT >gi|51247215|pdb|1Q03|B Chain B, Crystal Structure Of Fgf-1, S50gV51G MUTANT
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAEGGGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|149242111|pdb|2HWA|A Chain A, Crystal Structure Of Lys12thrCYS117VAL MUTANT OF HUMAN Acidic Fibroblast Growth Factor At 1.65 Angstrom Resolution. >gi|149242112|pdb|2HWA|B Chain B, Crystal Structure Of Lys12thrCYS117VAL MUTANT OF HUMAN Acidic Fibroblast Growth Factor At 1.65 Angstrom Resolution
+HHHHHHFNLPPGNYKKPTLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSVKRGPRTHYGQKAILFLPLPVSSD
+>gi|380748941|ref|NP_001244135.1| fibroblast growth factor 1 isoform 4 precursor [Homo sapiens] >gi|380748951|ref|NP_001244140.1| fibroblast growth factor 1 isoform 4 precursor [Homo sapiens] >gi|380748953|ref|NP_001244141.1| fibroblast growth factor 1 isoform 4 precursor [Homo sapiens] >gi|530380436|ref|XP_005268447.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Homo sapiens] >gi|634843232|ref|XP_007937257.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Orycteropus afer afer] >gi|667272035|ref|XP_008571199.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Galeopterus variegatus] >gi|694912880|ref|XP_009448130.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Pan troglodytes] >gi|694912882|ref|XP_009448131.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Pan troglodytes] >gi|694912884|ref|XP_009448132.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Pan troglodytes] >gi|694912886|ref|XP_009448133.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Pan troglodytes] >gi|767937634|ref|XP_011535909.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Homo sapiens] >gi|795153510|ref|XP_011795131.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Colobus angolensis palliatus] >gi|795153514|ref|XP_011795132.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Colobus angolensis palliatus] >gi|795153519|ref|XP_011795133.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Colobus angolensis palliatus] >gi|795153524|ref|XP_011795134.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Colobus angolensis palliatus] >gi|158260547|dbj|BAF82451.1| unnamed protein product [Homo sapiens]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|149242113|pdb|2HWM|A Chain A, Crystal Structure Of Lys12valCYS117VAL MUTANT OF HUMAN Acidic Fibroblast Growth Factor At 1.60 Angstrom Resolution >gi|149242114|pdb|2HWM|B Chain B, Crystal Structure Of Lys12valCYS117VAL MUTANT OF HUMAN Acidic Fibroblast Growth Factor At 1.60 Angstrom Resolution
+HHHHHHFNLPPGNYKKPVLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSVKRGPRTHYGQKAILFLPLPVSSD
+>gi|674054682|ref|XP_008833749.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Nannospalax galili] >gi|674054684|ref|XP_008833750.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Nannospalax galili] >gi|674054688|ref|XP_008833752.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Nannospalax galili] >gi|1051029455|ref|XP_017654302.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Nannospalax galili] >gi|1051029457|ref|XP_017654303.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Nannospalax galili] >gi|1051029459|ref|XP_017654304.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Nannospalax galili] >gi|1051029461|ref|XP_017654305.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Nannospalax galili]
+MAEGEITTFAALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKGTESGQYL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYVSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|183448256|pdb|3BA7|A Chain A, Crystal Structure Of L26nD28A MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor >gi|183448257|pdb|3BA7|B Chain B, Crystal Structure Of L26nD28A MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRINPAGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|589928323|ref|XP_006976984.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Peromyscus maniculatus bairdii] >gi|1008751524|ref|XP_015851300.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Peromyscus maniculatus bairdii] >gi|1008751527|ref|XP_015851302.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Peromyscus maniculatus bairdii] >gi|1008751529|ref|XP_015851303.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Peromyscus maniculatus bairdii] >gi|1008751531|ref|XP_015851304.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Peromyscus maniculatus bairdii]
+MAEGEITTFTALTERFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYL
+AMDTDGLLYGSQTPDEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|640785194|ref|XP_008048313.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Carlito syrichta] >gi|640785196|ref|XP_008048314.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Carlito syrichta]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYVSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|223673950|pdb|3CRI|A Chain A, Crystal Structure Of Human Fibroblast Growth Factor-1 With Mutations Glu81ser, Glu82asn And Lys101ala >gi|223673951|pdb|3CRI|B Chain B, Crystal Structure Of Human Fibroblast Growth Factor-1 With Mutations Glu81ser, Glu82asn And Lys101ala
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNSNCLFLERLEENHYNTYISKAHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|223673946|pdb|3CRG|A Chain A, Crystal Structure Of Human Fibroblast Growth Factor-1 With Mutations Glu81ala, Glu82asn And Lys101ala >gi|223673947|pdb|3CRG|B Chain B, Crystal Structure Of Human Fibroblast Growth Factor-1 With Mutations Glu81ala, Glu82asn And Lys101ala
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNANCLFLERLEENHYNTYISKAHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|852761077|ref|XP_012875909.1| PREDICTED: fibroblast growth factor 1 [Dipodomys ordii] >gi|852761080|ref|XP_012875910.1| PREDICTED: fibroblast growth factor 1 [Dipodomys ordii] >gi|852761084|ref|XP_012875912.1| PREDICTED: fibroblast growth factor 1 [Dipodomys ordii] >gi|852761087|ref|XP_012875913.1| PREDICTED: fibroblast growth factor 1 [Dipodomys ordii]
+MAEGEITTFTALTERFNLPHGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDADGLLYGSQTPDEECLFLERLEENHYNTYIAKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|635124367|ref|XP_008012987.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Chlorocebus sabaeus] >gi|635124369|ref|XP_008012988.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Chlorocebus sabaeus]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSTPNEECLFVERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|395817351|ref|XP_003782135.1| PREDICTED: fibroblast growth factor 1 [Otolemur garnettii] >gi|196119859|gb|ACG69454.1| fibroblast growth factor 1 isoform 1 precursor (predicted) [Otolemur garnettii]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGTVDGTQDRSDQHIQLQLSAESVGEVYIKSTQTGQYL
+AMDSDGLLYGSQTPNEECLFLERLEENHYNTYVSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|149242107|pdb|2HW9|A Chain A, Crystal Structure Of Lys12cysCYS117VAL MUTANT OF HUMAN Acidic Fibroblast Growth Factor At 1.60 Angstrom Resolution. >gi|149242108|pdb|2HW9|B Chain B, Crystal Structure Of Lys12cysCYS117VAL MUTANT OF HUMAN Acidic Fibroblast Growth Factor At 1.60 Angstrom Resolution
+HHHHHHFNLPPGNYKKPCLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSVKRGPRTHYGQKAILFLPLPVSSD
+>gi|90108578|pdb|1Z2V|A Chain A, Crystal Structure Of Glu60 Deletion Mutant Of Human Acidic Fibroblast Growth Factor >gi|90108579|pdb|1Z2V|B Chain B, Crystal Structure Of Glu60 Deletion Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTTGQYLAMDTDGLLYG
+SQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|594693929|ref|XP_007194220.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Balaenoptera acutorostrata scammoni]
+MSEVCCSTKDFKALWGKKPIASSLESAITRSCSAMAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTV
+DGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSTPNEECLFLERLEENHYNTYASKKHAEKNWFVGLK
+KNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|183448258|pdb|3BAD|A Chain A, Crystal Structure Of D70aH93G MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor >gi|183448259|pdb|3BAD|B Chain B, Crystal Structure Of D70aH93G MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTAGLLY
+GSQTPNEECLFLERLEENGYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|512984831|ref|XP_004854378.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Heterocephalus glaber] >gi|351696461|gb|EHA99379.1| Heparin-binding growth factor 1 [Heterocephalus glaber]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAEGVGEVYIKSTETGQYL
+AMDTDGLLYGSQTASEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|88191890|pdb|1YTO|A Chain A, Crystal Structure Of Gly19 Deletion Mutant Of Human Acidic Fibroblast Growth Factor >gi|88191891|pdb|1YTO|B Chain B, Crystal Structure Of Gly19 Deletion Mutant Of Human Acidic Fibroblast Growth Factor >gi|88191892|pdb|1YTO|C Chain C, Crystal Structure Of Gly19 Deletion Mutant Of Human Acidic Fibroblast Growth Factor >gi|88191893|pdb|1YTO|D Chain D, Crystal Structure Of Gly19 Deletion Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYG
+SQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|183398078|gb|ACC62496.1| heparin-binding growth factor 1 precursor (predicted) [Rhinolophus ferrumequinum]
+MAEGEVTTFTALTEKFNLPTGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDKSDQHIQLQLSAESVGEVYIKSTESGQYL
+AMDSDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|586485670|ref|XP_006873323.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Chrysochloris asiatica]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSAPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|731288036|ref|XP_010612202.1| PREDICTED: fibroblast growth factor 1 isoform X3 [Fukomys damarensis] >gi|731288038|ref|XP_010612203.1| PREDICTED: fibroblast growth factor 1 isoform X3 [Fukomys damarensis] >gi|731288040|ref|XP_010612204.1| PREDICTED: fibroblast growth factor 1 isoform X3 [Fukomys damarensis] >gi|731288042|ref|XP_010612205.1| PREDICTED: fibroblast growth factor 1 isoform X3 [Fukomys damarensis] >gi|676262405|gb|KFO19379.1| Heparin-binding growth factor 1 [Fukomys damarensis]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAEGVGEVYIKSTETGQYL
+AMDTAGLLYGSQTASEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|34810752|pdb|1M16|A Chain A, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Leu 44 Replaced With Phe (L44f), Leu 73 Replaced With Val (L73v), Val 109 Replaced With Leu (V109l) And Cys 117 Replaced With Val (C117v). >gi|34810753|pdb|1M16|B Chain B, Human Acidic Fibroblast Growth Factor. 141 Amino Acid Form With Amino Terminal His Tag And Leu 44 Replaced With Phe (L44f), Leu 73 Replaced With Val (L73v), Val 109 Replaced With Leu (V109l) And Cys 117 Replaced With Val (C117v)
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQFQLSAESVGEVYIKSTETGQYLAMDTDGLVY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFLGLKKNGSVKRGPRTHYGQKAILFLPLPVSSD
+>gi|585678384|ref|XP_006891180.1| PREDICTED: fibroblast growth factor 1-like isoform X2 [Elephantulus edwardii]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSSPNEECLFLERLEENHYNTYVSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|675643477|ref|XP_008985033.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Callithrix jacchus] >gi|675643479|ref|XP_008985038.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Callithrix jacchus] >gi|1044364918|ref|XP_017387773.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Cebus capucinus imitator] >gi|1044364920|ref|XP_017387774.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Cebus capucinus imitator]
+MAEGEITTFTALTEKFDLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|284005395|ref|NP_001164959.1| fibroblast growth factor 1 [Oryctolagus cuniculus] >gi|655631897|ref|XP_008253110.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Oryctolagus cuniculus] >gi|655631911|ref|XP_008253111.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Oryctolagus cuniculus] >gi|217030825|gb|ACJ73993.1| fibroblast growth factor 1 isoform 1 precursor (predicted) [Oryctolagus cuniculus]
+MAEGEVTTFTALTEKFNLPAGNYKLPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSQTPSEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|586536361|ref|XP_006923043.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Pteropus alecto] >gi|759141282|ref|XP_011365755.1| PREDICTED: fibroblast growth factor 1 [Pteropus vampyrus] >gi|990008139|ref|XP_015453408.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Pteropus alecto] >gi|431892528|gb|ELK02961.1| Heparin-binding growth factor 1 [Pteropus alecto]
+MAEGEVTTFTALTERFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDKSDQHIQLQLSAESVGEVYIKSTESGQYL
+AMDSDGLLYGSQTPDEDCLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|545184088|ref|XP_005599190.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Equus caballus] >gi|591302204|ref|XP_007078003.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Panthera tigris altaica] >gi|593769980|ref|XP_007123386.1| PREDICTED: fibroblast growth factor 1-like isoform X2 [Physeter catodon] >gi|755690620|ref|XP_011281011.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Felis catus] >gi|914906621|ref|XP_013213622.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Ictidomys tridecemlineatus] >gi|958728521|ref|XP_014705758.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Equus asinus] >gi|961708107|ref|XP_014918852.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Acinonyx jubatus]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|466060492|ref|XP_004280269.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Orcinus orca]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYASKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|157835416|pdb|2NTD|A Chain A, Human Fibroblast Growth Factor-1 (140 Amino Acid Form) With Cys117valPRO134CYS MUTATIONS >gi|157835417|pdb|2NTD|B Chain B, Human Fibroblast Growth Factor-1 (140 Amino Acid Form) With Cys117valPRO134CYS MUTATIONS >gi|157835418|pdb|2NTD|C Chain C, Human Fibroblast Growth Factor-1 (140 Amino Acid Form) With Cys117valPRO134CYS MUTATIONS >gi|157835419|pdb|2NTD|D Chain D, Human Fibroblast Growth Factor-1 (140 Amino Acid Form) With Cys117valPRO134CYS MUTATIONS
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSVKRGPRTHYGQKAILFLCLPVSSD
+>gi|823402126|ref|XP_012416949.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Odobenus rosmarus divergens]
+MAEGEITTFTALMEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|743710782|ref|XP_010948863.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Camelus bactrianus]
+MAEGGITTFAALREKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|471394413|ref|XP_004381190.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Trichechus manatus latirostris]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKGTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|744570780|ref|XP_010980476.1| PREDICTED: fibroblast growth factor 1 [Camelus dromedarius]
+MAGKADGLDSAWQLAEGEITTFAALREKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVG
+EVYIKSTETGQYLAMDTDGLLYGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFL
+PLPVSSD
+>gi|1016669934|ref|XP_016061039.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Miniopterus natalensis]
+MAEGDVTTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDKSDQHIQLQLSAESVGEVYIKSTESGQYL
+AMDSDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|260656222|pdb|3FJI|A Chain A, Crystal Structure Of K12vC83IC117V MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor >gi|260656223|pdb|3FJI|B Chain B, Crystal Structure Of K12vC83IC117V MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor >gi|260656224|pdb|3FJI|C Chain C, Crystal Structure Of K12vC83IC117V MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor >gi|260656225|pdb|3FJI|D Chain D, Crystal Structure Of K12vC83IC117V MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPVLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEEILFLERLEENHYNTYISKKHAEKNWFVGLKKNGSVKRGPRTHYGQKAILFLPLPVSSD
+>gi|183448273|pdb|3BAU|A Chain A, Crystal Structure Of K12vL26DD28A MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor >gi|183448274|pdb|3BAU|B Chain B, Crystal Structure Of K12vL26DD28A MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPVLLYCSNGGHFLRIDPAGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|150261290|pdb|2HZ9|A Chain A, Crystal Structure Of Lys12valASN95VALCYS117VAL MUTANT OF Human Acidic Fibroblast Growth Factor At 1.70 Angstrom Resolution. >gi|150261291|pdb|2HZ9|B Chain B, Crystal Structure Of Lys12valASN95VALCYS117VAL MUTANT OF Human Acidic Fibroblast Growth Factor At 1.70 Angstrom Resolution
+HHHHHHFNLPPGNYKKPVLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYVTYISKKHAEKNWFVGLKKNGSVKRGPRTHYGQKAILFLPLPVSSD
+>gi|755560521|ref|XP_011245143.1| PREDICTED: fibroblast growth factor 1 isoform X3 [Mus musculus]
+MQDFQSAEPTTAACCRAMAEGEITTFAALTERFNLPLGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSA
+ESAGEVYIKGTETGQYLAMDTEGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQK
+AILFLPLPVSSD
+>gi|928127878|ref|XP_013963580.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Canis lupus familiaris]
+MTQTALGEGLANGPGSLESTITSSCRAMAEGEITTFTALTEKFNLPPGNYMKPKLLYCSNGGHFLRILPDGTVDGTRDRS
+DQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKR
+GPRTHYGQKAILFLPLPVSSD
+>gi|183448251|pdb|3B9U|A Chain A, Crystal Structure Of L26nD28NH93G MUTANT OF HUMAN ACIDIC Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRINPNGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENGYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|354480553|ref|XP_003502469.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cricetulus griseus] >gi|344254144|gb|EGW10248.1| Heparin-binding growth factor 1 [Cricetulus griseus]
+MAEGEITTFSALTERFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYR
+NMDTDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|562830681|ref|XP_006144848.1| PREDICTED: fibroblast growth factor 1 [Tupaia chinensis] >gi|444728642|gb|ELW69091.1| Heparin-binding growth factor 1 [Tupaia chinensis]
+MAEGEITTFAALTEKFDLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLTAENVGEVYIKSTETGQYL
+AMDADGLLYGSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVALKKNGSCKLGPRTHYGQKAILFLPLPVSSD
+>gi|281500770|pdb|3HAL|A Chain A, Crystal Structure Of Rabbit Acidic Fibroblast Growth Factor >gi|281500771|pdb|3HAL|B Chain B, Crystal Structure Of Rabbit Acidic Fibroblast Growth Factor
+HHHHHHFNLPAGNYKLPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPSEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|260656202|pdb|3FGM|A Chain A, Crystal Structure Of L44fC83TC117VF132W MUTANT OF HUMAN Acidic Fibroblast Growth Factor >gi|260656203|pdb|3FGM|B Chain B, Crystal Structure Of L44fC83TC117VF132W MUTANT OF HUMAN Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQFQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEETLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSVKRGPRTHYGQKAILWLPLPVSSD
+>gi|6753850|ref|NP_034327.1| fibroblast growth factor 1 precursor [Mus musculus] >gi|6978839|ref|NP_036978.1| fibroblast growth factor 1 precursor [Rattus norvegicus] >gi|564393261|ref|XP_006254712.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Rattus norvegicus] >gi|564393263|ref|XP_006254713.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Rattus norvegicus] >gi|564393265|ref|XP_006254714.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Rattus norvegicus] >gi|569003263|ref|XP_006525707.1| PREDICTED: fibroblast growth factor 1 isoform X4 [Mus musculus] >gi|569003265|ref|XP_006525708.1| PREDICTED: fibroblast growth factor 1 isoform X4 [Mus musculus] >gi|569003269|ref|XP_006525710.1| PREDICTED: fibroblast growth factor 1 isoform X4 [Mus musculus] >gi|569003271|ref|XP_006525711.1| PREDICTED: fibroblast growth factor 1 isoform X4 [Mus musculus] >gi|569003273|ref|XP_006525712.1| PREDICTED: fibroblast growth factor 1 isoform X4 [Mus musculus] >gi|755560525|ref|XP_011245144.1| PREDICTED: fibroblast growth factor 1 isoform X4 [Mus musculus] >gi|755560527|ref|XP_011245145.1| PREDICTED: fibroblast growth factor 1 isoform X4 [Mus musculus] >gi|1039755614|ref|XP_017173319.1| PREDICTED: fibroblast growth factor 1 isoform X4 [Mus musculus] >gi|47117672|sp|P61149.1|FGF1_RAT RecName: Full=Fibroblast growth factor 1; Short=FGF-1; AltName: Full=Acidic fibroblast growth factor; Short=aFGF; AltName: Full=Heparin-binding growth factor 1; Short=HBGF-1; Flags: Precursor >gi|47117679|sp|P61148.1|FGF1_MOUSE RecName: Full=Fibroblast growth factor 1; Short=FGF-1; AltName: Full=Acidic fibroblast growth factor; Short=aFGF; AltName: Full=Heparin-binding growth factor 1; Short=HBGF-1; Flags: Precursor >gi|56352|emb|CAA32448.1| unnamed protein product [Rattus norvegicus] >gi|309236|gb|AAA37618.1| acidic fibroblast growth factor [Mus musculus] >gi|1469375|gb|AAC52969.1| fibroblast growth factor 1 [Mus musculus] >gi|1680714|gb|AAC52907.1| fibroblast growth factor 1 [Mus musculus] >gi|22902263|gb|AAH37601.1| Fgf1 protein [Mus musculus] >gi|26330610|dbj|BAC29035.1| unnamed protein product [Mus musculus] >gi|148678118|gb|EDL10065.1| fibroblast growth factor 1, isoform CRA_a [Mus musculus] >gi|148678119|gb|EDL10066.1| fibroblast growth factor 1, isoform CRA_a [Mus musculus] >gi|148678120|gb|EDL10067.1| fibroblast growth factor 1, isoform CRA_a [Mus musculus] >gi|148678121|gb|EDL10068.1| fibroblast growth factor 1, isoform CRA_a [Mus musculus] >gi|149017405|gb|EDL76456.1| fibroblast growth factor 1, isoform CRA_b [Rattus norvegicus] >gi|149017406|gb|EDL76457.1| fibroblast growth factor 1, isoform CRA_b [Rattus norvegicus] >gi|149017407|gb|EDL76458.1| fibroblast growth factor 1, isoform CRA_b [Rattus norvegicus] >gi|149017408|gb|EDL76459.1| fibroblast growth factor 1, isoform CRA_b [Rattus norvegicus] >gi|149017409|gb|EDL76460.1| fibroblast growth factor 1, isoform CRA_b [Rattus norvegicus]
+MAEGEITTFAALTERFNLPLGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYL
+AMDTEGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|554579220|ref|XP_005881161.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Myotis brandtii] >gi|554579222|ref|XP_005881162.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Myotis brandtii] >gi|554579224|ref|XP_005881163.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Myotis brandtii] >gi|554579226|ref|XP_005881164.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Myotis brandtii] >gi|554579228|ref|XP_005881156.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Myotis brandtii] >gi|558114604|ref|XP_006086476.1| PREDICTED: fibroblast growth factor 1 [Myotis lucifugus] >gi|558114608|ref|XP_006086477.1| PREDICTED: fibroblast growth factor 1 [Myotis lucifugus] >gi|558114612|ref|XP_006086478.1| PREDICTED: fibroblast growth factor 1 [Myotis lucifugus] >gi|558114617|ref|XP_006086479.1| PREDICTED: fibroblast growth factor 1 [Myotis lucifugus] >gi|558114621|ref|XP_006086480.1| PREDICTED: fibroblast growth factor 1 [Myotis lucifugus] >gi|584065426|ref|XP_006777052.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Myotis davidii] >gi|584065428|ref|XP_006777053.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Myotis davidii] >gi|584065430|ref|XP_006777054.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Myotis davidii] >gi|521035223|gb|EPQ17005.1| Heparin-binding growth factor 1 [Myotis brandtii]
+MAEGEVTTFTALTERFNLPLENYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTESGQYL
+AMDSDGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|955485728|ref|XP_014650461.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Ceratotherium simum simum]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTNGLLYGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|569003257|ref|XP_006525704.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Mus musculus]
+MHWRGVTMELSAEPTTAACCRAMAEGEITTFAALTERFNLPLGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQ
+LQLSAESAGEVYIKGTETGQYLAMDTEGLLYGSQTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRT
+HYGQKAILFLPLPVSSD
+>gi|560964312|ref|XP_006204569.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Vicugna pacos] >gi|970716689|ref|XP_015094928.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Vicugna pacos]
+MAEGEITTFAALREKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLHGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|731455040|ref|XP_010589763.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Loxodonta africana]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKGTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|193506488|pdb|2Q9X|A Chain A, Crystal Structure Of Highly Stable Mutant Q40p/s47i/h93g Of Human Fibroblast Growth Factor-1
+FNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDPHIQLQLIAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPN
+EECLFLERLEENGYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|532026194|ref|XP_005356082.1| PREDICTED: fibroblast growth factor 1 [Microtus ochrogaster] >gi|913501056|ref|XP_013205023.1| PREDICTED: fibroblast growth factor 1 [Microtus ochrogaster] >gi|913501058|ref|XP_013205024.1| PREDICTED: fibroblast growth factor 1 [Microtus ochrogaster]
+MAEGEITTFTALTERFDLPAGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYL
+AMDTDGLLYGSQTPDEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|752379791|ref|XP_011217982.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Ailuropoda melanoleuca]
+MAEGEITTFTALTEKFNLPAGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|602713389|ref|XP_007466917.1| PREDICTED: fibroblast growth factor 1 isoform X3 [Lipotes vexillifer]
+MAEGEITTFTALTEKFKLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|507698435|ref|XP_004643899.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Octodon degus] >gi|507698447|ref|XP_004643902.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Octodon degus]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAEGVGEVYIKSTETGQFL
+AMDTDGLLYGSQTPSEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSD
+>gi|1345989|sp|P20002.2|FGF1_PIG RecName: Full=Fibroblast growth factor 1; Short=FGF-1; AltName: Full=Acidic fibroblast growth factor; Short=aFGF; AltName: Full=Endothelial cell growth factor; Short=ECGF; AltName: Full=Heparin-binding growth factor 1; Short=HBGF-1; Flags: Precursor >gi|1874|emb|CAA42869.1| acidic fibroblast growth factor [Sus scrofa]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYL
+AMDTSGLLYGSQTPSEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPV
+>gi|725550481|ref|XP_010336710.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Saimiri boliviensis boliviensis] >gi|725550483|ref|XP_010336718.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Saimiri boliviensis boliviensis]
+MAEGEITTFTALTEKFDLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDLHIQLQLSAESVGEVYIKSTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|90108751|pdb|2AQZ|A Chain A, Crystal Structure Of Fgf-1, S17tN18TG19 DELETION MUTANT >gi|90108752|pdb|2AQZ|B Chain B, Crystal Structure Of Fgf-1, S17tN18TG19 DELETION MUTANT
+HHHHHHFNLPPGNYKKPKLLYCTTGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYG
+SQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|1006588454|pdb|4YOL|A Chain A, Human Fibroblast Growth Factor-1 C16s/a66c/c117a/p134a >gi|1006588455|pdb|4YOL|B Chain B, Human Fibroblast Growth Factor-1 C16s/a66c/c117a/p134a
+MHHHHHHFNLPPGNYKKPKLLYSSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLCMDTDGLL
+YGSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSAKRGPRTHYGQKAILFLALPVSSD
+>gi|3114266|pdb|2AXM|A Chain A, Heparin-Linked Biologically-Active Dimer Of Fibroblast Growth Factor >gi|3114267|pdb|2AXM|B Chain B, Heparin-Linked Biologically-Active Dimer Of Fibroblast Growth Factor
+GNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLF
+LERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|148678123|gb|EDL10070.1| fibroblast growth factor 1, isoform CRA_c [Mus musculus]
+GSESRLERQLQPRHPVTAQRLPSGLHSRLVIKWSEESPPACQFFSAEPTTAACCRAMAEGEITTFAALTERFNLPLGNYK
+KPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYLAMDTEGLLYGSQTPNEECLFLERL
+EENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|395504806|ref|XP_003756738.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Sarcophilus harrisii]
+MAEGEITTFTALTERFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRNDQHIQLQLSAESVGEVYIKSTESGQYL
+AMDTDGLLYGSQTPTEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSE
+>gi|365812938|pdb|3OJV|A Chain A, Crystal Structure Of Fgf1 Complexed With The Ectodomain Of Fgfr1c Exhibiting An Ordered Ligand Specificity-Determining Betac'-Betae Loop >gi|365812939|pdb|3OJV|B Chain B, Crystal Structure Of Fgf1 Complexed With The Ectodomain Of Fgfr1c Exhibiting An Ordered Ligand Specificity-Determining Betac'-Betae Loop
+MGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECL
+FLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|767232227|pdb|4Q91|A Chain A, Crystal Structure Of C16a/k12v/c117v/p134v Mutant Of Human Acidic Fibroblast Growth Factor >gi|767232228|pdb|4Q91|B Chain B, Crystal Structure Of C16a/k12v/c117v/p134v Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPVLLYASNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSVKRGPRTHYGQKAILFLVLPVSSD
+>gi|586500189|pdb|4J23|B Chain B, Low Resolution Crystal Structure Of The Fgfr2d2d3/fgf1/sr128545 Complex
+GHMGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEE
+CLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|524930098|ref|XP_005069251.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Mesocricetus auratus] >gi|625276639|ref|XP_007629947.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Cricetulus griseus]
+MAEGEITTFSALTERFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|655631887|ref|XP_008253109.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Oryctolagus cuniculus]
+MPLQDVALSTWQGPYGLLSRSRPDSEMWSELHGVYIPLQYPGALKHKTLFGECGLFFQRRLDIICLAKIAERPAAMAEGE
+VTTFTALTEKFNLPAGNYKLPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTD
+GLLYGSQTPSEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|767254600|pdb|4Q9G|A Chain A, Crystal Structure Of K12v/c16s/c117v/p134v Mutant Of Human Acidic Fibroblast Growth Factor >gi|767254601|pdb|4Q9G|B Chain B, Crystal Structure Of K12v/c16s/c117v/p134v Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPVLLYSSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSVKRGPRTHYGQKAILFLVLPVSSD
+>gi|641691232|ref|XP_008139140.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Eptesicus fuscus]
+MAEGEVTTFTALTERFNLPLENYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTESGQYL
+AMDADGLLYGSQTPSEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|514475190|ref|XP_005007031.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cavia porcellus] >gi|884937624|ref|XP_012996556.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cavia porcellus] >gi|884937627|ref|XP_012996557.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cavia porcellus] >gi|884937629|ref|XP_012996558.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cavia porcellus] >gi|884937631|ref|XP_012996559.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cavia porcellus] >gi|884937633|ref|XP_012996560.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cavia porcellus] >gi|884937635|ref|XP_012996561.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cavia porcellus]
+MAEGEITTFAALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAEGVGEVYIQSTETGQYL
+AMDTDGLLYGSQTPSEECLFLERLEENHYNTYTSKKHVEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSD
+>gi|767259349|pdb|4Q9P|A Chain A, Crystal Structure Of C16t/k12v/c117v/p134v Mutant Of Human Acidic Fibroblast Growth Factor >gi|767259350|pdb|4Q9P|B Chain B, Crystal Structure Of C16t/k12v/c117v/p134v Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPVLLYTSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSVKRGPRTHYGQKAILFLVLPVSSD
+>gi|507562143|ref|XP_004664762.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Jaculus jaculus]
+MAEGEITTFSALTEKFNLPSGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYVSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|674054686|ref|XP_008833751.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Nannospalax galili]
+MAEGEITTFAALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKGTESGQYL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYVSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|589928325|ref|XP_006976985.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Peromyscus maniculatus bairdii]
+MAEGEITTFTALTERFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYL
+AMDTDGLLYGSTPDEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|817598869|pdb|4QO3|A Chain A, Crystal Structure Of C16s/n18s/k12v/c117v/p134v Mutant Of Human Acidic Fibroblast Growth Factor >gi|817598870|pdb|4QO3|B Chain B, Crystal Structure Of C16s/n18s/k12v/c117v/p134v Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPVLLYSSSGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSVKRGPRTHYGQKAILFLVLPVSSD
+>gi|8569355|pdb|1EVT|A Chain A, Crystal Structure Of Fgf1 In Complex With The Extracellular Ligand Binding Domain Of Fgf Receptor 1 (Fgfr1) >gi|8569356|pdb|1EVT|B Chain B, Crystal Structure Of Fgf1 In Complex With The Extracellular Ligand Binding Domain Of Fgf Receptor 1 (Fgfr1)
+NYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFL
+ERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|291190987|pdb|2RQ9|A Chain A, Solution Structure Of Human Acidic Fibroblast Growth Factor (Afgf) In The Presence Of A Protein Stabilizer Ndsb-New
+MNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLF
+LERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSDLEHHHHHH
+>gi|504148309|ref|XP_004586565.1| PREDICTED: fibroblast growth factor 1 [Ochotona princeps]
+MAEGEVTTFSALTEKFNLPGGNYKLPKLLYCSNGGHFLRILPDGTVDGTRDRSDLHIQLQLSAESVGEVFIKSTETGQYL
+AMDTDGLLYGSQTPSEECLFLERLEENHYNTYTSKKHAEKNWFVGIKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|46014972|pdb|1NZK|A Chain A, Crystal Structure Of A Multiple Mutant (L44f, L73v, V109l, L111i, C117v) Of Human Acidic Fibroblast Growth Factor >gi|46014973|pdb|1NZK|B Chain B, Crystal Structure Of A Multiple Mutant (L44f, L73v, V109l, L111i, C117v) Of Human Acidic Fibroblast Growth Factor >gi|46014974|pdb|1NZK|C Chain C, Crystal Structure Of A Multiple Mutant (L44f, L73v, V109l, L111i, C117v) Of Human Acidic Fibroblast Growth Factor >gi|46014975|pdb|1NZK|D Chain D, Crystal Structure Of A Multiple Mutant (L44f, L73v, V109l, L111i, C117v) Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQFQLSAESVGEVYIKSTETGQYLAMDTDGLVY
+GSQTPNEECLFLERLEENHYNTYISKKHAEKNWFLGIKKNGSVKRGPRTHYGQKAILFLPLPV
+>gi|90108582|pdb|1Z4S|A Chain A, Crystal Structure Of Gly19 And Glu60 Deletion Mutant Of Human Acidic Fibroblast Growth Factor >gi|90108583|pdb|1Z4S|B Chain B, Crystal Structure Of Gly19 And Glu60 Deletion Mutant Of Human Acidic Fibroblast Growth Factor >gi|90108584|pdb|1Z4S|C Chain C, Crystal Structure Of Gly19 And Glu60 Deletion Mutant Of Human Acidic Fibroblast Growth Factor >gi|90108585|pdb|1Z4S|D Chain D, Crystal Structure Of Gly19 And Glu60 Deletion Mutant Of Human Acidic Fibroblast Growth Factor
+HHHHHHFNLPPGNYKKPKLLYCSNGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTTGQYLAMDTDGLLYGS
+QTPNEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|3114244|pdb|1AXM|A Chain A, Heparin-Linked Biologically-Active Dimer Of Fibroblast Growth Factor >gi|3114245|pdb|1AXM|B Chain B, Heparin-Linked Biologically-Active Dimer Of Fibroblast Growth Factor >gi|3114246|pdb|1AXM|C Chain C, Heparin-Linked Biologically-Active Dimer Of Fibroblast Growth Factor >gi|3114247|pdb|1AXM|D Chain D, Heparin-Linked Biologically-Active Dimer Of Fibroblast Growth Factor >gi|3114248|pdb|1AXM|E Chain E, Heparin-Linked Biologically-Active Dimer Of Fibroblast Growth Factor >gi|3114249|pdb|1AXM|F Chain F, Heparin-Linked Biologically-Active Dimer Of Fibroblast Growth Factor >gi|6980644|pdb|1DJS|B Chain B, Ligand-binding Portion Of Fibroblast Growth Factor Receptor 2 In Complex With Fgf1
+GNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAXDTDGLLYGSQTPNEECLF
+LERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|731288044|ref|XP_010612206.1| PREDICTED: fibroblast growth factor 1 isoform X4 [Fukomys damarensis]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAEGVGEVYIKSTETGQYL
+AMDTAGLLYGSTASEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|586536363|ref|XP_006923044.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Pteropus alecto]
+MAEGEVTTFTALTERFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDKSDQHIQLQLSAESVGEVYIKSTESGQYL
+AMDSDGLLYGSTPDEDCLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|238828057|pdb|2K43|A Chain A, Acidic Fibroblast Growth Factor Solution Structure In The Fgf-1-C2a Binary Complex: Key Component In The Fibroblast Growthfactor Non-Classical Pathway >gi|239781649|pdb|2K4A|B Chain B, Fgf-1-C2a Binary Complex Structure: A Key Component In The Fibroblast Growthfactor Non-Classical Pathway >gi|261278541|pdb|2K8R|A Chain A, Solution Structure Of Human Acidic Fibroblast Growth Factor In Complex With Anti-Angiogenic Drug Inositol Hexaphosphate (Ip6) >gi|290789836|pdb|2KI4|A Chain A, Fgf1-S100a13 Complex Structure: Key Component In Non-Classic Way Of Fgf1 >gi|290789839|pdb|2KI4|D Chain D, Fgf1-S100a13 Complex Structure: Key Component In Non-Classic Way Of Fgf1 >gi|290789841|pdb|2KI6|B Chain B, The Fgf1-S100a13-C2a Hetero-Hexameric Complex Structure: A C In The Non-Classical Pathway For Fgf1 Secretion >gi|290789844|pdb|2KI6|E Chain E, The Fgf1-S100a13-C2a Hetero-Hexameric Complex Structure: A C In The Non-Classical Pathway For Fgf1 Secretion
+YKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFLE
+RLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|126290518|ref|XP_001368921.1| PREDICTED: fibroblast growth factor 1 [Monodelphis domestica] >gi|611974072|ref|XP_007473867.1| PREDICTED: fibroblast growth factor 1 [Monodelphis domestica] >gi|611974074|ref|XP_007473868.1| PREDICTED: fibroblast growth factor 1 [Monodelphis domestica] >gi|611974076|ref|XP_007473869.1| PREDICTED: fibroblast growth factor 1 [Monodelphis domestica] >gi|611974078|ref|XP_007473870.1| PREDICTED: fibroblast growth factor 1 [Monodelphis domestica]
+MAEGEITTFTALTERFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRNDQHIQLQLSTESVGEVYIKSTESGQYL
+AMDTDGLLYGSQTPSEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKKGPRTHYGQKAILFLPLPVSSE
+>gi|625198382|ref|XP_007641238.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Cricetulus griseus]
+MAEGEITTFSALTERFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYR
+NMDTDGLLYGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|1039755618|ref|XP_017173320.1| PREDICTED: fibroblast growth factor 1 isoform X5 [Mus musculus]
+MAEGEITTFAALTERFNLPLGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYL
+AMDTEGLLYGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|569003259|ref|XP_006525705.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Mus musculus]
+MHWRGVTMELSAEPTTAACCRAMAEGEITTFAALTERFNLPLGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQ
+LQLSAESAGEVYIKGTETGQYLAMDTEGLLYGSTPNEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTH
+YGQKAILFLPLPVSSD
+>gi|533131408|ref|XP_005380756.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Chinchilla lanigera] >gi|533131412|ref|XP_005380758.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Chinchilla lanigera] >gi|533131414|ref|XP_005380759.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Chinchilla lanigera] >gi|533131416|ref|XP_005380760.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Chinchilla lanigera] >gi|918589470|ref|XP_013367800.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Chinchilla lanigera] >gi|918589472|ref|XP_013367801.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Chinchilla lanigera] >gi|918589474|ref|XP_013367802.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Chinchilla lanigera]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAEGAGEVYIKSTETGQYL
+AMDTSGLLYGSQAPGEECLFLERLEENHYNTYTSKKHAEKSWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSD
+>gi|821455701|ref|XP_012406976.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Sarcophilus harrisii]
+MAEGEITTFTALTERFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRNDQHIQLQLSAESVGEVYIKSTESGQYL
+AMDTDGLLYGSTPTEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSE
+>gi|514475188|ref|XP_003477242.2| PREDICTED: fibroblast growth factor 1 isoform X2 [Cavia porcellus]
+MAEGEITTFAALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAEGVGEVYIQSTETGQYL
+AMDTDGLLYGSTPSEECLFLERLEENHYNTYTSKKHVEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSD
+>gi|227343684|pdb|3CU1|B Chain B, Crystal Structure Of 2:2:2 Fgfr2d2:fgf1:sos Complex >gi|227343686|pdb|3CU1|D Chain D, Crystal Structure Of 2:2:2 Fgfr2d2:fgf1:sos Complex
+NYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFL
+ERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPV
+>gi|731288031|ref|XP_010612200.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Fukomys damarensis]
+MSSPGALCTEAVLPFLKASVEPLLAEHSTGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAEGVGEVYI
+KSTETGQYLAMDTAGLLYGSQTASEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLP
+VSSD
+>gi|134104605|pdb|2J3P|A Chain A, Crystal Structure Of Rat Fgf1 At 1.4 A >gi|134104606|pdb|2J3P|B Chain B, Crystal Structure Of Rat Fgf1 At 1.4 A
+NYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYLAMDTEGLLYGSQTPNEECLFL
+ERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|55846752|gb|AAV67380.1| fibroblast growth factor 1 [Macaca fascicularis]
+PPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEEC
+LFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLP
+>gi|960977180|ref|XP_014803680.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Calidris pugnax]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGSCKLGPRTHYGQKAILFLPLPVSAD
+>gi|285803440|pdb|3JUT|A Chain A, Acidic Fibroblast Growth Factor (Fgf-1) Complexed With Gentisic Acid >gi|285803441|pdb|3JUT|B Chain B, Acidic Fibroblast Growth Factor (Fgf-1) Complexed With Gentisic Acid >gi|285803442|pdb|3JUT|C Chain C, Acidic Fibroblast Growth Factor (Fgf-1) Complexed With Gentisic Acid >gi|285803443|pdb|3JUT|D Chain D, Acidic Fibroblast Growth Factor (Fgf-1) Complexed With Gentisic Acid >gi|285803444|pdb|3JUT|E Chain E, Acidic Fibroblast Growth Factor (Fgf-1) Complexed With Gentisic Acid >gi|285803445|pdb|3JUT|F Chain F, Acidic Fibroblast Growth Factor (Fgf-1) Complexed With Gentisic Acid >gi|285803446|pdb|3K1X|A Chain A, Acidic Fibroblast Growth Factor (Fgf-1) Complexed With Dobes >gi|285803447|pdb|3K1X|B Chain B, Acidic Fibroblast Growth Factor (Fgf-1) Complexed With Dobes >gi|285803448|pdb|3K1X|C Chain C, Acidic Fibroblast Growth Factor (Fgf-1) Complexed With Dobes >gi|285803449|pdb|3K1X|D Chain D, Acidic Fibroblast Growth Factor (Fgf-1) Complexed With Dobes >gi|285803450|pdb|3K1X|E Chain E, Acidic Fibroblast Growth Factor (Fgf-1) Complexed With Dobes >gi|285803451|pdb|3K1X|F Chain F, Acidic Fibroblast Growth Factor (Fgf-1) Complexed With Dobes
+KKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFLER
+LEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVS
+>gi|442620|pdb|1AFC|A Chain A, Structural Studies Of The Binding Of The Anti-Ulcer Drug Sucrose Octasulfate To Acidic Fibroblast Growth Factor >gi|442621|pdb|1AFC|B Chain B, Structural Studies Of The Binding Of The Anti-Ulcer Drug Sucrose Octasulfate To Acidic Fibroblast Growth Factor >gi|442622|pdb|1AFC|C Chain C, Structural Studies Of The Binding Of The Anti-Ulcer Drug Sucrose Octasulfate To Acidic Fibroblast Growth Factor >gi|442623|pdb|1AFC|D Chain D, Structural Studies Of The Binding Of The Anti-Ulcer Drug Sucrose Octasulfate To Acidic Fibroblast Growth Factor >gi|442624|pdb|1AFC|E Chain E, Structural Studies Of The Binding Of The Anti-Ulcer Drug Sucrose Octasulfate To Acidic Fibroblast Growth Factor >gi|442625|pdb|1AFC|F Chain F, Structural Studies Of The Binding Of The Anti-Ulcer Drug Sucrose Octasulfate To Acidic Fibroblast Growth Factor >gi|442626|pdb|1AFC|G Chain G, Structural Studies Of The Binding Of The Anti-Ulcer Drug Sucrose Octasulfate To Acidic Fibroblast Growth Factor >gi|442627|pdb|1AFC|H Chain H, Structural Studies Of The Binding Of The Anti-Ulcer Drug Sucrose Octasulfate To Acidic Fibroblast Growth Factor
+FNLPLGNYKKPKLLYCSNGGYFLRILPDGTVDGTKDRSDQHIQLQLAAESIGEVYIKSTETGQFLAMDTDGLLYGSQTPN
+EECLFLERLEENHYNTYISKKHAEKHWFVGLKKNGRSKLGPRTHFGQKAILFLPLPVSSD
+>gi|27806633|ref|NP_776480.1| fibroblast growth factor 1 [Bos taurus] >gi|929981589|ref|NP_001300935.1| fibroblast growth factor 1 [Bos taurus] >gi|555984953|ref|XP_005904358.1| PREDICTED: fibroblast growth factor 1 [Bos mutus] >gi|594070109|ref|XP_006058944.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Bubalus bubalis] >gi|594070111|ref|XP_006058945.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Bubalus bubalis] >gi|594070113|ref|XP_006058946.1| PREDICTED: fibroblast growth factor 1 isoform X3 [Bubalus bubalis] >gi|594070115|ref|XP_006058947.1| PREDICTED: fibroblast growth factor 1 isoform X4 [Bubalus bubalis] >gi|594070117|ref|XP_006058948.1| PREDICTED: fibroblast growth factor 1 isoform X5 [Bubalus bubalis] >gi|594070119|ref|XP_006058949.1| PREDICTED: fibroblast growth factor 1 isoform X6 [Bubalus bubalis] >gi|742166338|ref|XP_010848722.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Bison bison bison] >gi|742166340|ref|XP_010848723.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Bison bison bison] >gi|742166344|ref|XP_010848724.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Bison bison bison] >gi|742166348|ref|XP_010848725.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Bison bison bison] >gi|742166352|ref|XP_010848726.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Bison bison bison] >gi|982932204|ref|XP_015327761.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Bos taurus] >gi|982932206|ref|XP_015327762.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Bos taurus] >gi|982932208|ref|XP_015327763.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Bos taurus] >gi|122734|sp|P03968.2|FGF1_BOVIN RecName: Full=Fibroblast growth factor 1; Short=FGF-1; AltName: Full=Acidic eye-derived growth factor II; Short=EDGF II; AltName: Full=Acidic fibroblast growth factor; Short=aFGF; AltName: Full=Endothelial cell growth factor; Short=ECGF; AltName: Full=Heparin-binding growth factor 1; Short=HBGF-1; AltName: Full=Prostatropin; Contains: RecName: Full=Endothelial cell growth factor beta; Contains: RecName: Full=Endothelial cell growth factor alpha; Flags: Precursor >gi|323|emb|CAA32192.1| unnamed protein product [Bos taurus] >gi|348|emb|CAA31610.1| unnamed protein product [Bos taurus] >gi|163048|gb|AAA30517.1| acidic eye-derived fibroblast growth factor [Bos taurus] >gi|73587107|gb|AAI03226.1| FGF1 protein [Bos taurus] >gi|296485214|tpg|DAA27329.1| TPA: heparin-binding growth factor 1 [Bos taurus] >gi|440898704|gb|ELR50136.1| Heparin-binding growth factor 1 [Bos mutus]
+MAEGETTTFTALTEKFNLPLGNYKKPKLLYCSNGGYFLRILPDGTVDGTKDRSDQHIQLQLCAESIGEVYIKSTETGQFL
+AMDTDGLLYGSQTPNEECLFLERLEENHYNTYISKKHAEKHWFVGLKKNGRSKLGPRTHFGQKAILFLPLPVSSD
+>gi|677995605|ref|XP_009076192.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Acanthisitta chloris] >gi|677301016|gb|KFP83444.1| Fibroblast growth factor 1 [Acanthisitta chloris]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERLEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|224785|prf||1201195A fibroblast growth factor,acidic >gi|225715|prf||1311328A fibroblast growth factor,acidic
+FNLPLGNYKKPKLLYCSNGGYFLRILPDGTVDGTKDRSDQHIQLQLCAESIGEVYIKSTETGQFLAMDTDGLLYGSQTPN
+EECLFLERLEENHYNTYISKKHAEKHWFVGLKKNGRSKLGPRTHFGQKAILFLPLPVSSD
+>gi|149638194|ref|XP_001514861.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Ornithorhynchus anatinus]
+MAEGEITTFTALMEKFDLPLGNYKKPRLLYCSNGGYFLRIQPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTESGHYL
+AMDTEGLLYGSQAPSEDCLFLERLEENHYNTYVSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVASD
+>gi|533131424|ref|XP_005380764.1| PREDICTED: fibroblast growth factor 1 isoform X3 [Chinchilla lanigera]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAEGAGEVYIKSTETGQYL
+AMDTSGLLYGSAPGEECLFLERLEENHYNTYTSKKHAEKSWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSD
+>gi|188036074|pdb|2UUS|A Chain A, Crystal Structure Of The Rat Fgf1-sucrose Octasulfate (sos) Complex. >gi|188036075|pdb|2UUS|B Chain B, Crystal Structure Of The Rat Fgf1-sucrose Octasulfate (sos) Complex
+NYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESAGEVYIKGTETGQYLAMDTEGLLYGSQTPNEECLFL
+ERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVS
+>gi|1008911017|gb|AMR36588.1| fibroblast growth factor 1 [Capra hircus]
+MAEGETTTFRALTEKFNLPLGNYKKPKLLYCSNGGYFLRILPDGKVDGTKDRSDQHIQLQLYAESIGEVYIKSTETGQFL
+AMDTNGLLYGSQTPSEECLFLERLEENHYNTYISKKHAEKNWFIGLKKNGSSKLGPRTHFGQKAILFLPLPVSSD
+>gi|704284534|ref|XP_010157364.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Eurypyga helias] >gi|679015300|gb|KFW12162.1| Fibroblast growth factor 1 [Eurypyga helias]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTKSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGSSKLGPRTHYGQKAILFLPLPVSAD
+>gi|426229774|ref|XP_004008958.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Ovis aries] >gi|426229776|ref|XP_004008959.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Ovis aries] >gi|548474726|ref|XP_005683139.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Capra hircus] >gi|548474730|ref|XP_005683141.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Capra hircus] >gi|803076161|ref|XP_012034059.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Ovis aries] >gi|803244866|ref|XP_011982452.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Ovis aries musimon] >gi|803244868|ref|XP_011982453.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Ovis aries musimon] >gi|803244870|ref|XP_011982454.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Ovis aries musimon] >gi|47115688|sp|Q7M303.1|FGF1_SHEEP RecName: Full=Fibroblast growth factor 1; Short=FGF-1; AltName: Full=Acidic fibroblast growth factor; Short=aFGF; AltName: Full=Heparin-binding growth factor 1; Short=HBGF-1; Flags: Precursor
+MAEGETTTFRALTEKFNLPLGNYKKPKLLYCSNGGYFLRILPDGRVDGTKDRSDQHIQLQLYAESIGEVYIKSTETGQFL
+AMDTNGLLYGSQTPSEECLFLERLEENHYNTYISKKHAEKNWFIGLKKNGSSKLGPRTHFGQKAILFLPLPVSSD
+>gi|7546630|pdb|1DZC|A Chain A, High Resolution Structure Of Acidic Fibroblast Growth Factor. Mutant Fgf-4-ala-(23-154), 24 Nmr Structures
+AAALLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFLERL
+EENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|556741516|ref|XP_005966290.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Pantholops hodgsonii] >gi|556741518|ref|XP_005966291.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Pantholops hodgsonii]
+MAEGETTTFRALTEKFNLPLGNYKKPKLLYCSNGGYFLRILPDGRVDGTQDRSDQHIQLQLYAESIGEVYIKSTETGQFL
+AMDTNGLLYGSQTPSEECLFLERLEENHYNTYISKKHAEKNWFIGLKKNGSSKLGPRTHFGQKAILFLPLPVSSD
+>gi|701309871|ref|XP_010015888.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Nestor notabilis] >gi|677462974|gb|KFQ52388.1| Fibroblast growth factor 1 [Nestor notabilis]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYISKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|442657|pdb|1BAR|A Chain A, Three-Dimensional Structures Of Acidic And Basic Fibroblast Growth Factors >gi|442658|pdb|1BAR|B Chain B, Three-Dimensional Structures Of Acidic And Basic Fibroblast Growth Factors
+FNLPLGNYKKPKLLYCSNGGYFLRILPDGTVDGTKDRSDQHIQLQLAAESIGEVYIKSTETGQFLAMDTDGLLYGSQTPN
+EECLFLERLEENGYNTYISKKHAEKHWFVGLKKNGRSKLGPRTHFGQKAILFLPLPVSSD
+>gi|699628721|ref|XP_009888909.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Charadrius vociferus] >gi|697446651|gb|KGL86951.1| Fibroblast growth factor 1 [Charadrius vociferus]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|529427764|ref|XP_005233709.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Falco peregrinus]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPISAD
+>gi|701373683|ref|XP_009963522.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Tyto alba] >gi|678181184|gb|KFV48906.1| Fibroblast growth factor 1 [Tyto alba]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGSSKLGPRTHYGQKAILFLPLPVSSD
+>gi|731288033|ref|XP_010612201.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Fukomys damarensis]
+MSSPGALCTEAVLPFLKASVEPLLAEHSTGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAEGVGEVYI
+KSTETGQYLAMDTAGLLYGSTASEECLFLERLEENHYNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPV
+SSD
+>gi|527258167|ref|XP_005147346.1| PREDICTED: fibroblast growth factor 1 [Melopsittacus undulatus]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYISKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSPD
+>gi|675404919|ref|XP_008926212.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Manacus vitellinus] >gi|1051191061|ref|XP_017678499.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Lepidothrix coronata] >gi|1051191063|ref|XP_017678500.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Lepidothrix coronata] >gi|679183429|gb|KFW75071.1| Fibroblast growth factor 1 [Manacus vitellinus]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDEHIQLQLSAESVGVVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERVEENHYNTYISKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|7546475|pdb|1DZD|A Chain A, High Resolution Structure Of Acidic Fibroblast Growth Factor (27-154), 24 Nmr Structures
+LYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTDGLLYGSQTPNEECLFLERLEENH
+YNTYISKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVSSD
+>gi|706107719|ref|XP_010207491.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Colius striatus] >gi|677079815|gb|KFP28251.1| Fibroblast growth factor 1 [Colius striatus]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGSSKLGPRTHYGQKAILFLPLPVSAD
+>gi|960977182|ref|XP_014803681.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Calidris pugnax]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGSCKLGPRTHYGQKAILFLPLPVSAD
+>gi|699613346|ref|XP_009874464.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Apaloderma vittatum] >gi|677309704|gb|KFP92132.1| Fibroblast growth factor 1 [Apaloderma vittatum]
+MAEGEITTFTALTEKFNLPAGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|541975346|ref|XP_005440753.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Falco cherrug]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPISAE
+>gi|530626756|ref|XP_005302905.1| PREDICTED: fibroblast growth factor 1 [Chrysemys picta bellii]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGYFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTESGQFL
+AMDTNGLLYGSLLPGEECLFLERMEENHYNTYTSKKHADKNWFIGLKKNGSCKLGPRTHYGQKAILFLPLPVSAD
+>gi|723543077|ref|XP_010311533.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Balearica regulorum gibbericeps] >gi|676244374|gb|KFO08246.1| Fibroblast growth factor 1 [Balearica regulorum gibbericeps]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERLEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|591378230|ref|XP_007063672.1| PREDICTED: fibroblast growth factor 1 [Chelonia mydas]
+MAEGEITTFTALTEKFNLPVGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTESGQFL
+AMDPNGLLYGSLLPSEECLFLERMEENHYNTYTSKKHADKNWFVGLKKNGNCKLGPRTHYGQKAILFLPLPVSAD
+>gi|699670667|ref|XP_009900609.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Picoides pubescens] >gi|678201755|gb|KFV68737.1| Fibroblast growth factor 1 [Picoides pubescens]
+MAEGDITTFSALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIRSTQSGQYL
+AMDPNGLLYGSQLLGEECLFLERLEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|694843520|ref|XP_009462632.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Nipponia nippon] >gi|677534220|gb|KFQ96412.1| Fibroblast growth factor 1 [Nipponia nippon]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTKSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYISKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|488521516|ref|XP_004452675.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Dasypus novemcinctus] >gi|225691078|gb|ACO06224.1| fibroblast growth factor 1 isoform 1 precursor (predicted) [Dasypus novemcinctus]
+MAEGEITTFMALMEKFNLPLENYKHPRLLYCRNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSAETGQYL
+AMDTDGLLYGSETPSEECLFMEKLEENNYNTYISKKHAEKKWFVGLKKDGSSKRGPQTHYGQKAILFLPLPVSSD
+>gi|677249836|gb|KFP59314.1| Fibroblast growth factor 1 [Cathartes aura]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|594070121|ref|XP_006058950.1| PREDICTED: fibroblast growth factor 1 isoform X7 [Bubalus bubalis] >gi|742166356|ref|XP_010848728.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Bison bison bison] >gi|982932210|ref|XP_015327764.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Bos taurus] >gi|982932212|ref|XP_015327765.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Bos taurus]
+MAEGETTTFTALTEKFNLPLGNYKKPKLLYCSNGGYFLRILPDGTVDGTKDRSDQHIQLQLCAESIGEVYIKSTETGQFL
+AMDTDGLLYGSTPNEECLFLERLEENHYNTYISKKHAEKHWFVGLKKNGRSKLGPRTHFGQKAILFLPLPVSSD
+>gi|677995608|ref|XP_009076193.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Acanthisitta chloris]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSLLGEECLFLERLEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|696957508|ref|XP_009560534.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Cuculus canorus] >gi|676579362|gb|KFO70013.1| Fibroblast growth factor 1 [Cuculus canorus]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTKSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYTSKKHADKNWFVGLKKNGSSKLGPRTHYGQKAILFLPLPVSAD
+>gi|701340903|ref|XP_009981665.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Tauraco erythrolophus] >gi|678146134|gb|KFV15285.1| Fibroblast growth factor 1 [Tauraco erythrolophus]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGRSKLGPRTHYGQKAILFLPLPVSAD
+>gi|944210192|gb|KQK77038.1| fibroblast growth factor 1 [Amazona aestiva]
+MAEGEITTFTALTEKFXLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYISKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSPD
+>gi|690461406|ref|XP_009329661.1| PREDICTED: fibroblast growth factor 1 [Pygoscelis adeliae] >gi|697819136|ref|XP_009645108.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Egretta garzetta] >gi|676813879|gb|KFP10110.1| Fibroblast growth factor 1 [Egretta garzetta] >gi|679145440|gb|KFW72316.1| Fibroblast growth factor 1 [Pygoscelis adeliae]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTKSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|543743318|ref|XP_005512500.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Columba livia] >gi|449269195|gb|EMC79997.1| Heparin-binding growth factor 1 [Columba livia]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDPTGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|45383992|ref|NP_990511.1| fibroblast growth factor 1 precursor [Gallus gallus] >gi|971418388|ref|XP_015149495.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Gallus gallus] >gi|971418390|ref|XP_015149496.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Gallus gallus] >gi|1345988|sp|P19596.2|FGF1_CHICK RecName: Full=Fibroblast growth factor 1; Short=FGF-1; AltName: Full=Acidic fibroblast growth factor; Short=aFGF; AltName: Full=Endothelial cell growth factor; Short=ECGF; AltName: Full=Heparin-binding growth factor 1; Short=HBGF-1; Contains: RecName: Full=Endothelial cell growth factor alpha; Flags: Precursor >gi|234373|gb|AAB19629.1| acidic fibroblast growth factor [Gallus gallus] >gi|1046305|gb|AAA80310.1| acidic fibroblast growth factor [Gallus gallus]
+MAEGEITTFTALTERFGLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAEDVGEVYIKSTASGQYL
+AMDTNGLLYGSQLPGEECLFLERLEENHYNTYISKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|675629775|ref|XP_008943394.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Merops nubicus] >gi|677435457|gb|KFQ34248.1| Fibroblast growth factor 1 [Merops nubicus]
+MAEGDISTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDPTGLLYGSPLLGEECLFLERLEENHYNTYISKKHADKNWFVGLKKNGSSKLGPRTHYGQKAILFLPLPVSAD
+>gi|686614778|ref|XP_009284228.1| PREDICTED: fibroblast growth factor 1 [Aptenodytes forsteri] >gi|686614780|ref|XP_009284229.1| PREDICTED: fibroblast growth factor 1 [Aptenodytes forsteri] >gi|675316859|gb|KFM12121.1| Fibroblast growth factor 1 [Aptenodytes forsteri]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTKSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGKSKLGPRTHYGQKAILFLPLPISAD
+>gi|1003953158|ref|XP_015731001.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Coturnix japonica] >gi|1003953162|ref|XP_015731002.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Coturnix japonica] >gi|1003953165|ref|XP_015731004.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Coturnix japonica] >gi|1003953168|ref|XP_015731005.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Coturnix japonica] >gi|1003953171|ref|XP_015731006.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Coturnix japonica]
+MAEGEITTFTALTERFGLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAEDVGEVYIKSTVSGQYL
+AMDTNGLLYGSQLPGEECLFLERLEENHYNTYISKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|768345365|ref|XP_011569402.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Aquila chrysaetos canadensis] >gi|768345367|ref|XP_011569403.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Aquila chrysaetos canadensis] >gi|768345369|ref|XP_011569405.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Aquila chrysaetos canadensis] >gi|768345371|ref|XP_011569406.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Aquila chrysaetos canadensis] >gi|768345373|ref|XP_011569407.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Aquila chrysaetos canadensis]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYTSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|669270630|ref|XP_008627247.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Corvus brachyrhynchos] >gi|676411577|gb|KFO55608.1| Fibroblast growth factor 1 [Corvus brachyrhynchos]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDEHIQLQLSAESVGVVHIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERLEENHYNTYVSKMHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|558187030|ref|XP_006128601.1| PREDICTED: fibroblast growth factor 1 [Pelodiscus sinensis] >gi|558187035|ref|XP_006128602.1| PREDICTED: fibroblast growth factor 1 [Pelodiscus sinensis] >gi|558187039|ref|XP_006128603.1| PREDICTED: fibroblast growth factor 1 [Pelodiscus sinensis]
+MAEGEITTFTALTEKFNLPLGNYKNPKLLYCSNGGYFLRIHPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTESGQFL
+AMDANGLLYGSLSPSEECLFLERMEENHYNTYISKKHADKNWFVGLKKNGSCKLGPRTHYGQKAVLFLPLPVSAD
+>gi|620976527|ref|XP_007668466.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Ornithorhynchus anatinus]
+MAEGEITTFTALMEKFDLPLGNYKKPRLLYCSNGGYFLRIQPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTESGHYL
+AMDTEGLLYGSAPSEDCLFLERLEENHYNTYVSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPVASD
+>gi|823467933|ref|XP_012429988.1| PREDICTED: fibroblast growth factor 1 [Taeniopygia guttata]
+MAEGEITTFSALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGVVHIQSTQSGQYL
+AMDTNGLLYGSQLPPGECLFLERLEENHYNTYVSKMHADKNWFVGLKKNGTSKLGPRTHYGQKAILFLPLPVAAD
+>gi|704583612|ref|XP_010189237.1| PREDICTED: fibroblast growth factor 1 [Mesitornis unicolor] >gi|677445729|gb|KFQ39920.1| Fibroblast growth factor 1 [Mesitornis unicolor]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIRSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERLEENHYNTYVSKMHADKNWFVGLKKNGSSKLGPRTHYGQKAILFLPLPVSPD
+>gi|959080126|ref|XP_014743808.1| PREDICTED: fibroblast growth factor 1 [Sturnus vulgaris]
+MAEGEITTFTALTEKFNLPAGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGVVHIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERLEENHYNTYVSKMHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|704284539|ref|XP_010157365.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Eurypyga helias]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTKSGQYL
+AMDTNGLLYGSLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGSSKLGPRTHYGQKAILFLPLPVSAD
+>gi|701309873|ref|XP_010015889.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Nestor notabilis]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSLLGEECLFLERIEENHYNTYISKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|705671188|ref|XP_010115118.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Chlamydotis macqueenii] >gi|677144303|gb|KFP40244.1| Fibroblast growth factor 1 [Chlamydotis macqueenii]
+MAEGEITTFAALTEKFNLPMGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVCIKSTKSGQYL
+AMDTNGLLYGSQLLGEECLFLERLEENHYNTYTSKKHADKNWFVGLKKNGSSKLGPRTHYGQKAILFLPLPVSAD
+>gi|727017743|ref|XP_010397896.1| PREDICTED: fibroblast growth factor 1 [Corvus cornix cornix]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSEEHIQLQLSAESVGVVHIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERLEENHYNTYVSKMHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|699628726|ref|XP_009888918.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Charadrius vociferus]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|704304315|ref|XP_010163898.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Caprimulgus carolinensis] >gi|683461429|gb|KFZ55988.1| Fibroblast growth factor 1 [Caprimulgus carolinensis]
+MAEGEITTFTALTERFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHNQLQLSAESVGEVYIKSTKSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|902883413|ref|XP_013031414.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Anser cygnoides domesticus] >gi|902883415|ref|XP_013031415.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Anser cygnoides domesticus] >gi|902883417|ref|XP_013031416.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Anser cygnoides domesticus]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTKSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPGSAD
+>gi|529427766|ref|XP_005233710.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Falco peregrinus]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPISAD
+>gi|700381701|ref|XP_009930704.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Opisthocomus hoazin] >gi|677547232|gb|KFR08192.1| Fibroblast growth factor 1 [Opisthocomus hoazin]
+MAEGEITTFTALTERFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDPTGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|557281269|ref|XP_006023603.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Alligator sinensis] >gi|564251407|ref|XP_006264758.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Alligator mississippiensis] >gi|944340773|ref|XP_014375404.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Alligator sinensis] >gi|950961617|ref|XP_014453082.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Alligator mississippiensis] >gi|1011564406|gb|KYO20234.1| fibroblast growth factor 1 isoform B [Alligator mississippiensis]
+MAEGKITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGVVYIKSTKSGQYL
+AMDTNGLLYGSQLMSEECLFLERMEENHYNTYTSKKNADKNWFVGLKKNGSTKLGPRTHYGQKAILFLPLPVSAD
+>gi|543360189|ref|XP_005523763.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Pseudopodoces humilis] >gi|929445580|ref|XP_014108488.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Pseudopodoces humilis] >gi|998718621|ref|XP_015497204.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Parus major] >gi|998718623|ref|XP_015497205.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Parus major]
+MAEGEISTFSALTEKFNLPSGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGVVHIRSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERLEENHYNTYVSKLHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|701373690|ref|XP_009963523.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Tyto alba]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGSSKLGPRTHYGQKAILFLPLPVSSD
+>gi|675404921|ref|XP_008926220.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Manacus vitellinus] >gi|1051191065|ref|XP_017678502.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Lepidothrix coronata]
+MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDEHIQLQLSAESVGVVYIKSTQSGQYL
+AMDTNGLLYGSLLGEECLFLERVEENHYNTYISKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|678147036|gb|KFV16187.1| Fibroblast growth factor 1 [Pterocles gutturalis]
+LAEGEIPTSAALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDPNGLLYGSQLLGEECLFLERIEENHYNTYTSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|700427136|ref|XP_009952128.1| PREDICTED: fibroblast growth factor 1 isoform X1 [Leptosomus discolor] >gi|677396206|gb|KFQ13238.1| Fibroblast growth factor 1 [Leptosomus discolor]
+MAEGEISTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDLHIQLQLIAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSQLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD
+>gi|706107722|ref|XP_010207492.1| PREDICTED: fibroblast growth factor 1 isoform X2 [Colius striatus]
+MAEGEITTFTALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQYL
+AMDTNGLLYGSLLGEECLFLERIEENHYNTYVSKKHADKNWFVGLKKNGSSKLGPRTHYGQKAILFLPLPVSAD
+>gi|704519804|ref|XP_010082859.1| PREDICTED: fibroblast growth factor 1 [Pterocles gutturalis]
+PLAEGEIPTSAALTEKFNLPLGNYKKPKLLYCSNGGHFLRILPDGKVDGTRDRSDQHIQLQLSAESVGEVYIKSTQSGQY
+LAMDPNGLLYGSQLLGEECLFLERIEENHYNTYTSKKHADKNWFVGLKKNGNSKLGPRTHYGQKAILFLPLPVSAD

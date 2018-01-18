@@ -1,0 +1,15 @@
+---------------
+
+file: 1aky121-180.txt
+original acid: N
+mutated acid: D
+at position: 49
+
+Statistics:
+
+No all proteins: 250
+Is same at position: count = 0
+No. basic acids at position: 0
+No. mutated acids at position: 0
+No. else acids at position: 250
+Originals vs mutated : 0.000000

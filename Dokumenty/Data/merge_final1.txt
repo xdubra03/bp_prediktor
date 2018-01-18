@@ -1,0 +1,1574 @@
+sec_struc	ASA  velkost  stabilita
+H	burried        0          +
+H	burried        -          +
+S	partially  burried        0          +
+S	partially  burried        0          +
+H	burried        0          -
+H	partially  burried        0          -
+H	partially  burried        0          -
+S	partially  burried        -          +
+S	burried        0          +
+S	burried        0          +
+C	partially  burried        -          -
+H	burried        0          -
+H	burried        -          -
+C	burried        -          -
+H	partially  burried        -          -
+H	burried        +          -
+H	partially  burried        -          -
+H	burried        0          -
+C	burried        0          -
+C	partially  burried        +          +
+H	exposed        +          +
+H	exposed        0          -
+C	partially  burried        0          -
+C	partially  burried        -          -
+C	burried        -          -
+C	partially  burried        -          -
+C	partially  burried        -          -
+C	partially  burried        0          -
+C	partially  burried        0          -
+C	partially  burried        -          -
+C	partially  burried        0          -
+H	burried        -          -
+H	exposed        -          -
+H	burried        0          -
+H	burried        -          -
+H	exposed        -          -
+H	burried        -          -
+H	partially  burried        0          +
+H	exposed        -          -
+H	exposed        -          -
+H	exposed        -          -
+H	exposed        -          -
+C	exposed        -          -
+C	exposed        -          -
+C	exposed        0          -
+C	exposed        0          -
+C	exposed        0          -
+C	exposed        +          -
+C	exposed        0          -
+C	exposed        -          +
+C	burried        -          -
+S	burried        0          -
+S	burried        -          -
+C	burried        -          -
+C	burried        0          -
+C	burried        0          -
+C	burried        0          -
+C	burried        -          -
+H	exposed        -          -
+H	exposed        -          -
+H	exposed        -          -
+H	exposed        -          -
+H	exposed        -          -
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        0          -
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        0          -
+C	exposed        0          -
+C	partially  burried        0          -
+C	partially  burried        0          -
+C	partially  burried        +          -
+C	partially  burried        +          -
+C	partially  burried        +          -
+C	partially  burried        +          -
+C	partially  burried        +          -
+C	partially  burried        -          -
+C	partially  burried        0          -
+C	burried        0          -
+H	partially  burried        -          -
+H	partially  burried        0          -
+S	burried        -          -
+S	burried        +          -
+S	partially  burried        -          -
+S	exposed        -          -
+S	exposed        0          -
+C	burried        -          -
+C	burried        0          +
+C	exposed        +          -
+C	exposed        0          +
+C	burried        -          -
+C	burried        -          -
+S	burried        -          -
+S	burried        0          -
+C	burried        0          -
+C	burried        -          -
+C	partially  burried        -          -
+C	burried        0          -
+C	burried        -          -
+C	partially  burried        -          -
+S	burried        -          -
+S	burried        0          -
+C	partially  burried        0          -
+C	partially  burried        -          -
+C	partially  burried        -          -
+C	partially  burried        -          -
+S	burried        0          -
+C	exposed        -          -
+C	exposed        0          -
+S	exposed        +          +
+C	exposed        0          -
+C	exposed        -          -
+C	exposed        -          -
+C	partially  burried        0          -
+H	burried        -          -
+H	exposed        -          -
+C	burried        -          -
+C	partially  burried        0          -
+C	partially  burried        -          -
+C	partially  burried        0          -
+C	exposed        0          -
+S	partially  burried        -          -
+S	exposed        -          -
+S	partially  burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+C	partially  burried        0          -
+S	partially  burried        -          -
+S	partially  burried        -          -
+S	burried        -          -
+S	burried        -          -
+C	burried        0          -
+C	burried        0          -
+C	partially  burried        0          -
+C	exposed        -          -
+C	burried        -          -
+C	burried        -          -
+C	burried        -          -
+S	burried        -          -
+C	burried        0          -
+H	partially  burried        -          -
+H	exposed        -          -
+H	burried        -          -
+H	exposed        -          +
+H	exposed        -          -
+H	burried        -          -
+H	partially  burried        -          -
+H	partially  burried        -          -
+C	burried        -          -
+H	burried        +          -
+H	burried        -          -
+C	partially  burried        0          -
+C	partially  burried        0          -
+C	burried        0          -
+C	burried        0          -
+S	burried        0          +
+C	burried        0          +
+S	burried        -          +
+S	burried        0          +
+S	burried        -          +
+S	burried        0          +
+C	burried        0          -
+S	exposed        0          -
+S	exposed        0          -
+S	partially  burried        0          -
+C	exposed        0          -
+C	exposed        0          -
+S	partially  burried        0          -
+S	partially  burried        0          -
+S	burried        0          -
+S	burried        0          -
+C	exposed        0          -
+C	exposed        0          -
+S	exposed        0          -
+S	exposed        0          -
+S	partially  burried        0          -
+C	exposed        0          +
+C	exposed        0          -
+C	exposed        0          +
+C	exposed        0          +
+S	exposed        0          +
+C	exposed        0          +
+C	exposed        0          +
+C	exposed        0          -
+C	exposed        0          -
+H	partially  burried        0          -
+H	partially  burried        -          -
+C	exposed        -          -
+C	burried        0          -
+H	burried        0          -
+H	burried        0          -
+H	burried        0          +
+H	burried        +          -
+H	burried        +          -
+S	burried        -          -
+H	burried        -          -
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+C	burried        -          -
+C	exposed        0          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          +
+H	burried        0          +
+H	burried        0          -
+C	burried        0          -
+C	partially  burried        0          +
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+S	burried        -          -
+H	partially  burried        +          -
+H	partially  burried        -          -
+H	partially  burried        0          +
+S	partially  burried        +          +
+S	partially  burried        +          +
+C	burried        -          -
+H	burried        0          +
+H	burried        0          +
+H	partially  burried        0          -
+C	partially  burried        0          +
+C	burried        0          -
+C	burried        0          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+C	exposed        -          -
+C	exposed        0          -
+C	exposed        0          -
+H	partially  burried        -          -
+H	partially  burried        0          -
+H	partially  burried        0          -
+H	partially  burried        0          -
+H	exposed        0          +
+H	exposed        0          +
+H	exposed        0          +
+H	exposed        +          +
+H	exposed        0          +
+H	exposed        +          -
+H	exposed        0          +
+H	exposed        0          -
+H	exposed        0          -
+H	exposed        -          -
+H	exposed        0          -
+H	exposed        -          -
+C	exposed        +          -
+C	exposed        0          -
+C	exposed        0          -
+H	partially  burried        0          -
+H	partially  burried        0          -
+H	partially  burried        0          -
+H	partially  burried        -          -
+C	burried        -          -
+C	burried        0          -
+C	burried        0          -
+C	burried        -          -
+H	partially  burried        -          -
+H	partially  burried        -          -
+H	exposed        -          -
+S	exposed        -          -
+C	exposed        -          +
+C	exposed        -          -
+C	burried        -          -
+S	burried        0          +
+S	burried        0          +
+S	burried        +          +
+S	burried        0          +
+S	burried        0          +
+S	burried        0          +
+S	burried        0          +
+S	burried        0          +
+S	burried        0          +
+S	burried        -          +
+C	burried        +          +
+C	burried        0          -
+S	burried        +          -
+C	burried        0          -
+H	exposed        0          -
+H	burried        0          -
+C	exposed        0          +
+C	burried        -          -
+S	burried        0          -
+C	burried        0          -
+C	burried        -          -
+C	burried        -          -
+C	exposed        0          -
+C	burried        0          -
+C	burried        0          -
+C	burried        0          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+C	burried        0          -
+C	partially  burried        0          -
+C	burried        -          -
+S	burried        +          +
+S	burried        0          +
+S	burried        +          +
+S	burried        0          +
+S	burried        0          +
+S	burried        +          +
+S	burried        0          +
+S	burried        0          +
+S	burried        -          +
+S	burried        +          +
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+C	partially  burried        0          +
+S	partially  burried        -          -
+S	burried        0          -
+C	partially  burried        0          -
+H	partially  burried        0          +
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        0          -
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        +          -
+H	exposed        +          -
+S	burried        0          +
+S	burried        0          -
+C	exposed        0          -
+C	burried        0          -
+C	burried        -          -
+C	exposed        -          +
+C	exposed        0          +
+C	exposed        0          +
+C	exposed        -          +
+C	exposed        0          +
+C	exposed        0          +
+C	exposed        0          +
+C	exposed        +          +
+C	exposed        0          +
+C	exposed        0          +
+C	exposed        0          -
+C	exposed        -          -
+H	burried        0          -
+H	burried        -          -
+H	partially  burried        0          -
+H	partially  burried        0          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+H	burried        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+S	burried        -          -
+S	burried        -          -
+C	exposed        0          -
+S	burried        0          -
+S	burried        -          -
+S	burried        -          -
+C	exposed        0          -
+C	exposed        0          -
+C	exposed        0          -
+S	burried        0          -
+S	burried        -          -
+S	burried        -          -
+C	burried        0          -
+C	burried        -          -
+C	burried        0          -
+S	burried        -          -
+S	burried        0          -
+S	burried        -          -
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+C	exposed        0          -
+C	exposed        0          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        0          -
+S	burried        -          -
+H	exposed        +          +
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+S	burried        +          -
+S	burried        +          -
+C	partially  burried        0          -
+S	partially  burried        0          -
+S	partially  burried        0          -
+S	partially  burried        -          -
+S	burried        +          -
+S	burried        -          -
+S	partially  burried        -          -
+S	burried        -          -
+S	burried        -          -
+C	burried        -          -
+C	burried        -          -
+H	partially  burried        0          -
+H	partially  burried        +          -
+H	partially  burried        -          -
+H	partially  burried        -          -
+H	burried        -          -
+H	burried        -          -
+H	burried        0          +
+S	partially  burried        -          -
+S	burried        -          -
+S	burried        -          -
+C	burried        -          -
+C	burried        -          -
+C	burried        0          -
+C	burried        -          -
+C	burried        -          -
+S	burried        +          +
+S	burried        +          -
+S	burried        0          -
+S	burried        -          -
+C	exposed        -          -
+C	exposed        -          -
+H	burried        -          -
+S	burried        0          -
+H	partially  burried        0          +
+C	partially  burried        -          -
+C	partially  burried        -          -
+C	partially  burried        -          -
+S	partially  burried        0          +
+S	burried        +          +
+S	burried        0          -
+S	partially  burried        +          +
+S	partially  burried        +          -
+S	partially  burried        +          +
+S	burried        0          -
+S	burried        0          -
+S	burried        -          -
+S	burried        0          -
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+S	burried        +          -
+S	burried        0          -
+C	partially  burried        0          -
+C	partially  burried        0          -
+C	partially  burried        -          -
+C	partially  burried        0          -
+C	partially  burried        0          -
+C	partially  burried        0          -
+C	partially  burried        0          -
+C	exposed        0          -
+S	partially  burried        0          -
+S	partially  burried        0          -
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+S	burried        +          -
+S	burried        -          -
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+C	burried        0          -
+S	burried        0          +
+S	burried        0          -
+S	burried        0          -
+H	partially  burried        -          -
+H	burried        +          -
+H	burried        +          -
+S	burried        -          -
+S	burried        -          -
+S	partially  burried        0          -
+S	partially  burried        0          -
+S	partially  burried        -          -
+S	partially  burried        0          -
+S	partially  burried        0          +
+S	partially  burried        0          +
+S	partially  burried        -          -
+S	partially  burried        0          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+C	burried        0          -
+C	burried        0          -
+C	burried        -          -
+S	burried        -          +
+S	burried        0          +
+S	burried        0          +
+S	burried        0          +
+S	burried        -          +
+S	burried        +          -
+S	burried        0          +
+S	burried        0          +
+S	burried        0          +
+C	exposed        -          -
+H	partially  burried        +          -
+H	partially  burried        +          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+C	burried        -          -
+C	burried        0          -
+H	exposed        0          -
+H	partially  burried        -          -
+H	partially  burried        -          -
+H	partially  burried        0          -
+H	partially  burried        -          -
+H	partially  burried        -          -
+H	partially  burried        -          -
+H	partially  burried        +          -
+H	partially  burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	partially  burried        -          -
+C	partially  burried        0          -
+H	partially  burried        -          -
+H	burried        -          -
+H	burried        -          -
+H	burried        -          -
+S	burried        -          +
+S	burried        0          -
+C	burried        -          -
+C	exposed        -          +
+C	burried        0          -
+S	burried        -          -
+S	burried        0          -
+H	partially  burried        0          -
+C	partially  burried        0          -
+H	burried        +          -
+C	partially  burried        -          -
+C	partially  burried        0          -
+C	partially  burried        -          -
+C	partially  burried        -          -
+H	partially  burried        0          -
+H	partially  burried        0          -
+H	exposed        0          -
+H	exposed        0          -
+H	exposed        0          -
+H	exposed        0          -
+H	burried        0          -
+H	partially  burried        -          -
+H	exposed        -          -
+H	partially  burried        -          -
+H	partially  burried        -          -
+H	exposed        -          -
+H	partially  burried        -          -
+C	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        0          -
+S	burried        -          -
+S	burried        -          -
+S	burried        0          -
+C	burried        -          -
+C	burried        -          -
+C	burried        0          -
+C	burried        0          -
+C	partially  burried        -          -
+C	exposed        -          -
+C	exposed        -          -
+C	burried        -          -
+C	partially  burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+C	burried        -          -
+S	burried        0          -
+S	burried        -          -
+S	burried        -          -
+C	burried        0          -
+C	burried        -          -
+C	burried        -          -
+C	burried        0          -
+S	burried        0          -
+S	burried        -          -
+S	burried        -          -
+C	partially  burried        +          +
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+S	burried        -          -
+C	partially  burried        0          +
+C	partially  burried        0          +
+C	partially  burried        -          +
+C	exposed        0          +
+S	burried        -          +
+S	burried        -          -
+S	burried        0          -
+C	burried        -          -
+S	burried        0          -
+S	burried        -          -
+H	partially  burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        +          -
+H	partially  burried        -          -
+H	partially  burried        0          -
+H	partially  burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	exposed        -          -
+H	partially  burried        0          -
+H	burried        -          -
+C	burried        0          -
+C	burried        -          -
+C	partially  burried        0          -
+C	partially  burried        0          -
+C	partially  burried        -          -
+C	partially  burried        0          -
+C	partially  burried        -          -
+H	burried        -          -
+H	burried        -          -
+H	exposed        -          -
+H	burried        -          -
+H	partially  burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        +          -
+C	burried        0          -
+C	burried        -          -
+C	partially  burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        0          -
+H	burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	partially  burried        0          -
+H	partially  burried        -          -
+H	partially  burried        0          +
+H	partially  burried        0          -
+H	partially  burried        0          +
+H	exposed        0          +
+H	burried        +          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          +
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          +
+H	burried        0          -
+H	burried        0          -
+H	burried        -          -
+H	burried        +          -
+H	burried        +          -
+H	burried        0          -
+H	burried        0          -
+H	exposed        0          +
+H	burried        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	burried        -          -
+C	partially  burried        0          -
+S	partially  burried        -          -
+None	exposed        0          -
+C	burried        0          -
+C	burried        0          -
+C	burried        +          -
+C	burried        +          -
+H	partially  burried        0          -
+H	partially  burried        -          -
+H	partially  burried        0          -
+H	partially  burried        0          -
+S	burried        -          -
+H	exposed        +          -
+H	burried        0          -
+H	partially  burried        -          -
+H	partially  burried        0          +
+S	burried        -          -
+S	burried        -          -
+S	burried        +          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+C	exposed        0          +
+C	exposed        0          +
+C	exposed        0          -
+C	exposed        0          -
+C	exposed        0          -
+H	burried        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	exposed        0          -
+C	partially  burried        +          -
+C	exposed        +          -
+H	burried        -          -
+C	partially  burried        0          +
+C	burried        0          -
+H	partially  burried        0          +
+C	exposed        -          +
+C	exposed        -          +
+C	exposed        -          +
+C	exposed        -          +
+C	exposed        -          +
+C	exposed        -          +
+S	burried        0          -
+H	exposed        0          -
+H	partially  burried        0          -
+C	burried        0          -
+C	partially  burried        0          -
+H	burried        +          -
+C	exposed        0          -
+S	burried        0          -
+C	burried        +          -
+C	burried        -          -
+C	burried        -          -
+S	burried        0          -
+S	burried        +          -
+S	burried        0          -
+C	exposed        -          -
+C	exposed        -          -
+C	burried        -          +
+S	partially  burried        -          -
+S	burried        0          +
+H	exposed        -          -
+H	exposed        -          -
+H	exposed        -          -
+H	burried        -          -
+H	exposed        -          -
+C	burried        -          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+S	burried        +          -
+S	partially  burried        0          -
+C	burried        -          -
+C	burried        -          -
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+C	partially  burried        0          -
+S	burried        -          -
+S	burried        0          -
+H	exposed        -          +
+H	exposed        -          -
+H	burried        -          -
+H	partially  burried        -          -
+H	exposed        -          -
+S	exposed        -          -
+S	partially  burried        -          -
+S	burried        -          -
+S	burried        -          -
+C	partially  burried        -          -
+S	burried        -          -
+S	burried        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+C	burried        0          -
+C	partially  burried        -          -
+H	partially  burried        -          +
+H	burried        -          -
+H	exposed        0          +
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        -          -
+H	partially  burried        0          +
+H	burried        0          -
+H	burried        0          -
+H	burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	burried        0          +
+H	burried        0          +
+H	partially  burried        -          -
+S	burried        -          +
+S	burried        0          -
+S	partially  burried        -          -
+S	burried        0          -
+S	burried        0          -
+S	partially  burried        0          +
+S	exposed        -          -
+S	exposed        -          -
+S	exposed        -          -
+S	partially  burried        0          -
+S	partially  burried        0          -
+S	partially  burried        0          -
+C	exposed        -          +
+C	exposed        0          -
+H	burried        -          -
+H	burried        -          -
+S	burried        -          -
+C	exposed        +          +
+S	exposed        0          +
+S	exposed        0          +
+S	exposed        0          +
+S	exposed        +          +
+S	exposed        0          +
+S	partially  burried        0          +
+S	partially  burried        -          -
+S	partially  burried        -          -
+S	partially  burried        0          -
+S	partially  burried        -          -
+S	partially  burried        +          -
+S	partially  burried        +          +
+S	partially  burried        +          +
+S	partially  burried        +          +
+S	partially  burried        +          +
+S	partially  burried        0          -
+S	partially  burried        +          +
+C	exposed        0          +
+None	exposed        0          +
+None	exposed        0          +
+None	exposed        0          +
+C	burried        -          -
+C	burried        -          -
+H	partially  burried        0          -
+H	partially  burried        0          -
+H	partially  burried        +          -
+C	exposed        0          -
+C	exposed        0          -
+C	exposed        0          -
+C	exposed        +          -
+S	burried        -          +
+S	burried        -          -
+S	burried        -          -
+C	burried        -          -
+C	burried        0          -
+C	burried        -          +
+C	burried        -          -
+C	burried        -          -
+C	burried        -          -
+C	exposed        -          +
+C	burried        0          +
+C	burried        0          +
+S	burried        -          -
+S	burried        -          -
+C	exposed        +          -
+C	exposed        +          -
+S	burried        0          -
+S	burried        0          -
+C	burried        0          +
+C	partially  burried        +          -
+H	partially  burried        0          -
+H	partially  burried        +          -
+H	burried        0          +
+H	partially  burried        +          -
+H	burried        -          -
+H	burried        +          -
+C	burried        +          -
+C	exposed        0          -
+C	burried        0          -
+S	burried        +          -
+S	burried        +          -
+S	burried        0          -
+H	partially  burried        -          -
+H	partially  burried        0          -
+C	partially  burried        +          -
+C	partially  burried        +          -
+C	partially  burried        0          +
+H	partially  burried        0          +
+H	burried        0          +
+H	exposed        0          -
+H	burried        -          -
+S	partially  burried        -          -
+S	partially  burried        -          -
+C	burried        +          -
+H	burried        -          -
+C	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        +          -
+H	burried        0          +
+C	exposed        0          -
+C	exposed        0          +
+C	exposed        0          -
+H	exposed        -          -
+H	burried        -          -
+H	burried        -          -
+C	burried        0          -
+H	burried        0          +
+H	partially  burried        -          -
+H	exposed        -          -
+H	burried        -          -
+H	partially  burried        -          -
+S	burried        -          -
+C	exposed        -          -
+H	partially  burried        -          -
+H	partially  burried        -          +
+C	exposed        -          -
+H	burried        -          -
+C	burried        -          -
+C	partially  burried        -          -
+C	partially  burried        -          -
+C	partially  burried        -          -
+C	burried        -          -
+C	exposed        -          -
+C	burried        -          +
+C	partially  burried        -          -
+S	burried        -          -
+S	burried        0          +
+S	burried        -          +
+S	burried        0          +
+S	burried        -          -
+S	burried        -          -
+H	burried        -          -
+H	burried        -          -
+H	burried        -          -
+S	burried        -          -
+S	burried        -          +
+H	burried        -          -
+H	partially  burried        -          +
+H	burried        -          -
+C	burried        0          +
+H	partially  burried        -          -
+H	partially  burried        -          -
+S	burried        -          -
+C	burried        0          -
+S	burried        -          -
+H	burried        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        0          -
+C	burried        -          -
+C	burried        0          -
+C	burried        0          -
+S	burried        -          -
+S	burried        0          -
+S	burried        -          -
+S	burried        0          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+C	exposed        0          +
+C	burried        0          -
+C	burried        +          -
+C	exposed        0          -
+C	exposed        0          -
+H	partially  burried        0          -
+C	exposed        0          +
+C	exposed        0          +
+C	partially  burried        +          +
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+S	burried        -          -
+S	burried        0          -
+C	partially  burried        -          -
+C	partially  burried        0          +
+C	partially  burried        0          +
+C	partially  burried        0          +
+S	burried        -          +
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+C	burried        -          -
+S	burried        -          -
+S	burried        0          -
+H	partially  burried        -          -
+H	partially  burried        0          -
+H	burried        +          -
+H	burried        +          -
+H	burried        +          -
+H	burried        +          -
+H	burried        +          -
+H	burried        0          -
+H	partially  burried        -          -
+H	partially  burried        0          -
+H	partially  burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	exposed        -          -
+H	burried        -          -
+H	burried        0          -
+C	burried        -          -
+C	burried        0          -
+C	partially  burried        -          -
+C	partially  burried        0          -
+C	partially  burried        -          -
+C	partially  burried        0          -
+C	partially  burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	exposed        -          -
+H	burried        -          -
+H	partially  burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+C	burried        -          -
+C	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        0          -
+H	partially  burried        +          -
+C	burried        -          -
+C	burried        0          -
+C	partially  burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        +          -
+H	burried        +          -
+H	burried        +          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	partially  burried        0          -
+H	partially  burried        -          -
+H	partially  burried        0          -
+H	exposed        0          +
+H	burried        -          -
+H	burried        +          -
+H	burried        0          -
+H	burried        0          +
+H	burried        +          +
+H	burried        -          -
+H	burried        0          -
+H	partially  burried        0          -
+H	partially  burried        +          -
+H	burried        -          -
+H	burried        +          -
+H	burried        +          -
+H	burried        +          -
+H	burried        +          -
+H	burried        0          -
+H	burried        0          -
+H	exposed        0          +
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	burried        -          -
+S	exposed        -          -
+C	burried        0          -
+S	burried        -          -
+S	burried        0          -
+C	exposed        -          -
+C	burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	burried        -          -
+H	burried        0          -
+C	burried        -          -
+C	burried        -          -
+None	exposed        -          -
+C	burried        0          -
+H	burried        0          -
+C	exposed        0          +
+C	burried        -          -
+S	burried        0          -
+C	exposed        -          +
+C	burried        -          -
+C	burried        0          -
+C	burried        -          -
+C	exposed        0          -
+C	burried        0          -
+S	burried        0          -
+S	burried        0          -
+C	burried        0          -
+C	partially  burried        0          -
+C	burried        -          -
+C	exposed        0          +
+S	burried        -          +
+S	burried        0          +
+S	burried        +          +
+S	burried        0          +
+S	burried        0          +
+S	burried        0          +
+S	burried        0          +
+S	burried        +          +
+S	burried        +          +
+S	burried        0          -
+C	partially  burried        -          -
+C	partially  burried        0          -
+S	exposed        -          -
+S	exposed        0          -
+S	exposed        +          -
+S	exposed        -          -
+S	exposed        0          -
+S	exposed        +          -
+S	exposed        -          -
+S	exposed        +          -
+H	partially  burried        0          -
+H	burried        0          -
+C	partially  burried        0          -
+C	exposed        0          -
+C	partially  burried        0          -
+C	exposed        -          -
+C	exposed        -          -
+C	exposed        0          -
+S	burried        -          -
+H	burried        +          -
+H	burried        0          -
+H	burried        0          -
+C	partially  burried        0          -
+C	burried        -          -
+C	burried        0          +
+C	burried        -          -
+C	burried        -          -
+C	burried        0          -
+S	exposed        0          +
+C	exposed        0          -
+C	partially  burried        0          -
+C	exposed        -          -
+C	exposed        -          -
+S	burried        0          -
+C	burried        -          -
+C	burried        +          -
+C	burried        0          -
+C	burried        0          -
+C	burried        -          -
+C	burried        -          +
+S	burried        +          -
+S	burried        -          -
+S	burried        0          +
+S	burried        0          -
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+S	burried        +          -
+C	burried        0          -
+C	burried        0          -
+C	exposed        0          -
+C	burried        -          -
+C	burried        0          -
+C	partially  burried        0          -
+C	exposed        0          -
+C	exposed        0          -
+C	exposed        0          +
+C	exposed        +          -
+C	exposed        +          -
+C	exposed        -          -
+C	exposed        -          -
+S	partially  burried        0          +
+H	exposed        0          +
+C	burried        -          -
+C	burried        0          -
+H	partially  burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        +          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          +
+H	burried        +          -
+H	burried        0          -
+C	partially  burried        0          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	exposed        -          +
+H	exposed        0          -
+H	exposed        +          -
+H	exposed        -          -
+H	exposed        0          -
+H	exposed        +          -
+H	exposed        +          -
+C	exposed        -          -
+C	exposed        0          -
+C	burried        -          -
+C	exposed        0          -
+C	exposed        0          -
+None	exposed        -          -
+S	partially  burried        +          +
+C	burried        0          -
+C	burried        -          -
+C	burried        -          -
+S	burried        0          -
+S	exposed        -          -
+S	partially  burried        0          -
+S	partially  burried        0          -
+C	burried        0          -
+C	exposed        -          +
+H	exposed        0          -
+C	exposed        0          -
+S	burried        +          +
+S	burried        0          -
+S	burried        +          +
+H	partially  burried        -          +
+H	partially  burried        0          +
+H	partially  burried        0          +
+H	partially  burried        -          +
+H	partially  burried        0          +
+H	partially  burried        0          +
+H	partially  burried        -          +
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+C	partially  burried        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        +          +
+H	partially  burried        0          +
+C	burried        -          -
+C	burried        0          -
+C	burried        -          -
+C	exposed        +          +
+C	exposed        -          +
+C	exposed        0          +
+C	exposed        +          -
+C	exposed        +          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        0          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+S	burried        0          -
+C	partially  burried        -          -
+C	exposed        0          -
+H	burried        0          -
+C	exposed        0          -
+H	burried        -          +
+S	burried        -          -
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+C	burried        +          -
+C	burried        0          -
+C	burried        0          -
+S	burried        -          -
+S	burried        -          -
+C	burried        -          -
+C	burried        0          +
+C	burried        +          -
+C	burried        0          -
+C	burried        0          -
+C	burried        -          -
+C	burried        0          -
+C	burried        -          -
+C	burried        0          -
+C	burried        0          -
+C	burried        +          -
+S	burried        -          -
+S	burried        -          -
+S	burried        -          -
+S	burried        0          -
+S	burried        -          -
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+S	burried        +          -
+S	burried        +          -
+S	burried        +          -
+S	burried        +          -
+S	burried        +          -
+S	burried        +          -
+S	burried        +          -
+S	burried        0          -
+S	burried        -          -
+S	burried        +          -
+C	exposed        -          +
+H	exposed        0          -
+S	partially  burried        0          +
+S	partially  burried        -          +
+C	exposed        -          +
+S	burried        -          -
+S	burried        0          -
+S	burried        0          -
+S	burried        -          -
+S	burried        0          -
+C	burried        0          -
+C	partially  burried        -          -
+H	burried        -          -
+C	burried        -          -
+C	partially  burried        -          -
+S	burried        -          +
+H	burried        0          -
+S	burried        -          +
+S	burried        -          +
+S	burried        0          +
+H	partially  burried        0          -
+H	partially  burried        -          -
+H	partially  burried        -          -
+H	partially  burried        0          +
+H	partially  burried        0          -
+H	partially  burried        +          +
+H	partially  burried        +          +
+H	exposed        -          -
+H	exposed        -          -
+H	exposed        +          -
+H	exposed        0          -
+C	exposed        0          -
+C	partially  burried        0          +
+H	burried        +          -
+C	exposed        0          -
+C	exposed        +          -
+C	exposed        +          -
+C	exposed        0          -
+C	exposed        +          -
+C	exposed        +          -
+C	exposed        +          -
+C	exposed        0          -
+C	exposed        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        -          +
+None	exposed        -          +
+None	exposed        -          +
+None	exposed        0          +
+H	partially  burried        -          +
+H	partially  burried        0          -
+H	partially  burried        0          +
+H	partially  burried        0          +
+H	partially  burried        0          +
+H	partially  burried        -          -
+H	partially  burried        0          -
+H	partially  burried        0          +
+H	partially  burried        0          +
+H	burried        +          +
+H	partially  burried        -          -
+H	partially  burried        0          -
+H	burried        -          -
+S	burried        0          -
+S	burried        0          -
+H	burried        0          -
+C	exposed        0          -
+C	partially  burried        -          -
+S	burried        0          -
+S	burried        -          -
+C	partially  burried        0          +
+H	exposed        0          -
+C	burried        0          -
+H	burried        -          -
+H	burried        0          -
+H	burried        0          -
+H	burried        +          -
+H	burried        -          -
+H	burried        0          -
+H	burried        -          -
+H	burried        -          -
+H	burried        0          -
+H	burried        +          -
+H	burried        +          -
+H	burried        0          -
+H	burried        -          +
+H	burried        +          +
+H	burried        0          +
+S	exposed        0          +
+C	burried        +          -
+C	partially  burried        0          -
+H	partially  burried        -          -
+C	burried        0          -
+C	exposed        -          -
+C	exposed        0          +
+H	partially  burried        -          -
+H	burried        +          -
+H	burried        0          -
+H	partially  burried        -          -
+H	partially  burried        0          -
+H	partially  burried        -          -
+H	burried        +          +
+H	burried        +          +
+H	burried        +          +
+H	partially  burried        0          -
+H	burried        +          -
+H	exposed        -          -
+H	partially  burried        +          +
+H	partially  burried        0          +
+H	partially  burried        0          +
+H	burried        -          -
+C	exposed        0          -
+H	burried        -          -
+H	partially  burried        0          -
+H	burried        +          -
+H	exposed        0          -
+H	burried        0          -
+H	burried        -          -
+H	exposed        -          -
+C	burried        +          -
+C	partially  burried        -          -
+C	partially  burried        0          -
+C	partially  burried        0          -
+C	partially  burried        +          -
+C	partially  burried        -          -
+C	partially  burried        0          -
+C	partially  burried        0          -
+C	partially  burried        0          -
+C	partially  burried        0          -
+C	partially  burried        +          -
+C	partially  burried        -          -
+C	partially  burried        0          -
+C	partially  burried        +          -
+S	burried        -          +
+S	burried        0          +
+S	burried        0          +
+S	burried        0          +
+S	burried        -          +
+S	burried        0          +
+S	burried        +          +
+H	burried        +          +
+H	burried        +          -
+H	burried        +          -
+H	burried        0          -
+H	burried        +          -
+H	burried        +          +
+H	burried        +          -
+H	burried        +          +
+H	burried        +          -
+H	burried        0          -
+H	burried        +          -
+H	burried        0          -
+H	burried        +          -
+H	burried        +          +
+H	burried        +          -
+C	exposed        -          +
+C	exposed        -          +
+S	burried        0          -
+S	burried        +          +
+C	partially  burried        -          +
+C	partially  burried        0          +
+H	burried        -          -
+H	burried        0          +
+H	burried        0          +
+H	burried        0          -
+C	exposed        -          +
+C	exposed        0          +
+C	exposed        -          -
+S	partially  burried        0          +
+H	exposed        -          +
+H	exposed        0          +
+H	exposed        0          +
+H	exposed        0          +
+H	exposed        0          +
+H	exposed        0          +
+H	exposed        0          +
+H	exposed        -          +
+H	exposed        0          +
+H	exposed        0          +
+S	burried        0          +
+C	burried        -          -
+H	burried        -          -
+H	exposed        0          +
+C	burried        0          -
+S	burried        0          -
+S	burried        0          -
+S	burried        +          -
+C	exposed        0          +
+C	exposed        -          +
+H	exposed        0          +
+H	burried        0          -
+H	burried        0          -
+H	burried        0          -
+H	burried        0          +
+H	burried        0          -
+S	burried        +          +
+S	burried        +          +
+H	burried        -          +
+H	burried        0          +
+C	partially  burried        +          +
+H	partially  burried        +          +
+H	burried        0          +
+C	partially  burried        +          +
+C	exposed        +          -
+H	burried        0          -
+C	partially  burried        0          +
+C	exposed        0          -
+H	burried        +          +
+H	burried        +          +
+H	burried        +          +
+C	burried        0          -
+C	partially  burried        0          -
+C	burried        -          -
+C	burried        +          -
+C	burried        0          -
+C	burried        0          -
+C	burried        0          -
+C	exposed        0          -
+C	exposed        0          -
+H	burried        +          -
+H	burried        +          +
+H	burried        +          -
+C	partially  burried        -          +
+C	partially  burried        +          +
+C	partially  burried        -          +
+C	exposed        0          -
+H	exposed        -          +
+C	exposed        0          -
+S	burried        -          -
+S	burried        -          -
+C	burried        0          -
+C	exposed        -          -
+C	exposed        +          -
+C	exposed        -          +
+C	exposed        0          +
+C	exposed        0          -
+C	exposed        0          -
+C	exposed        0          -
+C	exposed        +          +
+C	exposed        0          +
+C	exposed        0          -
+C	exposed        +          -
+C	exposed        +          -
